@@ -1,4 +1,4 @@
-# Hardware Engineering (819)
+# Hardware Engineering (818)
 
 [← back to index](../README.md)
 
@@ -446,7 +446,6 @@
 | [Evolito](https://evolito.wd3.myworkdayjobs.com/Evolito_Career_Site/job/Bicester/Industrial-Placement-Programme---Software-Engineering_JR100197) | Software Engineering Industrial Placement | Bicester, UK | N/A | 2026-09-11 | 30 | simplify-2026 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114) | Embedded Software Engineer Intern | Bloomington, MN | Summer 2027 | 2026-09-11 | 30 | simplify-2026 |
 | [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/c396dedc-06ec-4a23-8408-0194e360f30e/application?embed=true) | Validation & Verification Test Engineer Intern | SF | Summer 2027 | 2026-09-10 | 31 | simplify-2026 |
-| [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a?ats=pinpointhq) | RF Test Engineer Intern - Summer 2027 | Redondo Beach, CA | Summer 2027 | 2026-09-10 | 31 | simplify-2026 |
 | [Impulse Space](https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7?ats=pinpointhq) | Flight Software Engineer Intern - Summer 2027 | Redondo Beach, CA | Summer 2027 | 2026-09-10 | 31 | simplify-2026 |
 | [Rocket Lab USA](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) | Electrical Engineering Intern | Long Beach, CA | Summer 2027 | 2026-09-10 | 31 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/20131?icims=1) | Software Engineer Intern | Cary, NC | Summer 2027 | 2026-09-10 | 31 | simplify-2026 |
