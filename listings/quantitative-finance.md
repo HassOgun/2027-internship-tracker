@@ -1,4 +1,4 @@
-# Quantitative Finance (205)
+# Quantitative Finance (197)
 
 [← back to index](../README.md)
 
@@ -105,14 +105,6 @@
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11333/job?mobile=true&needsRedirect=false) | Quantitative Strategy Developer Intern | London, UK, Dublin, Ireland | Summer 2027 | 2026-08-21 | 51 | simplify-2026 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4360768009) | Quantitative Developer Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 55 | simplify-2026 |
 | [Xantium](https://job-boards.greenhouse.io/xantium/jobs/4371217009) | Quantitative Researcher Intern | London, UK, NYC | Summer 2027 | 2026-08-17 | 55 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/175428?type=students) | Quantitative Strategist Intern - Investment Banking | London, UK | Summer 2027 | 2026-08-15 | 57 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/175421?type=students) | Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats | London, UK | Summer 2027 | 2026-08-15 | 57 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/175423?type=students) | Quantitative Strategist Associate Intern - Asset and Wealth Management | London, UK | Summer 2027 | 2026-08-15 | 57 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171550?type=students) | Summer Analyst Intern | NYC | Summer 2027 | 2026-08-15 | 57 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171548?type=students) | Quantitative Strats Analyst Intern - Americas - Investment Banking | Dallas, TX | Summer 2027 | 2026-08-15 | 57 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171552?type=students) | Summer Associate Intern | NYC | Summer 2027 | 2026-08-15 | 57 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171566?type=students) | Summer Associate Intern - Multiple Teams | NYC | Summer 2027 | 2026-08-15 | 57 | simplify-2026 |
-| [Goldman Sachs](https://higher.gs.com/roles/171532?type=students) | Quantitative Strategist Intern - Americas | Dallas, TX | Summer 2027 | 2026-08-15 | 57 | simplify-2026 |
 | [Bank of China USA](https://careers-bocusa.icims.com/jobs/3599/job?mobile=true&needsRedirect=false) | Risk Analytics Model Intern - Credit Risk Management Department | NYC | Fall 2026 | 2026-08-14 | 58 | simplify-2026 |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002) | Trading Desk Operations Engineer Intern | London, UK | N/A | 2026-08-14 | 58 | simplify-2026 |
 | [DV Trading](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) | Trading Intern | London, UK | Summer 2027 | 2026-08-12 | 60 | simplify-2026 |
