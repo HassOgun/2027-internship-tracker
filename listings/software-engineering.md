@@ -1,4 +1,4 @@
-# Software Engineering (1349)
+# Software Engineering (1348)
 
 [← back to index](../README.md)
 
@@ -112,7 +112,6 @@
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8245211) | Software Engineer Intern | London, UK | Winter 2027, Spring 2027, Summer 2027 | 2026-10-06 | 6 | simplify-2026 |
 | [StackAdapt](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) | Software Engineer Backend Intern | Remote in Canada | Winter 2027 | 2026-10-06 | 6 | simplify-2026 |
 | [Innovative Defense Technologies](https://idtus.pinpointhq.com/en/postings/77292978-8fb0-4bdd-8c2e-b8e37eacdf46?ats=pinpointhq) | Software Systems Engineer Intern | Mt Laurel Township, NJ, Arlington County, Arlington, VA, San Diego, CA | N/A | 2026-10-06 | 6 | simplify-2026 |
-| [Innovative Defense Technologies](https://idtus.pinpointhq.com/en/postings/79744981-0812-4999-8af2-ce7399f521d3?ats=pinpointhq) | Software Engineer Intern | Arlington County, Arlington, VA | N/A | 2026-10-06 | 6 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005) | Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software | Vancouver, BC, Canada | N/A | 2026-10-06 | 6 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005) | Applied AI Engineer Intern - Silicon Engineering | San Jose, CA | N/A | 2026-10-06 | 6 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005) | Applied AI Intern - Non-Silicon | San Jose, CA | N/A | 2026-10-06 | 6 | simplify-2026 |
