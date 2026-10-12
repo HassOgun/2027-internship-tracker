@@ -3557,7 +3557,7 @@
     "company_name": "Jones Lang LaSalle",
     "id": "f648dee8-f116-470b-a358-a621305e0f9f",
     "title": "AI Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -8172,7 +8172,7 @@
     "company_name": "Omnicom Group",
     "id": "6708f1a7-80a4-417b-8ac6-2ac316b42287",
     "title": "Technology Solutions Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -10550,7 +10550,7 @@
     "company_name": "Jabil",
     "id": "b422fbdd-5320-4c3c-898d-cf986da0640f",
     "title": "AI Transformation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -12295,7 +12295,7 @@
     "company_name": "Innovative Defense Technologies",
     "id": "51fb48b5-add2-48f7-90e2-7a0ca38923ab",
     "title": "Software Systems Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -42358,7 +42358,7 @@
     "company_name": "Keysight Technologies",
     "id": "c6f17ebd-5b92-4f00-94a8-6a402b2bb7e2",
     "title": "Software Engineer Intern - AI Developer Tooling",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -62324,7 +62324,7 @@
     "company_name": "General Dynamics Information Technology",
     "id": "3b8a1e9c-95f0-48a6-9240-24d3f59f6835",
     "title": "Software Development Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -67640,7 +67640,7 @@
     "company_name": "Dow Jones",
     "id": "d651c5ed-673e-43bc-bcb9-bad91ad4d590",
     "title": "Marketing Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -72800,7 +72800,7 @@
     "company_name": "RTX",
     "id": "8dff8685-3a17-4f9c-b1d4-6d01c0258242",
     "title": "Software Engineer Co-op - Spring/Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027",
       "Summer 2027"
@@ -76229,7 +76229,7 @@
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "id": "ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
     "title": "AI & Data Science Intern - Analytic Capabilities",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -76257,7 +76257,7 @@
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "id": "0c28ec70-1138-4464-8cfe-9732f94e0dbd",
     "title": "Engineering/Science Intern - Tailored Autonomous Systems",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -77425,7 +77425,7 @@
     "company_name": "Polar Semiconductor",
     "id": "9bd16ba6-5f88-4345-9093-de6c410b805b",
     "title": "Industrial Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -78163,7 +78163,7 @@
     "company_name": "Polar Semiconductor",
     "id": "a926f904-498b-4c0d-9a9c-e81a111745ce",
     "title": "OT Applications Development Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -79438,7 +79438,7 @@
     "company_name": "Allegion",
     "id": "27148df8-804c-4b4c-a33c-a6fc38d4b9a4",
     "title": "Systems Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -111097,7 +111097,7 @@
     "company_name": "Vermeer",
     "id": "ac961842-1eb4-4c94-856b-85ba0d2f13b2",
     "title": "Test Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -137033,7 +137033,7 @@
     "company_name": "Kodiak Robotics",
     "id": "66c9d102-1210-44e6-a788-44411b1769f7",
     "title": "Simulation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -146398,7 +146398,7 @@
     "company_name": "Philips",
     "id": "6a4501ab-5b1a-44c6-87d4-9c4e68e6f5f8",
     "title": "Data Scientist Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
