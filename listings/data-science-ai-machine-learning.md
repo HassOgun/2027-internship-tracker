@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1492)
+# Data Science, AI & Machine Learning (1491)
 
 [← back to index](../README.md)
 
@@ -609,7 +609,6 @@
 | [Lowe's](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1) | Store Operations Corporate Facilities Intern | Mooresville, NC | Summer 2027 | 2026-09-16 | 27 | simplify-2026 |
 | [City of Virginia Beach](https://wd5.myworkdaysite.com/recruiting/vbgov/City_Of_Virginia_Beach_Careers/job/Municipal-Center-Bldg-21/Virginia-Beach-Fire-Department-GIS-Intern_JR-01061) | GIS Intern - Fire Department | Virginia Beach, VA | Winter 2027 | 2026-09-16 | 27 | simplify-2026 |
 | [ATC](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern-Asset-Management-Summer-2027_R0003301) | Asset Management Intern | De Pere, WI, Cottage Grove, WI, Kingsford, MI, Pewaukee, WI | Summer 2027 | 2026-09-16 | 27 | simplify-2026 |
-| [Vermeer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171) | Data Engineer Intern - IT | Pella, IA | Winter 2026 | 2026-09-16 | 27 | simplify-2026 |
 | [Charter Manufacturing](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Automation---Analytics-Intern--Year-Round-_R08112) | Automation & Analytics Intern | Milwaukee, WI | Winter 2027, Summer 2027, Fall 2027 | 2026-09-16 | 27 | simplify-2026 |
 | [Farm Credit Canada](https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Valuations-_R-1008821) | Data Analyst Student - Valuations | Drummondville, QC, Canada, Montreal, QC, Canada, Winnipeg, MB, Canada, Edmonton, AB, Canada, Regina, SK, Canada, Essex, ON, Canada, Rivière-du-Loup, QC, Canada | N/A | 2026-09-16 | 27 | simplify-2026 |
 | [Farm Credit Canada](https://fccfac.wd3.myworkdayjobs.com/careers-carrieres/job/Regina-Saskatchewan/Student--Data-Analyst--Business-Reporting-_R-1008822-1) | Data Analyst Student - Business Reporting | Regina, SK, Canada | N/A | 2026-09-16 | 27 | simplify-2026 |
