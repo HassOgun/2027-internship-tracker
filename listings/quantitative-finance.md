@@ -1,4 +1,4 @@
-# Quantitative Finance (212)
+# Quantitative Finance (211)
 
 [← back to index](../README.md)
 
@@ -198,7 +198,6 @@
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false) | Quantitative Research Intern | Philadelphia, PA, NYC | Summer 2027 | 2026-06-29 | 106 | simplify-2026 |
 | [Susquehanna International Group (SIG)](https://careers-sig.icims.com/jobs/10822/job?mobile=true&needsRedirect=false) | Quantitative Systematic Trading Intern - PhD | Philadelphia, PA, NYC | Summer 2027 | 2026-06-29 | 106 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8142539002) | Quantitative Research Intern - Quant Research - Undergrad | NYC | Summer 2027 | 2026-06-26 | 109 | simplify-2026 |
-| [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) | Quantitative Research Intern | London, UK | Summer 2026 | 2026-06-13 | 122 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) | Quantitative Developer Intern | Boston, MA | Summer 2027 | 2026-06-10 | 125 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006) | PhD Quantitative Researcher Intern | Boston, MA | Summer 2027 | 2026-06-10 | 125 | simplify-2026 |
 | [Walleye Capital](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006) | Equity Volatility Quant Researcher Intern | Miami, FL | Summer 2027 | 2026-06-10 | 125 | simplify-2026, vanshb03-2026, vanshb03-2027 |
