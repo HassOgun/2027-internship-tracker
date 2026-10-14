@@ -1,4 +1,4 @@
-# Software Engineering (1366)
+# Software Engineering (1365)
 
 [← back to index](../README.md)
 
@@ -8,7 +8,6 @@
 | [Profound Medical](https://profoundmedical.bamboohr.com/careers/353/) | Software Development Co-op | Mississauga, ON, Canada | N/A | 2026-10-14 | 0 | simplify-2026 |
 | [Brain Co.](https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true) | AI Product Engineer Co-op Intern | SF | Winter 2027 | 2026-10-14 | 0 | simplify-2026 |
 | [Groma](https://job-boards.greenhouse.io/groma/jobs/4743496005) | Finance Systems Co-op | Boston, MA | Spring 2027 | 2026-10-14 | 0 | simplify-2026 |
-| [SPS Commerce](https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001352) | Software Engineer Intern | Brampton, ON, Canada | N/A | 2026-10-14 | 0 | simplify-2026 |
 | [Parsons](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299) | Software Engineer Intern | Huntsville, AL | Summer 2027 | 2026-10-14 | 0 | simplify-2026 |
 | [Pebl](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | Software Engineering Intern | Toronto, ON, Canada | N/A | 2026-10-13 | 1 | simplify-2026 |
 | [Eurostar International](https://apply.workable.com/eurostar/j/D69651A000/apply) | Software Developer Intern | London, UK | N/A | 2026-10-13 | 1 | simplify-2026 |

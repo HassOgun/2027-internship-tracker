@@ -1,4 +1,4 @@
-# Hardware Engineering (826)
+# Hardware Engineering (825)
 
 [← back to index](../README.md)
 
@@ -431,7 +431,6 @@
 | [Acron Aviation](https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329/apply) | Electrical Engineer Intern - Multiple Teams | Phoenix, AZ | Summer 2026 | 2026-09-14 | 30 | simplify-2026 |
 | [Magna](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Student--Engineering-ADAS-Features_R00261316) | Student Engineer ADAS Vehicle Integration Intern | Auburn Hills, MI | N/A | 2026-09-14 | 30 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876) | Semiconductor Research & Technology Development Intern | Albany, NY | Summer 2027 | 2026-09-14 | 30 | simplify-2026 |
-| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Engineering-Technician---Electrical-Ground-Support-Equipment_R10250684) | Engineering Technician Intern - Electrical Ground Support Equipment | Chandler, AZ | N/A | 2026-09-14 | 30 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1) | Electrical Engineer Intern - Robotics R&D | Santa Clara, CA | Summer 2027 | 2026-09-14 | 30 | simplify-2026 |
 | [MBDA](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Electronics-Engineer---Undergraduate-Placement-2027_R38678) | Electronics Engineer | Stevenage, UK | N/A | 2026-09-14 | 30 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---PHY-Digital-Design---Automation-Engineer--HBM_JR110641) | PHY Digital Design & Automation Engineer Intern - HBM | Richardson, TX | Winter 2026 | 2026-09-14 | 30 | simplify-2026 |
