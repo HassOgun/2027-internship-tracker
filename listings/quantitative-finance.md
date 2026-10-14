@@ -1,9 +1,16 @@
-# Quantitative Finance (202)
+# Quantitative Finance (208)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---London/Summer-Internship---Supply--Trading---Shipping---UK_RQ117128) | Supply, Trading & Shipping Intern | London, UK | Summer 2027 | 2026-10-14 | 0 | simplify-2026 |
+| [Brookfield](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Analytics-Modelling---Brookfield-Wealth-Solutions_R2053354) | Analytics Modelling Intern | NYC | Summer 2027 | 2026-10-14 | 0 | simplify-2026 |
+| [Athene](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Risk-Co-op_R255217) | Risk Co-op | West Des Moines, IA | Winter 2026 | 2026-10-14 | 0 | simplify-2026 |
+| [LSEG](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Quantitative-Services_R0124311-2) | Quantitative Services Intern | London, UK | Summer 2027 | 2026-10-14 | 0 | simplify-2026 |
+| [LSEG](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268) | Finance Engineer Intern | NYC | Summer 2027 | 2026-10-14 | 0 | simplify-2026 |
+| [LSEG](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Finance-Engineer_R0124269) | Finance Engineer Intern | London, UK | Summer 2027 | 2026-10-14 | 0 | simplify-2026 |
+| [LSEG](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) | Quantitative Services Intern | Boston, MA | Summer 2027 | 2026-10-14 | 0 | simplify-2026 |
 | [Acadian Asset Management](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) | Quantitative Investment Intern | Boston, MA | Summer 2027 | 2026-10-13 | 1 | simplify-2026 |
 | [Jain Global](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-United-Kingdom/Quant-Research-Intern--Summer-2027---London-_JR100620-2) | Quant Research Intern | London, UK | Summer 2027 | 2026-10-13 | 1 | simplify-2026 |
 | [American Century Investments](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759) | Systematic Credit Intern | NYC | Summer 2026 | 2026-10-13 | 1 | simplify-2026 |
@@ -41,7 +48,6 @@
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619) | Systematic Trading Intern - Systematic Trading | London, UK | Summer 2027 | 2026-09-24 | 20 | simplify-2026 |
 | [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708) | Machine Learning Research Associate Intern | Greenwich, CT | Summer 2027 | 2026-09-23 | 21 | simplify-2026 |
 | [Neuberger Berman](https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643) | Quantitative Analyst Intern | NYC | Summer 2027 | 2026-09-23 | 21 | simplify-2026 |
-| [Jump Trading](https://boards.greenhouse.io/embed/job_app?token=8209424) | Campus Quantitative Researcher Intern - Trading Team PhD/Postdoc | NYC | N/A | 2026-09-22 | 22 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010) | Quantitative Research Summer Analyst Internship - Asset Management | London, UK | Summer 2027 | 2026-09-22 | 22 | simplify-2026 |
 | [Viking Global](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | Data Science Intern | NYC | Summer 2027 | 2026-09-21 | 23 | simplify-2026 |
 | [Lazard](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | Quantitative Research Intern | NYC | Summer 2027 | 2026-09-21 | 23 | simplify-2026 |
@@ -96,6 +102,7 @@
 | [Deutsche Bank](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA) | Quantitative FIC Intern - Quantitative Trading | London, UK | Summer 2027 | 2026-09-01 | 43 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780) | Quantitative Research Markets Associate Intern - Quantitative Trading & Research Markets | London, UK | Winter 2026 | 2026-09-01 | 43 | simplify-2026 |
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Quant-Developer-Intern_R12185) | Quant Developer Intern | NYC | Winter 2026 | 2026-09-01 | 43 | simplify-2026 |
+| [Citi](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Off-Cycle-Placement---London--UK--2027_26987134) | Quantitative Analysis - Off Cycle Placement | London, UK | N/A | 2026-09-01 | 43 | simplify-2026 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) | Quantitative Research Analyst Intern - Client Solutions & Analytics | London, UK | Summer 2027 | 2026-09-01 | 43 | simplify-2026 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Masters-Quant-Research-Analyst--Client-Solutions---Analytics--US_R106816) | Quant Research Analyst Intern - Client Solutions & Analytics | Newport Beach, CA | Summer 2027 | 2026-09-01 | 43 | simplify-2026 |
 | [PIMCO](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) | Quantitative Portfolio Management Intern | Newport Beach, CA | Summer 2027 | 2026-09-01 | 43 | simplify-2026 |
@@ -140,7 +147,6 @@
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624424002) | Quantitative Researcher Internship | NYC | Summer 2027 | 2026-07-22 | 84 | simplify-2026 |
 | [Virtu Financial](https://job-boards.greenhouse.io/virtu/jobs/8624408002) | Quantitative Trading Intern | Austin, TX, Chicago, IL, NYC | Summer 2027 | 2026-07-21 | 85 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005) | Quant Trading Intern | London, UK | Summer 2027 | 2026-07-21 | 85 | simplify-2026 |
-| [AQR Capital Management](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | Trading Analyst Intern | Greenwich, CT | Summer 2027 | 2026-07-21 | 85 | simplify-2026 |
 | [Chicago Trading Company](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005) | Quant Trading Intern | Chicago, IL | Summer 2027 | 2026-07-20 | 86 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Optiver](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) | Trading Automation and Operations Intern | Chicago, IL | Summer 2027 | 2026-07-16 | 90 | simplify-2026 |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/) | Quantitative Research Analyst Intern | London, UK | Summer 2026 | 2026-07-15 | 91 | simplify-2026 |
