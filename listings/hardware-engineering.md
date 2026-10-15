@@ -1,4 +1,4 @@
-# Hardware Engineering (842)
+# Hardware Engineering (843)
 
 [← back to index](../README.md)
 
@@ -8,6 +8,8 @@
 | [PA Consulting](https://jobs.smartrecruiters.com/PAConsulting/744000155685700) | Software and AI Systems Intern | Melbourn, Royston, UK | Summer 2027 | 2026-10-15 | 0 | simplify-2026 |
 | [Moment Energy](https://job-boards.greenhouse.io/momentenergy/jobs/4452550009) | R&D Technician Co-op | Surrey, BC, Canada | N/A | 2026-10-15 | 0 | simplify-2026 |
 | [Atom Computing](https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc/apply) | Research Intern | Cambridge, MA, Berkeley, CA | Summer 2026 | 2026-10-15 | 0 | simplify-2026 |
+| [Motorola Solutions](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electronics-Design-Co-Op_R69811) | Electronics Design Co-op | Vancouver, BC, Canada | N/A | 2026-10-15 | 0 | simplify-2026 |
+| [Draper](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036) | Integrated Circuit Intern | Cambridge, MA | N/A | 2026-10-15 | 0 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Mason-Associate,-Software-Engineer-OH-45040/1440282700/?ats=successfactors) | Associate Software Engineer Intern | Mason, OH | N/A | 2026-10-14 | 1 | simplify-2026 |
 | [Figure](https://job-boards.greenhouse.io/figureai/jobs/4722086006) | Embedded Software Engineer Intern - Platform | San Jose, CA | N/A | 2026-10-14 | 1 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/29216393121298039) | Hardware Engineer Intern - Camera & Sensing Architecture | Redmond, WA, Sunnyvale, CA | N/A | 2026-10-14 | 1 | simplify-2026 |
@@ -135,7 +137,6 @@
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724488005) | System Validation Engineer Intern | San Jose, CA | N/A | 2026-10-06 | 9 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729021005) | System Validation Engineer Intern | Vancouver, BC, Canada | N/A | 2026-10-06 | 9 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728560005) | Hardware Design Engineer Intern | San Jose, CA | N/A | 2026-10-06 | 9 | simplify-2026 |
-| [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729020005) | Hardware Lab Engineer Intern | San Jose, CA | N/A | 2026-10-06 | 9 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731410005) | Product Engineering Intern | San Jose, CA | N/A | 2026-10-06 | 9 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728387005) | Design-for-Test Engineer Intern | Toronto, ON, Canada, San Jose, CA | N/A | 2026-10-06 | 9 | simplify-2026 |
 | [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731407005) | Digital Design Intern | San Jose, CA | N/A | 2026-10-06 | 9 | simplify-2026 |
@@ -325,6 +326,7 @@
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Embedded-Software-Engineer_R266615) | Embedded Software Engineer Intern | Toronto, ON, Canada, Vancouver, BC, Canada | N/A | 2026-09-23 | 22 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Analog-Design-Engineering-Intern_R266614) | Analog Design Engineering Intern | Toronto, ON, Canada | Winter 2026 | 2026-09-23 | 22 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Halethorpe-Maryland-United-States-of-America/Heart-Recovery-Software-R-D-Co-Op_R-101393) | Software Engineer Co-op | Halethorpe, MD | Spring 2027 | 2026-09-23 | 22 | simplify-2026 |
+| [Saab](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Electrical-Engineering-Co-Op--Summer-2027-_R-03293-1) | Electrical Engineering Co-op | East Syracuse, NY | Summer 2027 | 2026-09-23 | 22 | simplify-2026 |
 | [Hitachi Energy](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Electrical-Component-Engineering-Intern--Fall-2026-or-Winter-2027-_R0144279) | Electrical Component Engineering Intern | Toronto, ON, Canada | Fall 2026, Winter 2027 | 2026-09-23 | 22 | simplify-2026 |
 | [Eaton](https://eaton.eightfold.ai/careers/job/687238597770) | Electrical Engineer Intern/Co-op - Engineering | Peachtree City, GA | Summer 2027 | 2026-09-22 | 23 | simplify-2026 |
 | [Two Sigma](https://twosigma.avature.net/careers/JobDetail/14289) | Hardware Engineering Intern | NYC | Summer 2027 | 2026-09-22 | 23 | simplify-2026 |
@@ -396,6 +398,7 @@
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply) | Electrical Engineer Intern - FPGA | Westminster, CO | Summer 2027 | 2026-09-16 | 29 | simplify-2026 |
 | [CesiumAstro](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) | Embedded Software Engineer Intern | Westminster, CO | Summer 2027 | 2026-09-16 | 29 | simplify-2026 |
 | [Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012) | Embedded Software Test Engineering Co-op | Acton, MA | Winter 2027 | 2026-09-16 | 29 | simplify-2026 |
+| [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283) | Electrical Engineer Intern | Tucson, AZ | Winter 2026 | 2026-09-16 | 29 | simplify-2026 |
 | [Ensign-Bickford Aerospace & Defense Company](https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694) | Development Engineer Intern | Simsbury, CT | Summer 2027 | 2026-09-16 | 29 | simplify-2026 |
 | [Ensign-Bickford Industries](https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1) | Development Engineer Intern | Simsbury, CT | Summer 2027 | 2026-09-16 | 29 | simplify-2026 |
 | [Analog Devices](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146) | Test Engineer Intern | Wilmington, MA, Durham, NC | Winter 2026 | 2026-09-16 | 29 | simplify-2026 |
@@ -629,8 +632,6 @@
 | [K2 Space](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) | Software Engineer Intern - Summer 2027 | LA | Summer 2027 | 2026-09-01 | 44 | simplify-2026 |
 | [K2 Space](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) | Electrical Engineer Intern - Summer 2027 | LA | Summer 2027 | 2026-09-01 | 44 | simplify-2026 |
 | [Freeform](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003) | Electrical Engineer Intern | LA | Spring 2027 | 2026-09-01 | 44 | simplify-2026 |
-| [Eaton](https://eaton.eightfold.ai/careers/job/687238596754) | Firmware Engineer Intern/Co-op - Research & Development Engineering | Moon Twp, PA | Summer 2027 | 2026-09-01 | 44 | simplify-2026 |
-| [Eaton](https://eaton.eightfold.ai/careers/job/687238596674) | Electrical Engineer Intern/Co-op - Research & Development Engineering | Moon Twp, PA | Summer 2027 | 2026-09-01 | 44 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009762) | Electrical Design Engineer Intern | Shakopee, MN, Eden Prairie, MN | Winter 2026 | 2026-09-01 | 44 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009673) | Software Engineer Intern | Shakopee, MN, Eden Prairie, MN, Chanhassen, MN | Winter 2026 | 2026-09-01 | 44 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009500) | Software Engineer Intern | Houston, TX | Winter 2026 | 2026-09-01 | 44 | simplify-2026 |
