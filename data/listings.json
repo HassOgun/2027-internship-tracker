@@ -13656,7 +13656,7 @@
     "company_name": "Cox",
     "id": "dfc7a1cd-bf8f-4cd5-8d69-b87cf833ec72",
     "title": "Data Scientist Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -35390,7 +35390,7 @@
     "company_name": "Intel",
     "id": "8d699dd6-89fb-4c17-8319-47d01a7f9bf3",
     "title": "Research Scientist Intern - Graphics - ML",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -36472,7 +36472,7 @@
     "company_name": "DPD UK",
     "id": "ccabf3cd-13fe-47da-93e7-f4450eeaff05",
     "title": "International Data Analyst Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -46764,7 +46764,7 @@
     "company_name": "Brunswick",
     "id": "c5f567d9-027e-4207-b6d3-80f5a9566861",
     "title": "Data Analytics Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -51265,7 +51265,7 @@
     "company_name": "GSK",
     "id": "948e552e-e9b9-4849-afe3-c06c0e5f216e",
     "title": "Data & Analytics - Multiple Roles",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -64856,7 +64856,7 @@
     "company_name": "Tesla",
     "id": "c77797e7-41f1-4224-9711-d6f08c7a8176",
     "title": "Service Program & Project Management Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -75240,7 +75240,7 @@
     "company_name": "Marvell",
     "id": "adb1e815-47fe-4268-911a-3c542a8a5b4e",
     "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -85807,7 +85807,7 @@
     "company_name": "Marvell",
     "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
     "title": "Ph.D. Intern - AI/ML & Design Automation",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -409463,33 +409463,6 @@
       "Charlottesville, VA"
     ],
     "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Product",
-    "company_name": "GE Vernova",
-    "id": "7646cd7b-86dd-449f-a291-76bf6dab8f64",
-    "title": "GE Vernova Competitiveness Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771334603,
-    "date_posted": 1771334603,
-    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Competitiveness-Intern--Heavy-Duty-Gas-Turbine-Product-Management---Summer-2026_R5018855-1",
-    "locations": [
-      "Greenville, SC",
-      "Atlanta, GA"
-    ],
-    "company_url": "https://simplify.jobs/c/GE-Vernova",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
