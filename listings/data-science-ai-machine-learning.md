@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1531)
+# Data Science, AI & Machine Learning (1530)
 
 [← back to index](../README.md)
 
@@ -395,7 +395,6 @@
 | [Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1) | Data Analytics & Digital Tools Co-op | Rensselaer, NY | Spring 2026, Summer 2026, Fall 2026 | 2026-10-02 | 14 | simplify-2026 |
 | [Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1) | Data Science & Digital Innovation Co-op - Preclinical Manufacturing & Research IT | Tarrytown, NY | Spring 2027, Summer 2027 | 2026-10-02 | 14 | simplify-2026 |
 | [Great American Insurance Company](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650) | Enterprise Analytics Intern | Cincinnati, OH | Summer 2027 | 2026-10-02 | 14 | simplify-2026 |
-| [Gas South](https://job-boards.greenhouse.io/gassouth/jobs/8247655) | Junior Analyst Co-op | Atlanta, GA | Spring 2027, Fall 2027, Summer 2028 | 2026-10-01 | 15 | simplify-2026 |
 | [Datacor](https://job-boards.greenhouse.io/datacor/jobs/5242412007) | Data Science Intern - Summer 2027 - Program | Remote in USA | Summer 2027 | 2026-10-01 | 15 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/orDQAfwe?nl=1&nl=1&fr=false) | EAM Value Realization Emerging Talent Intern | NYC | Spring 2027 | 2026-10-01 | 15 | simplify-2026 |
 | [SeatGeek](https://seatgeek.com/jobs/8247554?gh_jid=8247554) | Data Analyst Intern | NYC | Summer 2027 | 2026-10-01 | 15 | simplify-2026 |
