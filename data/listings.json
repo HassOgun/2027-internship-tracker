@@ -1,6 +1,30 @@
 [
   {
     "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Pennsylvania State University",
+    "id": "d689b066-beba-40d1-927a-eaa0376732f4",
+    "title": "Engineering Support Intern",
+    "active": true,
+    "terms": [
+      "Summer 2026"
+    ],
+    "date_updated": 1792146077,
+    "date_posted": 1783166322,
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Technologist-Intern_REQ_0000077694-1",
+    "locations": [
+      "State College, PA"
+    ],
+    "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Field AI",
     "id": "fd62318c-78e9-47ad-a66a-f7a1501c5a7f",
@@ -684,7 +708,7 @@
     "company_name": "Leonardo",
     "id": "8a5484b7-8d04-462f-b71e-1c147f69ce93",
     "title": "Electronics Engineer Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -19308,7 +19332,7 @@
     "company_name": "RTX",
     "id": "ba84059f-11a6-4121-a01d-1229ff58c1c9",
     "title": "Systems Engineering Test Equipment Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -29149,7 +29173,7 @@
     "company_name": "CoStar Group",
     "id": "fad2e0d4-274c-40b8-b96d-c769ef5ee9da",
     "title": "Associate Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -29650,7 +29674,7 @@
     "company_name": "University of Maryland - College Park",
     "id": "66ef2704-3037-40ab-ac97-ad086c4309af",
     "title": "AI Research Assistant Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -51145,7 +51169,7 @@
     "company_name": "KLA",
     "id": "6e2407ba-f462-4baa-ac0f-a0c48ac50816",
     "title": "Algorithm Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -53971,7 +53995,7 @@
     "company_name": "Lowe's",
     "id": "8a8f9aee-a750-4b17-a552-e19c07344085",
     "title": "Store Operations Corporate Facilities Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -65756,7 +65780,7 @@
     "company_name": "CoStar Group",
     "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
     "title": "Technology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -73521,7 +73545,7 @@
     "company_name": "Autostore",
     "id": "d81bc1c9-aee7-4814-8ab8-598008962e65",
     "title": "Electronics Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -75126,7 +75150,7 @@
     "company_name": "Xcel Energy",
     "id": "c803678b-ebd2-4b0b-a619-88a5e54aa252",
     "title": "AI and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -83945,7 +83969,7 @@
     "company_name": "Gilead Sciences",
     "id": "8938f71a-17d2-4a94-9a97-7a4c3d974bd2",
     "title": "Kite Development Intern - Tech Ops - Process Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -97308,7 +97332,7 @@
     "company_name": "RTX",
     "id": "c083713f-2297-45fc-a2d7-2bc2fc492057",
     "title": "FPGA Electrical Design Engineer Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -100345,7 +100369,7 @@
     "company_name": "Gilead Sciences",
     "id": "2fc7cbfa-1b76-4300-b64c-e1f220b12c3b",
     "title": "Development Intern - Governance, Risk & Analysis",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -100483,7 +100507,7 @@
     "company_name": "Kite Pharma",
     "id": "d86e44b9-4c31-4fce-9921-62b882b53084",
     "title": "Kite Development Intern - Tech Ops - Process Development",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -100871,7 +100895,7 @@
     "company_name": "Gilead Sciences",
     "id": "44e2cea6-fb38-4201-b02a-99caa42eee10",
     "title": "CFO Intern - IT - Commercial Data & AICOE",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -103039,7 +103063,7 @@
     "company_name": "Xcel Energy",
     "id": "f5a5f110-364b-4641-acea-76c3e5e6e58b",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -103172,7 +103196,7 @@
     "company_name": "Xcel Energy",
     "id": "2ec23968-d5b0-4157-a73c-01469fb31a79",
     "title": "Energy Supply Renewable Intern - MN",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -109685,7 +109709,7 @@
     "company_name": "Xcel Energy",
     "id": "d5fbb53e-5766-47f2-b39c-157d7184a35a",
     "title": "Corporate Impact Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -121552,7 +121576,7 @@
     "company_name": "Xcel Energy",
     "id": "3ae9bc6e-d495-495e-8e13-65d584c347f6",
     "title": "Geospatial Data Validation Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -184377,7 +184401,7 @@
     "company_name": "Novanta",
     "id": "69d82e73-0d15-4a79-8bd0-592041531569",
     "title": "Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -234442,6 +234466,32 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Keysight Technologies",
+    "id": "d2e6b4e9-d706-4c25-9b2c-c8d4a9eda75b",
+    "title": "Software Development Intern",
+    "active": false,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1780928496,
+    "date_posted": 1780927438,
+    "url": "https://jobs.keysight.com/jobs/53081?lang=en-us&icims=1",
+    "locations": [
+      "Fleet, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
     "_sources": [
       "simplify-2026"
     ]
@@ -408529,108 +408579,6 @@
     "sponsorship": "Other",
     "degrees": [
       "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Zoom",
-    "id": "ebc13604-3a1d-4ff4-b4f9-6419beb75f20",
-    "title": "Research Intern - AI Incubation",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771418212,
-    "date_posted": 1771418212,
-    "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Intern---AI-Incubation_R18549-1",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "company_url": "https://simplify.jobs/c/Zoom",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Deloitte",
-    "id": "83d433ea-9f42-430e-ace7-8fda96b64395",
-    "title": "Hiring Our Heroes 12-Week Fellowship - AI & Engineering - Government Public Services",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1771411906,
-    "date_posted": 1771411906,
-    "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Hiring-our-Heroes-12-week-Fellowship-AI-Engineering-Government-Public-Services/324492",
-    "locations": [
-      "Austin, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Deloitte",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Amazon",
-    "id": "103e964c-f863-44c2-b559-b90efef2fc87",
-    "title": "Software Development Engineer Apprentice - Month Fixed Term Contract",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771411137,
-    "date_posted": 1771411137,
-    "url": "https://amazon.jobs/en/jobs/3174943/software-development-engineer-apprentice-42-month-fixed-term-contract",
-    "locations": [
-      "Swansea, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Keysight Technologies",
-    "id": "63d02fbc-a3f0-4da7-948f-7b9c97209712",
-    "title": "Software Development Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771410853,
-    "date_posted": 1771410853,
-    "url": "https://jobs.keysight.com/jobs/51347?lang=en-us&icims=1",
-    "locations": [
-      "Fleet, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
     ],
     "_sources": [
       "simplify-2026"
