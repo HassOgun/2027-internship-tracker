@@ -8,18 +8,18 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Microsoft** | Research Intern - Efficient AI Software Systems | Redmond, WA | N/A | 2026-10-16 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557041731) |
-| 2 | **Apple** | SoC Machine Learning Software Engineer Intern | Sunnyvale, CA | N/A | 2026-10-16 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200689488) |
-| 3 | **Waymo** | Semantics Intern | Mountain View, CA | Summer 2027 | 2026-10-15 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8244128) |
-| 4 | **Meta** | Quality and Reliability Engineer Intern | Sunnyvale, CA | N/A | 2026-10-15 (1d ago) | [Apply](https://www.metacareers.com/jobs/1624891432439039) |
-| 5 | **NVIDIA** | Product Management MBA Intern | Santa Clara, CA | Winter 2027, Summer 2028 | 2026-10-15 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
-| 6 | **Palantir** | Meritocracy Fellow | NYC | Fall 2027 | 2026-10-15 (1d ago) | [Apply](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply) |
-| 7 | **Salesforce** | Product Management Specialist Intern | SF, NYC | Summer 2026 | 2026-10-14 (2d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Product-Management-Specialist_JR363443) |
-| 8 | **Anduril** | Research Engineer Co-op | Santa Ana, CA | Winter 2027 | 2026-10-14 (2d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) |
-| 9 | **Amazon** | Hardware Development Engineer Intern | North Reading, MA, Hawthorne, CA, Sunnyvale, CA | Winter 2027, Summer 2027, Fall 2027 | 2026-10-14 (2d ago) | [Apply](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) |
+| 1 | **Amazon** | Software Developer Intern | London, UK, Edinburgh, UK, Bristol, UK, Cambridge, UK | Summer 2027, Winter 2027, Spring 2027, Fall 2027 | 2026-10-16 (0d ago) | [Apply](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) |
+| 2 | **Microsoft** | Research Intern - Efficient AI Software Systems | Redmond, WA | N/A | 2026-10-16 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557041731) |
+| 3 | **Apple** | SoC Machine Learning Software Engineer Intern | Sunnyvale, CA | N/A | 2026-10-16 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200689488) |
+| 4 | **Waymo** | Semantics Intern | Mountain View, CA | Summer 2027 | 2026-10-15 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8244128) |
+| 5 | **Meta** | Quality and Reliability Engineer Intern | Sunnyvale, CA | N/A | 2026-10-15 (1d ago) | [Apply](https://www.metacareers.com/jobs/1624891432439039) |
+| 6 | **NVIDIA** | Product Management MBA Intern | Santa Clara, CA | Winter 2027, Summer 2028 | 2026-10-15 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
+| 7 | **Palantir** | Meritocracy Fellow | NYC | Fall 2027 | 2026-10-15 (1d ago) | [Apply](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply) |
+| 8 | **Salesforce** | Product Management Specialist Intern | SF, NYC | Summer 2026 | 2026-10-14 (2d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Product-Management-Specialist_JR363443) |
+| 9 | **Anduril** | Research Engineer Co-op | Santa Ana, CA | Winter 2027 | 2026-10-14 (2d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) |
 | 10 | **Figma** | PhD Intern - Software Engineer - Graphics | SF, NYC | Summer 2027 | 2026-10-13 (3d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004) |
 | 11 | **Netflix** | Software Engineer Intern | LA, Los Gatos, CA | Summer 2027 | 2026-10-13 (3d ago) | [Apply](https://explore.jobs.netflix.net/careers/job/790318904468) |
-| 12 | **TikTok** | Software Engineer Intern - Recommendation Performance Efficiency | San Jose, CA | Summer 2027 | 2026-10-16 (0d ago) | [Apply](https://lifeattiktok.com/search/7673636206961641781) |
+| 12 | **TikTok** | Data Analysis & Insights Project Intern | London, UK | N/A | 2026-10-16 (0d ago) | [Apply](https://lifeattiktok.com/search/7696491615578589493) |
 | 13 | **Rivian** | Software Engineer Intern Co-op - Machine Learning Research - Perception | Palo Alto, CA | Spring 2027 | 2026-10-15 (1d ago) | [Apply](https://careers.rivian.com/jobs/33801?icims=1) |
 | 14 | **Deloitte** | Audit & Assurance Intern - Valuation & Analytics | Atlanta, GA | Winter 2027 | 2026-10-15 (1d ago) | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853) |
 | 15 | **Boeing** | Data Science Intern | Vancouver, BC, Canada, Richmond, BC, Canada | Winter 2027 | 2026-10-15 (1d ago) | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (44d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-16 13:34 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-16 17:06 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
