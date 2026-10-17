@@ -1,4 +1,4 @@
-# Product Management (222)
+# Product Management (221)
 
 [← back to index](../README.md)
 
@@ -121,7 +121,6 @@
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | Winter 2027, Summer 2027 | 2026-09-09 | 38 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305) | Summer Associate Internship - Technical Product Analyst | Vienna, VA | Summer 2027 | 2026-09-09 | 38 | simplify-2026 |
 | [Coinbase](https://boards.greenhouse.io/embed/job_app?token=8168322) | Associate Product Manager Intern - Multiple Teams | SF | Summer 2027 | 2026-09-09 | 38 | simplify-2026 |
-| [Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1) | Residential Energy Product Strategy Intern | Denver, CO | Summer 2027 | 2026-09-09 | 38 | simplify-2026 |
 | [RF-SMART](https://job-boards.greenhouse.io/rfsmart/jobs/5409030008) | Product Strategy Intern | Jacksonville, FL | Summer 2027 | 2026-09-08 | 39 | simplify-2026 |
 | [Hormel Foods](https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35735) | R&D Product Development Intern - Campus Recruiting | Northbrook, IL | Summer 2027 | 2026-09-08 | 39 | simplify-2026 |
 | [ID.me](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003) | Product Intern | Mountain View, CA | Summer 2027 | 2026-09-08 | 39 | simplify-2026 |
