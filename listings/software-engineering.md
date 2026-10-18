@@ -1,4 +1,4 @@
-# Software Engineering (1373)
+# Software Engineering (1372)
 
 [← back to index](../README.md)
 
@@ -165,7 +165,6 @@
 | [SoloPulse](https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef/apply) | Software Engineer Intern Co-op | Peachtree Corners, GA | Spring 2027 | 2026-10-08 | 10 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false) | Software/Systems Engineering Intern | Middletown, RI | Summer 2027 | 2026-10-08 | 10 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75159/job?mobile=true&needsRedirect=false) | Software Engineer Intern | Fort Wayne, IN | N/A | 2026-10-08 | 10 | simplify-2026 |
-| [DocuSign](https://careers.docusign.com/jobs/30510?icims=1) | Software Engineer Intern - Observability - Platform | Seattle, WA | N/A | 2026-10-08 | 10 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54640?icims=1) | R&D Software Engineer Intern | Calabasas, CA | N/A | 2026-10-08 | 10 | simplify-2026 |
 | [Viget](https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply) | Software Developer Intern | Boulder, CO | Summer 2027 | 2026-10-08 | 10 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/286127) | Software Integration Engineer Intern - Service Tooling | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-08 | 10 | simplify-2026 |
