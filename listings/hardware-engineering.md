@@ -1,10 +1,11 @@
-# Hardware Engineering (862)
+# Hardware Engineering (863)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Tesla](https://www.tesla.com/careers/search/job/287024) | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | Spring 2027 | 2026-10-18 | 0 | simplify-2026 |
+| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539) | Electrical Engineer 1 Intern | Chandler, AZ | N/A | 2026-10-18 | 0 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Industrial-Placement-Electronics_R0034212) | Electronics Engineer Intern | Bristol, UK | N/A | 2026-10-18 | 0 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207) | Test Systems Engineer Intern | Edinburgh, UK | Summer 2027 | 2026-10-18 | 0 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Firmware-Engineer_R0032906) | Firmware Engineer Intern | Luton, UK | N/A | 2026-10-18 | 0 | simplify-2026 |

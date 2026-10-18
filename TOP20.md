@@ -19,10 +19,10 @@ Ranked by freshness + company tier + role category.
 | 9 | **Waymo** | Semantics Intern | Mountain View, CA | Summer 2027 | 2026-10-15 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8244128) |
 | 10 | **NVIDIA** | Product Management MBA Intern | Santa Clara, CA | Winter 2027, Summer 2028 | 2026-10-15 (3d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
 | 11 | **Palantir** | Meritocracy Fellow | NYC | Fall 2027 | 2026-10-15 (3d ago) | [Apply](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply) |
-| 12 | **Google** | Forward Deployed Engineering Intern | Sunnyvale, CA |  | 2026-10-12 (6d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) |
-| 13 | **TikTok** | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 (1d ago) | [Apply](https://lifeattiktok.com/search/7697105572165519621) |
-| 14 | **Anduril** | Research Engineer Co-op | Santa Ana, CA | Winter 2027 | 2026-10-14 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) |
-| 15 | **Figma** | PhD Intern - Software Engineer - Graphics | SF, NYC | Summer 2027 | 2026-10-13 (5d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004) |
+| 12 | **Northrop Grumman** | Electrical Engineer 1 Intern | Chandler, AZ | N/A | 2026-10-18 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539) |
+| 13 | **Google** | Forward Deployed Engineering Intern | Sunnyvale, CA |  | 2026-10-12 (6d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) |
+| 14 | **TikTok** | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 (1d ago) | [Apply](https://lifeattiktok.com/search/7697105572165519621) |
+| 15 | **Anduril** | Research Engineer Co-op | Santa Ana, CA | Winter 2027 | 2026-10-14 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (46d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-18 19:17 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-18 22:57 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

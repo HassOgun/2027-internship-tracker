@@ -1,4 +1,4 @@
-# Quantitative Finance (204)
+# Quantitative Finance (205)
 
 [← back to index](../README.md)
 
@@ -75,6 +75,7 @@
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) | Quantitative Masters Intern - Technology - Analytics & Modeling | NYC | Summer 2027 | 2026-09-15 | 33 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) | Quantitative Master’s Internship - Technology - Analytics & Modeling | SF | Summer 2027 | 2026-09-15 | 33 | simplify-2026 |
 | [BlackRock](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465) | Quantitative Master's Intern - Investments - Quantitative Investing | London, UK | Summer 2027 | 2026-09-15 | 33 | simplify-2026 |
+| [ExodusPoint](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) | Quantitative Intern - Credit | Wynnewood, PA | Summer 2026 | 2026-09-14 | 34 | simplify-2026 |
 | [Brevan Howard](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602) | Quantitative Analyst Intern - AI | NYC | Summer 2027 | 2026-09-14 | 34 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---New-York---New-York/Data-Strategist-Programme_RQ115837) | Data Strategist Intern - Global Data Strategists Team | NYC | N/A | 2026-09-14 | 34 | simplify-2026 |
 | [Energy Transfer Partners](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) | Commodity Trading Analyst Intern | Overland Park, KS | Summer 2027 | 2026-09-12 | 36 | simplify-2026 |
