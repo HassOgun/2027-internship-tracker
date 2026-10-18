@@ -1,9 +1,10 @@
-# Software Engineering (1374)
+# Software Engineering (1375)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Industrial-Placement-Software-Engineer_R0033876) | Software Engineer Intern | Newcastle upon Tyne, UK | N/A | 2026-10-18 | 0 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282) | Software Engineer Placement Intern | Basildon, UK | Summer 2027 | 2026-10-18 | 0 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205) | Test Software Engineer Intern | Edinburgh, UK | N/A | 2026-10-18 | 0 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102) | Software Engineer Apprentice | Luton, UK | N/A | 2026-10-18 | 0 | simplify-2026 |
@@ -257,7 +258,6 @@
 | [Midland States Bank](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461) | AI Solutions Engineer Intern | Rockford, IL, St. Louis, MO, Effingham, IL | Summer 2027 | 2026-10-05 | 13 | simplify-2026 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085) | Software Development Intern | Oklahoma City, OK | Summer 2027 | 2026-10-05 | 13 | simplify-2026 |
 | [Motorola](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313) | Android Applications Developer Intern | Chicago, IL | Summer 2027 | 2026-10-05 | 13 | simplify-2026 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) | Software Engineer Intern | Santa Clara, CA | Summer 2027 | 2026-10-05 | 13 | simplify-2026 |
 | [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865) | Software Engineer Apprentice | Templecombe, UK | Fall 2027 | 2026-10-05 | 13 | simplify-2026 |
 | [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863) | Software Engineering Apprentice | Cheadle, UK | Summer 2027 | 2026-10-05 | 13 | simplify-2026 |
 | [Airbus](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-and-Technology-Solutions-Degree-Engineering-Apprenticeship_JR10430012) | Digital and Technology Solutions Degree Engineer Apprentice | Bristol, UK | Fall 2027 | 2026-10-05 | 13 | simplify-2026 |
@@ -446,7 +446,6 @@
 | [KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) | Software Engineering Intern - C++ - Unix | Milpitas, CA | Winter 2026 | 2026-09-22 | 26 | simplify-2026 |
 | [Allegion](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1) | Digital Manufacturing Intern | Colorado Springs, CO | Summer 2026 | 2026-09-22 | 26 | simplify-2026 |
 | [The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429) | Software Tools and Assurance Intern - Information Systems and Cyber Division | El Segundo, CA | Summer 2027 | 2026-09-22 | 26 | simplify-2026 |
-| [Royal Bank of Canada](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1) | Software Development Intern - Wealth Management Technology | Minneapolis, MN | Summer 2027 | 2026-09-22 | 26 | simplify-2026 |
 | [EMC Insurance](https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern---Software-Engineering_R6557) | Software Engineer Intern | Iowa | Winter 2026 | 2026-09-22 | 26 | simplify-2026 |
 | [Charter Manufacturing](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129) | Digital Integration Intern | Mequon, WI | Summer 2027 | 2026-09-22 | 26 | simplify-2026 |
 | [American Family Insurance Group](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Web-Develper-Intern_R39373) | Web Developer Intern | Madison, WI | Winter 2026 | 2026-09-22 | 26 | simplify-2026 |
@@ -1076,6 +1075,8 @@
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | Software Engineer Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-08-17 | 62 | simplify-2026 |
 | [Dee Zee](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368) | Software Development Intern | Des Moines, IA | Summer 2027 | 2026-08-17 | 62 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) | AI and Software Engineer Intern - Automotive MPUs | Glasgow, UK | Summer 2026 | 2026-08-17 | 62 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/170644?type=students) | Summer Analyst Intern - Engineering | London, UK | Summer 2027 | 2026-08-15 | 64 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/177808?type=students) | Summer Analyst Intern - Engineering | Seattle, WA | Summer 2027 | 2026-08-15 | 64 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-15 | 64 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | Software Engineer Intern - Summer 2027 | SF, NYC | Summer 2027 | 2026-08-15 | 64 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | 2026-08-15 | 64 | simplify-2026 |

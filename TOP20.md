@@ -8,21 +8,21 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Salesforce** | Solution Engineer Intern | New York, NY |  | 2026-10-15 (3d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) |
-| 2 | **Susquehanna International Group** | Business Analytics AI Co-op | Remote (US) |  | 2026-10-15 (3d ago) | [Apply](https://careers-sig.icims.com/jobs/11675/business-analytics-ai-co-op-with-drexel-university/job) |
-| 3 | **Microsoft** | Research Intern | Redmond, WA, Mountain View, CA | N/A | 2026-10-16 (2d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557041730) |
-| 4 | **Apple** | Software Engineer Intern - Apple Services Engineering | London, UK | N/A | 2026-10-16 (2d ago) | [Apply](https://jobs.apple.com/en-us/details/200689473) |
-| 5 | **Meta** | Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science | Redmond, WA | N/A | 2026-10-16 (2d ago) | [Apply](https://www.metacareers.com/jobs/1141752241867684) |
-| 6 | **DoorDash** | Electrical Engineer Intern - Labs | Oakland, CA | Summer 2027 | 2026-10-16 (2d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
-| 7 | **Amazon** | Software Developer Intern | London, UK, Edinburgh, UK, Bristol, UK, Cambridge, UK | Summer 2027, Winter 2027, Spring 2027, Fall 2027 | 2026-10-16 (2d ago) | [Apply](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) |
-| 8 | **Waymo** | Semantics Intern | Mountain View, CA | Summer 2027 | 2026-10-15 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8244128) |
-| 9 | **NVIDIA** | Product Management MBA Intern | Santa Clara, CA | Winter 2027, Summer 2028 | 2026-10-15 (3d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
-| 10 | **Palantir** | Meritocracy Fellow | NYC | Fall 2027 | 2026-10-15 (3d ago) | [Apply](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply) |
-| 11 | **Google** | Forward Deployed Engineering Intern | Sunnyvale, CA |  | 2026-10-12 (6d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) |
-| 12 | **TikTok** | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 (1d ago) | [Apply](https://lifeattiktok.com/search/7697105572165519621) |
-| 13 | **Anduril** | Research Engineer Co-op | Santa Ana, CA | Winter 2027 | 2026-10-14 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) |
-| 14 | **Figma** | PhD Intern - Software Engineer - Graphics | SF, NYC | Summer 2027 | 2026-10-13 (5d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004) |
-| 15 | **Netflix** | Software Engineer Intern | LA, Los Gatos, CA | Summer 2027 | 2026-10-13 (5d ago) | [Apply](https://explore.jobs.netflix.net/careers/job/790318904468) |
+| 1 | **Tesla** | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | Spring 2027 | 2026-10-18 (0d ago) | [Apply](https://www.tesla.com/careers/search/job/287024) |
+| 2 | **Salesforce** | Solution Engineer Intern | New York, NY |  | 2026-10-15 (3d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) |
+| 3 | **Susquehanna International Group** | Business Analytics AI Co-op | Remote (US) |  | 2026-10-15 (3d ago) | [Apply](https://careers-sig.icims.com/jobs/11675/business-analytics-ai-co-op-with-drexel-university/job) |
+| 4 | **Microsoft** | Research Intern | Redmond, WA, Mountain View, CA | N/A | 2026-10-16 (2d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557041730) |
+| 5 | **Apple** | Software Engineer Intern - Apple Services Engineering | London, UK | N/A | 2026-10-16 (2d ago) | [Apply](https://jobs.apple.com/en-us/details/200689473) |
+| 6 | **Meta** | Research Scientist Intern - Multimodal Behavioral Modeling - Hearing Science | Redmond, WA | N/A | 2026-10-16 (2d ago) | [Apply](https://www.metacareers.com/jobs/1141752241867684) |
+| 7 | **DoorDash** | Electrical Engineer Intern - Labs | Oakland, CA | Summer 2027 | 2026-10-16 (2d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
+| 8 | **Amazon** | Software Developer Intern | London, UK, Edinburgh, UK, Bristol, UK, Cambridge, UK | Summer 2027, Winter 2027, Spring 2027, Fall 2027 | 2026-10-16 (2d ago) | [Apply](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) |
+| 9 | **Waymo** | Semantics Intern | Mountain View, CA | Summer 2027 | 2026-10-15 (3d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8244128) |
+| 10 | **NVIDIA** | Product Management MBA Intern | Santa Clara, CA | Winter 2027, Summer 2028 | 2026-10-15 (3d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) |
+| 11 | **Palantir** | Meritocracy Fellow | NYC | Fall 2027 | 2026-10-15 (3d ago) | [Apply](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply) |
+| 12 | **Google** | Forward Deployed Engineering Intern | Sunnyvale, CA |  | 2026-10-12 (6d ago) | [Apply](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) |
+| 13 | **TikTok** | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 (1d ago) | [Apply](https://lifeattiktok.com/search/7697105572165519621) |
+| 14 | **Anduril** | Research Engineer Co-op | Santa Ana, CA | Winter 2027 | 2026-10-14 (4d ago) | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007) |
+| 15 | **Figma** | PhD Intern - Software Engineer - Graphics | SF, NYC | Summer 2027 | 2026-10-13 (5d ago) | [Apply](https://boards.greenhouse.io/figma/jobs/6219995004) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (46d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-18 09:58 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-18 12:49 UTC — rankings update with each refresh. See [README](README.md) for all listings.*

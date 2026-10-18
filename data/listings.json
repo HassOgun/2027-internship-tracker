@@ -2,6 +2,88 @@
   {
     "source": "Simplify",
     "category": "Software",
+    "company_name": "Leonardo",
+    "id": "267a2fc2-4e05-4e4f-b0f4-000a8134452d",
+    "title": "Software Engineer Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792317458,
+    "date_posted": 1792281600,
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Industrial-Placement-Software-Engineer_R0033876",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/Leonardo",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Hardware",
+    "company_name": "Tesla",
+    "id": "2d44df47-4fb1-4120-a4ac-7fbcc5f6c103",
+    "title": "Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure",
+    "active": true,
+    "terms": [
+      "Spring 2027"
+    ],
+    "date_updated": 1792316421,
+    "date_posted": 1792316246,
+    "url": "https://www.tesla.com/careers/search/job/287024",
+    "locations": [
+      "Austin, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Tesla",
+    "id": "931408fb-5cb7-4179-8c33-35a242bbc266",
+    "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
+    "active": true,
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "date_updated": 1792316420,
+    "date_posted": 1792316241,
+    "url": "https://www.tesla.com/careers/search/job/286986",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Tesla",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
     "company_name": "Chainlink Labs",
     "id": "25fc66da-f7d2-4a82-b918-c0645c1eb9db",
     "title": "Research Intern",
@@ -34146,7 +34228,7 @@
     "company_name": "NVIDIA",
     "id": "4cf30745-6f3b-4afc-b4a7-8c156b74804c",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -36436,7 +36518,7 @@
     "company_name": "RTX",
     "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
     "title": "AI DSP Applied Research Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -57962,7 +58044,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "3e9bc6fa-0837-4aef-9543-d3529a2c2943",
     "title": "Software Development Intern - Wealth Management Technology",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -79835,7 +79917,7 @@
     "company_name": "Guardian Life",
     "id": "1e56dea3-04d3-4da1-afb5-9f0efbf5bd42",
     "title": "Life Product Development Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -88698,7 +88780,7 @@
     "company_name": "Amgen",
     "id": "97071ed7-a906-402b-b755-8a9a9f9968c7",
     "title": "Machine Learning Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -113977,7 +114059,7 @@
     "company_name": "RTX",
     "id": "81abb668-54a5-4399-998b-383a36dba872",
     "title": "Aerospace Engineering Intern - APU Programs Support",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -118599,7 +118681,7 @@
     "company_name": "Goldman Sachs",
     "id": "260ebea6-b3a6-4e5e-8824-71490c13d10f",
     "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -118652,7 +118734,7 @@
     "company_name": "Goldman Sachs",
     "id": "06098497-6840-4802-8838-81e0dbdec164",
     "title": "Summer Analyst Intern - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -118757,7 +118839,7 @@
     "company_name": "Goldman Sachs",
     "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
     "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -118781,7 +118863,7 @@
     "company_name": "Goldman Sachs",
     "id": "765bb91e-34d7-4746-8e11-8598e700e845",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -118857,7 +118939,7 @@
     "company_name": "Goldman Sachs",
     "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
     "title": "Summer Analyst Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -118883,7 +118965,7 @@
     "company_name": "Goldman Sachs",
     "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
     "title": "Summer Analyst Intern - Engineering",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -118934,7 +119016,7 @@
     "company_name": "Goldman Sachs",
     "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
     "title": "Quantitative Strategist Intern - Americas",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -118960,7 +119042,7 @@
     "company_name": "Goldman Sachs",
     "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
     "title": "Quantitative Strategist Intern - Investment Banking",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -118986,7 +119068,7 @@
     "company_name": "Goldman Sachs",
     "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
     "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -119013,7 +119095,7 @@
     "company_name": "Goldman Sachs",
     "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
     "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -149544,7 +149626,7 @@
     "company_name": "Goldman Sachs",
     "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
     "title": "Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -172098,7 +172180,7 @@
     "company_name": "Goldman Sachs",
     "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -172124,7 +172206,7 @@
     "company_name": "Goldman Sachs",
     "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
     "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -172208,7 +172290,7 @@
     "company_name": "Goldman Sachs",
     "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
     "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -172390,7 +172472,7 @@
     "company_name": "Goldman Sachs",
     "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
     "title": "Quantitative Strategist Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -172438,7 +172520,7 @@
     "company_name": "Goldman Sachs",
     "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
     "title": "Summer Associate Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -408084,32 +408166,6 @@
     "degrees": [
       "Bachelor's",
       "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Amazon",
-    "id": "88c3c64f-28df-481c-8295-4ca332093ad3",
-    "title": "Economics - EU Stores - Economic Decision Science",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771583383,
-    "date_posted": 1771583383,
-    "url": "https://amazon.jobs/en/jobs/3185791/economics-intern-eu-stores-economic-decision-science",
-    "locations": [
-      "London, UK"
-    ],
-    "company_url": "https://simplify.jobs/c/Amazon",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "PhD"
     ],
     "_sources": [
       "simplify-2026"

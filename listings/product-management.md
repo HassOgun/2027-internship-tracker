@@ -1,4 +1,4 @@
-# Product Management (219)
+# Product Management (220)
 
 [← back to index](../README.md)
 
@@ -106,6 +106,7 @@
 | [Intuit](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) | Product Manager Intern | Mountain View, CA, San Diego, CA | Summer 2027 | 2026-09-14 | 34 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766) | Product Manager Intern - Undergraduate | London, UK | Summer 2027 | 2026-09-14 | 34 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764) | Product Manager Intern - Undergraduate | Burgess Hill, UK | Summer 2027 | 2026-09-14 | 34 | simplify-2026 |
+| [Guardian Life](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Life-Product-Development_R000110125) | Life Product Development Intern | NYC | Summer 2027 | 2026-09-14 | 34 | simplify-2026 |
 | [Lowe's](https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845) | Digital Product Management Intern | Charlotte, NC | Summer 2026 | 2026-09-14 | 34 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556983226) | Product Manager Intern - Specialized Cloud | Redmond, WA | Winter 2026 | 2026-09-11 | 37 | simplify-2026 |
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799) | Software Product Management Intern | Austin, TX | Winter 2026 | 2026-09-11 | 37 | simplify-2026 |
