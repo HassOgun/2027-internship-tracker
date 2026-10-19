@@ -18436,7 +18436,7 @@
     "company_name": "Crown Innovations",
     "id": "df3768d8-aca4-41b1-bdc0-2874bc2151d2",
     "title": "Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -38795,7 +38795,7 @@
     "company_name": "Harvey",
     "id": "4bc0348e-23c1-479d-9a3d-6d47b89b866e",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -61583,7 +61583,7 @@
     "company_name": "CSC Generation",
     "id": "03b53364-747f-47ed-8bfc-ba012349cb8c",
     "title": "Software Engineer Intern/Part Time - Legacy Applications & Modernization",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -66951,7 +66951,7 @@
     "company_name": "MetOx International",
     "id": "01adde08-7298-47e1-8394-bb946ac7ec13",
     "title": "Data Science Intern - Spring 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -67881,7 +67881,7 @@
     "company_name": "Metropolitan Transportation Authority",
     "id": "02822068-8c62-4e46-a294-078ad3fb898f",
     "title": "Workforce Timekeeping",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -117891,7 +117891,7 @@
     "company_name": "Sierra Nevada Corporation",
     "id": "46a3b20e-600a-4c23-b027-efd88685a714",
     "title": "Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -118001,7 +118001,7 @@
     "company_name": "Sierra Nevada Corporation",
     "id": "2bf1eede-29f5-47d4-9b3e-66bd4aa8cdcd",
     "title": "Test Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -138259,7 +138259,7 @@
     "company_name": "Clarios",
     "id": "4dff0c49-74a7-40e9-96c9-96f7fd798e08",
     "title": "IT Digital/AI Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -235021,7 +235021,7 @@
     "company_name": "Palantir",
     "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
     "title": "Forward Deployed Software Engineer Intern - US Government",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2028",
       "Spring 2028",
@@ -401624,32 +401624,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Carnegie Mellon University",
-    "id": "a40b0d99-edce-488b-89cb-90e7f91cc828",
-    "title": "Intern - College of Engineering - Electrical and Computer Engineering",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771937612,
-    "date_posted": 1771699171,
-    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
     "_sources": [
       "simplify-2026"
     ]

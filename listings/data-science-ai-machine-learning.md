@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1509)
+# Data Science, AI & Machine Learning (1507)
 
 [← back to index](../README.md)
 
@@ -634,7 +634,6 @@
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8203191) | Learning-Based Behavior Intern | Mountain View, CA | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8205680) | MS/PhD Intern - Sim-Realism ML Infrastructure | London, UK | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8199365) | Product Data Science Intern | SF | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
-| [MetOx International](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) | Data Science Intern - Spring 2027 | Houston, TX | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
 | [The Brattle Group](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735999005) | Energy Analyst Intern - Economics | Boston, MA | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
 | [The Brattle Group](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4736066005) | Energy Analyst Intern - Economics - Multiple Teams | Toronto, ON, Canada | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
 | [Metropolitan Transportation Authority](https://jobs.jobvite.com/metropolitantransportationauthority/job/oW1PAfw6?nl=1&nl=1&fr=false) | Ridership Analysis and Modeling Emerging Talent Intern | NYC | Spring 2027 | 2026-09-18 | 31 | simplify-2026 |
@@ -1046,7 +1045,6 @@
 | [DraftKings](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958) | Data Science Intern - Summer 2027 | Boston, MA | Summer 2027 | 2026-09-01 | 48 | simplify-2026 |
 | [DraftKings](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) | Data Science Intern | Boston, MA | Summer 2027 | 2026-09-01 | 48 | simplify-2026 |
 | [Vermeer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Pavilion/Component-Engineer-Intern_REQ-22163) | Component Engineer Intern | Pella, IA | Winter 2026 | 2026-09-01 | 48 | simplify-2026 |
-| [Clarios](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910) | IT Digital/AI Intern - Summer 2027 | Milwaukee, WI | Summer 2027 | 2026-09-01 | 48 | simplify-2026 |
 | [IAT Insurance Group](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Milwaukee-WI/Data---Integration-Internship_JR100404) | Data & Integration Intern | Milwaukee, WI | Summer 2027 | 2026-09-01 | 48 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305) | Geospatial Intern | Hartford, CT, St Paul, MN | Summer 2026 | 2026-09-01 | 48 | simplify-2026 |
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304) | Business Insights & Analytics Intern - BI&A LDP | Hartford, CT, St Paul, MN | Summer 2027 | 2026-09-01 | 48 | simplify-2026 |
