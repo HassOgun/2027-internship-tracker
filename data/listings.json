@@ -7331,7 +7331,7 @@
     "company_name": "Nutanix",
     "id": "f351f3ac-9b5b-4f88-b7bf-8c3cce1a1df0",
     "title": "Support Analytics & Operations Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -7413,7 +7413,7 @@
     "company_name": "Leonardo",
     "id": "1e7773d3-204e-4be0-84c6-7d80b5db80ff",
     "title": "Software Engineering Apprentice",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -14542,7 +14542,7 @@
     "company_name": "Keysight Technologies",
     "id": "efd2f9e3-b980-4849-8985-5bf81191291e",
     "title": "R&D Hardware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -14570,7 +14570,7 @@
     "company_name": "RTX",
     "id": "4ee9bbfd-bd96-4660-9f4b-3fb000ccd885",
     "title": "Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -43591,7 +43591,7 @@
     "company_name": "Old Mission",
     "id": "5ca3d9ed-7ea0-42ca-87f3-9791668c9ee4",
     "title": "Quantitative Trader Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -45327,7 +45327,7 @@
     "company_name": "Bose",
     "id": "3ee40ac5-c7d1-4fcc-92ae-6bbd4a5346a0",
     "title": "Reverse Logistics Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -71259,7 +71259,7 @@
     "company_name": "Keysight Technologies",
     "id": "1a99b100-e38e-443b-a9cc-1be8ada5aa7f",
     "title": "Software Engineer Intern - R&D",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -97314,7 +97314,7 @@
     "company_name": "L3Harris Technologies",
     "id": "e77d4778-ad4a-4f45-8ee8-b223f953f59a",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -104061,7 +104061,7 @@
     "company_name": "Allegion",
     "id": "78e370bf-8119-430e-aa86-804f2ba76bb5",
     "title": "Firmware Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -116310,7 +116310,7 @@
     "company_name": "Aptura",
     "id": "4acc628e-f876-4206-82c5-91cc5b21e425",
     "title": "Investment Banking Intern - AI Evaluation",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -127984,7 +127984,7 @@
     "company_name": "Micron Technology",
     "id": "22e8ae7a-01f6-45a4-b1e6-5dbd92874d50",
     "title": "Product Test Engineer Intern - DRAM",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -131343,7 +131343,7 @@
     "company_name": "Geotab",
     "id": "ff983931-8e25-4d4f-9fcc-398b043584db",
     "title": "Product Coordinator Intern - Driver Compliance",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -143084,7 +143084,7 @@
     "company_name": "Arch Capital Group",
     "id": "483a6e7d-49d9-4b1b-823b-1c0e3be6b318",
     "title": "Data and Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -188432,7 +188432,7 @@
     "company_name": "NBT Bank",
     "id": "37eb663f-8550-42f6-9494-b03ad65cafdd",
     "title": "Data Warehouse & Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2026"
     ],
@@ -217134,7 +217134,7 @@
     "company_name": "Akuna Capital University",
     "id": "13b103af-8b5c-4685-9b00-18ce29399f40",
     "title": "Software Engineer Intern - Python",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -234993,7 +234993,7 @@
     "company_name": "Palantir",
     "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
     "title": "Forward Deployed Software Engineer Intern - Defense Tech",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2028",
       "Spring 2028",
@@ -333129,32 +333129,6 @@
   },
   {
     "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Booz Allen",
-    "id": "6eaee25d-c08c-4688-9b8a-5f02c1c27f81",
-    "title": "University Data Scientist",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1774844924,
-    "date_posted": 1771689753,
-    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Data-Scientist_R0233012",
-    "locations": [
-      "McLean, VA"
-    ],
-    "company_url": "https://simplify.jobs/c/Booz-Allen",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "Hardware",
     "company_name": "Red Bull Advanced Technologies",
     "id": "43e6575b-da65-4836-a587-44e3b54bb26b",
@@ -339430,33 +339404,6 @@
     "sponsorship": "Other",
     "degrees": [
       "Bachelor's",
-      "Master's",
-      "PhD"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Hitachi Energy",
-    "id": "b01dff5b-67bf-4521-a819-7f93f45ef6c1",
-    "title": "Software Engineer Research Intern",
-    "active": false,
-    "terms": [
-      "Winter 2025"
-    ],
-    "date_updated": 1774427879,
-    "date_posted": 1771689259,
-    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Power-Electronics-Research-Intern_R0113867",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
       "Master's",
       "PhD"
     ],
@@ -390160,32 +390107,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "CACI",
-    "id": "75a57f77-9c9a-4df2-b6fb-97bfcbbd33e8",
-    "title": "Model Based Systems Engineering Intern - Summer 2026",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772363626,
-    "date_posted": 1771688778,
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-IN-Crane/Model-Based-Systems-Engineering-Intern---Summer-2026_319472",
-    "locations": [
-      "Bedford, IN"
-    ],
-    "company_url": "https://simplify.jobs/c/CACI",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "Abacus Insights",
     "id": "d96f31da-5a9c-49f1-b957-f7a3d954a3bb",
@@ -398858,58 +398779,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "GlobalFoundries",
-    "id": "b6af1f12-a532-4336-80a7-dae6a7b09f77",
-    "title": "SWD Maintenance Apprentice Technician - Nights",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1772020471,
-    "date_posted": 1771689952,
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/SWD-Equipment-Engineering-Technician--Nights-_JR-2600380",
-    "locations": [
-      "Malta, NY"
-    ],
-    "company_url": "https://simplify.jobs/c/GlobalFoundries",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Salesforce",
-    "id": "9bb16535-afab-4f6e-8ed0-7bffa4636116",
-    "title": "Intern \u2013 Marketing Co-op - Enablement Operations or Marketing Analytics",
-    "active": false,
-    "terms": [
-      "Fall 2026"
-    ],
-    "date_updated": 1772017229,
-    "date_posted": 1771688322,
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Fall-2026-Intern---Marketing-Co-Op--Enablement-Operations-or-Marketing-Analytics-_JR328786-1",
-    "locations": [
-      "SF"
-    ],
-    "company_url": "https://simplify.jobs/c/Salesforce",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "G2",
     "id": "ec5047ac-84a9-46c5-a2fa-d08093093f84",
@@ -401787,32 +401656,6 @@
   },
   {
     "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "Altera Corporation",
-    "id": "abb72523-5afc-4962-b459-df93eb93445a",
-    "title": "Custom Circuit/Software Undergrad Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771932978,
-    "date_posted": 1771696818,
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Custom-Circuit-Design-Undergrad-Intern_R01885",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Altera-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
     "category": "AI/ML/Data",
     "company_name": "ExxonMobil",
     "id": "035190df-2227-400e-a7e2-71fab1e6b4cb",
@@ -403287,31 +403130,6 @@
     "degrees": [
       "Bachelor's"
     ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Entegris",
-    "id": "7561d8ee-246b-4ec9-85d1-664a08a9e87b",
-    "title": "AI-Driven Supply Chain Data & Data Management Intern/Co-op",
-    "active": false,
-    "terms": [
-      "Fall 2026",
-      "Summer 2026"
-    ],
-    "date_updated": 1771890818,
-    "date_posted": 1771698074,
-    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Round-Rock-TX/AI-Driven-Supply-Chain-Data---MDM-Co-Op---Fall-2026_REQ-10161",
-    "locations": [
-      "Round Rock, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Entegris",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [],
     "_sources": [
       "simplify-2026"
     ]
@@ -406385,60 +406203,6 @@
       "Burlington, MA"
     ],
     "company_url": "https://simplify.jobs/c/Analog-Devices",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Arch Capital Group",
-    "id": "3a3be7fd-69dc-4207-a35a-d9e325b77faa",
-    "title": "Online Portals & Next Gen Platforms \u2013 Intern - Opng",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771695524,
-    "date_posted": 1771695524,
-    "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Online-Portals---Next-Gen--Platforms--OPNG--Summer-Intern_R25_718",
-    "locations": [
-      "Greensboro, NC"
-    ],
-    "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Hardware",
-    "company_name": "The Boeing Company",
-    "id": "eb1cd785-ab5d-4ffd-819d-6517c4a01c7c",
-    "title": "ASIC and/or FPGA Design and Verification Engineers \u2013 Entry Level - Associate",
-    "active": false,
-    "terms": [
-      "N/A"
-    ],
-    "date_updated": 1771692002,
-    "date_posted": 1771692002,
-    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/ASIC-and-or-FPGA-Design-and-Verification-Engineers--Entry-Level--Associate--or-Experienced-_JR2025485130-1",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "company_url": "https://simplify.jobs/c/Boeing",
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
