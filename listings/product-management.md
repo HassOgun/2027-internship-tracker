@@ -1,9 +1,10 @@
-# Product Management (218)
+# Product Management (219)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8285180) | Product Co-op | Toronto, ON, Canada | Spring 2027 | 2026-10-19 | 0 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7697105572165519621) | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 | 2 | simplify-2026 |
 | [Behaviour Interactive](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Product Management Intern - 7 Days to Die | Montreal, QC, Canada | Winter 2027 | 2026-10-16 | 3 | simplify-2026 |
 | [Citco](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19073) | Product Intern | London, UK | N/A | 2026-10-16 | 3 | simplify-2026 |
@@ -83,7 +84,6 @@
 | [Zimmer Biomet Holdings](https://careers.zimmerbiomet.com/us/en/job/12745) | Product Management Intern - Artificial Intelligence Product Management | Remote in USA | Summer 2027 | 2026-09-21 | 28 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014306) | Digital Product Management Intern - Undergraduate GMNS | London, UK | Winter 2026 | 2026-09-21 | 28 | simplify-2026 |
 | [AutoZone](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427) | Ecommerce Intern | Memphis, TN | Summer 2027 | 2026-09-21 | 28 | simplify-2026 |
-| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Product-Management-Intern--Stagiaire-Gestion-de-Produit_26WD101135-1) | Product Management Intern | Montreal, QC, Canada | Winter 2027 | 2026-09-19 | 30 | simplify-2026 |
 | [Publicis Groupe](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Product Manager Intern - Class of 2028 | Chicago, IL | Summer 2027 | 2026-09-18 | 31 | simplify-2026 |
 | [Rundoo](https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application?embed=true) | Product Manager Intern | Redwood City, CA | Winter 2026 | 2026-09-18 | 31 | simplify-2026 |
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757) | Product Management Co-op - Patient Management Solutions | Danvers, MA | Winter 2026 | 2026-09-18 | 31 | simplify-2026 |
@@ -187,6 +187,7 @@
 | [TikTok](https://lifeattiktok.com/search/7672345290048817413) | Open Platform Product Project Intern - Open Platform | San Jose, CA | N/A | 2026-08-13 | 67 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | IT Systems Product Management Intern - Summer 2027 | Westerville, OH | Summer 2027 | 2026-08-12 | 68 | simplify-2026 |
 | [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | Product Management Intern - MBA - Power Solutions & Distribution | Delaware, OH | Summer 2027 | 2026-08-12 | 68 | simplify-2026 |
+| [Vertiv](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) | Product Management Intern | Delaware, OH | Summer 2027 | 2026-08-12 | 68 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7672557943224961333) | Product Manager Intern - Commerce Ads | San Jose, CA | Summer 2027 | 2026-08-12 | 68 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7672562486917286149) | Product Manager Intern - Ads Interface and Platform | San Jose, CA | Summer 2027 | 2026-08-12 | 68 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7672569081632229685) | Product Manager Intern - Ads Interface and Platform | Seattle, WA | Summer 2027 | 2026-08-12 | 68 | simplify-2026 |
