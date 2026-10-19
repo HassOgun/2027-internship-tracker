@@ -4,7 +4,7 @@
 
 **A standalone list, not part of the rest of this repo.** It is not fed by the auto-refresh pipeline used for the categories above and does not integrate with the application tracker (`scripts/track.py`). The companies below are checked directly against their own public career-site APIs every ~3 days -- no AI judgment, no aggregators, just a plain scraper like the one used for the rest of this repo.
 
-Last automated check: 2026-10-16 13:40 UTC
+Last automated check: 2026-10-19 16:05 UTC
 
 ## Confirmed open postings (auto-checked every 3 days)
 
@@ -16,7 +16,9 @@ Last automated check: 2026-10-16 13:40 UTC
 
 ### Adobe
 
-*No open internship listings found in this pass.*
+| Role | Location | Link |
+|---|---|---|
+| 2027 Intern - Research PhD Intern | Bangalore | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016) |
 
 ### Razorpay
 
