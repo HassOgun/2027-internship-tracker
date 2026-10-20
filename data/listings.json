@@ -83,7 +83,7 @@
     "company_name": "Allstate",
     "id": "ba0364a9-1ac6-476c-bce0-118895d7a5ed",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -13219,7 +13219,7 @@
     "company_name": "LSEG",
     "id": "a4a4b9ce-2dc8-4dbf-9f01-4db345c9fcd7",
     "title": "Quant Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -16380,7 +16380,7 @@
     "company_name": "BP",
     "id": "ac5c0aa0-973b-4add-966c-686afeebbf87",
     "title": "Summer Intern - Multiple Teams",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -19083,7 +19083,7 @@
     "company_name": "Gallup",
     "id": "bda4abe8-aa5b-41a0-bb34-7806e4ff2679",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -67169,7 +67169,7 @@
     "company_name": "CAE",
     "id": "9fa8f7b4-6cba-43a1-b610-c1a9bb1bd56c",
     "title": "Integration Specialist Defense & Security Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -83381,7 +83381,7 @@
     "company_name": "Philips",
     "id": "c54c66c0-44fb-477d-906d-1544410c81ce",
     "title": "Service Sales Intern - IB Focus",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -85268,7 +85268,7 @@
     "company_name": "Rigetti",
     "id": "91dc2cea-fc02-4261-b19d-3c2c94d12a0d",
     "title": "Research Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -98180,7 +98180,7 @@
     "company_name": "Johns Hopkins Applied Physics Laboratory",
     "id": "ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
     "title": "AI & Data Science Intern - Analytic Capabilities",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -107357,7 +107357,7 @@
     "company_name": "Equifax",
     "id": "9da555c8-ebe4-4b2e-b4e9-21621068b88c",
     "title": "Data Analytics Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -171363,7 +171363,7 @@
     "company_name": "Continental Resources",
     "id": "efcdcda1-4aa4-492b-a092-21d30c45cee1",
     "title": "Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -221140,7 +221140,7 @@
     "company_name": "Jump Trading",
     "id": "bac0e03e-8c62-41bc-acde-a3fa714f4a66",
     "title": "Campus Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

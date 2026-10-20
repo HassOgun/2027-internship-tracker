@@ -1,4 +1,4 @@
-# Software Engineering (1384)
+# Software Engineering (1381)
 
 [← back to index](../README.md)
 
@@ -14,7 +14,6 @@
 | [Parallel Wireless](https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply) | PHY Software Engineer Intern | Bristol, UK | Summer 2027 | 2026-10-20 | 0 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963/apply) | Software Engineer Intern - Query Engines | London, UK | N/A | 2026-10-20 | 0 | simplify-2026 |
 | [Palantir](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13/apply) | Software Engineer Intern - Query Engines | NYC | N/A | 2026-10-20 | 0 | simplify-2026 |
-| [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266) | Software Engineer Intern | North Carolina | Summer 2027 | 2026-10-20 | 0 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545) | Software Engineer Co-op | Richardson, TX | N/A | 2026-10-20 | 0 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452) | Software Engineer Co-op | Aurora, CO | N/A | 2026-10-20 | 0 | simplify-2026 |
 | [Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Industrial-Placement-Sofware-Engineer_R0033508) | Software Engineer Intern | London, UK | N/A | 2026-10-20 | 0 | simplify-2026 |
@@ -124,7 +123,6 @@
 | [Covestro](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Supply-Chain-Application-Developer-Co-Op_JR-2026-02346-1) | Supply Chain Application Developer Co-op | Pittsburgh, PA | Spring 2027, Summer 2027 | 2026-10-14 | 6 | simplify-2026 |
 | [Humana](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228) | Technology Intern - Society of Women Engineers Conference | Louisville, KY | Summer 2027 | 2026-10-14 | 6 | simplify-2026 |
 | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2027-Summer-Internship_R0027113) | Intelligent Automation Intern | NYC | Summer 2027 | 2026-10-14 | 6 | simplify-2026 |
-| [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117182) | Summer Intern - Multiple Teams | London, UK | Summer 2027 | 2026-10-14 | 6 | simplify-2026 |
 | [Pebl](https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application?embed=true) | Software Engineering Intern | Toronto, ON, Canada | N/A | 2026-10-13 | 7 | simplify-2026 |
 | [Eurostar International](https://apply.workable.com/eurostar/j/D69651A000/apply) | Software Developer Intern | London, UK | N/A | 2026-10-13 | 7 | simplify-2026 |
 | [Armadin](https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true) | Frontend Engineer Intern - Member of Technical Staff | Palo Alto, CA | Summer 2027 | 2026-10-13 | 7 | simplify-2026 |
@@ -490,7 +488,6 @@
 | [SOTI](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549) | Software Developer Intern - Back End | Mississauga, ON, Canada | Summer 2026 | 2026-09-21 | 29 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) | Software Engineer Intern - Digital Product: Software Engineering | Austin, TX, Milford, MI, Mountain View, CA, Warren, MI | Summer 2027 | 2026-09-21 | 29 | simplify-2026 |
 | [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184) | Software Engineer Intern | Tucson, AZ | Winter 2026 | 2026-09-21 | 29 | simplify-2026 |
-| [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963) | Integration Specialist Defense & Security Intern | Montreal, QC, Canada | N/A | 2026-09-21 | 29 | simplify-2026 |
 | [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658) | Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | N/A | 2026-09-21 | 29 | simplify-2026 |
 | [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1) | Software Developer Intern - Immersive | Montreal, QC, Canada | N/A | 2026-09-21 | 29 | simplify-2026 |
 | [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-950---Dveloppeur-se--logiciel_123688) | Software Developer Intern - Software | Montreal, QC, Canada | N/A | 2026-09-21 | 29 | simplify-2026 |

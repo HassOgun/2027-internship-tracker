@@ -1,4 +1,4 @@
-# Hardware Engineering (864)
+# Hardware Engineering (863)
 
 [← back to index](../README.md)
 
@@ -457,7 +457,6 @@
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299088) | Undergraduate Engineering Intern | Round Rock, TX, Hopkinton, MA | Spring 2028 | 2026-09-15 | 35 | simplify-2026 |
 | [Apple](https://jobs.apple.com/en-us/details/200683293) | PMU Design Verification Intern | Swindon, UK | Winter 2026 | 2026-09-15 | 35 | simplify-2026 |
 | [Etched](https://jobs.ashbyhq.com/Etched/7d400861-c124-475f-8cef-73b9fd5199cf/application?embed=true) | Lab Operations Intern | San Jose, CA | Summer 2026 | 2026-09-15 | 35 | simplify-2026 |
-| [Rigetti](https://jobs.lever.co/rigetti/efe28dd4-f331-4738-b282-23106928c3a3/apply) | Research Intern | Berkeley, CA | Winter 2026 | 2026-09-15 | 35 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584) | Firmware Engineer Intern | Longmont, CO | Winter 2026 | 2026-09-15 | 35 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846) | Product Engineer Intern - DRAM Technology - Node Development | Boise, ID | Winter 2026 | 2026-09-15 | 35 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823) | ASIC Validation Intern | Minneapolis, MN | Winter 2026 | 2026-09-15 | 35 | simplify-2026 |

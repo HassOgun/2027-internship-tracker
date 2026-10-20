@@ -1,4 +1,4 @@
-# Quantitative Finance (221)
+# Quantitative Finance (220)
 
 [← back to index](../README.md)
 
@@ -9,7 +9,6 @@
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803) | Quantitative Research Intern | NYC | N/A | 2026-10-16 | 4 | simplify-2026 |
 | [Deloitte](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853) | Audit & Assurance Intern - Valuation & Analytics | Atlanta, GA | Winter 2027 | 2026-10-15 | 5 | simplify-2026 |
 | [State of Wisconsin Investment Board](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Liquidity-Optimization-Intern_R-001346) | Liquidity Optimization Intern | Madison, WI | Summer 2027 | 2026-10-15 | 5 | simplify-2026 |
-| [LSEG](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Quant-Analyst_R0123224) | Quant Analyst Intern | Boston, MA | N/A | 2026-10-15 | 5 | simplify-2026 |
 | [BP](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---London/Summer-Internship---Supply--Trading---Shipping---UK_RQ117128) | Supply, Trading & Shipping Intern | London, UK | Summer 2027 | 2026-10-14 | 6 | simplify-2026 |
 | [Brookfield](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Analytics-Modelling---Brookfield-Wealth-Solutions_R2053354) | Analytics Modelling Intern | NYC | Summer 2027 | 2026-10-14 | 6 | simplify-2026 |
 | [Athene](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Risk-Co-op_R255217) | Risk Co-op | West Des Moines, IA | Winter 2026 | 2026-10-14 | 6 | simplify-2026 |
