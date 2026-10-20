@@ -2,6 +2,110 @@
   {
     "source": "Simplify",
     "category": "AI/ML/Data",
+    "company_name": "Verizon Communications",
+    "id": "47ab58f6-dd3d-4521-bdcb-8d3cbf3db18b",
+    "title": "Data Science Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1792499995,
+    "date_posted": 1792454400,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419",
+    "locations": [
+      "Basking Ridge, Bernards, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Verizon Communications",
+    "id": "10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d",
+    "title": "Call Routing Optimization Engineering Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1792499640,
+    "date_posted": 1792454400,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
+    "locations": [
+      "Basking Ridge, Bernards, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "TD Bank",
+    "id": "3b60a188-d772-469c-99c4-2cc383925ddb",
+    "title": "Wealth Operations Automation Intern Co-op",
+    "active": true,
+    "terms": [
+      "Winter 2027"
+    ],
+    "date_updated": 1792494232,
+    "date_posted": 1792454400,
+    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Wealth-Operations-Automation-Intern---Co-Op--Winter-2027-_R_1512131",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "company_url": "https://simplify.jobs/c/TD-Bank",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Verizon Communications",
+    "id": "069f3f4c-adc9-4e2d-919c-045fd3bef6b6",
+    "title": "Call Routing Optimization Engineer Intern",
+    "active": true,
+    "terms": [
+      "Summer 2027"
+    ],
+    "date_updated": 1792494228,
+    "date_posted": 1792454400,
+    "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398",
+    "locations": [
+      "Basking Ridge, Bernards, NJ"
+    ],
+    "company_url": "https://simplify.jobs/c/Verizon-Communications",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
     "company_name": "SpAItial",
     "id": "0e636bf2-1fa3-4d8c-bdba-8a04ae7b2206",
     "title": "Research Intern - 3D World Models",
@@ -1808,7 +1912,7 @@
     "company_name": "Intel",
     "id": "7e85c713-c2d3-4898-bc59-298493e87715",
     "title": "Software Applications Engineering PhD Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -9082,7 +9186,7 @@
     "company_name": "General Dynamics Information Technology",
     "id": "db3236dd-b511-42c0-8fb7-2cc562c92c0f",
     "title": "Quality Assurance Associate Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -27858,7 +27962,7 @@
     "company_name": "HCSC",
     "id": "118adc1e-4c91-45e1-8654-5297c47e9a9c",
     "title": "Systems Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -27885,7 +27989,7 @@
     "company_name": "HCSC",
     "id": "f8f58448-a30c-4f0b-bd35-a8b3aee51172",
     "title": "Enterprise Data Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -34449,7 +34553,7 @@
     "company_name": "Hewlett Packard Enterprise",
     "id": "778c7809-1093-4a0c-b72e-bda6dcae46f0",
     "title": "Customer Success Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -34901,7 +35005,7 @@
     "company_name": "Genentech",
     "id": "766c66a6-36c1-4fa9-8bcf-d522a0c71b1f",
     "title": "Applied GenAI Scientist Intern - GenAI Applications",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -43718,7 +43822,7 @@
     "company_name": "PNC Financial Services",
     "id": "b8feae1a-90b4-43dd-ab49-8d200bb1cb49",
     "title": "Economics Intern - Multiple Teams",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -45784,7 +45888,7 @@
     "company_name": "Marvell",
     "id": "be7a85db-d805-4c2a-b5d3-9e65f0e50f15",
     "title": "Firmware Engineer Intern - MS - Summer 2027",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -51374,7 +51478,7 @@
     "company_name": "RTX",
     "id": "ec00eac5-4585-4280-840e-de9a25fe6595",
     "title": "Electrical Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -61246,7 +61350,7 @@
     "company_name": "KLA",
     "id": "6e2407ba-f462-4baa-ac0f-a0c48ac50816",
     "title": "Algorithm Engineering Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2026"
     ],
@@ -110695,7 +110799,7 @@
     "company_name": "Loblaw Companies",
     "id": "6b4267a2-3d11-46ed-b2d5-257cdbb8453a",
     "title": "Applied Machine Learning Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -121259,7 +121363,7 @@
     "company_name": "RTX",
     "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
     "title": "Performance Indicator Development and Process and Project Management Internship",
-    "active": false,
+    "active": true,
     "terms": [
       "Winter 2027"
     ],
@@ -146936,7 +147040,7 @@
     "company_name": "Nike",
     "id": "fe7f1e7d-e361-4660-92ac-f496c022b980",
     "title": "Machine Learning Engineering Undergraduate Intern - Artificial Intelligence - Data",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -156635,7 +156739,7 @@
     "company_name": "GE Appliances",
     "id": "88d4e38d-d6d5-4550-8ea8-651074023cd3",
     "title": "Software Engineer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Fall 2027"
     ],
@@ -199497,7 +199601,7 @@
     "company_name": "Sweatpals",
     "id": "1f413552-77af-4f45-aecd-532852b777c8",
     "title": "Product Manager Intern - Host Squad",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],

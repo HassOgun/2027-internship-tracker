@@ -1,4 +1,4 @@
-# Product Management (221)
+# Product Management (220)
 
 [← back to index](../README.md)
 
@@ -220,7 +220,6 @@
 | [TikTok](https://lifeattiktok.com/search/7584522934515714357) | Product Management Project Intern - TikTok Shop-Operations | LA | Summer 2026 | 2026-06-15 | 127 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7598849238706735365) | AI Product Manager Intern - Tiktok LIVE-Ecosystem Governance | San Jose, CA | Spring 2026, Summer 2026 | 2026-06-15 | 127 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7644986569989032197) | Product Manager Shop Ads Creative Project Intern - Ads Interface and Platform - 2026 Start - BS/MS | San Jose, CA | Summer 2026 | 2026-06-15 | 127 | simplify-2026 |
-| [Sweatpals](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Product Manager Intern - Host Squad | Remote in USA | Summer 2026 | 2026-06-09 | 133 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) | Product Manager Intern - Ovip | Kansas City, MO | Summer 2026 | 2026-05-21 | 152 | simplify-2026 |
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344) | Project Manager Intern | Seattle, WA | Fall 2026 | 2026-05-21 | 152 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7634027348048709941) | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Summer 2026 | 2026-04-30 | 173 | simplify-2026 |
