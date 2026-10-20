@@ -1,9 +1,21 @@
-# Other (440)
+# Other (460)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196) | Cyber Systems Engineer Intern | Tampa, FL |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) | Software Engineer Intern, Compiler | Sugar Land, TX |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [JPMorganChase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) | Machine Learning Intern, NLP | New York, NY |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Palantir](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) | Software Engineer Intern, Query Engines | New York, NY |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Verizon Communications](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394) | Call Routing Optimization Engineering Intern, Verizon Consumer Group | Basking Ridge, NJ |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Verizon Communications](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417) | Data Science Intern, Verizon Consumer Group | Basking Ridge, NJ |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) | Application/Software Developer Co-op, Capital Markets Technology | Toronto, ON |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2) | Application/Software Developer Co-op, Enterprise Technology & Business Management | Toronto, ON |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [OpenAI](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application) | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Software Engineer Intern, Security | Atlanta, GA |  | 2026-10-20 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Inversion Space](https://job-boards.greenhouse.io/inversionspace/jobs/4745076005) | AI & Internal Tools Software Engineer Intern | Playa Vista, CA |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Inversion Space](https://job-boards.greenhouse.io/inversionspace/jobs/4745083005) | Vehicle Software Engineer Intern | Playa Vista, CA |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) | Software Engineer Intern, Security/Government | San Francisco, CA, Bellevue, WA |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714) | Cloud Solutions Engineer / Site Reliability Intern | El Segundo, CA, Chantilly, VA, Colorado Springs, CO |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017) | Data Analyst Intern | Pittsburgh, PA |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -19,7 +31,14 @@
 | [Heron Power](https://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da) | Firmware Engineering Intern | Scotts Valley, CA |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
 | [LLNL](https://jobs.smartrecruiters.com/llnl/3743990016225626) | Predictive Science Academic Alliance Program IV Student Intern | Livermore, CA |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) | AI Research Intern, Wireless Foundation Models | Pittsburgh, PA |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
+| [National Information Solutions Cooperative](https://job-boards.greenhouse.io/nisc/jobs/8301304) | Application Analyst Intern, Financials Software | Mandan, ND |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
+| [The Toro Company](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) | Cloud Software Development Intern | Frederick, CO |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625) | Software Engineer Intern | Holtsville, NY |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
+| [ABB](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Co-Op---Spring-2027_JR00050240) | Integrated Motor Drive Software Co-op | Greenville, SC |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
+| [BMO Financial Group](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Junior-Cloud-Engineer--Summer-2027--Co-op-Internship----16-months_R260029417-1) | Junior Cloud Engineer Co-op | Toronto, ON |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
+| [CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440) | Advanced Analytics and AI Co-op | Toronto, ON |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
 | [MITRE](https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern) | AI Engineering Intern | Bedford, MA |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | AI Intern | Toronto, ON, Canada |  | 2026-10-19 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077) | Software Engineering Intern | Boulder, CO |  | 2026-10-18 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Physical Reasoning](https://physicalreasoning.ai/join/software-engineering-intern/) | Software Engineering Intern | San Francisco, CA, New York, NY, Toronto, Canada, Remote |  | 2026-10-17 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Clera](https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application) | Computer Vision & Robotics Intern | San Francisco, CA |  | 2026-10-17 | 3 | vanshb03-2026, vanshb03-2027 |
@@ -57,6 +76,7 @@
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/en-US/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425) | Software Engineering Co-op | Shakopee, MN |  | 2026-10-16 | 4 | vanshb03-2026, vanshb03-2027 |
 | [W.R. Berkley](https://careers-berkley.icims.com/jobs/14641/enterprise-architecture-co-op/job) | Enterprise Architecture Co-op | Urbandale, IA |  | 2026-10-16 | 4 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://lifeattiktok.com/search/7673636206961641781) | Software Engineer Intern, Recommendation Performance Efficiency | San Jose, CA |  | 2026-10-16 | 4 | vanshb03-2026, vanshb03-2027 |
+| [Inversion Space](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) | Avionics Embedded Software Engineer Intern | Playa Vista, CA |  | 2026-10-16 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Ardian](https://ardian.wd103.myworkdayjobs.com/en-US/ArdianCareers/job/New-York/Data-Scientist-Intern---February-2027---NYC_JR1002271) | Data Scientist Intern | New York, NY |  | 2026-10-15 | 5 | vanshb03-2026, vanshb03-2027 |
 | [Booz Allen Hamilton](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716) | Digital Transformation Analyst Intern | Arlington, VA |  | 2026-10-15 | 5 | vanshb03-2026, vanshb03-2027 |
 | [Cigna](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483) | Healthcare Analytics Intern | Morris Plains, NJ |  | 2026-10-15 | 5 | vanshb03-2026, vanshb03-2027 |

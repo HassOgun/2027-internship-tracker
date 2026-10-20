@@ -8,21 +8,21 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Microsoft** | Data Science – Forward Deployed Engineer: PhD Intern | Redmond, WA | N/A | 2026-10-20 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040991) |
-| 2 | **Palantir** | Software Engineer Intern - Query Engines | London, UK | N/A | 2026-10-20 (0d ago) | [Apply](https://jobs.lever.co/palantir/3e59369e-1392-42f2-8d03-86648e87e963/apply) |
-| 3 | **Waymo** | Machine Learning Intern - Simulation & Closed-Loop Training | Mountain View, CA | Summer 2027 | 2026-10-19 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
-| 4 | **Meta** | Research Scientist Intern - Smart Glasses in Wearables AI | Burlingame, CA, Menlo Park, CA | N/A | 2026-10-19 (1d ago) | [Apply](https://www.metacareers.com/jobs/1584033410435097) |
-| 5 | **Scale AI** | Machine Learning Research Intern | SF, NYC | Summer 2027 | 2026-10-19 (1d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
-| 6 | **Salesforce** | Software Engineer Intern | SF, Bellevue, WA | Summer 2027 | 2026-10-19 (1d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911) |
-| 7 | **NVIDIA** | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA | Summer 2027 | 2026-10-19 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) |
-| 8 | **Adobe** | Security Engineer Intern | Lehi, UT |  | 2026-10-19 (1d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000) |
-| 9 | **Tesla** | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | Spring 2027 | 2026-10-18 (2d ago) | [Apply](https://www.tesla.com/careers/search/job/287024) |
-| 10 | **Accenture** | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | Winter 2027 | 2026-10-19 (1d ago) | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351) |
-| 11 | **Qualcomm** | Machine Learning AISW Intern | Markham, ON, Canada | Summer 2027 | 2026-10-19 (1d ago) | [Apply](https://qualcomm.eightfold.ai/careers/job/446721636765) |
-| 12 | **Susquehanna International Group** | Sell Side Research Rotational Program Intern | Remote (US) |  | 2026-10-14 (6d ago) | [Apply](https://careers-sig.icims.com/jobs/11434/sell-side-research-rotational-program%3a-august-2027-start/job) |
-| 13 | **Apple** | Software Engineer Intern - Apple Services Engineering | London, UK | N/A | 2026-10-16 (4d ago) | [Apply](https://jobs.apple.com/en-us/details/200689473) |
-| 14 | **DoorDash** | Electrical Engineer Intern - Labs | Oakland, CA | Summer 2027 | 2026-10-16 (4d ago) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) |
-| 15 | **Amazon** | Software Developer Intern | London, UK, Edinburgh, UK, Bristol, UK, Cambridge, UK | Summer 2027, Winter 2027, Spring 2027, Fall 2027 | 2026-10-16 (4d ago) | [Apply](https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) |
+| 1 | **Microsoft** | Product Management Intern | London, UK | N/A | 2026-10-20 (0d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040083) |
+| 2 | **Meta** | Research Scientist Intern - Audio - Machine Learning and Computer Vision | Cambridge, UK, Zürich, Switzerland | N/A | 2026-10-20 (0d ago) | [Apply](https://www.metacareers.com/jobs/1476285977740386) |
+| 3 | **Salesforce** | AI Research Intern | Palo Alto, CA | Summer 2027 | 2026-10-20 (0d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) |
+| 4 | **Palantir** | Software Engineer Intern, Query Engines | New York, NY |  | 2026-10-20 (0d ago) | [Apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
+| 5 | **OpenAI** | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA |  | 2026-10-20 (0d ago) | [Apply](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application) |
+| 6 | **Waymo** | Machine Learning Intern - Simulation & Closed-Loop Training | Mountain View, CA | Summer 2027 | 2026-10-19 (1d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
+| 7 | **Scale AI** | Machine Learning Research Intern | SF, NYC | Summer 2027 | 2026-10-19 (1d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
+| 8 | **NVIDIA** | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA | Summer 2027 | 2026-10-19 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) |
+| 9 | **Adobe** | Security Engineer Intern | Lehi, UT |  | 2026-10-19 (1d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000) |
+| 10 | **Tesla** | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | Spring 2027 | 2026-10-18 (2d ago) | [Apply](https://www.tesla.com/careers/search/job/287024) |
+| 11 | **Genentech** | Product Technical Development Intern - Digital Sciences Focus | South SF | Summer 2027 | 2026-10-20 (0d ago) | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202610-126833) |
+| 12 | **Sony** | Research Engineer Intern - Ethical Creative and Protective AI Lab | Connecticut, Florida, Virginia, NYC, Massachusetts, New Jersey, Michigan | N/A | 2026-10-20 (0d ago) | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) |
+| 13 | **Intel** | Data Science / Software Engineering PhD Intern | Santa Clara, CA | Summer 2027 | 2026-10-20 (0d ago) | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) |
+| 14 | **Northrop Grumman** | Cyber Systems Engineer Intern | Tampa, FL |  | 2026-10-20 (0d ago) | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196) |
+| 15 | **Accenture** | MES & Supply Chain Systems Co-op Analyst | Toronto, ON, Canada | Winter 2027 | 2026-10-19 (1d ago) | [Apply](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ontario---Toronto/Industry-X----MES---Supply-Chain-Engineering-Co-op-Analyst---Toronto---NAELFY27_R00365351) |
 
 ## 🚀 Top 5 Startups — YC-backed, actively hiring
 
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (48d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-20 20:19 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-20 23:45 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
