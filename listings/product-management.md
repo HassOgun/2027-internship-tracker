@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|
 | [Westinghouse Electric Company](https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors) | Product Engineer Intern | Cranberry Township, PA | Summer 2027 | 2026-10-19 | 1 | simplify-2026 |
 | [Amplify](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Product Management Intern | Remote in USA | Summer 2027 | 2026-10-19 | 1 | simplify-2026 |
-| [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8285180) | Product Co-op | Toronto, ON, Canada | Spring 2027 | 2026-10-19 | 1 | simplify-2026 |
+| [FanDuel](https://boards.greenhouse.io/embed/job_app?token=8285180) | Product Co-op | Toronto, ON, Canada | Spring 2027 | 2026-10-19 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) | Product Manager MBA Intern - Enterprise AI | Santa Clara, CA | Summer 2027 | 2026-10-19 | 1 | simplify-2026 |
 | [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) | Product Management Intern | Downers Grove, IL | Summer 2027 | 2026-10-19 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7697105572165519621) | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 | 3 | simplify-2026 |
@@ -80,7 +80,6 @@
 | [Fortune Brands](https://jobs.smartrecruiters.com/FortuneBrands/744000151692989) | Product Manager Intern - Retail | Deerfield, IL | Winter 2026 | 2026-09-24 | 26 | simplify-2026 |
 | [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) | Product Management Intern | New Berlin, WI | Summer 2027 | 2026-09-24 | 26 | simplify-2026 |
 | [Keenfinity](https://jobs.smartrecruiters.com/Keenfinity/744000151396749) | Product Development Co-op | Fairport, NY | Winter 2026 | 2026-09-23 | 27 | simplify-2026 |
-| [ONE Finance](https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application?embed=true) | Product Intern | NYC | Summer 2027 | 2026-09-22 | 28 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7686394581777631541/detail) | Product Management Project Intern - Global Payment | San Jose, CA | Summer 2027 | 2026-09-22 | 28 | simplify-2026 |
 | [Rivian](https://careers.rivian.com/jobs/33793?icims=1) | MBA Intern Co-op - Product Management Product Development | Palo Alto, CA | Spring 2027 | 2026-09-22 | 28 | simplify-2026 |
 | [Zimmer Biomet Holdings](https://careers.zimmerbiomet.com/us/en/job/12745) | Product Management Intern - Artificial Intelligence Product Management | Remote in USA | Summer 2027 | 2026-09-21 | 29 | simplify-2026 |
@@ -204,6 +203,7 @@
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148) | Product Management Intern - Global Merchant & Network Services | Phoenix, AZ | Summer 2027 | 2026-08-05 | 76 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7669927344569764101) | Product Operations Intern - Apps and API | Seattle, WA | Summer 2027 | 2026-08-05 | 76 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) | Product Development Intern - US Consumer Services | NYC | Summer 2027 | 2026-08-04 | 77 | simplify-2026 |
+| [TikTok](https://lifeattiktok.com/search/7667874197682899205) | Recommendation Product Manager Intern - Content Ecosystem | San Jose, CA | Summer 2027 | 2026-08-04 | 77 | simplify-2026 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R265940) | Marketing Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | 2026-08-03 | 78 | simplify-2026 |
 | [Uline](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) | Product Management Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | 2026-08-03 | 78 | simplify-2026 |
 | [Pentair](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713) | Product Management Internship | Apex, NC, Brookfield, WI, Delavan, WI, North Aurora, IL, New Brighton, MN, Golden Valley, MN | Summer 2027 | 2026-08-03 | 78 | simplify-2026 |
