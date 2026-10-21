@@ -45,6 +45,30 @@ def safe_cell(value):
     return str(value or '').replace('|', '\\|').replace('\n', ' ').strip()
 
 
+def location_priority(locations):
+    """Prefer Houston and US remote; avoid clearly international-only roles."""
+    parts = [str(x).strip() for x in locations if str(x).strip()]
+    combined = ', '.join(parts)
+    us_remote = re.compile(r'\bremote\b.*\b(us|usa|united states|u\.s\.)\b|\b(us|usa|united states|u\.s\.)\b.*\bremote\b', re.I)
+    houston = re.compile(r'\b(houston|katy|cypress|sugar land|the woodlands|spring|pearland|richmond|missouri city)\b', re.I)
+    texas = re.compile(r'\b(texas|\btx\b|dallas|austin|san antonio|fort worth|plano)\b', re.I)
+    international = re.compile(r'\b(canada|montreal|ottawa|toronto|vancouver|quebec|ontario|\bqc\b|\bon\b|united kingdom|london|india|germany|france|singapore|australia)\b', re.I)
+    us = re.compile(r'\b(usa|united states|u\.s\.|new york|nyc|seattle|kirkland|washington|california|boston|chicago|atlanta|florida|colorado)\b', re.I)
+    if houston.search(combined):
+        return 2.5
+    if us_remote.search(combined):
+        return 2.25
+    if texas.search(combined):
+        return 1.25
+    if re.search(r'\bremote\b', combined, re.I) and not international.search(combined):
+        return 1.5  # Remote, geography not specified: verify eligibility
+    if us.search(combined):
+        return 0.25
+    if parts and all(international.search(part) and not us.search(part) for part in parts):
+        return None  # Clearly international-only
+    return 0.0  # Unknown geography: retain, but rank lower
+
+
 def main():
     if not DATA.exists():
         raise SystemExit('Missing data/listings.json: run scrape.py first')
@@ -63,7 +87,9 @@ def main():
         role_score, category = match
         locations = listing.get('locations') or []
         location = ', '.join(map(str, locations))
-        location_score = 2 if re.search(r'\b(houston|katy|cypress|sugar land|the woodlands)\b', location, re.I) else 1.5 if re.search(r'\bremote\b', location, re.I) else 0.5 if re.search(r'\b(texas|dallas|austin|san antonio)\b', location, re.I) else 0
+        location_score = location_priority(locations)
+        if location_score is None:
+            continue
         fresh_score, posted = freshness(listing.get('date_posted'), today)
         score = role_score + location_score + fresh_score
         candidates.append((score, listing, category, posted, location))
@@ -78,7 +104,7 @@ def main():
         if len(picks) == 20:
             break
     lines = [f'# MIS Internship Top 20 — {today}', '',
-             'Ranked by role relevance, posting freshness, and Houston/remote location preference.', '',
+             'Ranked by role relevance, posting freshness, and Houston-first location preference, with US remote and other Texas roles also prioritized.', '',
              '> Listings come from the existing tracker feeds. Verify eligibility, graduation requirements, and whether applications are still open on the employer site.', '',
              f'**{len(picks)} matches selected** from {len(candidates)} relevant active listings.', '',
              '| # | Company | Role | Category | Location | Posted | Apply |',
