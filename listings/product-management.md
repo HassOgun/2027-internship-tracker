@@ -1,4 +1,4 @@
-# Product Management (225)
+# Product Management (224)
 
 [← back to index](../README.md)
 
@@ -76,7 +76,6 @@
 | [Acuity](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) | Product Management Technology Intern | Conyers, GA | Summer 2027 | 2026-09-29 | 22 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) | Finance AI Product Management Intern | Atlanta, GA | Summer 2027 | 2026-09-29 | 22 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7689010193607051525) | Cross-border E-commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product | Seattle, WA | Summer 2026 | 2026-09-29 | 22 | simplify-2026 |
-| [H&R Block](https://careers.hrblock.com/jobs/76986?icims=1) | Product Management Intern - S | Kansas City, MO | Summer 2027 | 2026-09-28 | 23 | simplify-2026 |
 | [UL Solutions](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625) | Product Management Intern | Northbrook, IL, Chicago, IL | Summer 2027 | 2026-09-28 | 23 | simplify-2026 |
 | [Pebl](https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application?embed=true) | Associate Product Manager Intern | Palo Alto, CA | Winter 2026 | 2026-09-25 | 26 | simplify-2026 |
 | [W.R. Berkley](https://careers-berkley.icims.com/jobs/14461/job?mobile=true&needsRedirect=false) | Product Management Analyst Intern | Urbandale, IA | Summer 2026 | 2026-09-25 | 26 | simplify-2026 |
