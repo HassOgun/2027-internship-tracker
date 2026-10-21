@@ -1,40 +1,32 @@
-# Today's Top 20 — 2026-10-21
+# MIS Internship Top 20 — 2026-10-21
 
-Updated with every refresh. Apply today — freshness matters.
+Ranked by role relevance, posting freshness, and Houston/remote location preference.
 
-## 🏢 Top 15 — High-signal picks
+> Listings come from the existing tracker feeds. Verify eligibility, graduation requirements, and whether applications are still open on the employer site.
 
-Ranked by freshness + company tier + role category.
+**20 matches selected** from 275 relevant active listings.
 
-| # | Company | Role | Location | Terms | Date Posted | Apply |
+| # | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Meta** | Research Scientist Intern - Robotics - World Models & Embodied AI | London, UK | N/A | 2026-10-21 (0d ago) | [Apply](https://www.metacareers.com/jobs/2281070982817094) |
-| 2 | **Apple** | Machine Learning Research Intern - Speech-to-Speech Translation | Cambridge, UK | N/A | 2026-10-21 (0d ago) | [Apply](https://jobs.apple.com/en-us/details/200690125) |
-| 3 | **NVIDIA** | Software Intern - Embedded Systems | Bristol, UK | N/A | 2026-10-21 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1) |
-| 4 | **Uber** | Software Engineer Intern | Seattle, WA, SF, Sunnyvale, CA | N/A | 2026-10-21 (0d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) |
-| 5 | **Adobe** | Security Engineer Intern | San Jose, CA |  | 2026-10-20 (1d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) |
-| 6 | **Microsoft** | Product Management Intern | London, UK | N/A | 2026-10-20 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040083) |
-| 7 | **Salesforce** | AI Research Intern | Palo Alto, CA | Summer 2027 | 2026-10-20 (1d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) |
-| 8 | **Palantir** | Software Engineer Intern, Query Engines | New York, NY |  | 2026-10-20 (1d ago) | [Apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
-| 9 | **OpenAI** | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA |  | 2026-10-20 (1d ago) | [Apply](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application) |
-| 10 | **Waymo** | Machine Learning Intern - Simulation & Closed-Loop Training | Mountain View, CA | Summer 2027 | 2026-10-19 (2d ago) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
-| 11 | **Scale AI** | Machine Learning Research Intern | SF, NYC | Summer 2027 | 2026-10-19 (2d ago) | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
-| 12 | **Tesla** | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | Spring 2027 | 2026-10-18 (3d ago) | [Apply](https://www.tesla.com/careers/search/job/287024) |
-| 13 | **LinkedIn** | Software Engineer Intern | Mountain View, CA | Summer 2027 | 2026-10-21 (0d ago) | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000156616169) |
-| 14 | **Genentech** | Product Technical Development Intern - Digital Sciences Focus | South SF | Summer 2027 | 2026-10-20 (1d ago) | [Apply](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202610-126833) |
-| 15 | **Sony** | Research Engineer Intern - Ethical Creative and Protective AI Lab | Connecticut, Florida, Virginia, NYC, Massachusetts, New Jersey, Michigan | N/A | 2026-10-20 (1d ago) | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) |
+| 1 | Susquehanna International Group | Technical Business Analyst Co-op | Business Analysis | Remote (US) | 2026-10-15 | [Apply](https://careers-sig.icims.com/jobs/11665/technical-business-analyst-co-op-with-drexel-university/job) |
+| 2 | Businessolver | Business Intelligence Analyst Intern - Innovation & Data Science | Data / BI | Remote in USA | 2026-10-14 | [Apply](https://www.businessolver.com/careers/openings/?gh_jid=8281727) |
+| 3 | Stand Together | Policy Data Analyst Intern | Data / BI | NYC | 2026-10-20 | [Apply](https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b/apply) |
+| 4 | Paccar | Field Service Data Analyst Intern | Data / BI | Kirkland, WA | 2026-10-20 | [Apply](https://jobs.paccar.com/job/Kirkland-Summer-2027-Field-Service-Data-Analyst-Intern-WA-98033/1449526633/?ats=successfactors) |
+| 5 | Ciena | Services Business Intelligence & Analytics Intern | Data / BI | Montreal, QC, Canada, Ottawa, ON, Canada | 2026-10-19 | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) |
+| 6 | Highmark Health | Data Analyst Undergraduate Intern | Data / BI | Pittsburgh, PA | 2026-10-19 | [Apply](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017) |
+| 7 | Amplify | Product Management Intern | Product | Remote in USA | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) |
+| 8 | The Toro Company | IT Business Analyst Intern, Ditch Witch | Business Analysis | Perry, OK | 2026-10-13 | [Apply](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608) |
+| 9 | Grow Financial Federal Credit Union | Systems Analyst Intern | IT / Information Systems | Remote in USA | 2026-09-21 | [Apply](https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false) |
+| 10 | Standard Aero | IT Analyst Intern | IT / Information Systems | Cincinnati, OH | 2026-10-09 | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479) |
+| 11 | Uline | Operations Analyst Intern | Operations | Pleasant Prairie, WI | 2026-10-21 | [Apply](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435) |
+| 12 | Wash U | Data Analyst Emergency Management Intern - Enterprise Physical Operations | Data / BI | St. Louis, MO | 2026-10-14 | [Apply](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1) |
+| 13 | Hays Electrical Services | Data Analyst Intern - IT / Accounting (Rotational) | Data / BI | Houston, TX | 2026-09-23 | [Apply](https://hayselectricalservices.applytojob.com/apply/X0z5NLCjcR/Intern-Data-Analyst) |
+| 14 | TikTok | Seller Strategy Business Analyst Intern - TikTok Shop - US Operation | Business Analysis | Seattle, WA | 2026-06-15 | [Apply](https://lifeattiktok.com/search/7558622480857188626) |
+| 15 | W.W. Grainger | Business Analyst Intern | Business Analysis | Green Bay, WI | 2026-09-29 | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors) |
+| 16 | Dairyland Power Cooperative | Business Analyst Intern | Business Analysis | La Crosse, WI | 2026-09-15 | [Apply](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Business-Analyst-Intern_JR101065) |
+| 17 | 3M | Business Analyst Intern - Consumer Business Group | Business Analysis | Maplewood, MN | 2026-09-14 | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) |
+| 18 | Navy Federal | Business Systems Analyst Intern | Business Analysis | Vienna, VA | 2026-09-09 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32314) |
+| 19 | Amgen | Business Analyst Co-op | Business Analysis | Burnaby, BC, Canada | 2026-09-02 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate-Co-op-Student---Business-Analyst_R-254807) |
+| 20 | PIMCO | Software Engineering Intern - Technology Analyst | IT / Information Systems | Austin, TX | 2026-08-18 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 
-## 🚀 Top 5 Startups — YC-backed, actively hiring
-
-Recent YC companies (W24–S26) with open roles right now.
-
-| # | Company | Role | Location | Terms | Date Posted | Apply |
-|---|---|---|---|---|---|---|
-| 1 | **Mosaic** | Artificial Intelligence Co-op Intern | Tampa, FL | Spring 2027 | 2026-08-20 (62d ago) | [Apply](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Spring-2027_64729) |
-| 2 | **Constellation Space** | Graduate Researcher Intern - Machine Learning | Seattle, WA | Fall 2026 | 2026-07-15 (98d ago) | [Apply](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) |
-| 3 | **Terranox AI** | Summer Intern - AI/ML Engineering | San Francisco, CA |  | 2026-05-14 (160d ago) | [Apply](https://www.workatastartup.com/jobs/94631) |
-| 4 | **General Astronautics** | Engineering Intern | San Francisco, CA |  | 2026-05-09 (165d ago) | [Apply](https://www.workatastartup.com/jobs/94206) |
-| 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (49d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
-
----
-*Generated 2026-10-21 21:15 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-21 21:25 UTC.*
