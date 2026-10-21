@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1529)
+# Data Science, AI & Machine Learning (1528)
 
 [← back to index](../README.md)
 
@@ -1049,7 +1049,6 @@
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors) | Data Analytics Intern - Data Science/Applied Math | Pomona, CA, Rosemead, CA | Summer 2027 | 2026-09-01 | 50 | simplify-2026 |
 | [Edison International](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) | Data Analytics Intern - Data Science - Applied Math | Pomona, CA, Rosemead, CA | Summer 2027 | 2026-09-01 | 50 | simplify-2026 |
 | [Pluralis Research](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Research Scientist Intern | Remote in USA, Remote in Australia | Winter 2026 | 2026-09-01 | 50 | simplify-2026 |
-| [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-7608) | AI Intern - AI Product Management - AI Controls Integration | Montreal, QC, Canada | Summer 2027 | 2026-09-01 | 50 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784) | Data Analytics Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | 2026-09-01 | 50 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831) | Data Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | 2026-09-01 | 50 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668) | Data Management Intern - Global Merchant & Network Services | Phoenix, AZ | Summer 2027 | 2026-09-01 | 50 | simplify-2026 |

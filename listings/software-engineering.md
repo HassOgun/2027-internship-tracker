@@ -1,4 +1,4 @@
-# Software Engineering (1373)
+# Software Engineering (1372)
 
 [← back to index](../README.md)
 
@@ -493,7 +493,6 @@
 | [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) | R&D Intern - AI Research Engineer | Mason, OH | Summer 2027, Summer 2026 | 2026-09-22 | 29 | simplify-2026 |
 | [GuideStone](https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129) | Software Developer Intern - Software Development | Dallas, TX | Summer 2027 | 2026-09-22 | 29 | simplify-2026 |
 | [SingleStore](https://job-boards.greenhouse.io/singlestore/jobs/8220919) | Software Engineer Intern - Engine | United States | Winter 2026 | 2026-09-21 | 30 | simplify-2026 |
-| [SingleStore](https://job-boards.greenhouse.io/singlestore/jobs/8220941) | Software Engineer Intern - Helios | United States | Winter 2026 | 2026-09-21 | 30 | simplify-2026 |
 | [Assured Guaranty](https://boards.greenhouse.io/assuredguaranty/jobs/8827458002) | Product Software Developer - Back-End | NYC | N/A | 2026-09-21 | 30 | simplify-2026 |
 | [Assured Guaranty](https://boards.greenhouse.io/assuredguaranty/jobs/8827460002) | Product Software Developer - Front-End | NYC | N/A | 2026-09-21 | 30 | simplify-2026 |
 | [Geneva Trading](https://job-boards.greenhouse.io/genevatrading/jobs/5242063007) | C++ Developer Intern | Chicago, IL | Summer 2026 | 2026-09-21 | 30 | simplify-2026 |
