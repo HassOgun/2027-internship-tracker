@@ -1,5 +1,259 @@
 [
   {
+    "date_updated": 1792603147,
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
+    "locations": [
+      "Andover, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Smith+Nephew",
+    "title": "Computer Vision Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "4d9997e7-9568-4e49-a1d0-8b5b58081fdf",
+    "date_posted": 1792603103,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792603146,
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547",
+    "locations": [
+      "Ottawa, ON"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Lumentum",
+    "title": "Optical Algorithms and Analytics Engineering Co-op",
+    "source": "vanshb03",
+    "id": "d5a58083-2617-4997-922d-1b8de8d1e48f",
+    "date_posted": 1792430321,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792603146,
+    "url": "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302",
+    "locations": [
+      "Miami, FL"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Analytic Partners",
+    "title": "Data Science Co-op",
+    "source": "vanshb03",
+    "id": "cb71369e-7e4f-4fe1-a780-38868f5f9928",
+    "date_posted": 1792593414,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792603146,
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
+    "locations": [
+      "Andover, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Smith+Nephew",
+    "title": "Embedded Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "db9f9f7f-d42b-423f-8ab6-7c8018ff379d",
+    "date_posted": 1792603101,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792603055,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733",
+    "locations": [
+      "Liberty, SC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Hitachi",
+    "title": "Software Engineering Co-op",
+    "source": "vanshb03",
+    "id": "84fa22cf-b7dd-4905-9539-70e99b3dbe06",
+    "date_posted": 1792601555,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792603055,
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
+    "locations": [
+      "El Segundo, CA",
+      "Chantilly, VA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Aerospace Corporation",
+    "title": "Hardware Security Engineering Intern",
+    "source": "vanshb03",
+    "id": "0d2ac04d-5077-44ce-b431-e84519b12dc2",
+    "date_posted": 1792599455,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792603055,
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190",
+    "locations": [
+      "Atlanta, GA",
+      "Frisco, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "T-Mobile",
+    "title": "Software Engineer Intern, Cloud Security",
+    "source": "vanshb03",
+    "id": "dd5b34d7-be48-46be-b009-2d489c67c62d",
+    "date_posted": 1792516655,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792603055,
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "Aerospace Corporation",
+    "title": "Digital Communication Intern",
+    "source": "vanshb03",
+    "id": "6801005c-1104-4440-8343-db1d9c787dc5",
+    "date_posted": 1792599455,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792602873,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075",
+    "locations": [
+      "Farmington Hills, MI"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Bosch",
+    "title": "Calibration Process Optimization Intern",
+    "source": "vanshb03",
+    "id": "4b75ef8b-2bfc-4690-8839-db04755786cc",
+    "date_posted": 1792563438,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792602840,
+    "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "company_name": "AeroVironment",
+    "title": "Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "1182a84a-1005-491e-b88d-451db385adb1",
+    "date_posted": 1792566000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792602840,
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+    "locations": [
+      "Andover, MA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Smith+Nephew",
+    "title": "Agentic AI Software Engineering Intern",
+    "source": "vanshb03",
+    "id": "a10cdb28-2938-4ed4-98e6-c3a5e2bd9a77",
+    "date_posted": 1792566000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792602840,
+    "url": "https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
+    "locations": [
+      "Plano, TX"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Toyota",
+    "title": "Data Science Intern, TFS",
+    "source": "vanshb03",
+    "id": "871bd3f5-fd4d-4777-a3a1-4560447ca316",
+    "date_posted": 1792566000,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "source": "Simplify",
     "category": "Hardware",
     "company_name": "Marvell",
@@ -22,7 +276,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -76,7 +332,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -250,7 +508,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -429,7 +689,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -776,7 +1038,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -805,6 +1069,114 @@
     ],
     "_sources": [
       "simplify-2026"
+    ]
+  },
+  {
+    "date_updated": 1792554353,
+    "url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Rhoda AI",
+    "title": "Software Engineer Intern, Inference",
+    "source": "vanshb03",
+    "id": "30af1325-f87d-4e4e-b279-b7c7596f0ec3",
+    "date_posted": 1792550753,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792554309,
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Hitachi",
+    "title": "AI Intern, Supply Chain",
+    "source": "vanshb03",
+    "id": "9d5c56d3-ae07-4d92-951d-b7634ae49ed8",
+    "date_posted": 1792454400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Winter",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792554309,
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
+    "locations": [
+      "San Jose, CA",
+      "Folsom, CA"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Micron Technology",
+    "title": "Design Engineer Intern, Pathfinding",
+    "source": "vanshb03",
+    "id": "61b0b82e-d951-4738-9341-b4901db9024b",
+    "date_posted": 1792454400,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792554309,
+    "url": "https://boards.greenhouse.io/drivewealth/jobs/8039350003",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "DriveWealth",
+    "title": "AI Engineer Intern, AI Consulting Associate Program",
+    "source": "vanshb03",
+    "id": "06eb200e-e98f-4fda-9fd5-8d854685d93b",
+    "date_posted": 1792536181,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792554309,
+    "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "DriveWealth",
+    "title": "Product Owner Intern, AI Consulting Associate Program",
+    "source": "vanshb03",
+    "id": "c3e0cdba-ae93-4f4b-8969-3595afcba434",
+    "date_posted": 1792536182,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -886,7 +1258,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -913,7 +1287,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -967,7 +1343,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -1181,7 +1559,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -1552,7 +1932,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -1685,7 +2067,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -2271,7 +2655,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -2633,7 +3019,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -3053,7 +3441,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -3080,7 +3470,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -3106,7 +3498,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -3158,7 +3552,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -3211,7 +3607,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -3237,7 +3635,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -6265,9 +6665,7 @@
     "sponsorship": "Other",
     "degrees": [],
     "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
+      "simplify-2026"
     ]
   },
   {
@@ -7427,13 +7825,34 @@
   },
   {
     "date_updated": 1792442313,
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682",
+    "locations": [
+      "Fountain Inn, SC"
+    ],
+    "sponsorship": "Other",
+    "active": true,
+    "company_name": "Bosch",
+    "title": "Software Engineering Co-op",
+    "source": "vanshb03",
+    "id": "04fd72aa-b1c3-4ff1-8259-08b6ad402b2a",
+    "date_posted": 1792418919,
+    "company_url": "",
+    "is_visible": true,
+    "season": "Summer",
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "date_updated": 1792442313,
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156323136",
     "locations": [
       "Pittsburgh, PA"
     ],
     "sponsorship": "Other",
     "active": true,
-    "company_name": "Robert Bosch Venture Capital",
+    "company_name": "Bosch",
     "title": "AI Research Intern, Wireless Foundation Models",
     "source": "vanshb03",
     "id": "e1abd0d9-e6e3-447f-8454-d24df321e52d",
@@ -7892,9 +8311,7 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
+      "simplify-2026"
     ]
   },
   {
@@ -15184,7 +15601,9 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -27827,7 +28246,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -89468,7 +89889,7 @@
     "company_name": "Definity Financial",
     "id": "f85c6116-26b1-4c2a-bd7c-23dbdc6559ce",
     "title": "Technology Solutions Co-op Intern - Data Platform & Engineering",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -111466,7 +111887,9 @@
       "Master's"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -184263,7 +184686,9 @@
       "PhD"
     ],
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -390843,9 +391268,7 @@
       "Bachelor's"
     ],
     "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
+      "simplify-2026"
     ]
   },
   {

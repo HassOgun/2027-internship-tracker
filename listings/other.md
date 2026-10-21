@@ -1,9 +1,22 @@
-# Other (475)
+# Other (493)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Smith+Nephew](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964) | Computer Vision Software Engineering Intern | Andover, MA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Smith+Nephew](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952) | Embedded Software Engineering Intern | Andover, MA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733) | Software Engineering Co-op | Liberty, SC |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954) | Hardware Security Engineering Intern | El Segundo, CA, Chantilly, VA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Undergraduate-Intern_R016948) | Digital Communication Intern | El Segundo, CA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Analytic Partners](https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302) | Data Science Co-op | Miami, FL |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828) | Software Engineering Intern | San Diego, CA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Smith+Nephew](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953) | Agentic AI Software Engineering Intern | Andover, MA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toyota](https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) | Data Science Intern, TFS | Plano, TX |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Bosch](https://jobs.smartrecruiters.com/BoschGroup/744000156585075) | Calibration Process Optimization Intern | Farmington Hills, MI |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Rhoda AI](https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4) | Software Engineer Intern, Inference | Mountain View, CA |  | 2026-10-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [DriveWealth](https://boards.greenhouse.io/drivewealth/jobs/8038087003) | Product Owner Intern, AI Consulting Associate Program | Chicago, IL, NYC |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
+| [DriveWealth](https://boards.greenhouse.io/drivewealth/jobs/8039350003) | AI Engineer Intern, AI Consulting Associate Program | Chicago, IL, NYC |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Sony](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784) | Research Engineer Intern, Ethical Creative and Protective AI Lab | Remote in USA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Technology-Risk_R-0000033765) | Technology Risk Intern | Dallas, TX |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727) | Security Engineer Intern | Arlington, VA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -12,6 +25,7 @@
 | [Illumio](https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260) | Security Research Intern | Sunnyvale, CA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Humble Robotics](https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3) | Embedded Software Engineer Intern | San Francisco, CA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Integrate](https://jobs.ashbyhq.com/integrate/d619e978-446a-4147-a788-9e53918a1736) | Software Engineering Intern | Seattle, WA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
+| [T-Mobile](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190) | Software Engineer Intern, Cloud Security | Atlanta, GA, Frisco, TX |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196) | Cyber Systems Engineer Intern | Tampa, FL |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103) | Software Engineer Intern, Compiler | Sugar Land, TX |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940) | Software Engineering Intern | Minneapolis, MN |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -30,6 +44,8 @@
 | [CIBC](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2) | Application/Software Developer Co-op, Enterprise Technology & Business Management | Toronto, ON |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [OpenAI](https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application) | Backend Software Engineer Intern, Cooperative AI (Evals) | San Francisco, CA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Amazon.com Services LLC](https://www.amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Hardware Development Engineer Intern | Bellevue, WA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043) | AI Intern, Supply Chain | Toronto, ON, Canada |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189) | Design Engineer Intern, Pathfinding | San Jose, CA, Folsom, CA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Software Engineer Intern, Security | Atlanta, GA |  | 2026-10-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Inversion Space](https://job-boards.greenhouse.io/inversionspace/jobs/4745076005) | AI & Internal Tools Software Engineer Intern | Playa Vista, CA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Inversion Space](https://job-boards.greenhouse.io/inversionspace/jobs/4745083005) | Vehicle Software Engineer Intern | Playa Vista, CA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
@@ -46,9 +62,11 @@
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) | AI & Architecture Intern | San Jose, CA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) | Data, AI & Innovation Intern | San Jose, CA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Scale AI](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | Machine Learning Research Intern | New York, NY, San Francisco, CA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
+| [Lumentum](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms-and-Analytics-Engineering-Co-op-Intern_20261547) | Optical Algorithms and Analytics Engineering Co-op | Ottawa, ON |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Heron Power](https://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da) | Firmware Engineering Intern | Scotts Valley, CA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [LLNL](https://jobs.smartrecruiters.com/llnl/3743990016225626) | Predictive Science Academic Alliance Program IV Student Intern | Livermore, CA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
-| [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) | AI Research Intern, Wireless Foundation Models | Pittsburgh, PA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
+| [Bosch](https://jobs.smartrecruiters.com/BoschGroup/744000156311682) | Software Engineering Co-op | Fountain Inn, SC |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
+| [Bosch](https://jobs.smartrecruiters.com/BoschGroup/744000156323136) | AI Research Intern, Wireless Foundation Models | Pittsburgh, PA |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [National Information Solutions Cooperative](https://job-boards.greenhouse.io/nisc/jobs/8301304) | Application Analyst Intern, Financials Software | Mandan, ND |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [The Toro Company](https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) | Cloud Software Development Intern | Frederick, CO |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625) | Software Engineer Intern | Holtsville, NY |  | 2026-10-19 | 2 | vanshb03-2026, vanshb03-2027 |
