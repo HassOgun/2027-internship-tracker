@@ -2,6 +2,89 @@
   {
     "source": "Simplify",
     "category": "Software",
+    "company_name": "NVIDIA",
+    "id": "a31a7c17-501a-4eb8-a17b-39bf87ed4403",
+    "title": "Software Intern - Embedded Systems",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792588862,
+    "date_posted": 1792540800,
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
+    "locations": [
+      "Bristol, UK"
+    ],
+    "company_url": "https://simplify.jobs/c/NVIDIA",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Master's",
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "AI/ML/Data",
+    "company_name": "Johnson & Johnson",
+    "id": "99db0e09-f672-4d8a-942d-ea95fb704ed8",
+    "title": "Translational Postdoctoral Researcher Intern - Agentic AI for Neurodegeneration",
+    "active": false,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792584950,
+    "date_posted": 1783473196,
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Translational-Post-Doctoral-Researcher---Agentic-AI-for-Neurodegeneration_R-074853-1",
+    "locations": [
+      "Cambridge, MA",
+      "Spring House, PA",
+      "Raritan, NJ",
+      "Hopewell Township, NJ",
+      "San Diego, CA"
+    ],
+    "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "PhD"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
+    "company_name": "Aptiv",
+    "id": "870cc93e-557c-4662-95bf-2cf7b7e1fbb3",
+    "title": "Linux Software Development Intern",
+    "active": true,
+    "terms": [
+      "N/A"
+    ],
+    "date_updated": 1792584918,
+    "date_posted": 1791504000,
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "company_url": "https://simplify.jobs/c/Aptiv",
+    "is_visible": true,
+    "sponsorship": "Other",
+    "degrees": [
+      "Bachelor's"
+    ],
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "source": "Simplify",
+    "category": "Software",
     "company_name": "TruStage",
     "id": "8b26c26a-93b7-4702-b463-83420efc11af",
     "title": "Information Technology Development and Infrastructure Intern",
@@ -1044,7 +1127,7 @@
     "company_name": "Royal Bank of Canada",
     "id": "bc33b19a-c530-4a54-8133-36436abba0f9",
     "title": "Retail Risk Modeling Analyst Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -1125,7 +1208,7 @@
     "company_name": "Picton Mahoney Asset Management",
     "id": "42bed99f-4c2b-48e8-8628-267f69e7eaca",
     "title": "Data Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -16524,7 +16607,7 @@
     "company_name": "Boeing",
     "id": "9ec37f91-22e8-4385-8448-70216de96b09",
     "title": "Data Science Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2027"
     ],
@@ -30255,7 +30338,7 @@
     "company_name": "NVIDIA",
     "id": "5e11b38c-46d7-4f70-b6eb-2957ec570881",
     "title": "AI Developer Technology Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -33117,7 +33200,7 @@
     "company_name": "The Federal Reserve System",
     "id": "e7f4bf5f-d2db-4cf1-a052-81c57b0543b1",
     "title": "Research Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -44002,7 +44085,7 @@
     "company_name": "Walmart",
     "id": "29e1f2eb-ef33-4ffe-9666-976c19430870",
     "title": "Economist Manager Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -44659,7 +44742,7 @@
     "company_name": "RTX",
     "id": "44d51ce5-b0d7-47ab-93d2-24148841c53d",
     "title": "AI DSP Applied Research Co-op",
-    "active": false,
+    "active": true,
     "terms": [
       "N/A"
     ],
@@ -71361,7 +71444,7 @@
     "company_name": "Marvell",
     "id": "7cc624ba-7ee7-48f0-bddc-e6d5e064f6f9",
     "title": "Digital IC Design Intern",
-    "active": false,
+    "active": true,
     "terms": [
       "Summer 2027"
     ],
@@ -79313,7 +79396,7 @@
     "company_name": "Northrop Grumman",
     "id": "cf283809-6474-4e9c-ba5c-e9e82ef23ce2",
     "title": "Software Engineering Industrial Placement",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -79339,7 +79422,7 @@
     "company_name": "Northrop Grumman",
     "id": "cf896c51-1fa7-4b1d-9833-0c351e056b35",
     "title": "Software Engineer - Industrial Placement",
-    "active": true,
+    "active": false,
     "terms": [
       "N/A"
     ],
@@ -84368,7 +84451,7 @@
     "company_name": "Lunar Outpost",
     "id": "8b5f96a8-b90d-4f41-9ff7-1c4b1bc8089b",
     "title": "Robotics Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -84395,7 +84478,7 @@
     "company_name": "Lunar Outpost",
     "id": "97d67a9f-ceb5-40f2-9511-3c86c813689a",
     "title": "Ground Software Engineer Intern - Summer 2027",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -84607,7 +84690,7 @@
     "company_name": "Lunar Outpost",
     "id": "61b7386b-1994-439e-a17e-9346d940148d",
     "title": "Test Engineering Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -88631,7 +88714,7 @@
     "company_name": "Nexthop.ai",
     "id": "d95281cf-98b3-4a5a-95ed-2ad39d2197a1",
     "title": "Software Engineer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -99538,7 +99621,7 @@
     "company_name": "Armstrong Fluid Technology",
     "id": "de75794d-d7b3-4986-b72f-59bf9ce8daa1",
     "title": "Test Engineering Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Winter 2026"
     ],
@@ -117319,7 +117402,7 @@
     "company_name": "Xcel Energy",
     "id": "5c2025b4-9d0f-4646-a4ab-27dcc03f13cf",
     "title": "Resource Planning Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -146472,7 +146555,7 @@
     "company_name": "Maven Securities",
     "id": "8b07563a-a076-4b83-b485-3f36db4ae47a",
     "title": "Software Developer Intern",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2027"
     ],
@@ -184330,7 +184413,7 @@
     "company_name": "Specter Aerospace",
     "id": "58719875-03a5-4934-aa9f-46c5b044cc97",
     "title": "Image Processing Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -184383,7 +184466,7 @@
     "company_name": "Specter Aerospace",
     "id": "5cbd2b0f-806d-42d0-91fe-637455fe40c0",
     "title": "Front-End Software Developer Co-op",
-    "active": true,
+    "active": false,
     "terms": [
       "Spring 2027"
     ],
@@ -184462,7 +184545,7 @@
     "company_name": "Calpion/Plutus Health",
     "id": "88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c",
     "title": "AI Engineering Intern - Python & Agentic AI",
-    "active": true,
+    "active": false,
     "terms": [
       "Summer 2026"
     ],
@@ -412389,114 +412472,6 @@
     "is_visible": true,
     "sponsorship": "Other",
     "degrees": [
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Protiviti",
-    "id": "53547224-9403-40ef-b264-618f51226c44",
-    "title": "Chicago Technology Consulting Intern - 2027",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771854406,
-    "date_posted": 1771854406,
-    "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CHICAGO/Chicago-Technology-Consulting-Intern---2027_JR-258884-3",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "company_url": "https://simplify.jobs/c/Protiviti",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Protiviti",
-    "id": "234f2ee2-f1c4-4f66-b556-0e22187ce69c",
-    "title": "Technology Consulting Intern",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771854397,
-    "date_posted": 1771854397,
-    "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/LOS-ANGELES/Los-Angeles-Technology-Consulting-Intern---2027_JR-258931-3",
-    "locations": [
-      "LA"
-    ],
-    "company_url": "https://simplify.jobs/c/Protiviti",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "AI/ML/Data",
-    "company_name": "Protiviti",
-    "id": "5ba2c64d-0bf4-44e5-a8a0-b3bdc0bd73fa",
-    "title": "Houston Technology Consulting Intern - 2027",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771854382,
-    "date_posted": 1771854381,
-    "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/HOUSTON/Houston-Technology-Consulting-Intern---2027_JR-258921-3",
-    "locations": [
-      "Houston, TX"
-    ],
-    "company_url": "https://simplify.jobs/c/Protiviti",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
-      "Master's"
-    ],
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "source": "Simplify",
-    "category": "Software",
-    "company_name": "Waters Corporation",
-    "id": "55855bc9-70da-4291-ab57-b1c7b9259cd7",
-    "title": "TA Instruments \u2013 Software Engineering Intern - Next Generation SW Platform",
-    "active": false,
-    "terms": [
-      "Summer 2026"
-    ],
-    "date_updated": 1771842861,
-    "date_posted": 1771842861,
-    "url": "https://uscareers-waters.icims.com/jobs/25342/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "New Castle, DE"
-    ],
-    "company_url": "https://simplify.jobs/c/Waters-Corporation",
-    "is_visible": true,
-    "sponsorship": "Other",
-    "degrees": [
-      "Bachelor's",
       "Master's"
     ],
     "_sources": [

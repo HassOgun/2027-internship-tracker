@@ -8,9 +8,9 @@ Ranked by freshness + company tier + role category.
 
 | # | Company | Role | Location | Terms | Date Posted | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Meta** | Research Scientist Intern | Menlo Park, CA | N/A | 2026-10-21 (0d ago) | [Apply](https://www.metacareers.com/jobs/1510576574212840) |
-| 2 | **Uber** | Software Engineer Intern | Seattle, WA, SF, Sunnyvale, CA | N/A | 2026-10-21 (0d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) |
-| 3 | **NVIDIA** | Systems Software Intern - Aerial PHY | Santa Clara, CA | Summer 2027 | 2026-10-20 (1d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530) |
+| 1 | **NVIDIA** | Software Intern - Embedded Systems | Bristol, UK | N/A | 2026-10-21 (0d ago) | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1) |
+| 2 | **Meta** | Research Scientist Intern | Menlo Park, CA | N/A | 2026-10-21 (0d ago) | [Apply](https://www.metacareers.com/jobs/1510576574212840) |
+| 3 | **Uber** | Software Engineer Intern | Seattle, WA, SF, Sunnyvale, CA | N/A | 2026-10-21 (0d ago) | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) |
 | 4 | **Adobe** | Security Engineer Intern | San Jose, CA |  | 2026-10-20 (1d ago) | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) |
 | 5 | **Microsoft** | Product Management Intern | London, UK | N/A | 2026-10-20 (1d ago) | [Apply](https://apply.careers.microsoft.com/careers/job/1970393557040083) |
 | 6 | **Salesforce** | AI Research Intern | Palo Alto, CA | Summer 2027 | 2026-10-20 (1d ago) | [Apply](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) |
@@ -37,4 +37,4 @@ Recent YC companies (W24–S26) with open roles right now.
 | 5 | **Dedalus Labs** | Systems Engineer Intern | SF | Winter 2026 | 2026-09-02 (49d ago) | [Apply](https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true) |
 
 ---
-*Generated 2026-10-21 10:38 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
+*Generated 2026-10-21 14:10 UTC — rankings update with each refresh. See [README](README.md) for all listings.*
