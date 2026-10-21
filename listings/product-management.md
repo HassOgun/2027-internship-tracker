@@ -1,4 +1,4 @@
-# Product Management (224)
+# Product Management (223)
 
 [← back to index](../README.md)
 
@@ -115,7 +115,6 @@
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799) | Software Product Management Intern | Austin, TX | Winter 2026 | 2026-09-11 | 40 | simplify-2026 |
 | [Fortune Brands](https://jobs.smartrecruiters.com/FortuneBrands/744000149058098) | Product Management Intern - B2B Security | Deerfield, IL | Winter 2026 | 2026-09-11 | 40 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283137) | Vehicle Accessories & Merchandise Product Intern - Global Merchandise | Hawthorne, CA | Winter 2027, Spring 2027 | 2026-09-11 | 40 | simplify-2026 |
-| [Definity Financial](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9354) | Commercial Insurance Product Owner Co-op Intern | Waterloo, ON, Canada | Winter 2027 | 2026-09-11 | 40 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) | Digital Product Intern - Digital Product - Technology & Medical Organizations | Remote in USA | Summer 2027 | 2026-09-11 | 40 | simplify-2026 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) | Digital Product Intern | Remote in USA | Summer 2027 | 2026-09-11 | 40 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Lynchburg-Product-Management-Intern-VA-24501-6952/1414571100/?ats=successfactors) | Product Management Intern | Lynchburg, VA | Winter 2026 | 2026-09-10 | 41 | simplify-2026 |

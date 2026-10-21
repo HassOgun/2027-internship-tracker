@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1531)
+# Data Science, AI & Machine Learning (1529)
 
 [← back to index](../README.md)
 
@@ -175,7 +175,6 @@
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800354) | AI Research Associate Program Intern | NYC | N/A | 2026-10-14 | 7 | simplify-2026 |
 | [AGCO](https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors) | AI & Data Science Intern | Champaign, IL | Spring 2027 | 2026-10-14 | 7 | simplify-2026 |
 | [AGCO](https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors) | Agricultural Business Analytics Intern | Champaign, IL | Spring 2027 | 2026-10-14 | 7 | simplify-2026 |
-| [AGCO](https://careers.agcocorp.com/job/Business-Intelligence-Intern-Spring-2027/1440110900/?ats=successfactors) | Business Intelligence Intern | United States | Spring 2027, Summer 2027 | 2026-10-14 | 7 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1758435721926913) | Computer Vision Engineer Intern - Advanced Manufacturing - Reality Labs | Sunnyvale, CA | N/A | 2026-10-14 | 7 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1658187582680157) | Research Scientist Intern - Robotics Foundation Models Mid-Training - PhD | Menlo Park, CA | N/A | 2026-10-14 | 7 | simplify-2026 |
 | [National Life](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) | Data Science Intern | Montpelier, VT, Addison, TX | Summer 2027 | 2026-10-14 | 7 | simplify-2026 |
@@ -862,7 +861,6 @@
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | Data Science Intern - Algorithms | SF | Summer 2027 | 2026-09-11 | 40 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | Data Engineer Intern | Toronto, ON, Canada | Summer 2027 | 2026-09-11 | 40 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | Data Science Intern - Algorithms | NYC | Summer 2027 | 2026-09-11 | 40 | simplify-2026 |
-| [Lyft](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | Data Analyst Intern | NYC | Summer 2027 | 2026-09-11 | 40 | simplify-2026 |
 | [Lyft](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) | Data Science Intern - Algorithms | Toronto, ON, Canada | Summer 2027 | 2026-09-11 | 40 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/19926?icims=1) | Data Scientist Intern | Olathe, KS | Winter 2026 | 2026-09-11 | 40 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283128) | Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus | Palo Alto, CA | Spring 2027 | 2026-09-11 | 40 | simplify-2026 |
