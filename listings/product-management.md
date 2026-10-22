@@ -1,4 +1,4 @@
-# Product Management (267)
+# Product Management (265)
 
 [← back to index](../README.md)
 
@@ -12,7 +12,6 @@
 | [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Product Management Advertising Intern | Illinois | Summer 2027 | 2026-10-21 | 1 | simplify-2026 |
 | [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) | Product Analyst Co-op | Toronto, ON, Canada | Winter 2027 | 2026-10-21 | 1 | simplify-2026 |
 | [Maple Leaf Sports & Entertainment Partnership (MLSE)](https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2) | Business Strategy & Product Management Intern - AI | Toronto, ON, Canada | Winter 2026 | 2026-10-21 | 1 | simplify-2026 |
-| [GoFundMe](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | MBA Product Management Internship, Summer 2027 | San Francisco, CA | Summer 2027 | 2026-10-21 | 1 | applyguy-2027 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557040083) | Product Management Intern | London, UK | N/A | 2026-10-20 | 2 | simplify-2026 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-San-Diego-CA---WR/Product-Analyst-Intern_J000704400) | Product Analyst Intern - AI & Incubation | San Diego, CA | N/A | 2026-10-20 | 2 | simplify-2026 |
 | [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640) | Supplies & Sensors Product Manager Intern - US | Lincolnshire, IL | Summer 2027 | 2026-10-20 | 2 | simplify-2026 |
@@ -138,7 +137,6 @@
 | [Johnson & Johnson](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757) | Product Management Co-op - Patient Management Solutions | Danvers, MA | Winter 2026 | 2026-09-18 | 34 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) | Product Management Intern - Digital Product | Austin, TX, Warren, MI | Summer 2027 | 2026-09-18 | 34 | simplify-2026 |
 | [W.R. Berkley](https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false) | Product Management Analyst Intern - Claims | Manassas, VA | Summer 2027 | 2026-09-17 | 35 | simplify-2026 |
-| [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Private-Markets-Product_R-15545) | Early Career Intern - Private Markets Product | Atlanta, GA | Summer 2027 | 2026-09-17 | 35 | simplify-2026 |
 | [Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586) | Product Specialist Intern | Fort Worth, TX | Summer 2027 | 2026-09-17 | 35 | simplify-2026 |
 | [Zurn Elkay Water Solutions](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) | Product Management Intern | Paso Robles, CA | Summer 2027 | 2026-09-17 | 35 | simplify-2026 |
 | [Gordon Food Service](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336) | Digital Product Management Intern | Wyoming, MI | Summer 2027 | 2026-09-17 | 35 | simplify-2026 |
