@@ -25,9 +25,8 @@ jobs:
       - name: Refresh listings
         id: scrape
         run: |
-          output=$(python scripts/scrape.py)
-          echo "$output"
-          echo "summary=$output" >> $GITHUB_OUTPUT
+          python scripts/scrape.py
+         
 
       - name: Generate Top 20 recommendations
         run: python scripts/recommend.py
@@ -38,7 +37,7 @@ jobs:
             git config user.name "SuryaHarikrishnan"
             git config user.email "suryanarayanan.harikrishnan@gmail.com"
             git add -A
-            git commit -m "Listings refresh $(date -u +%H:%M) UTC — ${{ steps.scrape.outputs.summary }}"
+            git commit -m "Listings Listings refresh $(date -u +%H:%M) UTC"
             git push
           else
             echo "No changes since last refresh, skipping commit."
