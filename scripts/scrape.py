@@ -32,6 +32,8 @@ SOURCES = {
     "simplify-2026": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
     "vanshb03-2026": "https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/dev/.github/scripts/listings.json",
     "vanshb03-2027": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+    "dreamwork-2027": "https://raw.githubusercontent.com/dreamworkhq/Open-Tech-Internships-2027/main/data/listings.json",
+    "applyguy-2027": "https://raw.githubusercontent.com/ApplyGuy/2027-Internships/main/data/internships.json",
 }
 
 HEADERS = {"User-Agent": "internship-tracker/1.0 (personal aggregator)"}
@@ -63,6 +65,10 @@ CATEGORY_ALIASES = {
     "quantitative finance": "Quantitative Finance",
     "product": "Product Management",
     "product management": "Product Management",
+    "data": "Data Analytics",
+    "analytics": "Data Analytics",
+    "business": "Business & Analytics",
+    "finance": "Finance & Accounting",
 }
 
 
@@ -84,10 +90,77 @@ def active_key_set(listings: list) -> set:
     }
 
 
+def parse_date(value):
+    """Convert ISO dates, milliseconds, or Unix seconds into Unix seconds."""
+    if isinstance(value, (int, float)):
+        return int(value / 1000 if value > 10**11 else value)
+    if isinstance(value, str) and value.strip():
+        try:
+            return int(datetime.fromisoformat(value.strip().replace("Z", "+00:00")).timestamp())
+        except ValueError:
+            pass
+    return 0
+
+
+def normalize_external(item, source):
+    """Map alternative feeds into the existing Simplify-compatible schema."""
+    if not isinstance(item, dict):
+        return None
+    company = item.get("company_name") or item.get("company") or item.get("companyName")
+    if isinstance(company, dict):
+        company = company.get("name")
+    title = item.get("title") or item.get("job_title") or item.get("role")
+    url = item.get("listingUrl") or item.get("applyUrl") or item.get("apply_url") or item.get("url") or item.get("link")
+    if not all(isinstance(v, str) and v.strip() for v in (company, title, url)):
+        return None
+    if not url.startswith(("https://", "http://")):
+        return None
+    locations = item.get("locations") or item.get("location") or item.get("jobLocation") or []
+    if isinstance(locations, str):
+        locations = [locations]
+    if isinstance(locations, dict):
+        locations = [locations.get("name") or locations.get("city") or "Unknown"]
+    if not isinstance(locations, list):
+        locations = []
+    locations = [str(x.get("name") or x.get("city") or "Unknown") if isinstance(x, dict) else str(x) for x in locations if x]
+    category = item.get("category") or item.get("department") or "Other"
+    if isinstance(category, dict):
+        category = category.get("name", "Other")
+    posted = parse_date(item.get("date_posted") or item.get("postedAt") or item.get("posted") or item.get("posted_at") or item.get("datePosted"))
+    updated = parse_date(item.get("date_updated") or item.get("updatedAt") or item.get("updated_at")) or posted
+    terms = item.get("terms") or ([item["season"]] if item.get("season") else [])
+    if isinstance(terms, str):
+        terms = [terms]
+    if not isinstance(terms, list):
+        terms = []
+    return {
+        "company_name": company.strip(), "title": title.strip(), "url": url.strip(),
+        "locations": locations, "terms": terms, "category": str(category),
+        "date_posted": posted, "date_updated": updated,
+        "active": item.get("active", True), "is_visible": item.get("is_visible", True),
+    }
+
+
+def extract_items(payload, name):
+    if isinstance(payload, list):
+        return payload
+    if isinstance(payload, dict):
+        for key in ("listings", "jobs", "internships", "data"):
+            result = payload.get(key)
+            if isinstance(result, list):
+                return result
+            if isinstance(result, dict):
+                for inner in ("listings", "jobs", "internships"):
+                    if isinstance(result.get(inner), list):
+                        return result[inner]
+    raise ValueError(f"Unexpected {name} feed schema")
+
+
 def main():
     # load previous snapshot for diffing
     snapshot_path = DATA_DIR / "listings.json"
     prev_keys: set = set()
+    prev = []
     if snapshot_path.exists():
         try:
             prev = json.loads(snapshot_path.read_text(encoding="utf-8"))
@@ -97,25 +170,42 @@ def main():
 
     merged: dict = {}
     fetched_sources: list = []
+    failed_sources: list = []
     for name, url in SOURCES.items():
         try:
-            items = fetch_json(url)
+            raw_items = extract_items(fetch_json(url), name)
+            items = [normalize_external(item, name) for item in raw_items]
+            items = [item for item in items if item]
+            if not items:
+                raise ValueError("No usable records; check feed schema")
         except Exception as exc:
-            print(f"[warn] failed to fetch {name}: {exc}")
+            print(f"[warn] failed to fetch/parse {name}: {exc}")
+            failed_sources.append(name)
             continue
         fetched_sources.append(name)
+        print(f"[source] {name}: {len(items)} usable records")
         for item in items:
             key = dedup_key(item)
             if key not in merged:
                 item["_sources"] = [name]
                 merged[key] = item
-            else:
-                if name not in merged[key]["_sources"]:
-                    merged[key]["_sources"].append(name)
+            elif name not in merged[key]["_sources"]:
+                merged[key]["_sources"].append(name)
+                # Preserve a valid direct employer link where available.
+                if name == "applyguy-2027":
+                    merged[key]["url"] = item["url"]
+
+    if not fetched_sources:
+        raise RuntimeError("All sources failed; preserving existing files")
+    # Do not publish a partial snapshot if any source failed: this would
+    # incorrectly mark its jobs as closed and remove them from the index.
+    if failed_sources:
+        raise RuntimeError(f"Source failures {failed_sources}; preserving existing snapshot")
 
     listings = list(merged.values())
     listings.sort(key=lambda x: x.get("date_updated", 0), reverse=True)
 
+    # Save only after all sources have been parsed successfully.
     snapshot_path.write_text(json.dumps(listings, indent=2), encoding="utf-8")
 
     curr_keys = active_key_set(listings)
@@ -123,8 +213,7 @@ def main():
     closed_keys = prev_keys - curr_keys
 
     new_listings = [l for l in listings if dedup_key(l) in new_keys]
-    closed_listings = [l for l in (json.loads(snapshot_path.read_text(encoding="utf-8")) if prev_keys else [])
-                       if dedup_key(l) in closed_keys]
+    closed_listings = [l for l in prev if dedup_key(l) in closed_keys and l.get("active", True) and l.get("is_visible", True)]
 
     write_listings(listings, fetched_sources)
     write_digest(listings, new_listings, closed_listings, fetched_sources)
@@ -198,17 +287,16 @@ def write_listings(listings, fetched_sources):
     index = [
         "# 2027 Internship Tracker\n",
         "![demo](assets/demo.svg)\n",
-        "**Summer 2026 and Summer 2027 SWE, AI/ML, Quant, Hardware, and PM internship listings "
+        "**Summer 2026 and Summer 2027 business, analytics, technology, and other internship listings "
         "-- plus a built-in application tracker so you know where you applied, "
         "when, and how long ago.**\n",
         "> Just here for the list? [Jump to listings](#listings)\n",
         "Most internship repos stop at the list. Fork this one and you also get:\n",
         "- A personal tracker that lives next to the listings\n"
         "- A `days-since-applied` column so nothing goes quiet without you noticing\n"
-        "- Daily Top 20 picks ranked by freshness + company signal + YC batch\n"
+        "- Personalized MIS Top 20 recommendations\n"
         "- Listings that refresh 5x per day automatically via GitHub Actions -- no setup needed\n",
-        "**[Fork to start tracking your applications →]"
-        "(https://github.com/SuryaHarikrishnan/2027-internship-tracker/fork)**\n",
+        "**[View my personalized internship recommendations](TOP20.md)**\n",
         "```bash\n"
         "python scripts/track.py add \"Stripe\" \"SWE Intern\" \"2026-08-11\" \"Applied\"\n"
         "python scripts/track.py update 0 \"Interviewed\"\n"
