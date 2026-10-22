@@ -25,18 +25,18 @@ python scripts/track.py render   # writes APPLICATIONS.md
 
 ## Listings
 
-**7018 active listings** across 6 categories. Last refreshed: 2026-10-22 17:52 UTC.
+**7032 active listings** across 6 categories. Last refreshed: 2026-10-22 20:20 UTC.
 
 Browse by category below, or go straight to **[today's Top 20 picks](TOP20.md)**.
 
 | Category | Active listings |
 |---|---|
-| [Data Science, AI & Machine Learning](listings/data-science-ai-machine-learning.md) | 1538 |
+| [Data Science, AI & Machine Learning](listings/data-science-ai-machine-learning.md) | 1537 |
 | [Hardware Engineering](listings/hardware-engineering.md) | 884 |
-| [Other](listings/other.md) | 2331 |
+| [Other](listings/other.md) | 2348 |
 | [Product Management](listings/product-management.md) | 265 |
-| [Quantitative Finance](listings/quantitative-finance.md) | 197 |
-| [Software Engineering](listings/software-engineering.md) | 1803 |
+| [Quantitative Finance](listings/quantitative-finance.md) | 198 |
+| [Software Engineering](listings/software-engineering.md) | 1800 |
 
 ---
 **[Domestic India roles](listings/domestic-india.md)** -- a separate, auto-refreshed list of India-based postings pulled directly from a few big tech companies' own career-site APIs, every ~3 days. List only -- not part of the auto-refresh above and not integrated with the application tracker.

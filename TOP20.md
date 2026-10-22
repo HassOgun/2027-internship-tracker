@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Texas Instruments | Information Technology Intern - Data Engineering | IT / Information Systems | Dallas, TX | Other Texas | 2026-09-15 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) |
 | 20 | Vanguard | College to Corporate IT Internship - Risk & Security - Engineer | IT / Information Systems | Dallas/Ft. Worth, TX | Other Texas | 2026-08-31 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851) |
 
-*Generated 2026-10-22 17:52 UTC.*
+*Generated 2026-10-22 20:20 UTC.*
