@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 550 relevant active records (before recommendation deduplication).
+**20 matches selected** from 560 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -23,10 +23,10 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 13 | Cadence Solutions | Product Management Intern | Product | Remote in USA | US remote | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
 | 14 | Myhrabc | Intern,Technical Business Analyst / Product Owner | Business Analysis | Carrollton, TX | Other Texas | 2026-09-26 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
 | 15 | The Federal Reserve System | System IT Intern, Credit Risk Management | IT / Information Systems | Dallas, TX | Other Texas | 2026-10-13 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--Credit-Risk-Management-_R-0000033624) |
-| 16 | Ercot | IT Intern - Enterprise Data & AI Administration | IT / Information Systems | Austin, TX, Taylor, TX | Other Texas | 2026-09-08 | [Apply](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478) |
-| 17 | HCSC | Systems Analyst Intern | IT / Information Systems | Chicago, IL, Richardson, TX | Other Texas | 2026-10-07 | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498) |
-| 18 | Pimco | 2027 Summer Intern - Technology Analyst, Software Engineering | IT / Information Systems | Austin, TX USA | Other Texas | 2026-08-19 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
-| 19 | Texas Instruments | Information Technology Intern - Data Engineering | IT / Information Systems | Dallas, TX | Other Texas | 2026-09-15 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) |
-| 20 | Vanguard | College to Corporate IT Internship - Risk & Security - Engineer | IT / Information Systems | Dallas/Ft. Worth, TX | Other Texas | 2026-08-31 | [Apply](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851) |
+| 16 | STR | Data Analyst Intern | Data / BI | Arlington County, Arlington, VA, Woburn, MA | Other Texas | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006) |
+| 17 | Ercot | IT Intern - Enterprise Data & AI Administration | IT / Information Systems | Austin, TX, Taylor, TX | Other Texas | 2026-09-08 | [Apply](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478) |
+| 18 | HCSC | Systems Analyst Intern | IT / Information Systems | Chicago, IL, Richardson, TX | Other Texas | 2026-10-07 | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498) |
+| 19 | Pimco | 2027 Summer Intern - Technology Analyst, Software Engineering | IT / Information Systems | Austin, TX USA | Other Texas | 2026-08-19 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
+| 20 | Texas Instruments | Information Technology Intern - Data Engineering | IT / Information Systems | Dallas, TX | Other Texas | 2026-09-15 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) |
 
-*Generated 2026-10-22 20:20 UTC.*
+*Generated 2026-10-22 23:51 UTC.*
