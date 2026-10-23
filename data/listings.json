@@ -190,7 +190,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792713600,
     "date_updated": 1792776063,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -1940,7 +1940,7 @@
     "category": "Software",
     "date_posted": 1789948800,
     "date_updated": 1792763071,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -61170,7 +61170,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790899200,
     "date_updated": 1790979503,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -84563,7 +84563,7 @@
     "category": "Software",
     "date_posted": 1790115652,
     "date_updated": 1790117101,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -85858,7 +85858,7 @@
     "category": "Hardware",
     "date_posted": 1790086705,
     "date_updated": 1790087016,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -119010,7 +119010,7 @@
     "category": "Software",
     "date_posted": 1788912000,
     "date_updated": 1788994400,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -120337,7 +120337,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788912000,
     "date_updated": 1788992326,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -132518,7 +132518,7 @@
     "category": "Software",
     "date_posted": 1788531935,
     "date_updated": 1788532021,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -161375,7 +161375,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1787788800,
     "date_updated": 1787849000,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -188463,7 +188463,7 @@
     "category": "Software",
     "date_posted": 1786140546,
     "date_updated": 1786140725,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -220458,7 +220458,7 @@
     "category": "Software",
     "date_posted": 1782943980,
     "date_updated": 1782944642,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
