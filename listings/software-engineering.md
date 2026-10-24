@@ -1,4 +1,4 @@
-# Software Engineering (1815)
+# Software Engineering (1816)
 
 [← back to index](../README.md)
 
@@ -534,6 +534,7 @@
 | [Generalmotors](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778) | 2027 Summer Intern, AI/ML Engineer, Mapping | Warren, MI | Summer 2027 | 2026-10-06 | 18 | applyguy-2027 |
 | [kendallgroup](https://kendallgroup.wd503.myworkdayjobs.com/kendall_careers/job/Portage-MI/Software-Engineering-Intern_R-101166) | Software Engineering Intern | Portage, MI | Not specified | 2026-10-06 | 18 | applyguy-2027 |
 | [Marvell](https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989) | Machine Learning Engineer Intern, BS/MS - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-10-06 | 18 | applyguy-2027 |
+| [Niantic Spatial](https://jobs.ashbyhq.com/niantic-spatial/898b2da7-03cd-486e-96e3-3430a148c8fd) | Software Engineering Intern (Summer 2027) | San Francisco, CA | Summer 2027 | 2026-10-06 | 18 | applyguy-2027 |
 | [Overland AI](https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e) | Internship - Software Engineering | Seattle, WA | Not specified | 2026-10-06 | 18 | applyguy-2027 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330) | Software Engineer Co-op (January 2027) | Marlborough, MA | 2027 | 2026-10-06 | 18 | applyguy-2027 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884) | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | Summer 2027 | 2026-10-06 | 18 | applyguy-2027 |
