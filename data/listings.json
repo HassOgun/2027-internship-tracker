@@ -1,5 +1,81 @@
 [
   {
+    "company_name": "The Federal Reserve System",
+    "title": "Policy & Analysis Intern",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1792454400,
+    "date_updated": 1792841617,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "University of Texas at Austin",
+    "title": "Postdoctoral Scholar Intern",
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Spring 2022"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1783165050,
+    "date_updated": 1792839428,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Fidelity Investments",
+    "title": "Investment Risk Management Intern",
+    "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Chicago-IL/Intern--Operations_2136370",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Quant",
+    "date_posted": 1792108800,
+    "date_updated": 1792837116,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "COUNTRY Financial",
+    "title": "Consumer Insights Intern",
+    "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Consumer-Insights-Intern_R26_0000001030",
+    "locations": [
+      "Bloomington, IL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1788825600,
+    "date_updated": 1792836029,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Microsoft",
     "title": "Research Intern - Extended Perception, Interaction & Cognition",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
@@ -15182,7 +15258,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792540800,
     "date_updated": 1792592160,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -19909,7 +19985,7 @@
     "category": "Software",
     "date_posted": 1792454400,
     "date_updated": 1792506090,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -36283,7 +36359,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791986734,
     "date_updated": 1791986921,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -43993,7 +44069,7 @@
     "category": "Hardware",
     "date_posted": 1791504000,
     "date_updated": 1791585195,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -51206,7 +51282,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790899200,
     "date_updated": 1791378175,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -51301,7 +51377,7 @@
     "category": "Hardware",
     "date_posted": 1789344000,
     "date_updated": 1791372845,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -58926,7 +59002,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791158400,
     "date_updated": 1791238613,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -65997,7 +66073,7 @@
     "category": "Software",
     "date_posted": 1790893812,
     "date_updated": 1790894577,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -66326,7 +66402,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790893237,
     "date_updated": 1790894332,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -87298,7 +87374,7 @@
     "category": "Software",
     "date_posted": 1790115288,
     "date_updated": 1790116451,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -87356,7 +87432,7 @@
     "category": "Software",
     "date_posted": 1790115524,
     "date_updated": 1790116381,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -93957,7 +94033,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789689600,
     "date_updated": 1789771342,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -112009,7 +112085,7 @@
     "category": "Software",
     "date_posted": 1789344000,
     "date_updated": 1789366962,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -113844,7 +113920,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789084800,
     "date_updated": 1789165895,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -113958,7 +114034,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789084800,
     "date_updated": 1789165889,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -122429,7 +122505,7 @@
     "category": "Product",
     "date_posted": 1788912000,
     "date_updated": 1788993379,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -148092,7 +148168,7 @@
     "category": "Hardware",
     "date_posted": 1785369600,
     "date_updated": 1788355276,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -349620,25 +349696,6 @@
     "category": "Software",
     "date_posted": 1772114097,
     "date_updated": 1772114097,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Kaiser Permanente",
-    "title": "Consulting and Data Analytics Master's Intern",
-    "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410311",
-    "locations": [
-      "LA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772103299,
-    "date_updated": 1772103299,
     "active": false,
     "is_visible": true,
     "_sources": [
