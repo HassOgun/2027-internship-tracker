@@ -1,10 +1,10 @@
-# MIS Internship Top 20 — 2026-10-23
+# MIS Internship Top 20 — 2026-10-24
 
 Ranked by MIS role relevance, posting freshness, and location (Greater Houston, US remote, other Texas, then nationwide).
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 587 relevant active records (before recommendation deduplication).
+**20 matches selected** from 588 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -24,9 +24,9 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 14 | Assurant | Product Analyst Intern - Housing | Product | Remote in USA | US remote | 2026-09-30 | [Apply](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659) |
 | 15 | Businessolver | Product Manager Intern | Product | Remote in USA | US remote | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8197663) |
 | 16 | Cadence Solutions | Product Management Intern | Product | Remote in USA | US remote | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
-| 17 | Myhrabc | Intern,Technical Business Analyst / Product Owner | Business Analysis | Carrollton, TX | Other Texas | 2026-09-25 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
-| 18 | The Federal Reserve System | System IT Intern, Credit Risk Management | IT / Information Systems | Dallas, TX | Other Texas | 2026-10-13 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--Credit-Risk-Management-_R-0000033624) |
+| 17 | Citi | Technology Analyst Intern, Application Development | IT / Information Systems | Irving, TX | Other Texas | 2026-10-23 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288) |
+| 18 | Myhrabc | Intern,Technical Business Analyst / Product Owner | Business Analysis | Carrollton, TX | Other Texas | 2026-09-25 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
 | 19 | STR | Data Analyst Intern | Data / BI | Arlington, VA, Woburn, MA | Other Texas | 2026-10-22 | [Apply](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006) |
-| 20 | HCSC | Systems Analyst Intern | IT / Information Systems | Chicago, IL, Richardson, TX | Other Texas | 2026-10-07 | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498) |
+| 20 | Pimco | 2027 Summer Intern - Technology Analyst, Software Engineering | IT / Information Systems | Austin, TX USA | Other Texas | 2026-08-19 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 
-*Generated 2026-10-23 23:44 UTC.*
+*Generated 2026-10-24 09:52 UTC.*
