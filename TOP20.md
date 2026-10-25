@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 563 relevant active records (before recommendation deduplication).
+**20 matches selected** from 561 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -24,9 +24,9 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 14 | Businessolver | Product Manager Intern | Product | Remote in USA | US remote | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8197663) |
 | 15 | Cadence Solutions | Product Management Intern | Product | Remote in USA | US remote | 2026-10-06 | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) |
 | 16 | Citi | Technology Analyst Intern, Application Development | IT / Information Systems | Irving, TX | Other Texas | 2026-10-23 | [Apply](https://go.vansh.nyc/hr) |
-| 17 | Myhrabc | Intern,Technical Business Analyst / Product Owner | Business Analysis | Carrollton, TX | Other Texas | 2026-09-25 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
+| 17 | Myhrabc | Intern,Technical Business Analyst / Product Owner | Business Analysis | Carrollton, TX | Other Texas | 2026-09-26 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
 | 18 | STR | Data Analyst Intern | Data / BI | Arlington, VA, Woburn, MA | Other Texas | 2026-10-22 | [Apply](https://go.vansh.nyc/fo) |
 | 19 | Pimco | 2027 Summer Intern - Technology Analyst, Software Engineering | IT / Information Systems | Austin, TX USA | Other Texas | 2026-08-19 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 | 20 | Texas Instruments | Information Technology Intern - Data Engineering | IT / Information Systems | Dallas, TX | Other Texas | 2026-09-15 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) |
 
-*Generated 2026-10-25 13:28 UTC.*
+*Generated 2026-10-25 16:58 UTC.*

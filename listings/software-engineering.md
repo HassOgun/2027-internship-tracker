@@ -1,4 +1,4 @@
-# Software Engineering (1747)
+# Software Engineering (1752)
 
 [← back to index](../README.md)
 
@@ -98,6 +98,7 @@
 | [Hitachi](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733) | Software Engineering Co-op | Greenville, SC | N/A | 2026-10-21 | 4 | simplify-2026 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127) | Software Engineer Intern | Tewksbury, MA | Summer 2027 | 2026-10-21 | 4 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1) | Software Intern - Embedded Systems | Bristol, UK | N/A | 2026-10-21 | 4 | simplify-2026 |
+| [Aero](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016936) | 2027 Cloud Solutions Engineer / Site Reliability Undergrad Intern | El Segundo, CA | 2027 | 2026-10-21 | 4 | applyguy-2027 |
 | [Aero](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949) | 2027 Embedded Software Engineering Undergrad Intern | El Segundo, CA | 2027 | 2026-10-21 | 4 | applyguy-2027 |
 | [Aero](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950) | 2027 Embedded Software Engineering Grad Intern | El Segundo, CA | 2027 | 2026-10-21 | 4 | applyguy-2027 |
 | [GripFusion](https://gripfusion.breezy.hr/p/9f819bbe534a-internship-opportunities) | Internship Opportunities | Ann Arbor, MI | Not specified | 2026-10-21 | 4 | applyguy-2027 |
@@ -410,6 +411,7 @@
 | [GCM Grosvenor](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003) | 2027 Software Engineering Summer Intern | Chicago, IL | Summer | 2026-10-09 | 16 | applyguy-2027 |
 | [Jci](https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408) | Software Engineering Co-Op | Burlington-Massachusetts-United States of America | Co-op | 2026-10-09 | 16 | applyguy-2027 |
 | [Moog](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965) | Intern, Software Engineering | Mineral Wells, TX | Not specified | 2026-10-09 | 16 | applyguy-2027 |
+| [Nelnet](https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R23106) | 2026 Summer Intern - IT Software Engineer - .NET/Web - Starting Summer 2027 | Madison, WI | Summer 2027 | 2026-10-09 | 16 | applyguy-2027 |
 | [Nelnet](https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Madison-WI/Intern---UX-UI-Front-End-Engineer_R23118) | Intern - UX/UI Front End Engineer - Starting Spring 2027 | Madison, WI | Spring 2027 | 2026-10-09 | 16 | applyguy-2027 |
 | [Parsons](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147) | Software Engineer Co-Op - TS/SCI | VA Centreville | Co-op | 2026-10-09 | 16 | applyguy-2027 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467) | Software Engineering Intern (Summer 2027) | Melbourne, FL | Summer 2027 | 2026-10-09 | 16 | applyguy-2027 |
@@ -1479,6 +1481,9 @@
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987) | Software Engineer Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | 2026-08-17 | 69 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082) | Software Engineer Intern - Enterprise Technology Services | NYC | Summer 2027 | 2026-08-17 | 69 | simplify-2026 |
 | [NXP Semiconductors](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1) | AI and Software Engineer Intern - Automotive MPUs | Glasgow, UK | Summer 2026 | 2026-08-17 | 69 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171553?type=students) | Summer Analyst Intern - Engineering | Dallas, TX | Summer 2027 | 2026-08-15 | 71 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/171565?type=students) | Summer Analyst Intern - Americas - Engineering | Salt Lake City, UT | Summer 2027 | 2026-08-15 | 71 | simplify-2026 |
+| [Goldman Sachs](https://higher.gs.com/roles/170644?type=students) | Summer Analyst Intern - Engineering | London, UK | Summer 2027 | 2026-08-15 | 71 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true) | Software Engineer Intern - Winter 2027 | SF, NYC | Winter 2027 | 2026-08-15 | 71 | simplify-2026 |
 | [Notion](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true) | Software Engineer Intern - Summer 2027 | SF, NYC | Summer 2027 | 2026-08-15 | 71 | simplify-2026 |
 | [ByteDance](https://jobs.bytedance.com/en/position/7668315137242351925/detail) | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | 2026-08-15 | 71 | simplify-2026 |
