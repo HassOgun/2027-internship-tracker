@@ -5933,7 +5933,7 @@
     "category": "Hardware",
     "date_posted": 1791936000,
     "date_updated": 1792771569,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -348310,82 +348310,6 @@
     "category": "AI/ML/Data",
     "date_posted": 1772201366,
     "date_updated": 1772201366,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Graphcore",
-    "title": "2026 Software Engineering Intern - ML Kernels & Runtime Team",
-    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441326002",
-    "locations": [
-      "Bristol, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772190340,
-    "date_updated": 1772190340,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Graphcore",
-    "title": "Software Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441333002",
-    "locations": [
-      "Bristol, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772190335,
-    "date_updated": 1772190335,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Graphcore",
-    "title": "Software Engineering Intern - Drivers",
-    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441356002",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772190334,
-    "date_updated": 1772190334,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Roku",
-    "title": "Software Engineer Intern - UI",
-    "url": "https://www.weareroku.com/jobs/7626180?gh_jid=7626180",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772190275,
-    "date_updated": 1772190275,
     "active": false,
     "is_visible": true,
     "_sources": [
