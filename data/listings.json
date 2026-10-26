@@ -1,5 +1,286 @@
 [
   {
+    "company_name": "Westinghouse Electric Company",
+    "title": "Software Developer Intern, Tools & Apps",
+    "url": "https://go.vansh.nyc/DY",
+    "locations": [
+      "Warrendale, PA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1790720476,
+    "date_updated": 1793049106,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Moment Energy",
+    "title": "Firmware Engineering Co-op",
+    "url": "https://go.vansh.nyc/F7",
+    "locations": [
+      "Surrey, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791248928,
+    "date_updated": 1793049106,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Lila Sciences",
+    "title": "Agentic Simulations for Materials Science Co-op",
+    "url": "https://go.vansh.nyc/T3",
+    "locations": [
+      "Cambridge, MA",
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793048288,
+    "date_updated": 1793048768,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "General Dynamics Mission Systems, Inc.",
+    "title": "Engineer Intern, Electrical or Firmware",
+    "url": "https://go.vansh.nyc/D0",
+    "locations": [
+      "Annapolis Junction, MD"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792382400,
+    "date_updated": 1793047275,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "title": "Systems Engineer Intern, Games",
+    "url": "https://go.vansh.nyc/T0",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793046983,
+    "date_updated": 1793046997,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CIBC",
+    "title": "AI Scientist Co-op",
+    "url": "https://go.vansh.nyc/T1",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793046983,
+    "date_updated": 1793046997,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "RTX",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/T2",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793046983,
+    "date_updated": 1793046997,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "title": "Systems Engineer Intern",
+    "url": "https://go.vansh.nyc/SX",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793046594,
+    "date_updated": 1793046954,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "title": "Software Developer Intern",
+    "url": "https://go.vansh.nyc/SY",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793046594,
+    "date_updated": 1793046954,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "title": "Software Developer Intern",
+    "url": "https://go.vansh.nyc/SZ",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793046594,
+    "date_updated": 1793046954,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "AbbVie",
+    "title": "Cybersecurity Intern, Business Technology Solutions",
+    "url": "https://go.vansh.nyc/SW",
+    "locations": [
+      "North Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793042934,
+    "date_updated": 1793045154,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Light & Wonder",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/dE",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792566000,
+    "date_updated": 1793043600,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Light & Wonder",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/dF",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792566000,
+    "date_updated": 1793043600,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Space Dynamics Laboratory",
+    "title": "FPGA Electrical Engineer Intern, Civil & Commercial Space",
+    "url": "https://go.vansh.nyc/PU",
+    "locations": [
+      "North Logan, UT"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1790864633,
+    "date_updated": 1793041785,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Tessera Labs",
     "title": "Full Stack Software Engineer Intern",
     "url": "https://go.vansh.nyc/CH",
@@ -3021,26 +3302,6 @@
     ],
     "category": "Other",
     "date_posted": 1792677853,
-    "date_updated": 1793027048,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Space Dynamics Laboratory",
-    "title": "FPGA Electrical Engineer Intern, Civil & Commercial Space",
-    "url": "https://go.vansh.nyc/PU",
-    "locations": [
-      "North Logan, UT"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1790864633,
     "date_updated": 1793027048,
     "active": true,
     "is_visible": true,
@@ -8014,26 +8275,6 @@
     ]
   },
   {
-    "company_name": "Westinghouse Electric Company",
-    "title": "Software Developer Intern, Tools & Apps",
-    "url": "https://go.vansh.nyc/DY",
-    "locations": [
-      "Warrendale, PA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1790720476,
-    "date_updated": 1793015500,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "John Deere",
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/DZ",
@@ -8655,26 +8896,6 @@
     ],
     "category": "Other",
     "date_posted": 1791244800,
-    "date_updated": 1793015500,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Moment Energy",
-    "title": "Firmware Engineering Co-op",
-    "url": "https://go.vansh.nyc/F7",
-    "locations": [
-      "Surrey, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791248928,
     "date_updated": 1793015500,
     "active": true,
     "is_visible": true,
@@ -9915,26 +10136,6 @@
     ],
     "category": "Other",
     "date_posted": 1792368000,
-    "date_updated": 1793013650,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "General Dynamics Mission Systems, Inc.",
-    "title": "Engineer Intern, Electrical or Firmware",
-    "url": "https://go.vansh.nyc/D0",
-    "locations": [
-      "Annapolis Junction, MD"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792382400,
     "date_updated": 1793013650,
     "active": true,
     "is_visible": true,
@@ -27557,46 +27758,6 @@
     ]
   },
   {
-    "company_name": "Light & Wonder",
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/dE",
-    "locations": [
-      "Las Vegas, NV"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792566000,
-    "date_updated": 1792629569,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Light & Wonder",
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/dF",
-    "locations": [
-      "Las Vegas, NV"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792566000,
-    "date_updated": 1792629569,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "CIBC",
     "title": "AI and Quantum Scientist Co-op",
     "url": "https://go.vansh.nyc/dG",
@@ -35532,7 +35693,7 @@
     "category": "Software",
     "date_posted": 1792449487,
     "date_updated": 1792449584,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -36004,7 +36165,7 @@
     "category": "Hardware",
     "date_posted": 1792449175,
     "date_updated": 1792449276,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -77015,7 +77176,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790979582,
     "date_updated": 1790980617,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -81021,7 +81182,9 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -81365,7 +81528,7 @@
     "category": "Hardware",
     "date_posted": 1790892451,
     "date_updated": 1790892998,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -94129,7 +94292,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790208000,
     "date_updated": 1790289901,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -128027,7 +128190,7 @@
     "category": "Hardware",
     "date_posted": 1789164972,
     "date_updated": 1789165441,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -129458,7 +129621,7 @@
     "category": "Hardware",
     "date_posted": 1789084800,
     "date_updated": 1789136745,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -152273,7 +152436,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788393600,
     "date_updated": 1788489741,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -183004,7 +183167,7 @@
     "category": "Software",
     "date_posted": 1787529600,
     "date_updated": 1787602864,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -245634,7 +245797,7 @@
     "category": "Quant",
     "date_posted": 1781083263,
     "date_updated": 1781083562,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
