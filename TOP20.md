@@ -1,10 +1,10 @@
-# MIS Internship Top 20 — 2026-10-27
+# MIS Internship Top 20 — 2026-10-28
 
 Ranked by MIS role relevance, posting freshness, and location (Greater Houston, US remote, other Texas, then nationwide).
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 575 relevant active records (before recommendation deduplication).
+**20 matches selected** from 577 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Pimco | 2027 Summer Intern - Technology Analyst, Software Engineering | IT / Information Systems | Austin, TX USA | Other Texas | 2026-08-19 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 | 20 | Texas Instruments | Information Technology Intern - Data Engineering | IT / Information Systems | Dallas, TX | Other Texas | 2026-09-15 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978) |
 
-*Generated 2026-10-27 21:02 UTC.*
+*Generated 2026-10-28 00:13 UTC.*
