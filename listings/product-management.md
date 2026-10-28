@@ -1,4 +1,4 @@
-# Product Management (279)
+# Product Management (276)
 
 [← back to index](../README.md)
 
@@ -31,7 +31,6 @@
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171) | Enterprise Payments Intern | Detroit, MI, Minnetonka, MN, Columbus, OH | Summer 2027 | 2026-10-23 | 5 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | Product Management Intern | Markham, ON, Canada | Summer 2027 | 2026-10-23 | 5 | simplify-2026 |
 | [1Password](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) | Product Management Intern, End User Experience - Winter 2027 | Remote, U.S. | Winter 2027 | 2026-10-23 | 5 | applyguy-2027 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Product Management Intern | United States, Massachusetts, Cambridge | Not specified | 2026-10-23 | 5 | applyguy-2027 |
 | [Patreon](https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true) | Product Manager Intern | SF, NYC | Summer 2027 | 2026-10-22 | 6 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/287443) | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 | 6 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7655421207605889333) | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 | 6 | simplify-2026 |
@@ -175,8 +174,6 @@
 | [Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799) | Software Product Management Intern | Austin, TX | Winter 2026 | 2026-09-11 | 47 | simplify-2026 |
 | [Fortune Brands](https://jobs.smartrecruiters.com/FortuneBrands/744000149058098) | Product Management Intern - B2B Security | Deerfield, IL | Winter 2026 | 2026-09-11 | 47 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/283137) | Vehicle Accessories & Merchandise Product Intern - Global Merchandise | Hawthorne, CA | Winter 2027, Spring 2027 | 2026-09-11 | 47 | simplify-2026 |
-| [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) | Digital Product Intern - Digital Product - Technology & Medical Organizations | Remote in USA | Summer 2027 | 2026-09-11 | 47 | simplify-2026 |
-| [Amgen](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711) | Digital Product Intern | Remote in USA | Summer 2027 | 2026-09-11 | 47 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7683651421602433333) | Product Manager Project Intern - Business Integrity - MBA | San Jose, CA | Summer 2026 | 2026-09-10 | 48 | simplify-2026 |
 | [Navy Federal](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32459) | Summer Associate Intern - Digital Payments Strategist | Pensacola, FL, Vienna, VA | Summer 2027 | 2026-09-09 | 49 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000148575999) | Product Management AI-Tool Intern - 8 months/40hrs per week | Farmington Hills, MI | Winter 2027, Summer 2027 | 2026-09-09 | 49 | simplify-2026 |
