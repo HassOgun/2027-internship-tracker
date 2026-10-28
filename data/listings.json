@@ -1,5 +1,491 @@
 [
   {
+    "company_name": "The Aerospace Corporation",
+    "title": "Software Tools and Assurance Intern, Information Systems and Cyber Division",
+    "url": "https://go.vansh.nyc/J9",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1790035200,
+    "date_updated": 1793221975,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Motorola",
+    "title": "Localization and QA Automation Developer Co-op",
+    "url": "https://go.vansh.nyc/We",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793125469,
+    "date_updated": 1793221975,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Broadridge",
+    "title": "Technology Intern",
+    "url": "https://go.vansh.nyc/Y0",
+    "locations": [
+      "New York, NY",
+      "Edgewood, NY",
+      "Newark, NJ"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793219574,
+    "date_updated": 1793221554,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "QTS",
+    "title": "Information Security Operations Analyst Intern",
+    "url": "https://go.vansh.nyc/9n",
+    "locations": [
+      "US GA Atlanta Suwanee 1 DC1"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791961200,
+    "date_updated": 1793219884,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "ICF International",
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/FN",
+    "locations": [
+      "Remote",
+      "United States",
+      "Reston, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791331200,
+    "date_updated": 1793219884,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Workiva",
+    "title": "Machine Learning Engineering Intern",
+    "url": "https://go.vansh.nyc/W7",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793122856,
+    "date_updated": 1793219884,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "VSP Vision",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/X3",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793164723,
+    "date_updated": 1793219884,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Leidos",
+    "title": "Cybersecurity Engineer Co-op",
+    "url": "https://go.vansh.nyc/XZ",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793218683,
+    "date_updated": 1793219763,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Salesforce",
+    "title": "Solution Engineer Intern",
+    "url": "https://go.vansh.nyc/9R",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792047600,
+    "date_updated": 1793218094,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Sonos",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/W9",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793127043,
+    "date_updated": 1793218094,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Micron Technology",
+    "title": "Embedded Software Engineering Intern",
+    "url": "https://go.vansh.nyc/XX",
+    "locations": [
+      "Boise, ID"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793145981,
+    "date_updated": 1793217981,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Schonfeld",
+    "title": "Enterprise AI Intern",
+    "url": "https://go.vansh.nyc/XY",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793214981,
+    "date_updated": 1793217981,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Danaher Corporation",
+    "title": "Supply Chain AI Co-op",
+    "url": "https://go.vansh.nyc/T9",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1792972800,
+    "date_updated": 1793216263,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Micron Technology",
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://go.vansh.nyc/XW",
+    "locations": [
+      "Boise, ID"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793214894,
+    "date_updated": 1793216154,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "L3Harris Technologies",
+    "title": "Information Security Systems Engineer Intern",
+    "url": "https://go.vansh.nyc/XU",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793214392,
+    "date_updated": 1793214414,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Lockheed Martin",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/XV",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793214392,
+    "date_updated": 1793214414,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Arch Capital Group",
+    "title": "Security Operations Intern",
+    "url": "https://go.vansh.nyc/Hm",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792478986,
+    "date_updated": 1793212963,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "title": "Software Developer Intern",
+    "url": "https://go.vansh.nyc/Oy",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1787788800,
+    "date_updated": 1793212963,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "title": "Systems Engineer Intern",
+    "url": "https://go.vansh.nyc/SX",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793046594,
+    "date_updated": 1793212963,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "title": "Software Developer Intern",
+    "url": "https://go.vansh.nyc/SY",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793046594,
+    "date_updated": 1793212963,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Booz Allen Hamilton",
+    "title": "Software Developer Intern",
+    "url": "https://go.vansh.nyc/SZ",
+    "locations": [
+      "Dayton, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793046594,
+    "date_updated": 1793212963,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Micron Technology",
+    "title": "AI Engineer Intern, Platform",
+    "url": "https://go.vansh.nyc/VX",
+    "locations": [
+      "Boise, ID"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793120262,
+    "date_updated": 1793212963,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The Nuclear Company",
+    "title": "Security Engineer Intern",
+    "url": "https://go.vansh.nyc/XL",
+    "locations": [
+      "Washington, DC"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1793211238,
+    "date_updated": 1793212558,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Berkshire Hathaway Energy",
+    "title": "Intern, Data Systems",
+    "url": "https://go.vansh.nyc/XM",
+    "locations": [
+      "Bridgeport, WV"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793147758,
+    "date_updated": 1793212558,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Booz Allen Hamilton",
     "title": "Games Systems Engineer Intern",
     "url": "https://go.vansh.nyc/Qs",
@@ -2055,27 +2541,6 @@
     ]
   },
   {
-    "company_name": "VSP Vision",
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/X3",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793164723,
-    "date_updated": 1793167543,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Micron",
     "title": "Intern - Product Test Development Engineer",
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106",
@@ -3073,6 +3538,25 @@
     ],
     "terms": [
       "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793145600,
+    "date_updated": 1793145600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Jci",
+    "title": "Software Engineering Co-Op",
+    "url": "https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408-2",
+    "locations": [
+      "Burlington-Massachusetts-United States of America"
+    ],
+    "terms": [
+      "Co-op"
     ],
     "category": "Software Engineering",
     "date_posted": 1793145600,
@@ -5226,26 +5710,6 @@
     ]
   },
   {
-    "company_name": "Motorola",
-    "title": "Localization and QA Automation Developer Co-op",
-    "url": "https://go.vansh.nyc/We",
-    "locations": [
-      "Vancouver, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1793125469,
-    "date_updated": 1793129811,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "National Interstate Insurance",
     "title": "Data Engineering Intern",
     "url": "https://go.vansh.nyc/Wd",
@@ -5320,26 +5784,6 @@
     ]
   },
   {
-    "company_name": "Sonos",
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/W9",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793127043,
-    "date_updated": 1793128003,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Amazon Development Center U.S., Inc. - B02",
     "title": "Database Engineer Intern",
     "url": "https://go.vansh.nyc/Wb",
@@ -5392,27 +5836,6 @@
     "category": "Other",
     "date_posted": 1793126180,
     "date_updated": 1793126197,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Workiva",
-    "title": "Machine Learning Engineering Intern",
-    "url": "https://go.vansh.nyc/W7",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793122856,
-    "date_updated": 1793126156,
     "active": true,
     "is_visible": true,
     "_sources": [
@@ -5698,26 +6121,6 @@
     ],
     "category": "Other",
     "date_posted": 1793120022,
-    "date_updated": 1793120802,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Micron Technology",
-    "title": "AI Engineer Intern, Platform",
-    "url": "https://go.vansh.nyc/VX",
-    "locations": [
-      "Boise, ID"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793120262,
     "date_updated": 1793120802,
     "active": true,
     "is_visible": true,
@@ -8886,7 +9289,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790208000,
     "date_updated": 1793064659,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -10410,26 +10813,6 @@
     ]
   },
   {
-    "company_name": "Danaher Corporation",
-    "title": "Supply Chain AI Co-op",
-    "url": "https://go.vansh.nyc/T9",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1792972800,
-    "date_updated": 1793054205,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Aflac",
     "title": "Global Investments Legal Intern",
     "url": "https://careers.aflac.com/job/New-York-City-2027-Global-Investments-(NY)-Legal-Intern-NY-10005/1443294500/?ats=successfactors",
@@ -11028,7 +11411,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792972800,
     "date_updated": 1793053318,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -12019,66 +12402,6 @@
     "category": "Other",
     "date_posted": 1793046983,
     "date_updated": 1793046997,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Booz Allen Hamilton",
-    "title": "Systems Engineer Intern",
-    "url": "https://go.vansh.nyc/SX",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793046594,
-    "date_updated": 1793046954,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Booz Allen Hamilton",
-    "title": "Software Developer Intern",
-    "url": "https://go.vansh.nyc/SY",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793046594,
-    "date_updated": 1793046954,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Booz Allen Hamilton",
-    "title": "Software Developer Intern",
-    "url": "https://go.vansh.nyc/SZ",
-    "locations": [
-      "Dayton, OH"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793046594,
-    "date_updated": 1793046954,
     "active": true,
     "is_visible": true,
     "_sources": [
@@ -16072,26 +16395,6 @@
     ]
   },
   {
-    "company_name": "Booz Allen Hamilton",
-    "title": "Software Developer Intern",
-    "url": "https://go.vansh.nyc/Oy",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1787788800,
-    "date_updated": 1793025667,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "fab2",
     "title": "Embedded Software Engineer Intern",
     "url": "https://go.vansh.nyc/OC",
@@ -18933,26 +19236,6 @@
     ]
   },
   {
-    "company_name": "The Aerospace Corporation",
-    "title": "Software Tools and Assurance Intern, Information Systems and Cyber Division",
-    "url": "https://go.vansh.nyc/J9",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1790035200,
-    "date_updated": 1793021626,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Rivian",
     "title": "Software Engineer Co-op, Design Automation",
     "url": "https://go.vansh.nyc/Ja",
@@ -20008,26 +20291,6 @@
     ],
     "category": "Other",
     "date_posted": 1791576471,
-    "date_updated": 1793016276,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Arch Capital Group",
-    "title": "Security Operations Intern",
-    "url": "https://go.vansh.nyc/Hm",
-    "locations": [
-      "Greensboro, NC"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792478986,
     "date_updated": 1793016276,
     "active": true,
     "is_visible": true,
@@ -21160,28 +21423,6 @@
     "url": "https://go.vansh.nyc/FL",
     "locations": [
       "New York, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791331200,
-    "date_updated": 1793015500,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "ICF International",
-    "title": "Data Engineer Intern",
-    "url": "https://go.vansh.nyc/FN",
-    "locations": [
-      "Remote",
-      "United States",
-      "Reston, VA"
     ],
     "terms": [
       "Summer"
@@ -42575,7 +42816,7 @@
     "category": "Quant",
     "date_posted": 1792591956,
     "date_updated": 1792592114,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -53083,26 +53324,6 @@
     ]
   },
   {
-    "company_name": "QTS",
-    "title": "Information Security Operations Analyst Intern",
-    "url": "https://go.vansh.nyc/9n",
-    "locations": [
-      "US GA Atlanta Suwanee 1 DC1"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791961200,
-    "date_updated": 1792261427,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Snap",
     "title": "Generative Media Research Intern",
     "url": "https://go.vansh.nyc/9o",
@@ -53489,26 +53710,6 @@
     "url": "https://go.vansh.nyc/9O",
     "locations": [
       "Middletown, RI"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792047600,
-    "date_updated": 1792261427,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Salesforce",
-    "title": "Solution Engineer Intern",
-    "url": "https://go.vansh.nyc/9R",
-    "locations": [
-      "New York, NY"
     ],
     "terms": [
       "Summer"
@@ -58103,7 +58304,7 @@
     "category": "Hardware",
     "date_posted": 1792022400,
     "date_updated": 1792102528,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -63848,7 +64049,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791849600,
     "date_updated": 1791930138,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -72125,25 +72326,6 @@
     ]
   },
   {
-    "company_name": "Jci",
-    "title": "Software Engineering Co-Op",
-    "url": "https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
-    "locations": [
-      "Burlington-Massachusetts-United States of America"
-    ],
-    "terms": [
-      "Co-op"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791504000,
-    "date_updated": 1791504000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Moog",
     "title": "Intern, Software Engineering",
     "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965",
@@ -77323,7 +77505,7 @@
     "category": "Hardware",
     "date_posted": 1791244800,
     "date_updated": 1791353885,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -140069,7 +140251,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789078956,
     "date_updated": 1789080301,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -141138,7 +141320,7 @@
     "category": "Hardware",
     "date_posted": 1788998400,
     "date_updated": 1789079059,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -209095,7 +209277,7 @@
     "category": "Software",
     "date_posted": 1786505690,
     "date_updated": 1786507037,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -212820,7 +213002,7 @@
     "category": "Software",
     "date_posted": 1786060800,
     "date_updated": 1786140901,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -230635,7 +230817,7 @@
     "category": "Quant",
     "date_posted": 1784672335,
     "date_updated": 1784680307,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"

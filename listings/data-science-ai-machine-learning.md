@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1576)
+# Data Science, AI & Machine Learning (1572)
 
 [← back to index](../README.md)
 
@@ -100,7 +100,6 @@
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) | Data Analyst Intern | Pittsburgh, PA | Summer 2027 | 2026-10-26 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) | Community and Economic Development Intern | Atlanta, GA | Summer 2027 | 2026-10-26 | 2 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884) | Innovation Intern | Atlanta, GA | Summer 2027 | 2026-10-26 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Danaher](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599) | Supply Chain AI Co-op | Indiana | N/A | 2026-10-26 | 2 | simplify-2026 |
 | [National Indemnity Company](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) | Marketing Data Intern | Omaha, NE | N/A | 2026-10-26 | 2 | simplify-2026 |
 | [CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052) | Business Analyst Co-op | Toronto, ON, Canada | N/A | 2026-10-26 | 2 | simplify-2026 |
 | [Federal Home Loan Bank of Indianapolis](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637) | Business Intelligence Intern | Indianapolis, IN | Summer 2027 | 2026-10-26 | 2 | simplify-2026 |
@@ -430,7 +429,6 @@
 | [KLA](https://kla.wd1.myworkdayjobs.com/ur/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817-2) | Software Engineer Intern - AI | Ann Arbor, MI | N/A | 2026-10-13 | 15 | simplify-2026, applyguy-2027 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821) | AI Engineer Intern | Ann Arbor, MI | N/A | 2026-10-13 | 15 | simplify-2026 |
 | [Unity](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/XMLNAME--Req-6087--Software-Developer_JOBREQ-2615965) | Machine Learning Engineer Intern | Washington, Mountain View, CA | N/A | 2026-10-13 | 15 | simplify-2026 |
-| [7-Eleven](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/ServiceNow-Intern_R26_6017) | AI Analyst / AI Automation Specialist Intern | Irving, TX | Summer 2027 | 2026-10-13 | 15 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [7-Eleven](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Fuel-Pricing-Data-Scientist-Intern_R26_6022) | Fuel Pricing Data Scientist Intern | Irving, TX | Summer 2026 | 2026-10-13 | 15 | simplify-2026 |
 | [Bose](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274) | Audio Machine Learning Co-op | Framingham, MA | Winter 2027 | 2026-10-13 | 15 | simplify-2026 |
 | [Constellation Brands](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Finance-Analytics_R-41494) | Finance Analytics Intern | Rochester, NY | N/A | 2026-10-13 | 15 | simplify-2026 |
@@ -756,7 +754,6 @@
 | [ByteDance](https://jobs.bytedance.com/en/position/7688841262493485365/detail) | Student Researcher Intern - Seed Model - Seed Responsible AI | San Jose, CA | N/A | 2026-09-24 | 34 | simplify-2026 |
 | [Field AI](https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8/apply) | Simulation – Sim to Real Intern | Irvine, CA | N/A | 2026-09-24 | 34 | simplify-2026 |
 | [Aurora Innovation](https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true) | Data & ML Platform Engineer Intern | SF, Pittsburgh, PA, Mountain View, CA | Summer 2027 | 2026-09-24 | 34 | simplify-2026 |
-| [Aurora Innovation](https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true) | Behavior and Planning Intern - ML Research | SF, Pittsburgh, PA, Mountain View, CA | Summer 2027 | 2026-09-24 | 34 | simplify-2026 |
 | [Aurora Innovation](https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true) | Perception & Mapping Intern | SF, Pittsburgh, PA, Mountain View, CA | Summer 2027 | 2026-09-24 | 34 | simplify-2026 |
 | [Figma](https://boards.greenhouse.io/figma/jobs/6178851004) | Data Engineer Intern | SF, NYC | Winter 2026 | 2026-09-23 | 35 | simplify-2026 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8224746) | Machine Learning Engineer Intern - Road Understanding | Mountain View, CA | Summer 2027 | 2026-09-23 | 35 | simplify-2026 |
@@ -1002,7 +999,6 @@
 | [Inferact](https://jobs.ashbyhq.com/inferact/2b6032f9-12a5-4083-b5e6-4bec5376cbaa/application?embed=true) | Inference Engineer Co-op | SF | Winter 2026 | 2026-09-10 | 48 | simplify-2026 |
 | [VaynerMedia](https://vaynermedia.com/careers?gh_jid=8097753) | Data Analytics Resident | LA | Winter 2027 | 2026-09-10 | 48 | simplify-2026 |
 | [VaynerMedia](https://vaynermedia.com/careers?gh_jid=8126062) | Data Analytics Resident | NYC | Winter 2027 | 2026-09-10 | 48 | simplify-2026 |
-| [Tesla](https://www.tesla.com/careers/search/job/281612) | Data Engineer Intern - Fleet Data - Self-Driving | Palo Alto, CA | Spring 2027 | 2026-09-10 | 48 | simplify-2026 |
 | [National Information Solutions Cooperative](https://job-boards.greenhouse.io/testnisc/jobs/8191898) | Database Conversion Programming Intern | Mandan, ND | Summer 2027 | 2026-09-10 | 48 | simplify-2026 |
 | [Epiroc](https://www.careerprofile.epiroc.com/job/Broomfield-Intern-Data-Analyst-CO-80020/1435969833/?ats=successfactors) | Data Analyst Intern - Digital Solutions Division | Broomfield, CO | Summer 2026, Spring 2027 | 2026-09-10 | 48 | simplify-2026 |
 | [SCOR](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393) | Data Science Intern | Charlotte, NC | Winter 2026 | 2026-09-10 | 48 | simplify-2026 |
