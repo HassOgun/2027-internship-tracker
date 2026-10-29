@@ -1,15 +1,17 @@
-# Product Management (284)
+# Product Management (288)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Archgroup](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139) | Digital Product Management UI/UX Intern | Greensboro, NC | Not specified | 2026-10-29 | 0 | applyguy-2027 |
+| [Datasite](https://datasite.wd1.myworkdayjobs.com/datasite/job/GBR---London/Product-Intern_R36469) | Product Management Intern | London, UK | N/A | 2026-10-29 | 0 | simplify-2026 |
+| [Sonos](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1) | Software Product Manager Intern | Seattle, WA | Summer 2027 | 2026-10-29 | 0 | simplify-2026 |
 | [Tmobile](https://tmobile.wd1.myworkdayjobs.com/external/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) | Summer 2027 Associate Technical Product Manager Internship | Frisco, TX | Summer 2027 | 2026-10-29 | 0 | applyguy-2027 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) | Product Strategy & Development Co-op | Needham, MA | Spring 2027 | 2026-10-28 | 1 | simplify-2026 |
 | [Tapestry](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545) | E-Commerce Intern - E-Commerce | NYC | Summer 2027 | 2026-10-28 | 1 | simplify-2026 |
 | [T-Mobile](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) | Associate Technical Product Manager Intern | Frisco, TX | Summer 2027 | 2026-10-28 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Sonos](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1) | Software Product Management Intern | Seattle, WA | Summer 2027 | 2026-10-28 | 1 | simplify-2026 |
+| [Archgroup](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139) | Digital Product Management UI/UX Intern | Greensboro, NC | Not specified | 2026-10-28 | 1 | applyguy-2027 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723344006) | Spring 2027: Product Strategy & Development Co-Op (January to June) | Needham, MA | Spring 2027 | 2026-10-28 | 1 | applyguy-2027 |
 | [TikTok](https://lifeattiktok.com/search/7701069870360627509) | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA | Summer 2027 | 2026-10-27 | 2 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701072604556642613) | Brand Search Ads Intern | NYC | N/A | 2026-10-27 | 2 | simplify-2026 |
@@ -18,6 +20,7 @@
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel---Accessories-Product-Line-Management-Undergraduate-Intern_R-96479) | Product Line Management Intern - Apparel - Accessories | Beaverton, OR | Summer 2026 | 2026-10-27 | 2 | simplify-2026 |
 | [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378) | Technology Internship | Illinois | Summer 2027 | 2026-10-27 | 2 | simplify-2026 |
 | [Visa](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W) | Product Management Intern - Data and AI Team | Foster City, CA | Summer 2027 | 2026-10-27 | 2 | simplify-2026 |
+| [SageSure](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) | Data Science Product Analyst Intern | Fairfield, CA | Not specified | 2026-10-27 | 2 | applyguy-2027 |
 | [Visa](https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | Summer 2027 | 2026-10-27 | 2 | applyguy-2027 |
 | [Paccar](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) | Product Planning Intern | Kirkland, WA | Summer 2027 | 2026-10-26 | 3 | simplify-2026 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275719007) | Product Management Intern | LA | N/A | 2026-10-26 | 3 | simplify-2026 |
@@ -45,6 +48,7 @@
 | [CVS Health](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) | Innovation & Technology Internship - Product & Agile Delivery | Dallas, TX, Scottsdale, AZ, Hartford, CT, Woonsocket, RI | Summer 2027 | 2026-10-22 | 7 | simplify-2026 |
 | [Walmart](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739) | Automation Product Manager Intern - Product Manager | Lancaster, TX | Summer 2027 | 2026-10-22 | 7 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-10-22 | 7 | applyguy-2027 |
+| [OneEthos](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) | Product Management Intern | Remote in USA | Fall 2026, Spring 2027, Summer 2027 | 2026-10-21 | 8 | simplify-2026 |
 | [GoFundMe](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | MBA Product Management Intern | SF | Summer 2027 | 2026-10-21 | 8 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-10-21 | 8 | simplify-2026 |
 | [Allstate](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Product Management Advertising Intern | Illinois | Summer 2027 | 2026-10-21 | 8 | simplify-2026 |
