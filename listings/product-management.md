@@ -1,4 +1,4 @@
-# Product Management (288)
+# Product Management (289)
 
 [← back to index](../README.md)
 
@@ -42,6 +42,7 @@
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171) | Enterprise Payments Intern | Detroit, MI, Minnetonka, MN, Columbus, OH | Summer 2027 | 2026-10-23 | 6 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | Product Management Intern | Markham, ON, Canada | Summer 2027 | 2026-10-23 | 6 | simplify-2026 |
 | [1Password](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) | Product Management Intern, End User Experience - Winter 2027 | Remote, U.S. | Winter 2027 | 2026-10-23 | 6 | applyguy-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Product Management Intern | United States, Massachusetts, Cambridge | Not specified | 2026-10-23 | 6 | applyguy-2027 |
 | [Tesla](https://www.tesla.com/careers/search/job/287443) | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 | 7 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7655421207605889333) | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 | 7 | simplify-2026 |
 | [OpenArt AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | Early Adopter & Product Builder Intern - Creative AI | San Carlos, CA | N/A | 2026-10-22 | 7 | simplify-2026 |
@@ -143,7 +144,7 @@
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185) | AI Enablement Intern | Austin, TX | Summer 2027 | 2026-09-30 | 29 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261) | Product Management Intern - Digital Client | Mequon, WI | Winter 2026 | 2026-09-30 | 29 | simplify-2026 |
 | [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | 2027 MBA Intern – Product Manager | San Jose, CA | 2027 | 2026-09-30 | 29 | applyguy-2027 |
-| [Epic Games](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Product Management Intern | Cary, NC | Summer 2027 | 2026-09-29 | 30 | simplify-2026, applyguy-2027 |
+| [Epic Games](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Product Management Intern | Cary, NC | Summer 2027 | 2026-09-29 | 30 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) | Product Management Technology Intern | Conyers, GA | Summer 2027 | 2026-09-29 | 30 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors) | Finance AI Product Management Intern | Atlanta, GA | Summer 2027 | 2026-09-29 | 30 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7689010193607051525) | Cross-border E-commerce Product Operations Intern - TikTok Shop - User & Promotion Growth Product | Seattle, WA | Summer 2026 | 2026-09-29 | 30 | simplify-2026 |
