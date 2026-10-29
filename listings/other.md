@@ -1,9 +1,14 @@
-# Other (3015)
+# Other (3018)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [PTC](https://go.vansh.nyc/Zw) | Arena Engineering Intern | San Mateo, CA | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toyota Research Institute](https://go.vansh.nyc/Zx) | Robotics Intern, Human-Machine Interaction Research | Los Altos, CA | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Hewlett Packard Enterprise](https://go.vansh.nyc/Zt) | ASIC Verification Engineering Intern | Roseville, CA | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
+| [National Interstate Insurance](https://go.vansh.nyc/Zr) | DevOps Developer Intern | Cincinnati, OH | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Toyota Research Institute](https://go.vansh.nyc/Zu) | Human Interactive Driving Research Intern, Perception for Driving at the Limits | Los Altos, CA | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/Zo) | Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving | Los Altos, CA | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Zd) | Extreme Programming Engineer Intern | Cincinnati, OH | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/Ze) | Content Publishing Developer Intern | Cincinnati, OH | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -15,7 +20,7 @@
 | [RTX](https://go.vansh.nyc/Zm) | Sustainment Data and Analytics Intern | East Hartford, CT | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Globalhr](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Hot-Section-Engineering---Design-Engineer-Co-Op--January-2027---Hybrid-_01882862-1) | Hot Section Engineering - Design Engineer Co-Op (January 2027) (Hybrid) | US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 |  | 2026-10-29 | 0 | dreamwork-2027 |
 | [Globalhr](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Sustainment-Data-and-Analytics-Intern--Summer-2027-_01885110) | Sustainment Data and Analytics Intern (Summer 2027) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |  | 2026-10-29 | 0 | dreamwork-2027 |
-| [Sonos](https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1) | Software Product Management Intern (Seattle) | Seattle, WA |  | 2026-10-29 | 0 | dreamwork-2027, applyguy-2027 |
+| [Sonos](https://sonos.wd1.myworkdayjobs.com/sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1) | Software Product Management Intern (Seattle) | Seattle, WA |  | 2026-10-29 | 0 | dreamwork-2027, applyguy-2027 |
 | [Jmfamily](https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158) | Software Engineer Intern | Florida - Deerfield Beach |  | 2026-10-29 | 0 | dreamwork-2027 |
 | [Jmfamily](https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125) | Customer Experience Data Analyst Intern | Florida - Deerfield Beach |  | 2026-10-29 | 0 | dreamwork-2027 |
 | [Gilead Sciences](https://go.vansh.nyc/Z7) | Research Intern, Oncology Biomarker - AI | Foster City, CA | Summer | 2026-10-29 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -2325,7 +2330,6 @@
 | [Hyvee](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Graphic-Design-Intern---Summer-2027_R249893) | Graphic Design Intern - Summer 2027 | Corporate Office, Westown Pkwy., West Des Moines, IA |  | 2026-09-04 | 55 | dreamwork-2027 |
 | [Micron](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Rules_JR110670) | Intern - DRAM Design Rules | Boise, ID - Main Site |  | 2026-09-04 | 55 | dreamwork-2027 |
 | [Amazon](https://go.vansh.nyc/Mg) | Software Development Engineer Intern, Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington, VA, Bellevue, WA, Westborough, MA | Summer | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
-| [DIRECTV](https://go.vansh.nyc/M9) | Product Development Intern, DIRECTV for Business | Clarksburg, MD | Summer | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
 | [Marvell](https://go.vansh.nyc/Mb) | Functional Validation Intern | Santa Clara, CA, Boise, ID, Westborough, MA | Summer | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
 | [Marvell](https://go.vansh.nyc/Me) | Design Verification Intern | Morrisville, NC, Austin, TX, Santa Clara, CA, Boise, ID, Westborough, MA | Summer | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
 | [Marvell](https://go.vansh.nyc/Mf) | Physical Design Engineer Intern | Morrisville, NC, Austin, TX, Rochester, MN, Santa Clara, CA, Boise, ID, Burlington, VT, Westborough, MA | Summer | 2026-09-04 | 55 | vanshb03-2026, vanshb03-2027 |
@@ -2386,7 +2390,6 @@
 | [Kinder Morgan](https://go.vansh.nyc/LX) | Information Technology Intern, Application Development | Houston, TX | Summer | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4709040006) | Backend Developer Intern | New York, New York |  | 2026-09-01 | 58 | dreamwork-2027 |
 | [Johns Hopkins Applied Physics Laboratory](https://go.vansh.nyc/LV) | Software Developer Intern, Tactical System Prototyping and Deployment | Laurel, MD | Summer | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
-| [Johns Hopkins Applied Physics Laboratory](https://go.vansh.nyc/LW) | Cyber Software Engineer Intern, Capabilities Development | Laurel, MD | Summer | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
 | [Johns Hopkins Applied Physics Laboratory](https://go.vansh.nyc/Q5) | Weapon Control Intern | Laurel, MD | Summer | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
 | [Johns Hopkins Applied Physics Laboratory](https://go.vansh.nyc/LU) | Engineer/SW Developer/Analyst Intern, Maritime Force Engagement Control | Laurel, MD | Summer | 2026-09-01 | 58 | vanshb03-2026, vanshb03-2027 |
 | [Hpiq](https://job-boards.greenhouse.io/hpiq/jobs/6176783004) | Software Engineering Intern, Connectivity (Summer 2027) | San Francisco, CA |  | 2026-09-01 | 58 | dreamwork-2027 |

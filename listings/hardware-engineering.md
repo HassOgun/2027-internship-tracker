@@ -1,4 +1,4 @@
-# Hardware Engineering (944)
+# Hardware Engineering (942)
 
 [← back to index](../README.md)
 
@@ -96,7 +96,6 @@
 | [Synopsys](https://synopsys.avature.net/careers/JobDetail/19182) | Technical-Engineering Intern | Markham, ON, Canada | Summer 2027 | 2026-10-22 | 7 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54191?icims=1) | R&D IC Engineering Intern | Colorado Springs, CO | N/A | 2026-10-22 | 7 | simplify-2026 |
 | [L3Harris Technologies](https://jobs.l3harris.com/job/Tulsa-Intern,-Software-Engineer-OK-74115/1442777600/?ats=successfactors) | Software Engineer Intern | Tulsa, OK | N/A | 2026-10-22 | 7 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [S&C Electric Company](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107453) | Electronics Engineering Intern - TBI | Chicago, IL | Summer 2027 | 2026-10-22 | 7 | simplify-2026 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721678727) | Camera Design Implementation Intern | Vancouver, BC, Canada | Summer 2027 | 2026-10-22 | 7 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Tacit](https://jobs.ashbyhq.com/tacit/cadc8b71-ee79-4b44-951b-da7c5a0142eb/application?embed=true) | System Electrical Engineer Intern | SF | N/A | 2026-10-22 | 7 | simplify-2026 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true) | Hardware Test and Reliability Intern - Summer 2027 | San Mateo, CA | Summer 2027 | 2026-10-22 | 7 | simplify-2026 |
@@ -154,7 +153,6 @@
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54804?icims=1) | R&D Hardware Engineer Intern | Santa Clara, CA | N/A | 2026-10-19 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://qualcomm.eightfold.ai/careers/job/446721636316) | QDSP Hardware Physical Design Intern | Markham, ON, Canada | Summer 2027 | 2026-10-19 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Heron Power](http://jobs.ashbyhq.com/heron-power/5dbf22e3-41ba-40de-b428-6fab9934d6da/application?embed=true) | Firmware Engineer Intern | Scotts Valley, CA | N/A | 2026-10-19 | 10 | simplify-2026 |
-| [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/60390?icims=1) | Electrical and Computer Engineer Intern | Laurel, MD | Summer 2027 | 2026-10-19 | 10 | simplify-2026 |
 | [Robert Bosch Venture Capital](https://jobs.smartrecruiters.com/BoschGroup/744000156311682) | Software Engineering Co-op | Fountain Inn, SC | Summer 2027 | 2026-10-19 | 10 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020) | ASIC Intern | Roseville, CA | Summer 2026 | 2026-10-19 | 10 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168) | Hardware Engineering Design Intern | Roseville, CA | N/A | 2026-10-19 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |

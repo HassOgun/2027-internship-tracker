@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Myhrabc | Intern,Technical Business Analyst / Product Owner | Business Analysis | Carrollton, TX | Other Texas | 2026-09-26 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
 | 20 | Pimco | 2027 Summer Intern - Technology Analyst, Software Engineering | IT / Information Systems | Austin, TX USA | Other Texas | 2026-08-19 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 
-*Generated 2026-10-29 18:49 UTC.*
+*Generated 2026-10-29 21:28 UTC.*
