@@ -1,4 +1,4 @@
-# Other (3030)
+# Other (3033)
 
 [← back to index](../README.md)
 
@@ -7,6 +7,9 @@
 | [L3Harris Technologies](https://go.vansh.nyc/10n) | FPGA Software Tool Developer Co-op | Waterdown, Canada | Summer | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/10o) | AI Systems Software Engineering Intern | Austin, TX | Summer | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/10m) | Soft IP Engineer Co-op | Ottawa, Canada | Summer | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [MITRE](https://go.vansh.nyc/10t) | Data Science and Engineering Intern | McLean, VA | Summer | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [MITRE](https://go.vansh.nyc/10r) | Trustworthy AI Intern | McLean, VA | Summer | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
+| [MITRE](https://go.vansh.nyc/10s) | Critical Infrastructure Protection Intern | McLean, VA | Summer | 2026-10-30 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Synopsys](https://go.vansh.nyc/10b) | Technical Engineer Intern | Ottawa, Canada | Summer | 2026-10-29 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Waterworth](https://go.vansh.nyc/10a) | Computer Science Co-op | Victoria, Canada | Winter | 2026-10-29 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/ZK) | AI Software Engineering Co-op | Toronto, Canada | Summer | 2026-10-29 | 1 | vanshb03-2026, vanshb03-2027 |

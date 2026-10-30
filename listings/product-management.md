@@ -1,9 +1,10 @@
-# Product Management (289)
+# Product Management (290)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005) | AI Product Management Intern | San Jose, CA | N/A | 2026-10-30 | 0 | simplify-2026 |
 | [Tmobile](https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746) | Summer 2027 Assoc Product Manager Internship | Overland Park, KS | Summer 2027 | 2026-10-30 | 0 | applyguy-2027 |
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX, Hopkinton, MA | N/A | 2026-10-29 | 1 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8328914) | Product Manager Intern | London, UK | Summer 2027 | 2026-10-29 | 1 | simplify-2026 |
