@@ -1,9 +1,10 @@
-# Product Management (299)
+# Product Management (304)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [HP](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1) | Product Management Intern | Spring, TX | Not specified | 2026-10-31 | 0 | applyguy-2027 |
 | [MANN+HUMMEL](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Product Management & Market Intelligence Intern | Gastonia, NC | Spring 2027 | 2026-10-30 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701486873210390837) | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Winter 2027 | 2026-10-30 | 1 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701480558070597893) | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA | Winter 2027 | 2026-10-30 | 1 | simplify-2026 |
@@ -17,6 +18,7 @@
 | [Signify](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897) | Product Management Intern, Cooper Lighting Solutions - Spring 2027 | Aurora, CO | Spring 2027 | 2026-10-30 | 1 | applyguy-2027 |
 | [Snowflake](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf) | Product Management Intern (Summer 2027) | Menlo Park, CA | Summer 2027 | 2026-10-30 | 1 | applyguy-2027 |
 | [Teamworks](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06) | Product Management MBA Intern | Remote, U.S. | Not specified | 2026-10-30 | 1 | applyguy-2027 |
+| [The New York Times](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005) | Product Management Intern, Wirecutter | New York City, NY | Not specified | 2026-10-30 | 1 | applyguy-2027 |
 | [Tmobile](https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746) | Summer 2027 Assoc Product Manager Internship | Overland Park, KS | Summer 2027 | 2026-10-30 | 1 | applyguy-2027 |
 | [Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775) | Product Management MBA Intern | Santa Clara, CA, Round Rock, TX, Hopkinton, MA | N/A | 2026-10-29 | 2 | simplify-2026 |
 | [Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/8328914) | Product Manager Intern | London, UK | Summer 2027 | 2026-10-29 | 2 | simplify-2026 |
@@ -52,6 +54,7 @@
 | [Intercontinental Exchange, Inc.](https://careers-ice.icims.com/jobs/14065/summer-internship-program-2027---product-management-intern/job) | Summer Internship Program 2027 - Product Management Intern | Atlanta, GA | Summer | 2026-10-25 | 6 | applyguy-2027 |
 | [Intercontinental Exchange, Inc.](https://careers-ice.icims.com/jobs/14086/summer-internship-program-2027---product-strategy-intern/job) | Summer Internship Program 2027 - Product Strategy Intern | Jacksonville, FL | Summer | 2026-10-25 | 6 | applyguy-2027 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Product Manager Intern | Cambridge, MA | N/A | 2026-10-23 | 8 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14065?icims=1) | Product Management Intern | Atlanta, GA | Summer 2027 | 2026-10-23 | 8 | simplify-2026 |
 | [1Password](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | Product Management Intern - End User Experience | Remote in USA, Remote in Canada | Winter 2027 | 2026-10-23 | 8 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Technical Product Manager Intern | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | 2026-10-23 | 8 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | Product Manager Intern - ALA | Seattle, WA | Summer 2027 | 2026-10-23 | 8 | simplify-2026 |
@@ -61,6 +64,7 @@
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171) | Enterprise Payments Intern | Detroit, MI, Minnetonka, MN, Columbus, OH | Summer 2027 | 2026-10-23 | 8 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | Product Management Intern | Markham, ON, Canada | Summer 2027 | 2026-10-23 | 8 | simplify-2026 |
 | [1Password](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) | Product Management Intern, End User Experience - Winter 2027 | Remote, U.S. | Winter 2027 | 2026-10-23 | 8 | applyguy-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Product Management Intern | United States, Massachusetts, Cambridge | Not specified | 2026-10-23 | 8 | applyguy-2027 |
 | [Tesla](https://www.tesla.com/careers/search/job/287443) | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 | 9 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7655421207605889333) | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 | 9 | simplify-2026 |
 | [OpenArt AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | Early Adopter & Product Builder Intern - Creative AI | San Carlos, CA | N/A | 2026-10-22 | 9 | simplify-2026 |
@@ -87,6 +91,9 @@
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) | Product Manager MBA Intern, Enterprise AI - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-10-19 | 12 | applyguy-2027 |
 | [TikTok](https://lifeattiktok.com/search/7697105572165519621) | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 | 14 | simplify-2026 |
 | [Behaviour Interactive](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Product Management Intern - 7 Days to Die | Montreal, QC, Canada | Winter 2027 | 2026-10-16 | 15 | simplify-2026 |
+| [Publicis Groupe](https://publicisgroupe.jibeapply.com/jobs/172716?icims=1) | Product Intern | Chicago, IL | Summer 2026 | 2026-10-16 | 15 | simplify-2026 |
+| [Publicis Groupe](https://publicisgroupe.jibeapply.com/jobs/172717?icims=1) | Product Intern | NYC | Summer 2026 | 2026-10-16 | 15 | simplify-2026 |
+| [Publicis Groupe](https://publicisgroupe.jibeapply.com/jobs/172715?icims=1) | Product Intern | Irving, TX | Summer 2026 | 2026-10-16 | 15 | simplify-2026 |
 | [Duolingo](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Product Manager MBA Intern | Pittsburgh, PA | N/A | 2026-10-15 | 16 | simplify-2026 |
 | [ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2) | Associate Product Management Intern | Chicago, IL | N/A | 2026-10-15 | 16 | simplify-2026, vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [Q2](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Product-Operations_REQ-12904-1) | Product Operations Intern - Product Operations | Austin, TX | Summer 2027 | 2026-10-15 | 16 | simplify-2026 |
@@ -160,6 +167,7 @@
 | [Epic Games](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) | Technical Product Management Intern | Cary, NC | Winter 2026 | 2026-09-30 | 31 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014784) | Product Analyst Intern - Undergraduate - ECMX | London, UK | Winter 2026 | 2026-09-30 | 31 | simplify-2026 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185) | AI Enablement Intern | Austin, TX | Summer 2027 | 2026-09-30 | 31 | simplify-2026 |
+| [Schneider Electric](https://se.jibeapply.com/jobs/135310?icims=1) | Graduate Product Management Intern | Nashville, TN | Summer 2027 | 2026-09-30 | 31 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261) | Product Management Intern - Digital Client | Mequon, WI | Winter 2026 | 2026-09-30 | 31 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Product Management Intern | Cary, NC | Summer 2027 | 2026-09-29 | 32 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) | Product Management Technology Intern | Conyers, GA | Summer 2027 | 2026-09-29 | 32 | simplify-2026 |
@@ -178,6 +186,7 @@
 | [Sparx Learning](https://job-boards.eu.greenhouse.io/sparxlearning/jobs/4979971101) | Product Leadership Intern | Exeter, UK | Fall 2027 | 2026-09-21 | 40 | simplify-2026 |
 | [AutoZone](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427) | Ecommerce Intern | Memphis, TN | Summer 2027 | 2026-09-21 | 40 | simplify-2026 |
 | [Publicis Groupe](https://careers.publicisgroupe.com/jobs/172574?icims=1) | Product Manager Intern - Class of 2028 | Chicago, IL | Summer 2027 | 2026-09-18 | 43 | simplify-2026 |
+| [Publicis Groupe](https://publicisgroupe.jibeapply.com/jobs/172574?icims=1) | Product Manager Intern | Boston, MA | Summer 2027 | 2026-09-18 | 43 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) | Product Management Intern - Digital Product | Austin, TX, Warren, MI | Summer 2027 | 2026-09-18 | 43 | simplify-2026 |
 | [Tradeweb](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301926) | Emerging Markets Internship | NYC | Summer 2027 | 2026-09-17 | 44 | simplify-2026 |
 | [Farmers Mutual Hail](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4404335009) | Product Owner Intern | West Des Moines, IA | Summer 2027 | 2026-09-17 | 44 | simplify-2026 |
@@ -217,7 +226,6 @@
 | [Ernst & Young](https://eyglobal.yello.co/jobs/j21FS2VcGwQq6MZcPdNRoQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Tax Technology and Transformation Products Intern - Tax | Dallas, TX, NYC | Summer 2027 | 2026-09-04 | 57 | simplify-2026 |
 | [Ernst & Young](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Product Manager Intern - Tax - Other Tax | NYC | Summer 2027 | 2026-09-04 | 57 | simplify-2026 |
 | [OATEY](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) | Product Management Intern | Cleveland, OH | Summer 2027 | 2026-09-04 | 57 | simplify-2026 |
-| [Roblox](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | Product Management Intern | San Mateo, CA | Summer 2027 | 2026-09-03 | 58 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7677493272788683013) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA | Summer 2027 | 2026-09-03 | 58 | simplify-2026 |
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) | Quality Engineer Intern | Spring, TX | Winter 2026 | 2026-09-02 | 59 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | Product Management Intern - Risk Management | St Paul, MN | Summer 2027 | 2026-09-02 | 59 | simplify-2026 |
@@ -235,7 +243,6 @@
 | [Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317) | Product Management Intern - Pmdp | Hartford, CT | Summer 2026 | 2026-09-01 | 60 | simplify-2026 |
 | [Oshkosh](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746) | Product Management Intern | Appleton, WI | Summer 2027 | 2026-08-31 | 61 | simplify-2026 |
 | [Medline](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983) | Product Management Intern - Summer 2027 | Chicago, IL, Northfield, IL | Summer 2027 | 2026-08-31 | 61 | simplify-2026 |
-| [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) | Product Management Intern - Controls Lifecare Services | Longmont, CO, Greenville, SC | Summer 2027, Winter 2027 | 2026-08-30 | 62 | simplify-2026 |
 | [Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634) | Product Management Intern | Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA | N/A | 2026-08-28 | 64 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [TELUS Digital](https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application?embed=true) | Product Analyst Intern | Columbus, OH | Summer 2027 | 2026-08-27 | 65 | simplify-2026 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155594) | Offering Management Intern | United States | Summer 2027 | 2026-08-27 | 65 | simplify-2026 |
@@ -246,7 +253,6 @@
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142) | Product Management Intern - Parts & Accessories | Fond du Lac, WI | Fall 2026 | 2026-08-25 | 67 | simplify-2026 |
 | [Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213) | Product Management Intern - Oils & Lubricants | Fond du Lac, WI | Summer 2027 | 2026-08-25 | 67 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803) | Controls Product Management Intern - Summer 2027 | Longmont, CO, Greenville, SC | Summer 2027 | 2026-08-25 | 67 | simplify-2026 |
-| [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3) | Controls Product Management Intern | Longmont, CO, Greenville, SC | Summer 2027 | 2026-08-25 | 67 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673361736079329541) | Product Operations Intern | LA | Summer 2027 | 2026-08-24 | 68 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673365416605010229) | Product Manager Intern - Pgc | LA | Summer 2027 | 2026-08-24 | 68 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7673365923163638069) | Product Manager Intern - Pgc | San Jose, CA | Summer 2027 | 2026-08-24 | 68 | simplify-2026 |
@@ -302,4 +308,3 @@
 | [Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334344) | Project Manager Intern | Seattle, WA | Fall 2026 | 2026-05-21 | 163 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7634027348048709941) | Product Manager Project Intern - Ads Interface and Platform | San Jose, CA | Summer 2026 | 2026-04-30 | 184 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7620569902743406901) | Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-03-24 | 221 | simplify-2026 |
-| [Creatify Lab](https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application) | Product Manager | Mountain View, CA | Summer 2026 | 2026-03-05 | 240 | simplify-2026 |
