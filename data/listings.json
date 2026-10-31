@@ -11246,25 +11246,6 @@
     ]
   },
   {
-    "company_name": "Mantari",
-    "title": "Software Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/mantari/jobs/4173646009",
-    "locations": [
-      "LA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772747573,
-    "date_updated": 1793284600,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "company_name": "Datasite",
     "title": "Product Management Intern",
     "url": "https://datasite.wd1.myworkdayjobs.com/datasite/job/GBR---London/Product-Intern_R36469",
@@ -11278,25 +11259,6 @@
     "date_posted": 1793232000,
     "date_updated": 1793284596,
     "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Mantari",
-    "title": "Electrical Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/mantari/jobs/4173653009",
-    "locations": [
-      "Torrance, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772747830,
-    "date_updated": 1793284562,
-    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -46270,6 +46232,25 @@
   },
   {
     "company_name": "Meta",
+    "title": "Research Scientist Intern - Meta Recommendation Systems - PhD",
+    "url": "https://www.metacareers.com/jobs/1416549056773684",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1792793117,
+    "date_updated": 1792793168,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Meta",
     "title": "Research Scientist Intern - Wearable Sensing & Human Motion Analysis",
     "url": "https://www.metacareers.com/jobs/1137225375529389",
     "locations": [
@@ -54085,6 +54066,29 @@
     ]
   },
   {
+    "company_name": "Meta",
+    "title": "Research Scientist Intern - AI Alignment",
+    "url": "https://www.metacareers.com/jobs/2356892281747003",
+    "locations": [
+      "Boston, MA",
+      "Seattle, WA",
+      "SF",
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1792707013,
+    "date_updated": 1792707129,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "SPS Commerce",
     "title": "Software Engineer Intern",
     "url": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398",
@@ -61289,6 +61293,27 @@
     ],
     "category": "Software",
     "date_posted": 1792534507,
+    "date_updated": 1792534687,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Skydio",
+    "title": "Wireless Hardware Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1792534508,
     "date_updated": 1792534687,
     "active": true,
     "is_visible": true,
@@ -79805,6 +79830,26 @@
     "date_posted": 1791849600,
     "date_updated": 1791929356,
     "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Meta",
+    "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
+    "url": "https://www.metacareers.com/jobs/1139865145249047",
+    "locations": [
+      "Redmond, WA",
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1791929215,
+    "date_updated": 1791929356,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -107014,7 +107059,7 @@
   {
     "company_name": "Intel",
     "title": "AI Software Technical Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544",
     "locations": [
       "Santa Clara, CA"
     ],
@@ -107027,8 +107072,7 @@
     "active": false,
     "is_visible": true,
     "_sources": [
-      "simplify-2026",
-      "applyguy-2027"
+      "simplify-2026"
     ]
   },
   {
@@ -109549,120 +109593,6 @@
     "is_visible": true,
     "_sources": [
       "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Attentive",
-    "title": "Product Management Intern, Agentic Integrations",
-    "url": "https://job-boards.greenhouse.io/attentive/jobs/4429880009",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Product",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Gas South",
-    "title": "Software Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247622",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "RTX",
-    "title": "Flight Control Software Engineering Intern (Summer 2027) (Open)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "RTX",
-    "title": "Software Engineer, DevSecOps Co-Op (Summer/Fall 2027) (Hybrid)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer--DevSecOps-Co-Op--Summer-Fall-2027---Hybrid-_01873555",
-    "locations": [
-      "Aguadilla, PR"
-    ],
-    "terms": [
-      "Fall 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "RTX",
-    "title": "Software Engineering Co-Op (Avionics) (Summer/Fall 2027) (Hybrid)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664",
-    "locations": [
-      "Aguadilla, PR"
-    ],
-    "terms": [
-      "Fall 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Walleye Capital Internships",
-    "title": "Special Projects Developer Intern (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
-    "locations": [
-      "New York City, NY"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
     ]
   },
   {
@@ -165326,7 +165256,7 @@
     "category": "Quant",
     "date_posted": 1788426251,
     "date_updated": 1788790562,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -188991,7 +188921,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788238446,
     "date_updated": 1788239715,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -285864,6 +285794,28 @@
   },
   {
     "company_name": "Meta",
+    "title": "Research Scientist Intern - Multimodal AI",
+    "url": "https://www.metacareers.com/jobs/1732424664451603",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1778882799,
+    "date_updated": 1778882941,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Meta",
     "title": "Research Scientist Intern - Multimodal Contextual AI",
     "url": "https://www.metacareers.com/jobs/2160167211413098",
     "locations": [
@@ -314139,25 +314091,6 @@
     "category": "AI/ML/Data",
     "date_posted": 1776348336,
     "date_updated": 1776348361,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Overview Energy",
-    "title": "Hardware Development Intern - Electrical",
-    "url": "https://jobs.ashbyhq.com/overviewenergy/46f967f0-65a6-4e76-9869-f10468cdb13e/application",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752433,
-    "date_updated": 1776334321,
     "active": false,
     "is_visible": true,
     "_sources": [
@@ -347941,6 +347874,25 @@
     ]
   },
   {
+    "company_name": "Commonwealth of Massachusetts",
+    "title": "Intern - Data Analytics",
+    "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268",
+    "locations": [
+      "Massachusetts"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1773872663,
+    "date_updated": 1773872663,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Primetals Technologies",
     "title": "Engineering Integration Associate Intern",
     "url": "https://mhicareers.com/job/Lake-Mary-Engineering-Integration-Associate-Internship-FL-32746/1375175033/?ats=successfactors",
@@ -365532,6 +365484,28 @@
     ]
   },
   {
+    "company_name": "Meta",
+    "title": "Research Scientist Intern - Applied Perception Science - PhD",
+    "url": "https://www.metacareers.com/jobs/1884811572142821",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026",
+      "Winter 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1772838901,
+    "date_updated": 1772838901,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Capital Rx",
     "title": "Intern",
     "url": "https://job-boards.greenhouse.io/capitalrx/jobs/5127022008",
@@ -367313,1599 +367287,6 @@
     "category": "Hardware",
     "date_posted": 1772753575,
     "date_updated": 1772753575,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Samsung Research America",
-    "title": "Intern - On Device Physical AI",
-    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8451101002",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772753471,
-    "date_updated": 1772753471,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "GE Vernova",
-    "title": "GE Vernova Time-Series Foundation Models Research Intern",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Time-Series-Foundation-Models-Research-Intern---Summer-2026_R5034632-1",
-    "locations": [
-      "Schenectady, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772753415,
-    "date_updated": 1772753415,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Cloudflare",
-    "title": "Data Analytics Intern - Summer 2026",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7668989",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772753297,
-    "date_updated": 1772753297,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Alayacare",
-    "title": "Developer Intern",
-    "url": "https://alayacare.com/open-positions?gh_jid=8451707002",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772753283,
-    "date_updated": 1772753283,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "AcreTrader",
-    "title": "Data Solutions",
-    "url": "https://ats.rippling.com/acretrader-jobs/jobs/51cfccd9-33dc-4f3d-b037-50994661303b",
-    "locations": [
-      "Fayetteville, AR"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772753276,
-    "date_updated": 1772753276,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Span",
-    "title": "Mobile Engineering Intern",
-    "url": "https://jobs.ashbyhq.com/span/722b25c6-e62e-44d3-ad9b-b2e1554a12f4/application",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772753259,
-    "date_updated": 1772753259,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "CSAA Insurance Group",
-    "title": "Data Science Intern",
-    "url": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Nevada---Home-Teleworkers/Data-Science-Intern--Remote_R7643",
-    "locations": [
-      "Nevada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772753221,
-    "date_updated": 1772753221,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "CareBridge",
-    "title": "Business Innovation Intern",
-    "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Business-Innovation-Intern--Summer-2026_JR184054-1",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1772753193,
-    "date_updated": 1772753193,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "TD Bank",
-    "title": "Risk Management - Model Development Intern/Co-op",
-    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Model-Development-Intern-Co-op--Summer-2026-_R_1461411",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quant",
-    "date_posted": 1772753188,
-    "date_updated": 1772753188,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-    "title": "Defense Technologies Engineering Division - Undergraduate Intern",
-    "url": "https://jobs.smartrecruiters.com/LLNL/3743990012000188",
-    "locations": [
-      "Livermore, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772753170,
-    "date_updated": 1772753170,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Itron",
-    "title": "Intern Hardware Product Development",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Hardware-Product-Development--Summer-2026-_JR101824",
-    "locations": [
-      "Liberty Lake, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772753148,
-    "date_updated": 1772753148,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Itron",
-    "title": "Intern \u2013 Hardware Product Development",
-    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Hardware-Product-Development--Summer-2026-_JR101824-1",
-    "locations": [
-      "Liberty Lake, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772753146,
-    "date_updated": 1772753146,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Vertex Pharmaceuticals",
-    "title": "Lab Systems Engineering Co-op",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--Lab-Systems-Engineering_REQ-28223-1",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Summer 2026",
-      "Fall 2026",
-      "Winter 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772753131,
-    "date_updated": 1772753131,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Vertex Pharmaceuticals",
-    "title": "Vertex Co-op",
-    "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--Data-Technology---Engineering-for-Research_REQ-28220-1",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772753130,
-    "date_updated": 1772753130,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "KION Group",
-    "title": "Software Engineer Intern/Co-op",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineer-Intern-Co-Op_JR-0087991",
-    "locations": [
-      "Grand Rapids, MI",
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772753095,
-    "date_updated": 1772753095,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "AECOM",
-    "title": "Science Intern",
-    "url": "https://jobs.smartrecruiters.com/AECOM2/744000113028357",
-    "locations": [
-      "Lowell, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772753010,
-    "date_updated": 1772753010,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Schweitzer Engineering Laboratories",
-    "title": "Specialist Intern",
-    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Specialist-Intern_2026-19615",
-    "locations": [
-      "Houston, TX",
-      "Plano, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772753002,
-    "date_updated": 1772753002,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "John Deere",
-    "title": "Part Time Student - Software Engineer",
-    "url": "https://johndeere.eightfold.ai/careers/job/137479561561",
-    "locations": [
-      "Ames, IA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "Software",
-    "date_posted": 1772752946,
-    "date_updated": 1772752946,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Span",
-    "title": "Device Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/span/645d983c-8fbf-4a12-9df7-2a0466428197/application",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752919,
-    "date_updated": 1772752919,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Span",
-    "title": "Hardware Test Intern",
-    "url": "https://jobs.ashbyhq.com/span/104d2d21-9b7a-43cd-8cd1-ca0643b49252/application",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752918,
-    "date_updated": 1772752918,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Text Data Research",
-    "url": "https://www.metacareers.com/jobs/1183817733250704",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752912,
-    "date_updated": 1772752912,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Robotic Control Policy",
-    "url": "https://www.metacareers.com/jobs/24308030212183826",
-    "locations": [
-      "Burlingame, CA",
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752895,
-    "date_updated": 1772752895,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Thermal Engineer Intern",
-    "url": "https://www.metacareers.com/jobs/857648773901332",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752841,
-    "date_updated": 1772752841,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Skydio",
-    "title": "Manufacturing Design Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/skydio/5d12ad64-c439-4ee3-947c-de488b458c0c/application",
-    "locations": [
-      "Hayward, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752834,
-    "date_updated": 1772752834,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Skydio",
-    "title": "Wireless Hardware Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/skydio/5e1057a4-214f-4783-b676-c1315cfa81ea/application",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752834,
-    "date_updated": 1772752834,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Multimodal Generative AI and Robotics",
-    "url": "https://www.metacareers.com/jobs/1468284791260126",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752833,
-    "date_updated": 1772752833,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Glimpse Engineering",
-    "title": "Computer Vision Data Intern",
-    "url": "https://jobs.ashbyhq.com/glimp-se/c9b277ee-5355-42a4-b050-a6fb796d4513/application",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752825,
-    "date_updated": 1772752825,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Commonwealth of Massachusetts",
-    "title": "Graduate Intern - Child Support",
-    "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001QQ",
-    "locations": [
-      "Agawam, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752797,
-    "date_updated": 1772752797,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Commonwealth of Massachusetts",
-    "title": "Intern - Data Analytics",
-    "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001PL",
-    "locations": [
-      "Massachusetts"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752794,
-    "date_updated": 1772752794,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "CACI",
-    "title": "Software Engineer Intern",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/Software-Engineer-Intern---Summer-2026_322851",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772752786,
-    "date_updated": 1772752786,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Gulfstream",
-    "title": "Collegiate Intern",
-    "url": "https://careers.gulfstream.com/job/Savannah-Fall-2026-IEF-Machine-Learning-&-Data-Science-Eng-Collegiate-Intern-GA-31401/1370659700/?ats=successfactors",
-    "locations": [
-      "Savannah, GA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752772,
-    "date_updated": 1772752772,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Rakuten",
-    "title": "Intern \u2013 Product Marketing",
-    "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenRewards/job/San-Mateo-California/Intern---Product-Marketing_1031836-1",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1772752763,
-    "date_updated": 1772752763,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Samsung",
-    "title": "Deep Learning Innovation Modeling Intern",
-    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Deep-Learning-Innovation-Modeling-Intern_R115048",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752741,
-    "date_updated": 1772752741,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Samsung",
-    "title": "DL Gen AI Intern",
-    "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/DL-Gen-AI-Intern_R115049",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752708,
-    "date_updated": 1772752708,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - MSL Infra Kernels & Optimizations",
-    "url": "https://www.metacareers.com/jobs/1901750214551007",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752658,
-    "date_updated": 1772752658,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Monetization Generative AI - LLM",
-    "url": "https://www.metacareers.com/jobs/2916726525182155",
-    "locations": [
-      "Seattle, WA",
-      "Menlo Park, CA",
-      "NYC",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752642,
-    "date_updated": 1772752642,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Voice Modeling Team",
-    "url": "https://www.metacareers.com/jobs/1523439395527958",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752632,
-    "date_updated": 1772752632,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Sunwater Capital",
-    "title": "Data Engineering Intern - Congressional Data",
-    "url": "https://jobs.lever.co/sunwatercapital/51139004-df7d-409e-92d6-5c38c7f3c40a/apply",
-    "locations": [
-      "North Bethesda, MD"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752615,
-    "date_updated": 1772752615,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Tatari",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/tatari/jobs/8451506002",
-    "locations": [
-      "SF",
-      "LA",
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772752603,
-    "date_updated": 1772752603,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Tatari",
-    "title": "Software Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/tatari/jobs/8451505002",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772752598,
-    "date_updated": 1772752598,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Meta Recommendation Systems - PhD",
-    "url": "https://www.metacareers.com/jobs/887534076970830",
-    "locations": [
-      "Menlo Park, CA",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752559,
-    "date_updated": 1772752559,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Rolls Royce",
-    "title": "Quality & Data Analytics Co-op",
-    "url": "https://jobs.bmwgroup.com/job/Spartanburg-Quality-&-Data-Analytics-Co-op-(Fall-2026)-Sout/1370749233/?ats=successfactors",
-    "locations": [
-      "Spartanburg, SC"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752450,
-    "date_updated": 1772752450,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Overview Energy",
-    "title": "Hardware Development Intern - Mechanical",
-    "url": "https://jobs.ashbyhq.com/overviewenergy/81114355-7b12-4cad-9a35-7f7f351dcb62/application",
-    "locations": [
-      "Ashburn, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752421,
-    "date_updated": 1772752421,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Pytorch On-Device",
-    "url": "https://www.metacareers.com/jobs/1401444685044473",
-    "locations": [
-      "Menlo Park, CA",
-      "NYC",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752413,
-    "date_updated": 1772752413,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Agentic AI",
-    "url": "https://www.metacareers.com/jobs/1505624153994969",
-    "locations": [
-      "Menlo Park, CA",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752407,
-    "date_updated": 1772752407,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern",
-    "url": "https://www.metacareers.com/jobs/1445688106951654",
-    "locations": [
-      "Burlingame, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752402,
-    "date_updated": 1772752402,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Applied Vision - PhD",
-    "url": "https://www.metacareers.com/jobs/1112761774275681",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752399,
-    "date_updated": 1772752399,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Multimodal AI",
-    "url": "https://www.metacareers.com/jobs/2082160555965742",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752394,
-    "date_updated": 1772752394,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - AI Alignment",
-    "url": "https://www.metacareers.com/jobs/1782902493113620",
-    "locations": [
-      "Boston, MA",
-      "Seattle, WA",
-      "SF",
-      "Menlo Park, CA",
-      "NYC",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752391,
-    "date_updated": 1772752391,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Photorealistic Telepresence",
-    "url": "https://www.metacareers.com/jobs/2022109075207025",
-    "locations": [
-      "Sausalito, CA",
-      "Redmond, WA",
-      "Pittsburgh, PA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752385,
-    "date_updated": 1772752385,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "d-Matrix",
-    "title": "AI Software Architect",
-    "url": "https://jobs.ashbyhq.com/d-Matrix/4f6086f0-8c90-46cb-bb87-36b9ea89842c/application",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752371,
-    "date_updated": 1772752371,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - MSL Infra Kernels & Optimizations",
-    "url": "https://www.metacareers.com/jobs/4342539279351100",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752368,
-    "date_updated": 1772752368,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Antora Energy",
-    "title": "Power Supply Intern",
-    "url": "https://job-boards.greenhouse.io/antora/jobs/5819407004",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752354,
-    "date_updated": 1772752354,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist - Novel Organic Materials",
-    "url": "https://www.metacareers.com/jobs/884653154471172",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752343,
-    "date_updated": 1772752343,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Robert Bosch Venture Capital",
-    "title": "Foundation Models for Autonomous Driving AI Engineering Intern",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000112999098",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752343,
-    "date_updated": 1772752343,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "ASSA ABLOY",
-    "title": "Software Developer Intern",
-    "url": "https://assaabloy.jobs2web.com/job/New-Haven-Software-Developer-Intern-CT-06511/1370661333/?ats=successfactors",
-    "locations": [
-      "New Britain, CT"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772752341,
-    "date_updated": 1772752341,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - PyTorch Distributed - PhD",
-    "url": "https://www.metacareers.com/jobs/1804141453635398",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752328,
-    "date_updated": 1772752328,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Deliveroo",
-    "title": "Machine Learning Intern",
-    "url": "https://jobs.ashbyhq.com/deliveroo/09e09801-1f6b-4281-968e-e4a9f1f9c6a6/application",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752309,
-    "date_updated": 1772752309,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Nokia",
-    "title": "Customer Applications Engineer",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32830",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772752307,
-    "date_updated": 1772752307,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Mathematics - PhD",
-    "url": "https://www.metacareers.com/jobs/1471311707754788",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752307,
-    "date_updated": 1772752307,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Msl",
-    "url": "https://www.metacareers.com/jobs/1974267053433921",
-    "locations": [
-      "Menlo Park, CA",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752301,
-    "date_updated": 1772752301,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "ASA AI Exploration Team \u2013 Research Scientist Intern",
-    "url": "https://www.metacareers.com/jobs/987681160814077",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752284,
-    "date_updated": 1772752284,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - AI/ML - Core Ads Growth",
-    "url": "https://www.metacareers.com/jobs/771948392580541",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752278,
-    "date_updated": 1772752278,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Language and Multimodal Research - PhD",
-    "url": "https://www.metacareers.com/jobs/853054523849795",
-    "locations": [
-      "Seattle, WA",
-      "Menlo Park, CA",
-      "NYC",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752277,
-    "date_updated": 1772752277,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern PhD - Applied Research",
-    "url": "https://www.metacareers.com/jobs/2633206137040139",
-    "locations": [
-      "Menlo Park, CA",
-      "NYC",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752276,
-    "date_updated": 1772752276,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "AI Research Assistant - PhD",
-    "url": "https://www.metacareers.com/jobs/3250422131797159",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752275,
-    "date_updated": 1772752275,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Applied Perception Science - PhD",
-    "url": "https://www.metacareers.com/jobs/25766888559672059",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752265,
-    "date_updated": 1772752265,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Multimodal Foundations - PhD",
-    "url": "https://www.metacareers.com/jobs/898451286162557",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752248,
-    "date_updated": 1772752248,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Peraton",
-    "title": "Software Engineer Intern",
-    "url": "https://careers-peraton.icims.com/jobs/164209/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Hill AFB, UT"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772752247,
-    "date_updated": 1772752247,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Meta",
-    "title": "Research Scientist Intern - Applied Vision and Image Quality - PhD",
-    "url": "https://www.metacareers.com/jobs/1422892385992613",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752247,
-    "date_updated": 1772752247,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "PG&E",
-    "title": "Business Systems Specialist Intern",
-    "url": "https://careers.pge.com/job/Oakland-Business-Systems-Specialist-Intern-CA-94612/1370605300/?ats=successfactors",
-    "locations": [
-      "Oakland, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752191,
-    "date_updated": 1772752191,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Pure Storage",
-    "title": "Hardware Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/7681144",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752090,
-    "date_updated": 1772752090,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Nokia",
-    "title": "6G Intern Engineer",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32440",
-    "locations": [
-      "United Kingdom"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752038,
-    "date_updated": 1772752038,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Lennox International",
-    "title": "Product Management Intern",
-    "url": "https://uscareers-lennox.icims.com/jobs/51865/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Columbia, SC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1772752034,
-    "date_updated": 1772752034,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Nokia",
-    "title": "Services AI and Automation Intern/Co-op",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32609",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772752031,
-    "date_updated": 1772752031,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Nokia",
-    "title": "Embedded C/C++ Software Developer",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/32824",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "Hardware",
-    "date_posted": 1772752026,
-    "date_updated": 1772752026,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "General Dynamics Mission Systems",
-    "title": "Intern Engineer",
-    "url": "https://careers-gdms.icims.com/jobs/71285/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Bridgewater, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1772751993,
-    "date_updated": 1772751993,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Sundt",
-    "title": "Support Group Intern - Data Engineering",
-    "url": "https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9662",
-    "locations": [
-      "Tempe, AZ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772751983,
-    "date_updated": 1772751983,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Hearst",
-    "title": "Editorial AI Development Intern",
-    "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2026254",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1772751947,
-    "date_updated": 1772751947,
     "active": false,
     "is_visible": true,
     "_sources": [
