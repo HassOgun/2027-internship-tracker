@@ -1,5 +1,245 @@
 [
   {
+    "company_name": "Virginia Tech Applied Research Corporation",
+    "title": "Research Intern, Applied AI & Software Development",
+    "url": "https://go.vansh.nyc/12r",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793337748,
+    "date_updated": 1793477197,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Students Plus Startups",
+    "title": "Vroom Power Software Engineering Intern",
+    "url": "https://go.vansh.nyc/12s",
+    "locations": [
+      "San Antonio, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793376324,
+    "date_updated": 1793477197,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "GTI Energy",
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/12t",
+    "locations": [
+      "Des Plaines, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793386799,
+    "date_updated": 1793477197,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Economy Polymers & Chemicals",
+    "title": "AI & Business Systems Automation Intern",
+    "url": "https://go.vansh.nyc/12u",
+    "locations": [
+      "Houston, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793389475,
+    "date_updated": 1793477197,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Hendler Family Brewing Co.",
+    "title": "Software Engineering and IT Co-op",
+    "url": "https://go.vansh.nyc/12v",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1793396392,
+    "date_updated": 1793477197,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, CPU Debugger",
+    "url": "https://go.vansh.nyc/12k",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793226293,
+    "date_updated": 1793474153,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, CPU Profiler",
+    "url": "https://go.vansh.nyc/12l",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793226561,
+    "date_updated": 1793474153,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, DevOps",
+    "url": "https://go.vansh.nyc/12m",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793226660,
+    "date_updated": 1793474153,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, Audio",
+    "url": "https://go.vansh.nyc/12n",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793227060,
+    "date_updated": 1793474153,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, Platform Security",
+    "url": "https://go.vansh.nyc/12o",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793227382,
+    "date_updated": 1793474153,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, Connectivity",
+    "url": "https://go.vansh.nyc/12p",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793232000,
+    "date_updated": 1793474153,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nintendo",
+    "title": "Software Engineer Intern, Performance Tools",
+    "url": "https://go.vansh.nyc/12q",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793318400,
+    "date_updated": 1793474153,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Northrop Grumman",
     "title": "Data Scientist Intern - Product Support",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
@@ -109331,44 +109571,6 @@
     ]
   },
   {
-    "company_name": "Election Systems & Software LLC",
-    "title": "Summer Internship 2027 - DevOps",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553481",
-    "locations": [
-      "Omaha, NE"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Election Systems & Software LLC",
-    "title": "Summer Internship 2027 - Software Development",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553447",
-    "locations": [
-      "Omaha, NE"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Gas South",
     "title": "Software Engineering Intern",
     "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247622",
@@ -109377,44 +109579,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Mfs",
-    "title": "Summer 2027 Software Engineer Intern (June - August)",
-    "url": "https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1790812800,
-    "date_updated": 1790812800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Northrop Grumman",
-    "title": "2027 Software Engineering Intern - Colorado Springs CO",
-    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007",
-    "locations": [
-      "Roy, UT"
-    ],
-    "terms": [
-      "2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1790812800,

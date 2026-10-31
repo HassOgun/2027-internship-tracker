@@ -1,4 +1,4 @@
-# Software Engineering (1778)
+# Software Engineering (1774)
 
 [← back to index](../README.md)
 
@@ -900,11 +900,7 @@
 | [C&S Wholesale Grocers](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Houston-TX/IS-Internship---Web-Applications_R-268964) | IS Intern - Web Applications | Houston, TX | Summer 2026 | 2026-10-01 | 30 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637) | Computer Science and Software Engineering Intern | Chicago, IL | Summer 2027 | 2026-10-01 | 30 | simplify-2026 |
 | [First Bank & Trust](https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Sioux-Falls-SD-I-229/Software-Development-Intern_R-100829) | Software Development Intern | Brookings, SD, Sioux Falls, SD | Winter 2026 | 2026-10-01 | 30 | simplify-2026 |
-| [Election Systems & Software LLC](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553481) | Summer Internship 2027 - DevOps | Omaha, NE | Summer 2027 | 2026-10-01 | 30 | applyguy-2027 |
-| [Election Systems & Software LLC](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4553447) | Summer Internship 2027 - Software Development | Omaha, NE | Summer 2027 | 2026-10-01 | 30 | applyguy-2027 |
 | [Gas South](https://job-boards.greenhouse.io/gassouth/jobs/8247622) | Software Engineering Intern | Atlanta, GA | Not specified | 2026-10-01 | 30 | applyguy-2027 |
-| [Mfs](https://mfs.wd1.myworkdayjobs.com/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983) | Summer 2027 Software Engineer Intern (June - August) | Boston, MA | Summer 2027 | 2026-10-01 | 30 | applyguy-2027 |
-| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10254007) | 2027 Software Engineering Intern - Colorado Springs CO | Roy, UT | 2027 | 2026-10-01 | 30 | applyguy-2027 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974) | Flight Control Software Engineering Intern (Summer 2027) (Open) | Cedar Rapids, IA | Summer 2027 | 2026-10-01 | 30 | applyguy-2027 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer--DevSecOps-Co-Op--Summer-Fall-2027---Hybrid-_01873555) | Software Engineer, DevSecOps Co-Op (Summer/Fall 2027) (Hybrid) | Aguadilla, PR | Fall 2027 | 2026-10-01 | 30 | applyguy-2027 |
 | [RTX](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--Avionics---Summer-Fall-2027---Hybrid-_01874664) | Software Engineering Co-Op (Avionics) (Summer/Fall 2027) (Hybrid) | Aguadilla, PR | Fall 2027 | 2026-10-01 | 30 | applyguy-2027 |
