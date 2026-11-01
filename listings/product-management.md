@@ -1,4 +1,4 @@
-# Product Management (296)
+# Product Management (297)
 
 [← back to index](../README.md)
 
@@ -66,6 +66,7 @@
 | [TikTok](https://lifeattiktok.com/search/7655421207605889333) | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 | 10 | simplify-2026 |
 | [OpenArt AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | Early Adopter & Product Builder Intern - Creative AI | San Carlos, CA | N/A | 2026-10-22 | 10 | simplify-2026 |
 | [CVS Health](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) | Innovation & Technology Internship - Product & Agile Delivery | Dallas, TX, Scottsdale, AZ, Hartford, CT, Woonsocket, RI | Summer 2027 | 2026-10-22 | 10 | simplify-2026 |
+| [Patreon](https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d) | Product Manager Intern - Summer 2027 | New York | Summer 2027 | 2026-10-22 | 10 | applyguy-2027 |
 | [OneEthos](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) | Product Management Intern | Remote in USA | Fall 2026, Spring 2027, Summer 2027 | 2026-10-21 | 11 | simplify-2026 |
 | [GoFundMe](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | MBA Product Management Intern | SF | Summer 2027 | 2026-10-21 | 11 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) | Product Management MBA Intern - Gaming, Content Creation, And PC AI | Canada, Santa Clara, CA, United States | Summer 2027 | 2026-10-21 | 11 | simplify-2026 |
