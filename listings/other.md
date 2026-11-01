@@ -1,4 +1,4 @@
-# Other (3188)
+# Other (3199)
 
 [← back to index](../README.md)
 
@@ -102,6 +102,17 @@
 | [ByteDance](https://go.vansh.nyc/14A) | Machine Learning Engineer Project Intern, Security-Data | San Jose, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [ByteDance](https://go.vansh.nyc/14B) | Security Software Engineer Project Intern, Network Security | San Jose, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [ByteDance](https://go.vansh.nyc/14C) | Software Engineer Project Intern, Security-Data | San Jose, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [AeroVect](https://go.vansh.nyc/18I) | Autonomy Intern | San Francisco, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [C&S Wholesale Grocers](https://go.vansh.nyc/18J) | IS Intern, Web Applications | Houston, TX | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Cencora](https://go.vansh.nyc/18K) | Data Analytics Intern | Corona, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [DivcoWest](https://go.vansh.nyc/18L) | AI Intern | San Francisco, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Everest](https://go.vansh.nyc/18M) | Technology Intern | Warren, NJ | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Farmers Mutual Hail](https://go.vansh.nyc/18N) | Application Administrator Intern | West Des Moines, IA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [HPS Investment Partners](https://go.vansh.nyc/18O) | Technology Intern, App Dev | New York, NY | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Insomniac Games](https://go.vansh.nyc/18P) | Undergraduate Gameplay Programming Intern | Burbank, CA, Remote, United States | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Insomniac Games](https://go.vansh.nyc/18Q) | Undergraduate Tech Art Intern | Burbank, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Mach9](https://go.vansh.nyc/18R) | Perception Intern | San Francisco, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Sycamore](https://go.vansh.nyc/18S) | Member of Technical Staff Intern | Palo Alto, CA | Summer | 2026-11-01 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/12j) | Deep Learning Intern | Santa Clara, CA | Summer | 2026-10-31 | 1 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/12a) | Enterprise Platform Technical Marketing Engineer Intern | Santa Clara, CA | Summer | 2026-10-31 | 1 | vanshb03-2026, vanshb03-2027 |
 | [WEX](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585) | Software Engineer Intern | US - Remote |  | 2026-10-31 | 1 | dreamwork-2027 |
