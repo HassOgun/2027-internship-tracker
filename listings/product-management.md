@@ -1,4 +1,4 @@
-# Product Management (297)
+# Product Management (296)
 
 [← back to index](../README.md)
 
@@ -62,6 +62,7 @@
 | [Huntington Bancshares](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Summer-2027-Enterprise-Payments-Internship_R0077171) | Enterprise Payments Intern | Detroit, MI, Minnetonka, MN, Columbus, OH | Summer 2027 | 2026-10-23 | 9 | simplify-2026 |
 | [GE Vernova](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | Product Management Intern | Markham, ON, Canada | Summer 2027 | 2026-10-23 | 9 | simplify-2026 |
 | [1Password](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) | Product Management Intern, End User Experience - Winter 2027 | Remote, U.S. | Winter 2027 | 2026-10-23 | 9 | applyguy-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Product Management Intern | United States, Massachusetts, Cambridge | Not specified | 2026-10-23 | 9 | applyguy-2027 |
 | [Tesla](https://www.tesla.com/careers/search/job/287443) | Internship - Product Management - Megapack Services - Winter/Spring 2027 | Fremont, CA | Winter 2027, Spring 2027 | 2026-10-22 | 10 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7655421207605889333) | Product-Led-Growth Product Manager Project Intern | San Jose, CA | Summer 2026 | 2026-10-22 | 10 | simplify-2026 |
 | [OpenArt AI](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true) | Early Adopter & Product Builder Intern - Creative AI | San Carlos, CA | N/A | 2026-10-22 | 10 | simplify-2026 |
@@ -152,8 +153,6 @@
 | [C3.ai](https://c3.ai/job-description/8860563002?gh_jid=8860563002) | AI Product Manager Intern - Summer 2027 | Redwood City, CA | Summer 2027 | 2026-10-02 | 30 | simplify-2026 |
 | [C3.ai](https://job-boards.greenhouse.io/c3ascend/jobs/8860562002) | AI Product Manager Intern | Redwood City, CA | Summer 2027 | 2026-10-02 | 30 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/103464941339452102) | Associate Product Manager Intern | London, UK | Summer 2027 | 2026-10-02 | 30 | simplify-2026 |
-| [C 3 Ascend](https://job-boards.greenhouse.io/c3ascend/jobs/8860562002) | AI Product Manager - MBA Intern (Summer 2027) | Redwood City, CA | Summer 2027 | 2026-10-02 | 30 | applyguy-2027 |
-| [C3 AI](https://c3.ai/job-description/8860563002?gh_jid=8860563002) | AI Product Manager - MBA Intern (Summer 2027) | Redwood City, CA | Summer 2027 | 2026-10-02 | 30 | applyguy-2027 |
 | [Bedrock Robotics](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true) | Product Intern | SF | Summer 2027 | 2026-10-01 | 31 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782) | Product Management Intern - Program Management | Pittsburgh, PA | Summer 2027 | 2026-10-01 | 31 | simplify-2026 |
 | [BNY](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784) | Product Management Intern | Lake Mary, FL | Summer 2027 | 2026-10-01 | 31 | simplify-2026 |
