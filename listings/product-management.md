@@ -1,9 +1,10 @@
-# Product Management (296)
+# Product Management (295)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | Product Manager Summer Intern | Philadelphia, PA | Summer | 2026-11-02 | 0 | applyguy-2027 |
 | [KnowBe4](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) | Associate Product Manager Summer Internship (Hybrid) | Clearwater, FL | Summer | 2026-11-01 | 1 | applyguy-2027 |
 | [MANN+HUMMEL](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Product Management & Market Intelligence Intern | Gastonia, NC | Spring 2027 | 2026-10-30 | 3 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701486873210390837) | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Winter 2027 | 2026-10-30 | 3 | simplify-2026 |
@@ -52,7 +53,6 @@
 | [zebra](https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | 2027 Summer Internship (US) - Product Management | Lincolnshire, IL | Summer 2027 | 2026-10-26 | 7 | applyguy-2027 |
 | [Intercontinental Exchange, Inc.](https://careers-ice.icims.com/jobs/14065/summer-internship-program-2027---product-management-intern/job) | Summer Internship Program 2027 - Product Management Intern | Atlanta, GA | Summer | 2026-10-25 | 8 | applyguy-2027 |
 | [Intercontinental Exchange, Inc.](https://careers-ice.icims.com/jobs/14086/summer-internship-program-2027---product-strategy-intern/job) | Summer Internship Program 2027 - Product Strategy Intern | Jacksonville, FL | Summer | 2026-10-25 | 8 | applyguy-2027 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Product Manager Intern | Cambridge, MA | N/A | 2026-10-23 | 10 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Intercontinental Exchange](https://ice.jibeapply.com/jobs/14065?icims=1) | Product Management Intern | Atlanta, GA | Summer 2027 | 2026-10-23 | 10 | simplify-2026 |
 | [1Password](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | Product Management Intern - End User Experience | Remote in USA, Remote in Canada | Winter 2027 | 2026-10-23 | 10 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Technical Product Manager Intern | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | 2026-10-23 | 10 | simplify-2026 |
@@ -160,7 +160,6 @@
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946) | Associate Product Manager | Sunnyvale, CA | N/A | 2026-10-01 | 32 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) | MBA Product Intern | McLean, VA, Richmond, VA, Chicago, IL, NYC | Summer 2027 | 2026-10-01 | 32 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004) | Technical Product Management Intern | Cary, NC | Winter 2026 | 2026-09-30 | 33 | simplify-2026 |
-| [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014784) | Product Analyst Intern - Undergraduate - ECMX | London, UK | Winter 2026 | 2026-09-30 | 33 | simplify-2026 |
 | [Electronic Arts](https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185) | AI Enablement Intern | Austin, TX | Summer 2027 | 2026-09-30 | 33 | simplify-2026 |
 | [Schneider Electric](https://se.jibeapply.com/jobs/135310?icims=1) | Graduate Product Management Intern | Nashville, TN | Summer 2027 | 2026-09-30 | 33 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261) | Product Management Intern - Digital Client | Mequon, WI | Winter 2026 | 2026-09-30 | 33 | simplify-2026 |
