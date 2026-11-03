@@ -1,5 +1,428 @@
 [
   {
+    "company_name": "Colonist",
+    "title": "Product Developer Intern",
+    "url": "https://go.vansh.nyc/1ek",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1769103526,
+    "date_updated": 1793741936,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Hadrian",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1el",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1788385618,
+    "date_updated": 1793741936,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Hadrian",
+    "title": "Robotics Engineer Intern",
+    "url": "https://go.vansh.nyc/1em",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1788385632,
+    "date_updated": 1793741936,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Hadrian",
+    "title": "Data Science/Data Engineer Intern",
+    "url": "https://go.vansh.nyc/1en",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1788385649,
+    "date_updated": 1793741936,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "ENFOS",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1eo",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793741809,
+    "date_updated": 1793741936,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Oceaneering",
+    "title": "ROV Software Intern",
+    "url": "https://go.vansh.nyc/V1",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1790121600,
+    "date_updated": 1793740408,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "GeoComply",
+    "title": "Forward Deployed Engineer Intern (FDE)",
+    "url": "https://go.vansh.nyc/1bG",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1792602016,
+    "date_updated": 1793740408,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Global Relay",
+    "title": "Java Developer Co-op",
+    "url": "https://go.vansh.nyc/1ej",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793739681,
+    "date_updated": 1793740337,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "EQ Bank",
+    "title": "Retail Lending AI Engineer Intern",
+    "url": "https://go.vansh.nyc/1ee",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1789407647,
+    "date_updated": 1793740130,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "EQ Bank",
+    "title": "Commercial Lending AI Engineer Intern",
+    "url": "https://go.vansh.nyc/1ef",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1789408156,
+    "date_updated": 1793740130,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "EQ Bank",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1eg",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791472812,
+    "date_updated": 1793740130,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Sherwin-Williams",
+    "title": "R&D Data Visualization Intern",
+    "url": "https://go.vansh.nyc/1eh",
+    "locations": [
+      "Brecksville, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793664000,
+    "date_updated": 1793740130,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "EMC Insurance",
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1ei",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793740005,
+    "date_updated": 1793740130,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Hardware Engineering Intern",
+    "url": "https://go.vansh.nyc/1ed",
+    "locations": [
+      "Westford, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793738246,
+    "date_updated": 1793739986,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nokia",
+    "title": "DSP Firmware Engineer Co-op",
+    "url": "https://go.vansh.nyc/M7",
+    "locations": [
+      "Ottawa, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1788402162,
+    "date_updated": 1793738376,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Toshiba Commerce Solutions",
+    "title": "AI Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1e8",
+    "locations": [
+      "Frisco, TX"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1793664000,
+    "date_updated": 1793736537,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Highmark Health",
+    "title": "Vulnerability Management Analyst Undergraduate Intern",
+    "url": "https://go.vansh.nyc/1e9",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793736413,
+    "date_updated": 1793736537,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Hewlett Packard (HP)",
+    "title": "Software Engineering Intern, Product & Developer Productivity",
+    "url": "https://go.vansh.nyc/1e4",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793735729,
+    "date_updated": 1793736389,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Northrop Grumman",
+    "title": "Ground Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1e5",
+    "locations": [
+      "Redondo Beach, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793734769,
+    "date_updated": 1793736389,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "RTX",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1e6",
+    "locations": [
+      "West Valley City, UT"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793734769,
+    "date_updated": 1793736389,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CFS Energy",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1e7",
+    "locations": [
+      "Devens, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793732789,
+    "date_updated": 1793736389,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "C&S Wholesale Grocers",
     "title": "IS Intern, Data Analytics & Data Science",
     "url": "https://go.vansh.nyc/12E",
@@ -3093,26 +3516,6 @@
     ]
   },
   {
-    "company_name": "GeoComply",
-    "title": "Forward Deployed Engineer Intern (FDE)",
-    "url": "https://go.vansh.nyc/1bG",
-    "locations": [
-      "Vancouver, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1792602016,
-    "date_updated": 1793668081,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "American Express",
     "title": "Undergraduate Program AI Engineer Intern, Enterprise Technology Services",
     "url": "https://go.vansh.nyc/1bH",
@@ -3267,6 +3670,44 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
+    ]
+  },
+  {
+    "company_name": "Arrowstreet Capital",
+    "title": "Software Engineer Intern, Summer 2027",
+    "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/campus_careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Commonwealth Fusion Systems",
+    "title": "Intern - Software Engineer - Summer 2027",
+    "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d",
+    "locations": [
+      "Devens, MA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
     ]
   },
   {
@@ -16797,7 +17238,7 @@
     "category": "Software",
     "date_posted": 1788965700,
     "date_updated": 1793426942,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -40313,26 +40754,6 @@
   },
   {
     "company_name": "Oceaneering",
-    "title": "ROV Software Intern",
-    "url": "https://go.vansh.nyc/V1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1790121600,
-    "date_updated": 1793095565,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Oceaneering",
     "title": "Software Intern, C++",
     "url": "https://go.vansh.nyc/V2",
     "locations": [
@@ -41589,7 +42010,7 @@
     "category": "Software",
     "date_posted": 1792972800,
     "date_updated": 1793064096,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -49348,26 +49769,6 @@
     ],
     "category": "Other",
     "date_posted": 1788401829,
-    "date_updated": 1793023513,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Nokia",
-    "title": "DSP Firmware Engineer Co-op",
-    "url": "https://go.vansh.nyc/M7",
-    "locations": [
-      "Ottawa, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1788402162,
     "date_updated": 1793023513,
     "active": true,
     "is_visible": true,
@@ -73858,7 +74259,7 @@
     "category": "Hardware",
     "date_posted": 1792454400,
     "date_updated": 1792535811,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -91019,7 +91420,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791941067,
     "date_updated": 1791941252,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -91848,7 +92249,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791849600,
     "date_updated": 1791930433,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -95712,7 +96113,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791842774,
     "date_updated": 1791843246,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -114387,7 +114788,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789948800,
     "date_updated": 1791121681,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -120184,7 +120585,7 @@
     "category": "Hardware",
     "date_posted": 1790892451,
     "date_updated": 1790892998,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -140393,7 +140794,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789948800,
     "date_updated": 1790000293,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -150010,7 +150411,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789430400,
     "date_updated": 1789521129,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -157121,7 +157522,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789415232,
     "date_updated": 1789415281,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -159928,7 +160329,7 @@
     "category": "Software",
     "date_posted": 1789170797,
     "date_updated": 1789171126,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -160541,7 +160942,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789165649,
     "date_updated": 1789165948,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -161681,7 +162082,9 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -161721,7 +162124,9 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -164163,7 +164568,7 @@
     "category": "Software",
     "date_posted": 1789079538,
     "date_updated": 1789080330,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -164607,7 +165012,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789079484,
     "date_updated": 1789079761,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -175023,7 +175428,7 @@
     "category": "Hardware",
     "date_posted": 1788825600,
     "date_updated": 1788884101,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -181767,7 +182172,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1787868885,
     "date_updated": 1788526441,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -189446,7 +189851,7 @@
     "category": "Hardware",
     "date_posted": 1788402162,
     "date_updated": 1788418951,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -194423,7 +194828,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788220800,
     "date_updated": 1788329932,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -241159,7 +241564,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1785795559,
     "date_updated": 1785797738,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -245925,7 +246330,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1785536779,
     "date_updated": 1785538815,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -261025,7 +261430,7 @@
     "category": "Hardware",
     "date_posted": 1783952376,
     "date_updated": 1783953111,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -309679,7 +310084,7 @@
     "category": "Software",
     "date_posted": 1777673279,
     "date_updated": 1777674061,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
