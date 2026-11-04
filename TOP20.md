@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 605 relevant active records (before recommendation deduplication).
+**20 matches selected** from 611 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | 1Password | Product Management Intern, End User Experience | Product | Remote, United States, Canada | US remote | 2026-10-23 | [Apply](https://go.vansh.nyc/gR) |
 | 20 | DIRECTV | Customer Operations Product Management Intern | Product | Remote in USA | US remote | 2026-10-23 | [Apply](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333) |
 
-*Generated 2026-11-04 16:42 UTC.*
+*Generated 2026-11-04 20:19 UTC.*
