@@ -1,5 +1,543 @@
 [
   {
+    "company_name": "Kudu Dynamics",
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/W5",
+    "locations": [
+      "Arlington, VA",
+      "Washington, DC",
+      "Camp Springs, MD"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793122559,
+    "date_updated": 1793810462,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "BorgWarner",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1gH",
+    "locations": [
+      "Auburn Hills, MI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793810172,
+    "date_updated": 1793810325,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026"
+    ]
+  },
+  {
+    "company_name": "Parsons",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1gI",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793810172,
+    "date_updated": 1793810325,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026"
+    ]
+  },
+  {
+    "company_name": "VSP Vision",
+    "title": "Software Engineer Intern, Technology Innovation",
+    "url": "https://go.vansh.nyc/X8",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793145600,
+    "date_updated": 1793808780,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "TikTok",
+    "title": "Software Engineer Intern, Recommendation Infra, Performance Efficiency",
+    "url": "https://go.vansh.nyc/18s",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793525855,
+    "date_updated": 1793808780,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "TMX Group",
+    "title": "Security Engineering Intern",
+    "url": "https://go.vansh.nyc/1gG",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793808415,
+    "date_updated": 1793808780,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Parsons",
+    "title": "AI/ML Engineer Intern",
+    "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
+    "locations": [
+      "Centreville, VA",
+      "United States"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1793750400,
+    "date_updated": 1793807675,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Procter & Gamble",
+    "title": "Talent Analytics & Assessment Science Intern",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Intern--Talent-Analytics---Assessment-Science_R000162095",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1793750400,
+    "date_updated": 1793807313,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Wex",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/10z",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793375656,
+    "date_updated": 1793806937,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nutanix",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1793266442,
+    "date_updated": 1793806766,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Nokia",
+    "title": "Wi-Fi Research Co-op",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41022",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Winter 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1793806660,
+    "date_updated": 1793806747,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Great American Insurance Company",
+    "title": "Business Intelligence Intern - Power BI",
+    "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1793750400,
+    "date_updated": 1793806255,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Bosch Home Comfort",
+    "title": "Project Management / Test Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159649749",
+    "locations": [
+      "Plymouth, MI"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Hardware",
+    "date_posted": 1793802970,
+    "date_updated": 1793806066,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Zebra Technologies",
+    "title": "Software Engineer Intern - AI Features & Product Convergence",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636",
+    "locations": [
+      "Kennesaw, GA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1793750400,
+    "date_updated": 1793806056,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Zebra Technologies",
+    "title": "Systems Engineer Intern",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659",
+    "locations": [
+      "Germantown, MD"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1793750400,
+    "date_updated": 1793806056,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Moog",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1gy",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793804959,
+    "date_updated": 1793805119,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Ericsson",
+    "title": "Technology and AI Intern",
+    "url": "https://go.vansh.nyc/1gz",
+    "locations": [
+      "Plano, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793804959,
+    "date_updated": 1793805119,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "L3Harris Technologies",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Nashville-Intern,-Software-Engineer-TN-37203/1447640200/?ats=successfactors",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Hardware",
+    "date_posted": 1793804867,
+    "date_updated": 1793804992,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "L3Harris Technologies",
+    "title": "Systems Engineer Intern",
+    "url": "https://jobs.l3harris.com/job/Nashville-Intern,-Systems-Engineering-TN-37203/1447657800/?ats=successfactors",
+    "locations": [
+      "Nashville, TN"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Hardware",
+    "date_posted": 1793804868,
+    "date_updated": 1793804992,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Zebra Technologies",
+    "title": "Software Engineer Intern, AI Features & Product Convergence",
+    "url": "https://go.vansh.nyc/1gx",
+    "locations": [
+      "Kennesaw, GA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793803854,
+    "date_updated": 1793804934,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Roku",
+    "title": "Software Engineer Intern",
+    "url": "https://www.weareroku.com/jobs/8345967?gh_jid=8345967",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1793793543,
+    "date_updated": 1793804845,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Plusgrade",
+    "title": "Applied AI Test Engineer Intern",
+    "url": "https://go.vansh.nyc/1gu",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793803056,
+    "date_updated": 1793803195,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Prologis",
+    "title": "AI and Automation Intern, IT",
+    "url": "https://go.vansh.nyc/1gr",
+    "locations": [
+      "Denver, CO"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793750400,
+    "date_updated": 1793802929,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "TMX Group",
+    "title": "Jr. Security Analyst Student Intern",
+    "url": "https://go.vansh.nyc/1gt",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793750400,
+    "date_updated": 1793802929,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "First Citizens BancShares",
+    "title": "AI Innovation Intern",
+    "url": "https://go.vansh.nyc/129",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793377320,
+    "date_updated": 1793801438,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Plusgrade",
+    "title": "UI/UX Design and Frontend Engineer Intern",
+    "url": "https://go.vansh.nyc/1gp",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793801180,
+    "date_updated": 1793801347,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Plusgrade",
+    "title": "Applied AI Engineer Intern",
+    "url": "https://go.vansh.nyc/1gq",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793801180,
+    "date_updated": 1793801347,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Northrop Grumman",
     "title": "Software Engineering Intern",
     "url": "https://go.vansh.nyc/1gn",
@@ -890,12 +1428,88 @@
   {
     "company_name": "HP",
     "title": "Software Engineering Intern, Product & Developer Productivity - HP IQ",
-    "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
+    "url": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803",
     "locations": [
       "San Francisco, CA"
     ],
     "terms": [
       "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793750400,
+    "date_updated": 1793750400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Northrop Grumman",
+    "title": "2027 Software Test Engineering Intern - Roy UT",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
+    "locations": [
+      "Roy, UT"
+    ],
+    "terms": [
+      "2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793750400,
+    "date_updated": 1793750400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Northrop Grumman",
+    "title": "2027 Cybersecurity Software Engineering Intern - Roy UT",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177",
+    "locations": [
+      "Clearfield, UT"
+    ],
+    "terms": [
+      "2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793750400,
+    "date_updated": 1793750400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Northrop Grumman",
+    "title": "2027 Software Engineering Intern - Roy UT",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181",
+    "locations": [
+      "Roy, UT"
+    ],
+    "terms": [
+      "2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793750400,
+    "date_updated": 1793750400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Northrop Grumman",
+    "title": "2027 DevOps Software Engineering Intern - Roy UT",
+    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
+    "locations": [
+      "Roy, UT"
+    ],
+    "terms": [
+      "2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1793750400,
@@ -964,25 +1578,6 @@
     ]
   },
   {
-    "company_name": "RTX",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793750400,
-    "date_updated": 1793750400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Tmobile",
     "title": "Summer 2027 Software Engineering Internship",
     "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652",
@@ -1007,6 +1602,44 @@
     "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234",
     "locations": [
       "Philadelphia, PA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793750400,
+    "date_updated": 1793750400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "zebra",
+    "title": "2027 Summer Internship (US) - Software Engineer",
+    "url": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645",
+    "locations": [
+      "Holtsville, NY"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793750400,
+    "date_updated": 1793750400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "zebra",
+    "title": "2027 Summer Internship (US) - Software Engineer, AI Features & Product Convergence, Zebra Task Manager",
+    "url": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636",
+    "locations": [
+      "Kennesaw, GA"
     ],
     "terms": [
       "Summer 2027"
@@ -1702,7 +2335,7 @@
     "category": "Software",
     "date_posted": 1793664000,
     "date_updated": 1793748465,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -1721,7 +2354,7 @@
     "category": "Software",
     "date_posted": 1793664000,
     "date_updated": 1793748463,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -7111,25 +7744,6 @@
     ]
   },
   {
-    "company_name": "Labcorp",
-    "title": "Co-op - Full-Stack Life Sciences Engineer",
-    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
-    "locations": [
-      "Durham, NC"
-    ],
-    "terms": [
-      "Co-op"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793664000,
-    "date_updated": 1793664000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Nex",
     "title": "Summer 2027 | Software Engineer Intern (Sports & Fitness)",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008",
@@ -7227,9 +7841,9 @@
   {
     "company_name": "RTX",
     "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
     "locations": [
-      "West Valley City, UT"
+      "Cedar Rapids, IA"
     ],
     "terms": [
       "Summer 2027"
@@ -7244,11 +7858,11 @@
     ]
   },
   {
-    "company_name": "Tmobile",
-    "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
+    "company_name": "RTX",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446",
     "locations": [
-      "New York City, NY"
+      "West Valley City, UT"
     ],
     "terms": [
       "Summer 2027"
@@ -7271,25 +7885,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793664000,
-    "date_updated": 1793664000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "zebra",
-    "title": "2027 Summer Internship (US) - Software Engineer",
-    "url": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638",
-    "locations": [
-      "Holtsville, NY"
-    ],
-    "terms": [
-      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1793664000,
@@ -13890,6 +14485,25 @@
     ]
   },
   {
+    "company_name": "Labcorp",
+    "title": "Co-op - Full-Stack Life Sciences Engineer",
+    "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083",
+    "locations": [
+      "Durham, NC"
+    ],
+    "terms": [
+      "Co-op"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793577600,
+    "date_updated": 1793577600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Leidos",
     "title": "Software Engineering Intern",
     "url": "https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
@@ -14009,6 +14623,25 @@
     "url": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4",
     "locations": [
       "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793577600,
+    "date_updated": 1793577600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Tmobile",
+    "title": "Summer 2027 Software Engineering Internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
+    "locations": [
+      "New York City, NY"
     ],
     "terms": [
       "Summer 2027"
@@ -15830,26 +16463,6 @@
     "url": "https://go.vansh.nyc/18r",
     "locations": [
       "Seattle, WA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793525855,
-    "date_updated": 1793526799,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "TikTok",
-    "title": "Software Engineer Intern, Recommendation Infra, Performance Efficiency",
-    "url": "https://go.vansh.nyc/18s",
-    "locations": [
-      "San Jose, CA"
     ],
     "terms": [
       "Summer"
@@ -19327,26 +19940,6 @@
     ]
   },
   {
-    "company_name": "First Citizens BancShares",
-    "title": "AI Innovation Intern",
-    "url": "https://go.vansh.nyc/129",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793377320,
-    "date_updated": 1793433914,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "FC Cincinnati",
     "title": "First Team Sports Science Intern",
     "url": "https://boards.greenhouse.io/fccincinnati/jobs/8107647003",
@@ -19410,7 +20003,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793377320,
     "date_updated": 1793428988,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -24498,27 +25091,6 @@
     "date_posted": 1792540800,
     "date_updated": 1793376655,
     "active": false,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Wex",
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/10z",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793375656,
-    "date_updated": 1793376376,
-    "active": true,
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
@@ -32809,25 +33381,6 @@
     ]
   },
   {
-    "company_name": "Northrop Grumman",
-    "title": "2027 Software Test Engineering Intern- Roy UT",
-    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1",
-    "locations": [
-      "Roy, UT"
-    ],
-    "terms": [
-      "2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793232000,
-    "date_updated": 1793232000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Philips",
     "title": "Co-op \u2013 Data Engineer (Biocompatibility) \u2013 Murrysville, PA \u2013 January to June 2027",
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730",
@@ -38233,27 +38786,6 @@
     ]
   },
   {
-    "company_name": "VSP Vision",
-    "title": "Software Engineer Intern, Technology Innovation",
-    "url": "https://go.vansh.nyc/X8",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793145600,
-    "date_updated": 1793171118,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Certa",
     "title": "Frontend Engineer Intern",
     "url": "https://go.vansh.nyc/Xa",
@@ -41258,7 +41790,7 @@
     "category": "Hardware",
     "date_posted": 1793022208,
     "date_updated": 1793139391,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -42786,28 +43318,6 @@
       "Chicago, IL",
       "Kansas City, MO",
       "New York, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793122559,
-    "date_updated": 1793122585,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Kudu Dynamics",
-    "title": "Cybersecurity Intern",
-    "url": "https://go.vansh.nyc/W5",
-    "locations": [
-      "Arlington, VA",
-      "Washington, DC",
-      "Camp Springs, MD"
     ],
     "terms": [
       "Summer"
@@ -51990,7 +52500,7 @@
     "category": "Quant",
     "date_posted": 1792972800,
     "date_updated": 1793024824,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -65022,7 +65532,7 @@
     "category": "Hardware",
     "date_posted": 1790777243,
     "date_updated": 1792765622,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -81059,7 +81569,7 @@
     "category": "Hardware",
     "date_posted": 1792449178,
     "date_updated": 1792449413,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -99037,7 +99547,9 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -109285,25 +109797,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791331200,
-    "date_updated": 1791331200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Northrop Grumman",
-    "title": "2027 Software Engineering Intern - Roy UT",
-    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
-    "locations": [
-      "Roy, UT"
-    ],
-    "terms": [
-      "2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1791331200,
@@ -128600,7 +129093,7 @@
     "category": "Hardware",
     "date_posted": 1790640000,
     "date_updated": 1790720256,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -141374,7 +141867,7 @@
     "category": "Software",
     "date_posted": 1790029506,
     "date_updated": 1790031189,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -146437,7 +146930,7 @@
     "category": "Software",
     "date_posted": 1789741192,
     "date_updated": 1789741261,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -188502,7 +188995,7 @@
     "category": "Quant",
     "date_posted": 1786767953,
     "date_updated": 1788489726,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -192621,7 +193114,7 @@
     "category": "Software",
     "date_posted": 1788307200,
     "date_updated": 1788419161,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -347625,7 +348118,9 @@
     "active": false,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
