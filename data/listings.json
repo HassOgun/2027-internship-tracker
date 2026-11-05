@@ -1,5 +1,255 @@
 [
   {
+    "company_name": "American Fidelity",
+    "title": "Software Developer Innovation Intern",
+    "url": "https://go.vansh.nyc/bi",
+    "locations": [
+      "Oklahoma City, OK"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792441414,
+    "date_updated": 1793916629,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CFS Energy",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1e7",
+    "locations": [
+      "Devens, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793732789,
+    "date_updated": 1793916629,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "RTX",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1jj",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793916379,
+    "date_updated": 1793916521,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nordson",
+    "title": "Software Intern",
+    "url": "https://go.vansh.nyc/1jk",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793916379,
+    "date_updated": 1793916521,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "TD Bank",
+    "title": "Software Engineer Co-op",
+    "url": "https://go.vansh.nyc/1jl",
+    "locations": [
+      "Toronto, Canada",
+      "Mississauga, Canada",
+      "London, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793916379,
+    "date_updated": 1793916521,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Western Alliance Bancorporation",
+    "title": "Platform Engineering Intern",
+    "url": "https://go.vansh.nyc/1jm",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793916379,
+    "date_updated": 1793916521,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Motorola Solutions",
+    "title": "Software Engineer Intern, Cybersecurity Services",
+    "url": "https://go.vansh.nyc/19M",
+    "locations": [
+      "Remote",
+      "United States",
+      "Chicago, IL",
+      "Ashburn, VA",
+      "Plantation, FL",
+      "Schaumburg, IL",
+      "Salt Lake City, UT"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793650911,
+    "date_updated": 1793914804,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Aerospace Corporation",
+    "title": "AI Intern",
+    "url": "https://go.vansh.nyc/1jf",
+    "locations": [
+      "Kanata, Canada"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1793831725,
+    "date_updated": 1793914717,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CareSource",
+    "title": "Data Analyst Intern",
+    "url": "https://go.vansh.nyc/1jg",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793914575,
+    "date_updated": 1793914717,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Western Alliance Bancorporation",
+    "title": "Platform Engineering Intern",
+    "url": "https://go.vansh.nyc/1jh",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793914575,
+    "date_updated": 1793914717,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CareSource",
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1je",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793912780,
+    "date_updated": 1793912951,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "JM Family Enterprises",
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1jd",
+    "locations": [
+      "Deerfield Beach, FL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793912403,
+    "date_updated": 1793912763,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "CrowdStrike",
     "title": "Intelligence Intern",
     "url": "https://go.vansh.nyc/1ja",
@@ -22,7 +272,7 @@
   {
     "company_name": "BorgWarner",
     "title": "Software Test Intern",
-    "url": "https://go.vansh.nyc/1jb",
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1",
     "locations": [
       "Auburn Hills, MI"
     ],
@@ -36,7 +286,8 @@
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
-      "vanshb03-2027"
+      "vanshb03-2027",
+      "applyguy-2027"
     ]
   },
   {
@@ -5154,6 +5405,25 @@
     ]
   },
   {
+    "company_name": "Palantir Technologies",
+    "title": "Software Engineer, Internship - Sovereign AI Systems",
+    "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+    "locations": [
+      "New York City, NY"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Parsons",
     "title": "Summer Embedded Developer Intern",
     "url": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299",
@@ -5200,6 +5470,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Shield AI",
+    "title": "June 2027 Co-Op - Software Engineer Intern",
+    "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1793836800,
@@ -11583,26 +11872,6 @@
     ]
   },
   {
-    "company_name": "CFS Energy",
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/1e7",
-    "locations": [
-      "Devens, MA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793732789,
-    "date_updated": 1793736389,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Trustage",
     "title": "IT - Innovation & AI Technology Internship (Hybrid)",
     "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293",
@@ -16123,7 +16392,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793663365,
     "date_updated": 1793663491,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -17635,7 +17904,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793661190,
     "date_updated": 1793661336,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -20391,32 +20660,6 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
-    ]
-  },
-  {
-    "company_name": "Motorola Solutions",
-    "title": "Software Engineer Intern, Cybersecurity Services",
-    "url": "https://go.vansh.nyc/19M",
-    "locations": [
-      "Remote",
-      "United States",
-      "Chicago, IL",
-      "Ashburn, VA",
-      "Plantation, FL",
-      "Schaumburg, IL",
-      "Salt Lake City, UT"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793650911,
-    "date_updated": 1793651751,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -39542,7 +39785,7 @@
     "category": "Hardware",
     "date_posted": 1791223865,
     "date_updated": 1793282946,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -41932,7 +42175,7 @@
     "category": "Software",
     "date_posted": 1793214794,
     "date_updated": 1793227013,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -54577,7 +54820,7 @@
     "category": "Software",
     "date_posted": 1792972800,
     "date_updated": 1793053536,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -55047,7 +55290,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793052945,
     "date_updated": 1793053113,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -82003,7 +82246,7 @@
   {
     "company_name": "Metalenz",
     "title": "Camera Software Intern",
-    "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6",
+    "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true",
     "locations": [
       "Boston, MA"
     ],
@@ -82018,8 +82261,7 @@
     "_sources": [
       "simplify-2026",
       "vanshb03-2026",
-      "vanshb03-2027",
-      "applyguy-2027"
+      "vanshb03-2027"
     ]
   },
   {
@@ -84333,6 +84575,25 @@
     ],
     "terms": [
       "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1792540800,
+    "date_updated": 1792540800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Metalenz",
+    "title": "Camera Software Intern Summer 2027",
+    "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1792540800,
@@ -89716,26 +89977,6 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
-    ]
-  },
-  {
-    "company_name": "American Fidelity",
-    "title": "Software Developer Innovation Intern",
-    "url": "https://go.vansh.nyc/bi",
-    "locations": [
-      "Oklahoma City, OK"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792441414,
-    "date_updated": 1792442374,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -99899,7 +100140,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792017027,
     "date_updated": 1792017185,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -121152,44 +121393,6 @@
     "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003",
     "locations": [
       "New York City, NY"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791244800,
-    "date_updated": 1791244800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791244800,
-    "date_updated": 1791244800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Waymo",
-    "title": "2027 Summer Intern, MS, PhD, Software Engineer",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
-    "locations": [
-      "Mountain View, CA"
     ],
     "terms": [
       "Summer 2027"
@@ -150893,7 +151096,7 @@
     "category": "Software",
     "date_posted": 1789781233,
     "date_updated": 1789781435,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -162065,7 +162268,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789430400,
     "date_updated": 1789510483,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -201359,7 +201562,7 @@
     "category": "Software",
     "date_posted": 1788307200,
     "date_updated": 1788410704,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -212530,7 +212733,7 @@
     "category": "Software",
     "date_posted": 1788134400,
     "date_updated": 1788215762,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -217664,7 +217867,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1787873204,
     "date_updated": 1787873348,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -243520,7 +243723,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1786388226,
     "date_updated": 1786388562,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
