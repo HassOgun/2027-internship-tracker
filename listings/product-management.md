@@ -1,4 +1,4 @@
-# Product Management (309)
+# Product Management (308)
 
 [← back to index](../README.md)
 
@@ -109,7 +109,6 @@
 | [Elkay](https://elkay.wd1.myworkdayjobs.com/elkay_external/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065) | Product Management Intern - Summer 2027 | Downers Grove, IL | Summer 2027 | 2026-10-19 | 18 | applyguy-2027 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) | Product Manager MBA Intern, Enterprise AI - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-10-19 | 18 | applyguy-2027 |
 | [TikTok](https://lifeattiktok.com/search/7697105572165519621) | Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety | San Jose, CA | Summer 2026 | 2026-10-17 | 20 | simplify-2026 |
-| [Behaviour Interactive](https://jobs.lever.co/bhvr/540b00d3-8693-4c2b-9e98-10e33cb0ce62/apply) | Product Management Intern - 7 Days to Die | Montreal, QC, Canada | Winter 2027 | 2026-10-16 | 21 | simplify-2026 |
 | [Publicis Groupe](https://publicisgroupe.jibeapply.com/jobs/172716?icims=1) | Product Intern | Chicago, IL | Summer 2026 | 2026-10-16 | 21 | simplify-2026 |
 | [Publicis Groupe](https://publicisgroupe.jibeapply.com/jobs/172717?icims=1) | Product Intern | NYC | Summer 2026 | 2026-10-16 | 21 | simplify-2026 |
 | [Publicis Groupe](https://publicisgroupe.jibeapply.com/jobs/172715?icims=1) | Product Intern | Irving, TX | Summer 2026 | 2026-10-16 | 21 | simplify-2026 |
