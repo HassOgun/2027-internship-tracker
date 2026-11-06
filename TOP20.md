@@ -23,10 +23,10 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 13 | Eightsleep | Security & IT Intern | IT / Information Systems | Remote - US | US remote | 2026-10-09 | [Apply](https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550) |
 | 14 | ConnectPrep | Data Analyst Intern | Data / BI | Remote, United States | US remote | 2026-10-25 | [Apply](https://go.vansh.nyc/BG) |
 | 15 | Amplify | Data Analytics Intern | Data / BI | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51) |
-| 16 | Businessolver | Business Intelligence Analyst Intern - Innovation & Data Science | Data / BI | Remote in USA | US remote | 2026-10-14 | [Apply](https://businessolver.com/careers/openings?gh_jid=8281727) |
+| 16 | Businessolver | Business Intelligence Analyst Internship - Innovation & Data Science (Remote) | Data / BI | Remote - United States | US remote | 2026-10-14 | [Apply](https://businessolver.com/careers/openings?gh_jid=8281727) |
 | 17 | Teamworks | Product Management MBA Intern | Product | Remote in USA | US remote | 2026-10-30 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06) |
 | 18 | 1Password | Product Management Intern - End User Experience | Product | Remote in USA, Remote in Canada | US remote | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) |
 | 19 | 1Password | Product Management Intern, End User Experience | Product | Remote, United States, Canada | US remote | 2026-10-23 | [Apply](https://go.vansh.nyc/gR) |
 | 20 | DIRECTV | Customer Operations Product Management Intern | Product | Remote in USA | US remote | 2026-10-23 | [Apply](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333) |
 
-*Generated 2026-11-06 01:21 UTC.*
+*Generated 2026-11-06 13:16 UTC.*
