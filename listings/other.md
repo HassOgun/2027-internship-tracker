@@ -1,9 +1,24 @@
-# Other (3554)
+# Other (3564)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Baird](https://go.vansh.nyc/1lb) | IT Data & Analytics Intern | Milwaukee, WI, Madison, WI | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [CrowdStrike](https://go.vansh.nyc/1lc) | Professional Services Pathfinder Intern, Red Team | Arlington, VA | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [OLG](https://go.vansh.nyc/1ld) | Analytics Engineering & Measurement Intern | Toronto, Canada, Sault Ste. Marie, Canada | Winter | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Samsung](https://go.vansh.nyc/1le) | Care AI Data Analytic Intern | Plano, TX | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [The New York Times](https://go.vansh.nyc/1lg) | Backend Engineering Intern | New York, NY | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [SharkNinja](https://go.vansh.nyc/1la) | Applied AI & Analytics Co-op, AI | Miami, FL, Needham, MA | Spring | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Hootsuite](https://go.vansh.nyc/1lf) | Software Development Co-op | Vancouver, Canada, Toronto, Canada | Winter | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [T-Mobile](https://go.vansh.nyc/1l9) | AI Strategist Intern | Bellevue, WA | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [The New York Times](https://go.vansh.nyc/1l5) | Frontend Engineering Intern | New York, NY | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [The New York Times](https://go.vansh.nyc/1l6) | Android Engineering Intern | New York, NY | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [The New York Times](https://go.vansh.nyc/1l7) | Full-Stack Engineering Intern | New York, NY | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [The New York Times](https://go.vansh.nyc/1l8) | iOS Engineering Intern | New York, NY | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Kudu Dynamics](https://go.vansh.nyc/1l3) | AI/Automation Development Intern, Assessment & Authorization | Remote, United States | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Sun Life](https://go.vansh.nyc/1l4) | Associate DevOps Engineer Intern | Waterloo, Canada | Winter | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
+| [RTX](https://go.vansh.nyc/1l2) | Digital Technology Intern | Andover, MA | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/1kR) | Software Validation Engineering Intern | Markham, Canada | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Rivian](https://go.vansh.nyc/1kS) | ML AI Motor Controls Algorithm Intern | Champaign, IL | Summer | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Hootsuite](https://go.vansh.nyc/1l0) | DevOps Co-op | Canada | Winter | 2026-11-06 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -699,7 +714,6 @@
 | [Microsoft](https://go.vansh.nyc/199) | First-Year Explore Program Engineering Intern | Redmond, WA | Summer | 2026-11-02 | 4 | vanshb03-2026, vanshb03-2027 |
 | [American Express](https://go.vansh.nyc/1bH) | Undergraduate Program AI Engineer Intern, Enterprise Technology Services | Toronto, Canada | Summer | 2026-11-02 | 4 | vanshb03-2026, vanshb03-2027 |
 | [KLA](https://go.vansh.nyc/1b9) | Software Engineer Intern | Austin, TX | Summer | 2026-11-02 | 4 | vanshb03-2026, vanshb03-2027 |
-| [Cincinnati Children’s Hospital and Medical Center](https://go.vansh.nyc/1bd) | Data Management Engineer Intern | Remote, United States | Summer | 2026-11-02 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Cincinnati Children’s Hospital and Medical Center](https://go.vansh.nyc/1be) | Software Engineering Developer Intern | Remote, United States | Summer | 2026-11-02 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Astro Mechanica](https://go.vansh.nyc/1bg) | Software Engineer Intern | San Francisco, CA | Summer | 2026-11-02 | 4 | vanshb03-2026, vanshb03-2027 |
 | [KLA](https://kla.wd1.myworkdayjobs.com/ur/job/Totowa-NJ/Software-Engineer-Intern_2642151) | Software Engineer Intern | Totowa, NJ | Summer | 2026-11-02 | 4 | vanshb03-2026, vanshb03-2027, applyguy-2027 |
@@ -997,7 +1011,6 @@
 | [Nintendo](https://go.vansh.nyc/12q) | Software Engineer Intern, Performance Tools | Redmond, WA | Summer | 2026-10-30 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Nintendo](https://go.vansh.nyc/121) | Software Engineer Intern, Graphics | Redmond, WA | Summer | 2026-10-30 | 7 | vanshb03-2026, vanshb03-2027 |
 | [OTTO Engineering](https://go.vansh.nyc/122) | Embedded Software Intern, Communications | Carpentersville, IL | Summer | 2026-10-30 | 7 | vanshb03-2026, vanshb03-2027 |
-| [Molina Healthcare](https://go.vansh.nyc/11J) | Data Analytics Internship (Remote) –(Undergraduate) | United States | Summer | 2026-10-30 | 7 | vanshb03-2026, vanshb03-2027 |
 | [OLG](https://go.vansh.nyc/11s) | Front End Developer Intern | Toronto, Canada, Sault Ste. Marie, Canada | Winter | 2026-10-30 | 7 | vanshb03-2026, vanshb03-2027 |
 | [Revvity](https://go.vansh.nyc/116) | Full-Stack AI Developer Intern | Canada | Summer | 2026-10-30 | 7 | vanshb03-2026, vanshb03-2027 |
 | [NAV CANADA](https://go.vansh.nyc/118) | Aviation Predictive Analytics Co-op | Ottawa, Canada | Winter | 2026-10-30 | 7 | vanshb03-2026, vanshb03-2027 |
@@ -1109,7 +1122,6 @@
 | [Nintendo](https://careers.nintendo.com/?gh_jid=4470048009) | Intern - Software Engineer, Audio (NTD) | Redmond, WA |  | 2026-10-28 | 9 | dreamwork-2027, applyguy-2027 |
 | [Nintendo](https://go.vansh.nyc/12m) | Software Engineer Intern, DevOps | Redmond, WA | Summer | 2026-10-28 | 9 | vanshb03-2026, vanshb03-2027 |
 | [Nintendo](https://go.vansh.nyc/12l) | Software Engineer Intern, CPU Profiler | Redmond, WA | Summer | 2026-10-28 | 9 | vanshb03-2026, vanshb03-2027 |
-| [Clean Harbors](https://go.vansh.nyc/Yj) | Software & Field Technology Intern | Deer Park, TX | Summer | 2026-10-28 | 9 | vanshb03-2026, vanshb03-2027 |
 | [Nintendo](https://go.vansh.nyc/12k) | Software Engineer Intern, CPU Debugger | Redmond, WA | Summer | 2026-10-28 | 9 | vanshb03-2026, vanshb03-2027 |
 | [Nintendo](https://careers.nintendo.com/?gh_jid=4471972009) | Intern - Software Engineer, CPU Debugger (NTD) | Redmond, WA |  | 2026-10-28 | 9 | dreamwork-2027, applyguy-2027 |
 | [Qualcomm](https://go.vansh.nyc/Yi) | Camera Design Engineering Intern | Vancouver, Canada | Summer | 2026-10-28 | 9 | vanshb03-2026, vanshb03-2027 |
@@ -1389,7 +1401,6 @@
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job) | Software Test Engineering Intern - Space and Embedded Crypto | Scottsdale, AZ, US |  | 2026-10-26 | 11 | dreamwork-2027 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75729/software-test-engineer-intern/job) | Software Test Engineer Intern | Pittsburgh, PA, US |  | 2026-10-26 | 11 | dreamwork-2027 |
 | [ADT](https://go.vansh.nyc/UH) | Cybersecurity & Risk Intern | Boca Raton, FL | Summer | 2026-10-26 | 11 | vanshb03-2026, vanshb03-2027 |
-| [Highmark Health](https://go.vansh.nyc/T8) | Provider Delivery Software Engineer Intern | Remote, United States | Summer | 2026-10-26 | 11 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems](https://go.vansh.nyc/T5) | Software Test Engineer Intern | Pittsburgh, PA | Summer | 2026-10-26 | 11 | vanshb03-2026, vanshb03-2027 |
 | [Peraton](https://go.vansh.nyc/T6) | Solution Architect Co-op | San Diego, CA | Spring | 2026-10-26 | 11 | vanshb03-2026, vanshb03-2027 |
 | [Royal Bank of Canada](https://go.vansh.nyc/Qa) | Data Engineer Intern | Calgary, Canada | Summer | 2026-10-26 | 11 | vanshb03-2026, vanshb03-2027 |
@@ -2676,7 +2687,6 @@
 | [Rocket Lab](https://job-boards.greenhouse.io/rocketlab/jobs/7986959003) | Security Analyst Intern Spring 2027 | Wallops Island, VA |  | 2026-09-16 | 51 | dreamwork-2027 |
 | [Rocket Lab](https://job-boards.greenhouse.io/rocketlab/jobs/7986954003) | Security Analyst Intern Spring 2027 | Long Beach, CA |  | 2026-09-16 | 51 | dreamwork-2027 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8197554) | 2027 Summer Intern, MS/PhD, Quantitative Software Engineer | Mountain View, California, United States | San Francisco, California, United States |  | 2026-09-16 | 51 | dreamwork-2027 |
-| [Apera AI](https://go.vansh.nyc/1g1) | Software Developer Co-op, Full Stack | Vancouver, Canada | Winter | 2026-09-16 | 51 | vanshb03-2026, vanshb03-2027 |
 | [GM Financial](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839) | Intern - Data Science | Fort Worth, TX, United States |  | 2026-09-16 | 51 | dreamwork-2027 |
 | [Alfredbeneschco](https://www.benesch.com/job-openings/5240157007?gh_jid=5240157007) | Railroad Track Design - Civil Engineering Internship | Milwaukee, WI; Naperville, IL; Omaha, NE; Charlotte, NC; Raleigh, NC |  | 2026-09-16 | 51 | dreamwork-2027 |
 | [Magna](https://magna.wd3.myworkdayjobs.com/Magna/job/Northwood-Ohio-US/Automation-Engineering-Co-Op_R00261906) | Automation Engineering Co-Op | Northwood, Ohio, US |  | 2026-09-16 | 51 | dreamwork-2027 |

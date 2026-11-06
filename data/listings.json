@@ -1,5 +1,412 @@
 [
   {
+    "company_name": "Apera AI",
+    "title": "Software Developer Co-op, Full Stack",
+    "url": "https://go.vansh.nyc/1g1",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1789589125,
+    "date_updated": 1794001183,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The New York Times",
+    "title": "Backend Engineering Intern",
+    "url": "https://go.vansh.nyc/1lg",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793997674,
+    "date_updated": 1794000974,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Hootsuite",
+    "title": "Software Development Co-op",
+    "url": "https://go.vansh.nyc/1lf",
+    "locations": [
+      "Vancouver, Canada",
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793996800,
+    "date_updated": 1793999680,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Baird",
+    "title": "IT Data & Analytics Intern",
+    "url": "https://go.vansh.nyc/1lb",
+    "locations": [
+      "Milwaukee, WI",
+      "Madison, WI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793999186,
+    "date_updated": 1793999327,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CrowdStrike",
+    "title": "Professional Services Pathfinder Intern, Red Team",
+    "url": "https://go.vansh.nyc/1lc",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793999186,
+    "date_updated": 1793999327,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "OLG",
+    "title": "Analytics Engineering & Measurement Intern",
+    "url": "https://go.vansh.nyc/1ld",
+    "locations": [
+      "Toronto, Canada",
+      "Sault Ste. Marie, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793999186,
+    "date_updated": 1793999327,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Samsung",
+    "title": "Care AI Data Analytic Intern",
+    "url": "https://go.vansh.nyc/1le",
+    "locations": [
+      "Plano, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793999186,
+    "date_updated": 1793999327,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "SharkNinja",
+    "title": "Applied AI & Analytics Co-op, AI",
+    "url": "https://go.vansh.nyc/1la",
+    "locations": [
+      "Miami, FL",
+      "Needham, MA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1793997064,
+    "date_updated": 1793999164,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
+    "title": "Data Management Engineer Intern",
+    "url": "https://go.vansh.nyc/1bd",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793577600,
+    "date_updated": 1793997600,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The New York Times",
+    "title": "Frontend Engineering Intern",
+    "url": "https://go.vansh.nyc/1l5",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793996546,
+    "date_updated": 1793997386,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The New York Times",
+    "title": "Android Engineering Intern",
+    "url": "https://go.vansh.nyc/1l6",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793996546,
+    "date_updated": 1793997386,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The New York Times",
+    "title": "Full-Stack Engineering Intern",
+    "url": "https://go.vansh.nyc/1l7",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793996546,
+    "date_updated": 1793997386,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The New York Times",
+    "title": "iOS Engineering Intern",
+    "url": "https://go.vansh.nyc/1l8",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793996546,
+    "date_updated": 1793997386,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "T-Mobile",
+    "title": "AI Strategist Intern",
+    "url": "https://go.vansh.nyc/1l9",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793996666,
+    "date_updated": 1793997386,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Highmark Health",
+    "title": "Provider Delivery Software Engineer Intern",
+    "url": "https://go.vansh.nyc/T8",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792972800,
+    "date_updated": 1793995834,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Clean Harbors",
+    "title": "Software & Field Technology Intern",
+    "url": "https://go.vansh.nyc/Yj",
+    "locations": [
+      "Deer Park, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793226368,
+    "date_updated": 1793995834,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Molina Healthcare",
+    "title": "Data Analytics Internship (Remote) \u2013(Undergraduate)",
+    "url": "https://go.vansh.nyc/11J",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793318400,
+    "date_updated": 1793995834,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Kudu Dynamics",
+    "title": "AI/Automation Development Intern, Assessment & Authorization",
+    "url": "https://go.vansh.nyc/1l3",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793995607,
+    "date_updated": 1793995741,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Sun Life",
+    "title": "Associate DevOps Engineer Intern",
+    "url": "https://go.vansh.nyc/1l4",
+    "locations": [
+      "Waterloo, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793995607,
+    "date_updated": 1793995741,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "RTX",
+    "title": "Digital Technology Intern",
+    "url": "https://go.vansh.nyc/1l2",
+    "locations": [
+      "Andover, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793995166,
+    "date_updated": 1793995586,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Molina Healthcare",
     "title": "Cybersecurity Internship (Remote) \u2013(Undergraduate)",
     "url": "https://go.vansh.nyc/11K",
@@ -3273,6 +3680,25 @@
     ],
     "terms": [
       "Co-op"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793923200,
+    "date_updated": 1793923200,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Llbean",
+    "title": "Software Developer Intern (Summer 2027)",
+    "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1",
+    "locations": [
+      "Freeport, ME"
+    ],
+    "terms": [
+      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1793923200,
@@ -11240,6 +11666,44 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Nooks",
     "title": "Software Engineer, Intern",
     "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb",
@@ -13910,26 +14374,6 @@
     ],
     "category": "Other",
     "date_posted": 1789513658,
-    "date_updated": 1793772517,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Apera AI",
-    "title": "Software Developer Co-op, Full Stack",
-    "url": "https://go.vansh.nyc/1g1",
-    "locations": [
-      "Vancouver, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1789589125,
     "date_updated": 1793772517,
     "active": true,
     "is_visible": true,
@@ -21821,6 +22265,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Nex",
     "title": "Summer 2027 | Software Engineer Intern (Sports & Fitness)",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008",
@@ -22711,27 +23174,6 @@
     "url": "https://go.vansh.nyc/1b9",
     "locations": [
       "Austin, TX"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793577600,
-    "date_updated": 1793662521,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
-    "title": "Data Management Engineer Intern",
-    "url": "https://go.vansh.nyc/1bd",
-    "locations": [
-      "Remote",
-      "United States"
     ],
     "terms": [
       "Summer"
@@ -28748,6 +29190,63 @@
     "url": "https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
     "locations": [
       "Arlington, VA"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793577600,
+    "date_updated": 1793577600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
+    "locations": [
+      "United States, California, Aliso Viejo"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793577600,
+    "date_updated": 1793577600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793577600,
+    "date_updated": 1793577600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
+    "locations": [
+      "United States, Washington, Redmond"
     ],
     "terms": [
       "Not specified"
@@ -36205,26 +36704,6 @@
     ]
   },
   {
-    "company_name": "Molina Healthcare",
-    "title": "Data Analytics Internship (Remote) \u2013(Undergraduate)",
-    "url": "https://go.vansh.nyc/11J",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793318400,
-    "date_updated": 1793408793,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Meta",
     "title": "Research Scientist Intern - Video Recsys",
     "url": "https://www.metacareers.com/jobs/1553890293163197",
@@ -43116,7 +43595,7 @@
   {
     "company_name": "KLA",
     "title": "Software Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/ur/job/Milpitas-CA/Software-Intern_2642700",
+    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern_2642954-1",
     "locations": [
       "Milpitas, CA"
     ],
@@ -47713,26 +48192,6 @@
     ],
     "category": "Other",
     "date_posted": 1793226135,
-    "date_updated": 1793226961,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Clean Harbors",
-    "title": "Software & Field Technology Intern",
-    "url": "https://go.vansh.nyc/Yj",
-    "locations": [
-      "Deer Park, TX"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793226368,
     "date_updated": 1793226961,
     "active": true,
     "is_visible": true,
@@ -59575,27 +60034,6 @@
     "is_visible": true,
     "_sources": [
       "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Highmark Health",
-    "title": "Provider Delivery Software Engineer Intern",
-    "url": "https://go.vansh.nyc/T8",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792972800,
-    "date_updated": 1793054205,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -89340,6 +89778,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+    "locations": [
+      "United States, Massachusetts, Cambridge"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1792540800,
+    "date_updated": 1792540800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "NVIDIA",
     "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
@@ -104022,6 +104479,25 @@
     "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885",
     "locations": [
       "Reno, NV"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1792022400,
+    "date_updated": 1792022400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Efficient AI Software Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+    "locations": [
+      "United States, Washington, Redmond"
     ],
     "terms": [
       "Not specified"
@@ -121197,44 +121673,6 @@
     "is_visible": true,
     "_sources": [
       "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "IXL Learning",
-    "title": "Software Engineer, Intern",
-    "url": "https://www.ixl.com/company/jobs?gh_jid=8862214002",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791331200,
-    "date_updated": 1791331200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "State Affairs",
-    "title": "Software Engineer Intern (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
-    "locations": [
-      "Washington, DC"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791331200,
-    "date_updated": 1791331200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
     ]
   },
   {
