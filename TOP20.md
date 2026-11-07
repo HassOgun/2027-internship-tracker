@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 646 relevant active records (before recommendation deduplication).
+**20 matches selected** from 648 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | 1Password | Product Management Intern, End User Experience | Product | Remote, United States, Canada | US remote | 2026-10-23 | [Apply](https://go.vansh.nyc/gR) |
 | 20 | Amplify | Product Management Intern | Product | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e) |
 
-*Generated 2026-11-07 00:36 UTC.*
+*Generated 2026-11-07 11:57 UTC.*
