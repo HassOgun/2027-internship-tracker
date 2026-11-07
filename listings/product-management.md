@@ -1,4 +1,4 @@
-# Product Management (311)
+# Product Management (310)
 
 [← back to index](../README.md)
 
@@ -18,7 +18,6 @@
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/ivzearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876) | Early Career Intern - Digital Product Management | Atlanta, GA | Not specified | 2026-11-05 | 2 | applyguy-2027 |
 | [Spgi](https://spgi.wd5.myworkdayjobs.com/spgi_careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1) | Summer Intern, Product Management | New York City, NY | Summer | 2026-11-05 | 2 | applyguy-2027 |
 | [Vizient](https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1) | 2027 Summer Internship - Product Operations Metrics & Reporting | Irving, TX 75062 Vizient Corporate HQ | Summer 2027 | 2026-11-05 | 2 | applyguy-2027 |
-| [Vizient](https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R) | 2027 Summer Internship - Product Operations | Irving, TX 75062 Vizient Corporate HQ | Summer 2027 | 2026-11-05 | 2 | applyguy-2027 |
 | [SharkNinja](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726452006) | Product Development Co-op | Needham, MA | Spring 2027 | 2026-11-04 | 3 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/288805) | Product Management Intern - Product Management - Megapack Services 3 | Palo Alto, CA | Winter 2027, Spring 2027 | 2026-11-04 | 3 | simplify-2026 |
 | [Clasp](https://jobs.ashbyhq.com/clasp/43f4eb5d-f990-43b9-959f-70e6f0158246/application?embed=true) | Product and Operations Intern | NYC | N/A | 2026-11-04 | 3 | simplify-2026 |
