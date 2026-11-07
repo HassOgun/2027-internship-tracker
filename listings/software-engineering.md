@@ -1,4 +1,4 @@
-# Software Engineering (1798)
+# Software Engineering (1796)
 
 [← back to index](../README.md)
 
@@ -863,8 +863,6 @@
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1) | Customer Response Engineer Intern | Mayfield Heights, OH | Summer 2026 | 2026-10-08 | 30 | simplify-2026 |
 | [Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152) | Systems Integration and Software Engineer Intern | Atlantic City, NJ | N/A | 2026-10-08 | 30 | simplify-2026 |
 | [Badger Meter](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645) | Software Engineering Intern | Escondido, CA | N/A | 2026-10-08 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Gentuity](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4572599) | Test Engineer - Software & Systems Co-Op | Sudbury, MA | Co-op | 2026-10-08 | 30 | applyguy-2027 |
-| [Northrop Grumman](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207) | 2027 Software Engineer Intern – McClellan CA | McClellan, CA | 2027 | 2026-10-08 | 30 | applyguy-2027 |
 | [Illinois Tool Works](https://careers.itw.com/global/en/job/JR10491) | Software Engineer Intern - Application Software | Eden Prairie, MN | Summer 2027 | 2026-10-07 | 31 | simplify-2026 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137483757988) | Part-Time Student Intern | Champaign, IL | Spring 2028 | 2026-10-07 | 31 | simplify-2026 |
 | [Strada](https://jobs.ashbyhq.com/stradahq/d277be89-9d67-48cd-9e67-3b17bbab709e/application?embed=true) | Software Engineer Intern | SF | N/A | 2026-10-07 | 31 | simplify-2026 |

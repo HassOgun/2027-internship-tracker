@@ -1,4 +1,4 @@
-# Product Management (310)
+# Product Management (309)
 
 [← back to index](../README.md)
 
@@ -148,7 +148,6 @@
 | [Workday](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Product-Manager-Intern_JR-0110808) | Product Manager Intern | Vancouver, BC, Canada | Winter 2027, Summer 2027 | 2026-10-09 | 29 | simplify-2026 |
 | [Amazon](https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027) | Program Manager Intern – Summer 2027 | US, WA, Seattle | Summer 2027 | 2026-10-09 | 29 | applyguy-2027 |
 | [GCM Grosvenor](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015835003) | 2027 IT-Product & Strategy Summer Intern | Chicago, IL | Summer | 2026-10-09 | 29 | applyguy-2027 |
-| [My 7 Elevenhr](https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991) | Digital Product Manager Intern | SSC Irving, TX | Not specified | 2026-10-08 | 30 | applyguy-2027 |
 | [Axos Bank](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Intern_JR5664) | Product Intern | San Diego, CA | Summer 2026 | 2026-10-07 | 31 | simplify-2026 |
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Connected-Car-Business-Development-Intern---Summer-2027---Franklin--TN_R00214270) | Connected Car Business Development Intern | Franklin, TN | Summer 2027 | 2026-10-07 | 31 | simplify-2026 |
 | [Nissan Global](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Product-Planning-Intern---Summer-2027---Franklin--TN_R00214297) | Product Planning Intern | Franklin, TN | Summer 2027 | 2026-10-07 | 31 | simplify-2026 |
