@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 660 relevant active records (before recommendation deduplication).
+**20 matches selected** from 659 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 6 | Axiom Space | Enterprise Data Analyst Intern, Power BI & Data Quality | Data / BI | Houston, TX | Houston area | 2026-10-29 | [Apply](https://go.vansh.nyc/103) |
 | 7 | Hays Electrical Services | Data Analyst Intern - IT / Accounting (Rotational) | Data / BI | Houston, TX | Houston area | 2026-09-23 | [Apply](https://hayselectricalservices.applytojob.com/apply/X0z5NLCjcR/Intern-Data-Analyst) |
 | 8 | HP | Product Management Intern | Product | Spring, TX | Houston area | 2026-10-30 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1) |
-| 9 | HP Inc. | Product Management Intern | Product | Spring, TX | Houston area | 2026-10-30 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358) |
+| 9 | HP Inc. | Product Management Intern | Product | Spring, Texas, United States of America | Houston area | 2026-10-30 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358) |
 | 10 | AspenTech | Product Owner Intern - Product Management | Product | Houston, TX, Bedford, MA | Houston area | 2026-09-16 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) |
 | 11 | Hewlett Packard Enterprise | Product Management Intern | Product | Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA | Houston area | 2026-08-28 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634) |
 | 12 | Susquehanna International Group | Technical Business Analyst Co-op | Business Analysis | Remote (US) | US remote | 2026-10-15 | [Apply](https://go.vansh.nyc/a6) |
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | 1Password | Product Management Intern - End User Experience | Product | Remote in USA, Remote in Canada | US remote | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) |
 | 20 | 1Password | Product Management Intern, End User Experience | Product | Remote, United States, Canada | US remote | 2026-10-23 | [Apply](https://go.vansh.nyc/gR) |
 
-*Generated 2026-11-08 15:40 UTC.*
+*Generated 2026-11-08 18:15 UTC.*
