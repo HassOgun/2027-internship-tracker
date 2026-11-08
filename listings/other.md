@@ -1,4 +1,4 @@
-# Other (3620)
+# Other (3623)
 
 [← back to index](../README.md)
 
@@ -252,6 +252,7 @@
 | [Trajectory](https://go.vansh.nyc/1jJ) | Member of Technical Staff Intern, Research | San Francisco, CA | Summer | 2026-11-05 | 3 | vanshb03-2026, vanshb03-2027 |
 | [PepsiCo](https://uscampus-pepsico.icims.com/jobs/461507/job?in_iframe=1) | 2027 Summer Intern: Design Intern | New York, New York, United States |  | 2026-11-05 | 3 | dreamwork-2027 |
 | [Two Six Technologies](https://go.vansh.nyc/1jx) | Research Intern | Dayton, OH | Summer | 2026-11-05 | 3 | vanshb03-2026, vanshb03-2027 |
+| [DoorDash](https://go.vansh.nyc/1mQ) | Software Engineer Intern | Toronto, Canada | Summer | 2026-11-05 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Apex Technology, Inc.](https://go.vansh.nyc/1jo) | Ground Software Engineering Intern | Los Angeles, CA | Spring | 2026-11-05 | 3 | vanshb03-2026, vanshb03-2027 |
 | [Leidos](https://leidos.wd5.myworkdayjobs.com/external/job/6314-remoteteleworker-us/software-engineering---ai-intern_r-00196220) | Software Engineering & AI Intern | 6314 Remote/Teleworker US |  | 2026-11-05 | 3 | dreamwork-2027 |
 | [Sharkninjaoperatingllc](https://boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006) | Spring 2027: CMF Industrial Design Co-op (January through June) | Needham, MA, United States |  | 2026-11-05 | 3 | dreamwork-2027 |
@@ -1160,6 +1161,7 @@
 | [Mativ](https://go.vansh.nyc/11W) | Cybersecurity Intern | Alpharetta, GA | Summer | 2026-10-29 | 10 | vanshb03-2026, vanshb03-2027 |
 | [HP Inc.](https://go.vansh.nyc/YE) | Software Product Security Intern, HP IQ | San Francisco, CA | Summer | 2026-10-29 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Figma](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | PhD Intern, Security Engineer (2027) | San Francisco, CA • New York, NY |  | 2026-10-29 | 10 | dreamwork-2027 |
+| [Ryan](https://go.vansh.nyc/1mO) | Software Engineer Intern | North York, Canada | Summer | 2026-10-29 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Costco](https://go.vansh.nyc/1gX) | CDS Intern, OT/IoT Security Engineering | Wa, WA | Summer | 2026-10-29 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Nintendo](https://go.vansh.nyc/12p) | Software Engineer Intern, Connectivity | Redmond, WA | Summer | 2026-10-29 | 10 | vanshb03-2026, vanshb03-2027 |
 | [Syntiant](https://go.vansh.nyc/11V) | DevOps Machine Learning Infrastructure Intern | Irvine, CA | Summer | 2026-10-29 | 10 | vanshb03-2026, vanshb03-2027 |
@@ -2306,6 +2308,7 @@
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | Data Scientist Intern - 2027 | London, United Kingdom; New York, NY, United States |  | 2026-10-05 | 34 | dreamwork-2027 |
 | [Rivian](https://careers.rivian.com/jobs/33832?lang=en-us) | Software Engineering Intern - Embedded Software (Spring 2027 Co-op) | Palo Alto, California, United States |  | 2026-10-05 | 34 | dreamwork-2027 |
 | [Duolingo](https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002) | Illustrator, Intern | Detroit, MI |  | 2026-10-05 | 34 | dreamwork-2027 |
+| [Center for AI Safety (CAIS)](https://go.vansh.nyc/1mP) | Research Engineer Intern | San Francisco, CA | Summer | 2026-10-05 | 34 | vanshb03-2026, vanshb03-2027 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257205) | 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra | Mountain View, CA, USA |  | 2026-10-05 | 34 | dreamwork-2027 |
 | [Rivian](https://careers.rivian.com/jobs/34040?lang=en-us) | Engineering Intern - Electronics Design (Spring 2027 Co-Op) | Palo Alto, California, United States |  | 2026-10-05 | 34 | dreamwork-2027 |
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8257159) | 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery | Mountain View, CA, USA |  | 2026-10-05 | 34 | dreamwork-2027 |

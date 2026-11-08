@@ -1,5 +1,65 @@
 [
   {
+    "company_name": "Center for AI Safety (CAIS)",
+    "title": "Research Engineer Intern",
+    "url": "https://go.vansh.nyc/1mP",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791230497,
+    "date_updated": 1794143327,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "DoorDash",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1mQ",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793905182,
+    "date_updated": 1794143327,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Ryan",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1mO",
+    "locations": [
+      "North York, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793232000,
+    "date_updated": 1794143167,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Klaviyo",
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/1mK",
@@ -1271,25 +1331,6 @@
     ],
     "terms": [
       "Spring 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794009600,
-    "date_updated": 1794009600,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Datarobot",
-    "title": "Software Design Engineer Intern",
-    "url": "https://datarobot.wd1.myworkdayjobs.com/datarobot_external_careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764",
-    "locations": [
-      "Boston Massachusetts"
-    ],
-    "terms": [
-      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794009600,
@@ -8185,6 +8226,25 @@
     ],
     "terms": [
       "Winter 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793923200,
+    "date_updated": 1793923200,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Datarobot",
+    "title": "Software Design Engineer Intern",
+    "url": "https://datarobot.wd1.myworkdayjobs.com/datarobot_external_careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764",
+    "locations": [
+      "Boston Massachusetts"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1793923200,
@@ -16321,6 +16381,44 @@
     "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
     "locations": [
       "Grand Rapids, MI"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+    "locations": [
+      "United States, Washington, Redmond"
     ],
     "terms": [
       "Not specified"
@@ -26667,6 +26765,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Nex",
     "title": "Summer 2027 | Software Engineer Intern (Sports & Fitness)",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008",
@@ -33499,6 +33616,25 @@
     "url": "https://leidos.wd5.myworkdayjobs.com/external/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
     "locations": [
       "Arlington, VA"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793577600,
+    "date_updated": 1793577600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+    "locations": [
+      "United States, Washington, Redmond"
     ],
     "terms": [
       "Not specified"
@@ -83427,6 +83563,25 @@
     ]
   },
   {
+    "company_name": "TikTok",
+    "title": "Data Analyst Intern - FMCG",
+    "url": "https://lifeattiktok.com/search/7616659899507591477",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1781503938,
+    "date_updated": 1792749364,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Gritt",
     "title": "ML & Cloud Infrastructure Engineer Intern",
     "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523/application?embed=true",
@@ -93302,6 +93457,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1792540800,
+    "date_updated": 1792540800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+    "locations": [
+      "United States, Massachusetts, Cambridge"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1792540800,
@@ -107906,6 +108080,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Efficient AI Software Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1792022400,
+    "date_updated": 1792022400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Muon Space",
     "title": "Ground Software Engineering Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
@@ -119299,25 +119492,6 @@
     ]
   },
   {
-    "company_name": "Arcesium LLC",
-    "title": "Infrastructure Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007",
-    "locations": [
-      "New York"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791504000,
-    "date_updated": 1791504000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Barrywehmiller",
     "title": "Software Engineering Intern - DAL",
     "url": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133",
@@ -119326,82 +119500,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791504000,
-    "date_updated": 1791504000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "GCM Grosvenor",
-    "title": "2027 IT-Product & Strategy Summer Intern",
-    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015835003",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Product",
-    "date_posted": 1791504000,
-    "date_updated": 1791504000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "GCM Grosvenor",
-    "title": "2027 Software Engineering Summer Intern",
-    "url": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791504000,
-    "date_updated": 1791504000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "RTX",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1791504000,
-    "date_updated": 1791504000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Schonfeld",
-    "title": "2027 Quantitative Developer Intern",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1791504000,
@@ -201853,7 +201951,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489740,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -201872,7 +201970,7 @@
     "category": "Quant",
     "date_posted": 1786767954,
     "date_updated": 1788489738,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -201891,7 +201989,7 @@
     "category": "Software",
     "date_posted": 1786767943,
     "date_updated": 1788489738,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -201910,7 +202008,7 @@
     "category": "Software",
     "date_posted": 1786767953,
     "date_updated": 1788489734,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -201948,7 +202046,7 @@
     "category": "Software",
     "date_posted": 1786767953,
     "date_updated": 1788489731,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -201967,7 +202065,7 @@
     "category": "Quant",
     "date_posted": 1786767935,
     "date_updated": 1788489730,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -201986,7 +202084,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489730,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -202043,7 +202141,7 @@
     "category": "Quant",
     "date_posted": 1786767953,
     "date_updated": 1788489727,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -202081,7 +202179,7 @@
     "category": "Quant",
     "date_posted": 1786767953,
     "date_updated": 1788489726,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -202100,7 +202198,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489726,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -202119,7 +202217,7 @@
     "category": "Quant",
     "date_posted": 1786767955,
     "date_updated": 1788489726,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -202138,7 +202236,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489725,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -202157,7 +202255,7 @@
     "category": "Quant",
     "date_posted": 1786767946,
     "date_updated": 1788489725,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -202176,7 +202274,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489723,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -206778,6 +206876,25 @@
     "date_posted": 1788401681,
     "date_updated": 1788415136,
     "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Repsol",
+    "title": "Subsurface Engineering Intern",
+    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Subsurface-Engineering-Intern_84011-1",
+    "locations": [
+      "Anchorage, AK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1788307200,
+    "date_updated": 1788415026,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -226245,7 +226362,7 @@
     "category": "Quant",
     "date_posted": 1786767946,
     "date_updated": 1787840754,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -226368,7 +226485,7 @@
     "category": "Quant",
     "date_posted": 1786767953,
     "date_updated": 1787825784,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -226691,6 +226808,25 @@
     "category": "AI/ML/Data",
     "date_posted": 1787702400,
     "date_updated": 1787784361,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Repsol",
+    "title": "Production Allocation Engineering Intern",
+    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Production-Allocation-Engineering-Intern_83947-1",
+    "locations": [
+      "The Woodlands, TX"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1787702400,
+    "date_updated": 1787784301,
     "active": false,
     "is_visible": true,
     "_sources": [
@@ -244141,7 +244277,7 @@
     "category": "Quant",
     "date_posted": 1786767951,
     "date_updated": 1786806931,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -244160,7 +244296,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1786767947,
     "date_updated": 1786806930,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -244179,7 +244315,7 @@
     "category": "Quant",
     "date_posted": 1786767949,
     "date_updated": 1786806925,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -244217,7 +244353,7 @@
     "category": "Quant",
     "date_posted": 1786767935,
     "date_updated": 1786806912,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -244351,7 +244487,7 @@
     "category": "Quant",
     "date_posted": 1786767954,
     "date_updated": 1786768208,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -244389,7 +244525,7 @@
     "category": "Quant",
     "date_posted": 1786767953,
     "date_updated": 1786768198,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -244427,7 +244563,7 @@
     "category": "Quant",
     "date_posted": 1786767954,
     "date_updated": 1786768197,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -261163,7 +261299,7 @@
     "category": "Hardware",
     "date_posted": 1784183921,
     "date_updated": 1785611701,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -352623,6 +352759,25 @@
     ]
   },
   {
+    "company_name": "TikTok",
+    "title": "Data Analyst Project Intern",
+    "url": "https://lifeattiktok.com/search/7564337316874848517",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1775571141,
+    "date_updated": 1775572201,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Strategic Education",
     "title": "AI Engineering Intern",
     "url": "https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Minneapolis-MN/UI-Product-Development-Intern_R29539",
@@ -358724,6 +358879,25 @@
     ]
   },
   {
+    "company_name": "University of Rochester",
+    "title": "Project Assistant 1",
+    "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/1630-Long-Pond-Road/Project-Assistant-I--H-_R269983",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1775081265,
+    "date_updated": 1775084863,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Primerica",
     "title": "Architecture Intern",
     "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Architecture-Intern_R-140032026",
@@ -363185,26 +363359,6 @@
     "category": "Data Science, AI & Machine Learning",
     "date_posted": 1774262477,
     "date_updated": 1774873042,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Red Bull Advanced Technologies",
-    "title": "Level 3 Metrology Apprentice",
-    "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Quality-Engineering-Apprentice_R0007261-1",
-    "locations": [
-      "Milton Keynes, UK"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1773411733,
-    "date_updated": 1774844896,
     "active": false,
     "is_visible": true,
     "_sources": [
@@ -383735,215 +383889,6 @@
     "category": "AI/ML/Data",
     "date_posted": 1773439558,
     "date_updated": 1773439558,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Repsol",
-    "title": "Production Allocation Engineering Intern",
-    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Asset-Control-Intern_80888-2",
-    "locations": [
-      "The Woodlands, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1773414472,
-    "date_updated": 1773414472,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "MultiCare Health System",
-    "title": "Data Analyst Intern",
-    "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Data-Analytics-Intern_JR71369",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1773413966,
-    "date_updated": 1773413966,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Smith+Nephew",
-    "title": "Intern \u2013 AI for Global Clinical and Medical Affairs",
-    "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern--AI-for-Global-Clinical-and-Medical-Affairs_R87647",
-    "locations": [
-      "Andover, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1773412929,
-    "date_updated": 1773412929,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "University of Rochester",
-    "title": "Project Assistant 1",
-    "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Project-Assistant-I_R266117",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "Hardware",
-    "date_posted": 1773412478,
-    "date_updated": 1773412478,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "University of Rochester",
-    "title": "Co-op Research Student 1",
-    "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-I_R263737",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1773412413,
-    "date_updated": 1773412413,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Repsol",
-    "title": "Subsurface Engineering Intern",
-    "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Subsurface-Engineering-Intern_81483-2",
-    "locations": [
-      "Anchorage, AK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1773411762,
-    "date_updated": 1773411762,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Rite Hite",
-    "title": "Service Technician",
-    "url": "https://ritehite.wd12.myworkdayjobs.com/RHH/job/USA-WI-Madison/Apprentice-or-Service-Technician---West-of-Madison--WI_JR102024",
-    "locations": [
-      "Madison, WI"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "Software",
-    "date_posted": 1773411753,
-    "date_updated": 1773411753,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Realty Income",
-    "title": "Operational Excellence Intern",
-    "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Operational-Excellence-Intern_R-100094",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1773411708,
-    "date_updated": 1773411708,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "TikTok",
-    "title": "Data Analyst Project Intern",
-    "url": "https://lifeattiktok.com/search/7616659899507591477",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1773411495,
-    "date_updated": 1773411495,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Savannah River National Laboratory",
-    "title": "EM University Programs AI and Machine Learning Intern",
-    "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1998",
-    "locations": [
-      "North Augusta, SC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1773411417,
-    "date_updated": 1773411417,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Roku",
-    "title": "Software Engineer Intern - Streaming Media",
-    "url": "https://www.weareroku.com/jobs/7599381?gh_jid=7599381",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1773411105,
-    "date_updated": 1773411105,
     "active": false,
     "is_visible": true,
     "_sources": [
