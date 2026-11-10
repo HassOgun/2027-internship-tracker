@@ -1,19 +1,19 @@
-# MIS Internship Top 20 — 2026-11-09
+# MIS Internship Top 20 — 2026-11-10
 
 Ranked by MIS role relevance, posting freshness, and location (Greater Houston, US remote, other Texas, then nationwide).
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 651 relevant active records (before recommendation deduplication).
+**20 matches selected** from 662 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
 | 1 | Group 1 Automotive | IT Intern | IT / Information Systems | Houston, TX | Houston area | 2026-11-07 | [Apply](https://go.vansh.nyc/1ms) |
 | 2 | Kinder Morgan | Information Technology Intern - Application Development | IT / Information Systems | Houston, TX | Houston area | 2026-09-01 | [Apply](https://careers.kindermorgan.com/jobs/6032?icims=1) |
 | 3 | Kinder Morgan | Information Technology Intern, Application Development | IT / Information Systems | Houston, TX | Houston area | 2026-09-01 | [Apply](https://go.vansh.nyc/LX) |
-| 4 | NOV | Marketing and Data Analyst Intern | Data / BI | Houston, TX | Houston area | 2026-11-02 | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45288) |
-| 5 | Axiom Space | Enterprise Data Analyst Intern - Power BI & Data Quality | Data / BI | Houston, TX | Houston area | 2026-10-29 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823) |
-| 6 | Axiom Space | Enterprise Data Analyst Intern, Power BI & Data Quality | Data / BI | Houston, TX | Houston area | 2026-10-29 | [Apply](https://go.vansh.nyc/103) |
+| 4 | Axiom Space | Enterprise Data Analyst Intern - Power BI & Data Quality | Data / BI | Houston, TX | Houston area | 2026-10-29 | [Apply](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823) |
+| 5 | Axiom Space | Enterprise Data Analyst Intern, Power BI & Data Quality | Data / BI | Houston, TX | Houston area | 2026-10-29 | [Apply](https://go.vansh.nyc/103) |
+| 6 | NOV | Marketing and Data Analyst Intern | Data / BI | Houston, TX | Houston area | 2026-11-02 | [Apply](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45288) |
 | 7 | Hays Electrical Services | Data Analyst Intern - IT / Accounting (Rotational) | Data / BI | Houston, TX | Houston area | 2026-09-23 | [Apply](https://hayselectricalservices.applytojob.com/apply/X0z5NLCjcR/Intern-Data-Analyst) |
 | 8 | HP | Product Management Intern | Product | Spring, TX | Houston area | 2026-10-30 | [Apply](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1) |
 | 9 | HP Inc. | Product Management Intern | Product | Spring, Texas, United States of America | Houston area | 2026-10-30 | [Apply](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358) |
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | 1Password | Product Management Intern - End User Experience | Product | Remote in USA, Remote in Canada | US remote | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) |
 | 20 | 1Password | Product Management Intern, End User Experience | Product | Remote, United States, Canada | US remote | 2026-10-23 | [Apply](https://go.vansh.nyc/gR) |
 
-*Generated 2026-11-09 22:54 UTC.*
+*Generated 2026-11-10 00:29 UTC.*
