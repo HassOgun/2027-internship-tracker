@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) | Product Management Space Compute MBA Intern - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-11-10 | 0 | applyguy-2027 |
 | [DreamWorks Animation](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479) | Advertising & Partnerships: Ad Products Intern | NYC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
 | [DreamWorks Animation](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249) | Streaming Platforms – Product Management Intern | NYC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
 | [Scout Motors](https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007) | Products Intern | Charlotte, NC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
@@ -175,7 +176,6 @@
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424) | Product Growth Intern - MBA | Palo Alto, CA | Summer 2027 | 2026-10-01 | 40 | simplify-2026 |
 | [CoStar Group](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946) | Associate Product Manager | Sunnyvale, CA | N/A | 2026-10-01 | 40 | simplify-2026 |
 | [Capital One](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) | MBA Product Intern | McLean, VA, Richmond, VA, Chicago, IL, NYC | Summer 2027 | 2026-10-01 | 40 | simplify-2026 |
-| [Schneider Electric](https://se.jibeapply.com/jobs/135310?icims=1) | Graduate Product Management Intern | Nashville, TN | Summer 2027 | 2026-09-30 | 41 | simplify-2026 |
 | [Rockwell Automation](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261) | Product Management Intern - Digital Client | Mequon, WI | Winter 2026 | 2026-09-30 | 41 | simplify-2026 |
 | [Epic Games](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Product Management Intern | Cary, NC | Summer 2027 | 2026-09-29 | 42 | simplify-2026 |
 | [Acuity](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) | Product Management Technology Intern | Conyers, GA | Summer 2027 | 2026-09-29 | 42 | simplify-2026 |

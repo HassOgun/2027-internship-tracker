@@ -1,5 +1,302 @@
 [
   {
+    "company_name": "REGENT",
+    "title": "Mission Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true",
+    "locations": [
+      "North Kingstown, RI"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794268800,
+    "date_updated": 1794278883,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Trimble",
+    "title": "Software Engineer Intern",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171",
+    "locations": [
+      "Portland, OR"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1794182400,
+    "date_updated": 1794278343,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Pika",
+    "title": "Applied AI Engineer Intern - Creative Experiences",
+    "url": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1794268800,
+    "date_updated": 1794277672,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "General Dynamics Mission Systems",
+    "title": "Ontology Data Analysis and Validation Intern",
+    "url": "https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Chantilly, VA",
+      "Pittsfield, MA",
+      "Scottsdale, AZ"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794268800,
+    "date_updated": 1794277623,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "General Dynamics Mission Systems",
+    "title": "Ontology and Semantic Engineering Intern",
+    "url": "https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Chantilly, VA",
+      "Pittsfield, MA",
+      "Scottsdale, AZ"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794268800,
+    "date_updated": 1794277623,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise",
+    "title": "Wireless Hardware Engineer Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Hardware-Engineering-Intern_1218701",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Hardware",
+    "date_posted": 1794182400,
+    "date_updated": 1794277188,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Intuitive Surgical",
+    "title": "Robotics and Controls Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000160747319",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794268935,
+    "date_updated": 1794276838,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Intuitive Surgical",
+    "title": "Electrical Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000160746789",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Hardware",
+    "date_posted": 1794268559,
+    "date_updated": 1794276838,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "NVIDIA",
+    "title": "Systems Research Intern - Observability",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
+    "locations": [
+      "Canada",
+      "Santa Clara, CA",
+      "United States"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794182400,
+    "date_updated": 1794276362,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "FormFactor",
+    "title": "Software Engineer Intern",
+    "url": "https://formfactor.wd1.myworkdayjobs.com/ffi-careers/job/Livermore-CA/Software-Engineer-Intern_JR101288",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1794182400,
+    "date_updated": 1794276362,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "CTGT",
+    "title": "AI Evaluation Research Intern",
+    "url": "https://go.vansh.nyc/1pM",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794268800,
+    "date_updated": 1794276325,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "i3",
+    "title": "Data Management Intern",
+    "url": "https://go.vansh.nyc/1pN",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794268800,
+    "date_updated": 1794276325,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "NBCUniversal",
+    "title": "Digital Transformation AR/VR Intern",
+    "url": "https://go.vansh.nyc/1pO",
+    "locations": [
+      "North Hollywood, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794268800,
+    "date_updated": 1794276325,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Steel Dynamics",
+    "title": "Information Security Intern",
+    "url": "https://go.vansh.nyc/1pP",
+    "locations": [
+      "Fort Wayne, IN"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794268800,
+    "date_updated": 1794276325,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "DreamWorks Animation",
+    "title": "Data Science Intern, Advertising & Partnerships",
+    "url": "https://go.vansh.nyc/1pJ",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794248802,
+    "date_updated": 1794270958,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Ecmtek",
     "title": "Developer Intern, Python Development",
     "url": "https://go.vansh.nyc/1pE",
@@ -37,6 +334,25 @@
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "NVIDIA",
+    "title": "Product Management Space Compute MBA Intern - Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Product",
+    "date_posted": 1794268800,
+    "date_updated": 1794268800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
     ]
   },
   {
@@ -208,7 +524,9 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -266,7 +584,9 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -742,7 +1062,9 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -4778,6 +5100,25 @@
     ],
     "terms": [
       "Co-op"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794182400,
+    "date_updated": 1794182400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Persona AI Inc",
+    "title": "Humanoid Robotics Software Internship",
+    "url": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb",
+    "locations": [
+      "Pensacola, FL"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794182400,
@@ -21282,7 +21623,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793844186,
     "date_updated": 1793844188,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -21600,6 +21941,44 @@
     "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
     "locations": [
       "Grand Rapids, MI"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+    "locations": [
+      "United States, Washington, Redmond"
     ],
     "terms": [
       "Not specified"
@@ -31456,6 +31835,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Nex",
     "title": "Summer 2027 | Software Engineer Intern (Sports & Fitness)",
     "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008",
@@ -33402,7 +33800,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793659560,
     "date_updated": 1793661004,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -33655,7 +34053,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793659440,
     "date_updated": 1793660762,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -33675,7 +34073,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793659740,
     "date_updated": 1793660762,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -36668,7 +37066,7 @@
     "category": "Hardware",
     "date_posted": 1793577600,
     "date_updated": 1793634331,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -43890,7 +44288,7 @@
     "category": "Product",
     "date_posted": 1790804400,
     "date_updated": 1793427182,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -51428,7 +51826,7 @@
     "category": "Software",
     "date_posted": 1793311983,
     "date_updated": 1793312150,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -51487,7 +51885,7 @@
     "category": "Software",
     "date_posted": 1793232000,
     "date_updated": 1793312057,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -53098,7 +53496,7 @@
     "category": "Hardware",
     "date_posted": 1793232000,
     "date_updated": 1793283542,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -55247,7 +55645,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790886054,
     "date_updated": 1793236324,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -55825,7 +56223,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793145600,
     "date_updated": 1793227501,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -63010,7 +63408,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793059200,
     "date_updated": 1793139233,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -66587,7 +66985,7 @@
     "category": "Hardware",
     "date_posted": 1791842781,
     "date_updated": 1793063727,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -90943,7 +91341,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792627200,
     "date_updated": 1792707662,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -96364,7 +96762,7 @@
     "category": "Software",
     "date_posted": 1792546006,
     "date_updated": 1792546023,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -96825,6 +97223,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1792540800,
+    "date_updated": 1792540800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+    "locations": [
+      "United States, Massachusetts, Cambridge"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1792540800,
@@ -100670,7 +101087,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792449477,
     "date_updated": 1792449580,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -111351,6 +111768,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Efficient AI Software Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1792022400,
+    "date_updated": 1792022400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Muon Space",
     "title": "Ground Software Engineering Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
@@ -112303,7 +112739,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792016953,
     "date_updated": 1792017003,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -115770,7 +116206,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791849600,
     "date_updated": 1791929398,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -120897,7 +121333,7 @@
     "category": "Software",
     "date_posted": 1791504000,
     "date_updated": 1791584925,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -130500,7 +130936,7 @@
     "category": "Hardware",
     "date_posted": 1791267459,
     "date_updated": 1791268059,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -132889,7 +133325,7 @@
     "category": "Software",
     "date_posted": 1791158400,
     "date_updated": 1791239783,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -134754,7 +135190,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789084800,
     "date_updated": 1791126231,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -138432,7 +138868,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790950113,
     "date_updated": 1790950353,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -151130,7 +151566,7 @@
     "category": "Hardware",
     "date_posted": 1790208000,
     "date_updated": 1790289059,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -151482,7 +151918,7 @@
     "category": "Software",
     "date_posted": 1790287586,
     "date_updated": 1790288240,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -166031,7 +166467,7 @@
     "category": "Quant",
     "date_posted": 1789655907,
     "date_updated": 1789655966,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -176795,7 +177231,7 @@
     "category": "Hardware",
     "date_posted": 1789344000,
     "date_updated": 1789416427,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -185943,7 +186379,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789077871,
     "date_updated": 1789078225,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -186438,7 +186874,9 @@
     "active": false,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -199524,7 +199962,7 @@
     "category": "Software",
     "date_posted": 1788560434,
     "date_updated": 1788561054,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -202433,7 +202871,7 @@
     "category": "Quant",
     "date_posted": 1779833436,
     "date_updated": 1788508981,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -212396,7 +212834,7 @@
     "category": "Hardware",
     "date_posted": 1788255604,
     "date_updated": 1788406926,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -213572,7 +214010,7 @@
     "category": "Software",
     "date_posted": 1788358162,
     "date_updated": 1788358401,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -237649,7 +238087,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1787333849,
     "date_updated": 1787334110,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -237749,7 +238187,7 @@
     "category": "Software",
     "date_posted": 1787270400,
     "date_updated": 1787333653,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -240599,7 +241037,7 @@
     "category": "Software",
     "date_posted": 1787264045,
     "date_updated": 1787264109,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -251891,7 +252329,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1786486026,
     "date_updated": 1786486206,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -384545,25 +384983,6 @@
     "category": "Software",
     "date_posted": 1773565826,
     "date_updated": 1773565826,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Amazon",
-    "title": "Intern Economist - Stores Economics and Science",
-    "url": "https://amazon.jobs/en/jobs/3204862/intern-economics-stores-economics-and-science",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1773537658,
-    "date_updated": 1773537658,
     "active": false,
     "is_visible": true,
     "_sources": [
