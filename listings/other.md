@@ -1,9 +1,10 @@
-# Other (3616)
+# Other (3618)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Global Payments](https://go.vansh.nyc/1s5) | CyberSecurity Intern | Columbus, GA | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [SRC, Inc](https://go.vansh.nyc/1rU) | Machine Learning Engineer Intern | United States | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Trimble](https://go.vansh.nyc/1rP) | Software Engineering Intern | Knoxville, TN | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Hewlett Packard (HP)](https://go.vansh.nyc/1rR) | Performance Engineering Co-op | Fort Collins, CO | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -46,6 +47,7 @@
 | [Addepar](https://go.vansh.nyc/1rX) | AI Engineering Intern | New York, NY | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Addepar](https://go.vansh.nyc/1rW) | Software Engineering Intern | New York, NY | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Zebra Technologies](https://go.vansh.nyc/1qC) | Security Intern | Lincolnshire, IL | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Addepar](https://go.vansh.nyc/1s3) | Product Intern | New York, NY | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [AFL](https://go.vansh.nyc/1qw) | Business Intelligence (BI) Co-op | Duncan, SC | Spring | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [OneAmerica Financial](https://go.vansh.nyc/1qx) | Cyber Security Intern | Indianapolis, IN | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Clarios](https://go.vansh.nyc/1qy) | IT Digital/AI Intern | Milwaukee, WI | Summer | 2026-11-10 | 0 | vanshb03-2026, vanshb03-2027 |
