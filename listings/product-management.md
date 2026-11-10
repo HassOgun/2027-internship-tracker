@@ -1,4 +1,4 @@
-# Product Management (307)
+# Product Management (309)
 
 [← back to index](../README.md)
 
@@ -6,6 +6,8 @@
 |---|---|---|---|---|---|---|
 | [Legrand](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) | Product Management Intern | Syracuse, NY | Summer 2027 | 2026-11-10 | 0 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) | Product Management Space Compute MBA Intern - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-11-10 | 0 | applyguy-2027 |
+| [Parspec](https://jobs.ashbyhq.com/parspec/aa7b7f63-b31f-47fa-a711-b76d93028e56) | Product Management Intern, Agentic AI | San Mateo, CA | Not specified | 2026-11-10 | 0 | applyguy-2027 |
+| [Rubrik Job Board](https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601) | Product Management Intern (RCV), Summer 2027 | Palo Alto, CA | Summer 2027 | 2026-11-10 | 0 | applyguy-2027 |
 | [DreamWorks Animation](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479) | Advertising & Partnerships: Ad Products Intern | NYC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
 | [DreamWorks Animation](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249) | Streaming Platforms – Product Management Intern | NYC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
 | [Scout Motors](https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007) | Products Intern | Charlotte, NC | Summer 2027 | 2026-11-09 | 1 | simplify-2026 |
@@ -20,7 +22,7 @@
 | [Docusign](https://careers.docusign.com/jobs/30625?icims=1&lang=en-us) | Product Manager Intern | SF | N/A | 2026-11-06 | 4 | simplify-2026 |
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441495) | Product Manager Intern | Peterborough, UK | Summer 2027 | 2026-11-06 | 4 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7696000179569854725) | POI Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-06 | 4 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [DwyerOmega](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) | Product Management Intern - Pressure & Force | Michigan City, IN, Sunbury, OH | Summer 2027 | 2026-11-06 | 4 | simplify-2026, applyguy-2027 |
+| [DwyerOmega](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) | Product Management Intern - Pressure & Force | Michigan City, IN, Sunbury, OH | Summer 2027 | 2026-11-06 | 4 | simplify-2026, dreamwork-2027, applyguy-2027 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) | Product Management Intern - Product Management | SF, NYC | Summer 2027 | 2026-11-06 | 4 | simplify-2026 |
 | [Boston Scientific](https://bostonscientific.eightfold.ai/careers/job/563602813850819) | R&D Product Development Intern | Montreal, QC, Canada | Winter 2027 | 2026-11-05 | 5 | simplify-2026 |
 | [Equitable Bank](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) | Product Management Intern - Digital Banking | Toronto, ON, Canada | Winter 2027 | 2026-11-05 | 5 | simplify-2026 |
