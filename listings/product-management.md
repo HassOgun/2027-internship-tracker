@@ -31,7 +31,7 @@
 | [Constellation Brands](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678) | IT Intern - Marketing Technology Product Management | Rochester, NY, Chicago, IL | N/A | 2026-11-09 | 2 | simplify-2026 |
 | [Badger Meter](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) | Product Management Intern | Milwaukee, WI | Summer 2027 | 2026-11-09 | 2 | simplify-2026 |
 | [Badgermeter](https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) | Product Management Intern | Milwaukee, WI | Not specified | 2026-11-09 | 2 | applyguy-2027 |
-| [Zoetis](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022-1) | Data & Analytics Product Operations Intern | Parsippany, NJ | Not specified | 2026-11-09 | 2 | applyguy-2027 |
+| [Zoetis](https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022) | Data & Analytics Product Operations Intern | Parsippany, NJ | Not specified | 2026-11-09 | 2 | applyguy-2027 |
 | [TikTok](https://lifeattiktok.com/search/7696000178264361269) | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-07 | 4 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) | Product Management Intern - MBA | Atlanta, GA | Summer 2027 | 2026-11-06 | 5 | simplify-2026 |
 | [Docusign](https://careers.docusign.com/jobs/30625?icims=1&lang=en-us) | Product Manager Intern | SF | N/A | 2026-11-06 | 5 | simplify-2026 |
@@ -52,8 +52,9 @@
 | [Clasp](https://jobs.ashbyhq.com/clasp/43f4eb5d-f990-43b9-959f-70e6f0158246/application?embed=true) | Product and Operations Intern | NYC | N/A | 2026-11-04 | 7 | simplify-2026 |
 | [Constellation Brands](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Marketing-Technology---Digital-Product_R-41658) | Marketing Technology & Digital Product Intern | Rochester, NY, Chicago, IL | N/A | 2026-11-04 | 7 | simplify-2026 |
 | [Kabam](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | Operations Product Manager Co-op | Vancouver, BC, Canada | Winter 2027 | 2026-11-03 | 8 | simplify-2026 |
-| [USAFacts](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) | AI Product Intern | Bellevue, WA | Summer 2026 | 2026-11-03 | 8 | simplify-2026, dreamwork-2027 |
+| [USAFacts](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) | AI Product Intern | Bellevue, WA | Summer 2026 | 2026-11-03 | 8 | simplify-2026 |
 | [Paccar](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Product Planning Intern | Denton, TX | Summer 2027 | 2026-11-03 | 8 | simplify-2026 |
+| [KEEN Footwear](https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005) | AI Product Management Intern | Portland, OR | Not specified | 2026-11-03 | 8 | applyguy-2027 |
 | [Costco](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11024) | Costco Data Systems Intern - IT Product Owner | Issaquah, WA | Summer 2027 | 2026-11-02 | 9 | simplify-2026 |
 | [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) | Product Management Intern - Insurance | Alpharetta, GA | Summer 2027 | 2026-11-02 | 9 | simplify-2026 |
 | [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) | Product Manager Intern - Government | Alpharetta, GA | Summer 2027 | 2026-11-02 | 9 | simplify-2026 |
@@ -159,7 +160,6 @@
 | [ADT](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Product Management & Product Operations Intern | Boca Raton, FL | Summer 2027 | 2026-10-12 | 30 | simplify-2026 |
 | [Life Fitness](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280) | Product Management Intern | Rosemont, IL | N/A | 2026-10-12 | 30 | simplify-2026 |
 | [Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702) | Product Management Co-op | Menomonee Falls, WI | Winter 2027 | 2026-10-12 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [Arcesium LLC](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007) | Product Management Intern | New York | Not specified | 2026-10-12 | 30 | applyguy-2027 |
 | [TikTok](https://lifeattiktok.com/search/7693732178706974981) | Creative Product Manager Intern - Multiple Teams | San Jose, CA | Summer 2027 | 2026-10-09 | 33 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7693727532178229509) | Creative Product Operations Intern - Multiple Teams | San Jose, CA | Summer 2027 | 2026-10-09 | 33 | simplify-2026 |
 | [SageSure](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006) | Software Product Management Intern | Chicago, IL, Jersey City, NJ, Mountain View, CA | N/A | 2026-10-09 | 33 | simplify-2026 |
