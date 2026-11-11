@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 692 relevant active records (before recommendation deduplication).
+**20 matches selected** from 693 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Bask Health | Product Management Intern | Product | Remote in USA | US remote | 2026-11-11 | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) |
 | 20 | Teamworks | Product Management MBA Intern | Product | Remote in USA | US remote | 2026-10-30 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06) |
 
-*Generated 2026-11-11 20:02 UTC.*
+*Generated 2026-11-11 23:11 UTC.*

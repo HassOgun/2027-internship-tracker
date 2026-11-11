@@ -1,4 +1,4 @@
-# Product Management (321)
+# Product Management (322)
 
 [← back to index](../README.md)
 
@@ -9,6 +9,7 @@
 | [Bask Health](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) | Product Management Intern | Remote in USA | N/A | 2026-11-11 | 0 | simplify-2026 |
 | [Bask Health](https://apply.workable.com/bask-health-1/j/90535FE8AA/apply) | Patient Experience Product Intern | Remote in USA | N/A | 2026-11-11 | 0 | simplify-2026 |
 | [Bask Health](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) | Product Operations Intern | Remote in USA | N/A | 2026-11-11 | 0 | simplify-2026 |
+| [apexanalytix](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Product Management Intern (Summer 2027) | Greensboro, NC | Summer 2027 | 2026-11-11 | 0 | applyguy-2027 |
 | [Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) | Digital Product Intern | Detroit, MI | Summer 2027 | 2026-11-10 | 1 | simplify-2026 |
 | [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Product Management Customer Management App Intern | Bethpage, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-11-10 | 1 | simplify-2026 |
 | [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) | Product Management B2B Broadband Services Intern | Bethpage, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-11-10 | 1 | simplify-2026 |
@@ -20,7 +21,6 @@
 | [Constellation Brands](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681) | Digital Manufacturing Technology Intern | Rochester, NY, San Antonio, TX | N/A | 2026-11-10 | 1 | simplify-2026 |
 | [Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) | Treasury & Payment Solutions Strategy Intern | Toronto, ON, Canada | Spring 2027 | 2026-11-10 | 1 | simplify-2026 |
 | [Parspec](https://jobs.ashbyhq.com/parspec/aa7b7f63-b31f-47fa-a711-b76d93028e56/application?embed=true) | Product Management Intern - Agentic AI | San Mateo, CA | N/A | 2026-11-10 | 1 | simplify-2026 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) | Product Management Space Compute MBA Intern - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-11-10 | 1 | applyguy-2027 |
 | [Parspec](https://jobs.ashbyhq.com/parspec/aa7b7f63-b31f-47fa-a711-b76d93028e56) | Product Management Intern, Agentic AI | San Mateo, CA | Not specified | 2026-11-10 | 1 | applyguy-2027 |
 | [Rubrik Job Board](https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601) | Product Management Intern (RCV), Summer 2027 | Palo Alto, CA | Summer 2027 | 2026-11-10 | 1 | applyguy-2027 |
 | [DreamWorks Animation](https://jobs.smartrecruiters.com/NBCUniversal3/744000160686479) | Advertising & Partnerships: Ad Products Intern | NYC | Summer 2027 | 2026-11-09 | 2 | simplify-2026 |
@@ -31,6 +31,7 @@
 | [Constellation Brands](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678) | IT Intern - Marketing Technology Product Management | Rochester, NY, Chicago, IL | N/A | 2026-11-09 | 2 | simplify-2026 |
 | [Badger Meter](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) | Product Management Intern | Milwaukee, WI | Summer 2027 | 2026-11-09 | 2 | simplify-2026 |
 | [Badgermeter](https://badgermeter.wd5.myworkdayjobs.com/us_careersite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) | Product Management Intern | Milwaukee, WI | Not specified | 2026-11-09 | 2 | applyguy-2027 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628) | Product Management Space Compute MBA Intern - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-11-09 | 2 | applyguy-2027 |
 | [Zoetis](https://zoetis.wd5.myworkdayjobs.com/broadbean_external/job/Parsippany/Data---Analytics-Product-Operations-Intern_JR00022022) | Data & Analytics Product Operations Intern | Parsippany, NJ | Not specified | 2026-11-09 | 2 | applyguy-2027 |
 | [TikTok](https://lifeattiktok.com/search/7696000178264361269) | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-07 | 4 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) | Product Management Intern - MBA | Atlanta, GA | Summer 2027 | 2026-11-06 | 5 | simplify-2026 |
