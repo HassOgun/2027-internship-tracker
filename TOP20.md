@@ -1,10 +1,10 @@
-# MIS Internship Top 20 — 2026-11-10
+# MIS Internship Top 20 — 2026-11-11
 
 Ranked by MIS role relevance, posting freshness, and location (Greater Houston, US remote, other Texas, then nationwide).
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 667 relevant active records (before recommendation deduplication).
+**20 matches selected** from 676 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -22,11 +22,11 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 12 | Susquehanna International Group | Technical Business Analyst Co-op | Business Analysis | Remote (US) | US remote | 2026-10-15 | [Apply](https://go.vansh.nyc/a6) |
 | 13 | Eightsleep | Security & IT Intern | IT / Information Systems | Remote - US | US remote | 2026-10-09 | [Apply](https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550) |
 | 14 | CareSource | Data Analyst Intern | Data / BI | Remote in USA | US remote | 2026-11-05 | [Apply](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) |
-| 15 | Amplify | Data Analytics Intern | Data / BI | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51) |
-| 16 | ConnectPrep | Data Analyst Intern | Data / BI | Remote, United States | US remote | 2026-10-25 | [Apply](https://go.vansh.nyc/BG) |
-| 17 | Teamworks | Product Management MBA Intern | Product | Remote in USA | US remote | 2026-10-30 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06) |
-| 18 | 1Password | Product Management Intern - End User Experience | Product | Remote in USA, Remote in Canada | US remote | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) |
-| 19 | 1Password | Product Management Intern, End User Experience | Product | Remote, United States, Canada | US remote | 2026-10-23 | [Apply](https://go.vansh.nyc/gR) |
-| 20 | Amplify | Product Management Intern | Product | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e) |
+| 15 | Elire | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Technology Consulting | Remote in USA, Minneapolis, MN | US remote | 2026-09-15 | [Apply](https://jobs.jobvite.com/elire/job/oppLAfwT?fr=false&nl=1&nl=1) |
+| 16 | Amplify | Data Analytics Intern | Data / BI | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51) |
+| 17 | ConnectPrep | Data Analyst Intern | Data / BI | Remote, United States | US remote | 2026-10-25 | [Apply](https://go.vansh.nyc/BG) |
+| 18 | Teamworks | Product Management MBA Intern | Product | Remote in USA | US remote | 2026-10-30 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06) |
+| 19 | 1Password | Product Management Intern - End User Experience | Product | Remote in USA, Remote in Canada | US remote | 2026-10-23 | [Apply](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003) |
+| 20 | 1Password | Product Management Intern, End User Experience | Product | Remote, United States, Canada | US remote | 2026-10-23 | [Apply](https://go.vansh.nyc/gR) |
 
-*Generated 2026-11-10 22:00 UTC.*
+*Generated 2026-11-11 00:59 UTC.*
