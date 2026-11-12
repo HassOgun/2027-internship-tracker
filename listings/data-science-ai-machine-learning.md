@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1753)
+# Data Science, AI & Machine Learning (1752)
 
 [← back to index](../README.md)
 
@@ -462,7 +462,6 @@
 | [Skydio](https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048/application?embed=true) | Autonomy Engineer Intern - Reinforcement Learning | San Mateo, CA | N/A | 2026-10-26 | 17 | simplify-2026 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807) | Enterprise Data Governance Intern | Pittsburgh, PA | Summer 2027 | 2026-10-26 | 17 | simplify-2026 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Warehouse-Systems-enGen-Undergraduate-Intern_J289826) | Enterprise Data Warehouse Systems Engineering Intern | Pittsburgh, PA | Summer 2027 | 2026-10-26 | 17 | simplify-2026 |
-| [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) | Data Analyst Intern | Pittsburgh, PA | Summer 2027 | 2026-10-26 | 17 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Community-and-Economic-Development-Intern_R-0000033895) | Community and Economic Development Intern | Atlanta, GA | Summer 2027 | 2026-10-26 | 17 | simplify-2026 |
 | [Danaher](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599) | Supply Chain AI Co-op | Indiana | N/A | 2026-10-26 | 17 | simplify-2026 |
 | [National Indemnity Company](https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1) | Marketing Data Intern | Omaha, NE | N/A | 2026-10-26 | 17 | simplify-2026 |
