@@ -1,5 +1,267 @@
 [
   {
+    "company_name": "IDEMIA North America",
+    "title": "Software Engineering Intern, Enrollment and Credentialing Services",
+    "url": "https://go.vansh.nyc/1zd",
+    "locations": [
+      "Brentwood, TN"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794528000,
+    "date_updated": 1794607763,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Martin Marietta",
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1ze",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794607614,
+    "date_updated": 1794607763,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Martin Marietta",
+    "title": "Software Data Integration Engineer Intern",
+    "url": "https://go.vansh.nyc/1zf",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794607614,
+    "date_updated": 1794607763,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "1Password",
+    "title": "Product Management Intern, End User Experience",
+    "url": "https://go.vansh.nyc/gR",
+    "locations": [
+      "Remote",
+      "United States",
+      "Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1792764305,
+    "date_updated": 1794606109,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Seaspan",
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1zc",
+    "locations": [
+      "North Vancouver, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1794528000,
+    "date_updated": 1794605998,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "RTX",
+    "title": "Software Engineering Co-op",
+    "url": "https://go.vansh.nyc/1zb",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794604797,
+    "date_updated": 1794605817,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Keysight Technologies",
+    "title": "R&D Embedded Software Intern",
+    "url": "https://go.vansh.nyc/Rd",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792339604,
+    "date_updated": 1794604698,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "GreatAmerica Financial Services",
+    "title": "Platform Engineering Intern",
+    "url": "https://go.vansh.nyc/1fj",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793745398,
+    "date_updated": 1794604698,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Reliable Robotics Corporation",
+    "title": "FPGA Engineering Intern",
+    "url": "https://go.vansh.nyc/1za",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794528000,
+    "date_updated": 1794604178,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "BlueCross BlueShield of Nebraska",
+    "title": "Data Intern, Healthcare",
+    "url": "https://go.vansh.nyc/1fk",
+    "locations": [
+      "Omaha, NE"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793745398,
+    "date_updated": 1794602519,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Dow Jones",
+    "title": "Marketing Data Science Intern",
+    "url": "https://go.vansh.nyc/1nD",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791331200,
+    "date_updated": 1794602519,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CACI",
+    "title": "Cyber Security Intern",
+    "url": "https://go.vansh.nyc/1oq",
+    "locations": [
+      "Sterling, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794238656,
+    "date_updated": 1794602519,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "IDEMIA North America",
+    "title": "Full Stack Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1z9",
+    "locations": [
+      "Eden Prairie, MN"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794602251,
+    "date_updated": 1794602387,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "TikTok",
     "title": "Software Engineer Intern, Trust and Safety-Engineering",
     "url": "https://go.vansh.nyc/6b",
@@ -2697,6 +2959,63 @@
     "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681",
     "locations": [
       "Mount Holly, NC"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794528000,
+    "date_updated": 1794528000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Electric Power Engineers",
+    "title": "Software Power Systems Engineering Intern",
+    "url": "https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794528000,
+    "date_updated": 1794528000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "IDEMIA North America",
+    "title": "Full Stack Software Engineering Internship",
+    "url": "https://uscareers-idemia.icims.com/jobs/8708/full-stack-software-engineering-internship/job",
+    "locations": [
+      "Eden Prairie, MN"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794528000,
+    "date_updated": 1794528000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "IDEMIA North America",
+    "title": "Software Engineering Internship - Enrollment and Credentialing Services",
+    "url": "https://uscareers-idemia.icims.com/jobs/8642/software-engineering-internship---enrollment-and-credentialing-services/job",
+    "locations": [
+      "Brentwood, TN"
     ],
     "terms": [
       "Not specified"
@@ -10718,7 +11037,7 @@
     "category": "Software",
     "date_posted": 1794438363,
     "date_updated": 1794438632,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -16447,7 +16766,7 @@
     "category": "Software",
     "date_posted": 1794363974,
     "date_updated": 1794364049,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -22163,7 +22482,7 @@
     "category": "Hardware",
     "date_posted": 1794320815,
     "date_updated": 1794323588,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -29669,26 +29988,6 @@
     ]
   },
   {
-    "company_name": "CACI",
-    "title": "Cyber Security Intern",
-    "url": "https://go.vansh.nyc/1oq",
-    "locations": [
-      "Sterling, VA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794238656,
-    "date_updated": 1794238743,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Mettler Toledo",
     "title": "Embedded Software Engineering Intern",
     "url": "https://mt.avature.net/en_US/careers/JobDetail/23080",
@@ -30466,26 +30765,6 @@
     ],
     "category": "Other",
     "date_posted": 1791302054,
-    "date_updated": 1794207996,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Dow Jones",
-    "title": "Marketing Data Science Intern",
-    "url": "https://go.vansh.nyc/1nD",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791331200,
     "date_updated": 1794207996,
     "active": true,
     "is_visible": true,
@@ -43410,7 +43689,7 @@
     "category": "Hardware",
     "date_posted": 1793864885,
     "date_updated": 1793866306,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -49967,46 +50246,6 @@
     "locations": [
       "Cedar Rapids, IA",
       "Des Moines, IA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793745398,
-    "date_updated": 1793745535,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "GreatAmerica Financial Services",
-    "title": "Platform Engineering Intern",
-    "url": "https://go.vansh.nyc/1fj",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793745398,
-    "date_updated": 1793745535,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "BlueCross BlueShield of Nebraska",
-    "title": "Data Intern, Healthcare",
-    "url": "https://go.vansh.nyc/1fk",
-    "locations": [
-      "Omaha, NE"
     ],
     "terms": [
       "Summer"
@@ -64658,7 +64897,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791331200,
     "date_updated": 1793449634,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -76839,25 +77078,6 @@
     ]
   },
   {
-    "company_name": "Philips",
-    "title": "Co-op \u2013 Data Engineer (Biocompatibility) \u2013 Murrysville, PA \u2013 January to June 2027",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730",
-    "locations": [
-      "Murrysville, PA"
-    ],
-    "terms": [
-      "2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793232000,
-    "date_updated": 1793232000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "RTX",
     "title": "Software Engineering Intern (Summer 2027)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791",
@@ -78559,7 +78779,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793225173,
     "date_updated": 1793225442,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -91686,26 +91906,6 @@
   },
   {
     "company_name": "Keysight Technologies",
-    "title": "R&D Embedded Software Intern",
-    "url": "https://go.vansh.nyc/Rd",
-    "locations": [
-      "Colorado Springs, CO"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792339604,
-    "date_updated": 1793031368,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Keysight Technologies",
     "title": "R&D Software Engineer QA DevOps Intern",
     "url": "https://go.vansh.nyc/Re",
     "locations": [
@@ -104518,28 +104718,6 @@
     ]
   },
   {
-    "company_name": "1Password",
-    "title": "Product Management Intern, End User Experience",
-    "url": "https://go.vansh.nyc/gR",
-    "locations": [
-      "Remote",
-      "United States",
-      "Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1792764305,
-    "date_updated": 1792775105,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "MITRE",
     "title": "Autonomous Systems Intern",
     "url": "https://go.vansh.nyc/gU",
@@ -116508,7 +116686,7 @@
     "title": "Full Stack Software Engineering Internship",
     "url": "https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job",
     "locations": [
-      "Eden Prairie, MN"
+      "Reston, VA"
     ],
     "terms": [
       "Not specified"
@@ -119984,25 +120162,6 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
     "locations": [
       "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792454400,
-    "date_updated": 1792454400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Philips",
-    "title": "Intern \u2013 R&D Front-End Innovation Intern - Oral Healthcare \u2013 Bothell, WA \u2013 Summer 2027",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---R-D-Front-End-Innovation-Intern---Oral-Healthcare---Bothell--WA---Summer-2027_593146",
-    "locations": [
-      "Bothell, WA"
     ],
     "terms": [
       "Summer 2027"
@@ -149416,7 +149575,7 @@
     "category": "Hardware",
     "date_posted": 1788393600,
     "date_updated": 1791268024,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -228209,7 +228368,7 @@
     "category": "Hardware",
     "date_posted": 1788401119,
     "date_updated": 1788414015,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
