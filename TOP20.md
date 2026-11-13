@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 715 relevant active records (before recommendation deduplication).
+**20 matches selected** from 721 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Amplify | Data Analytics Intern | Data / BI | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51) |
 | 20 | ConnectPrep | Data Analyst Intern | Data / BI | Remote, United States | US remote | 2026-10-25 | [Apply](https://go.vansh.nyc/BG) |
 
-*Generated 2026-11-13 13:27 UTC.*
+*Generated 2026-11-13 16:52 UTC.*
