@@ -1,4 +1,4 @@
-# Product Management (323)
+# Product Management (320)
 
 [← back to index](../README.md)
 
@@ -10,8 +10,6 @@
 | [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) | Associate Product Manager Intern | Chaska, MN | Summer 2027 | 2026-11-13 | 1 | simplify-2026 |
 | [Addepar](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) | Summer 2027 Internship - Product Analyst (Navigator) | New York City, NY | Summer 2027 | 2026-11-13 | 1 | applyguy-2027 |
 | [Wattswater](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | 2027 | 2026-11-13 | 1 | applyguy-2027 |
-| [ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000161364609) | Senior Inbound Product Manager Intern | San Diego, CA | Summer 2028 | 2026-11-12 | 2 | simplify-2026 |
-| [ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000161362293) | Senior Outbound Product Manager Intern | San Diego, CA | Summer 2028 | 2026-11-12 | 2 | simplify-2026 |
 | [InsCipher](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c) | AI Product Intern | Pleasant Grove, UT | N/A | 2026-11-12 | 2 | simplify-2026 |
 | [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) | Product Management Intern | Colorado Springs, CO | Summer 2027 | 2026-11-12 | 2 | simplify-2026 |
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Product Manager Intern - Managed Service Provider | Palo Alto, CA | Summer 2027 | 2026-11-11 | 3 | simplify-2026 |
@@ -22,6 +20,7 @@
 | [Bask Health](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) | Product Operations Intern | Remote in USA | N/A | 2026-11-11 | 3 | simplify-2026 |
 | [FNBO](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996) | Banking Product Intern | Omaha, NE | Summer 2027 | 2026-11-11 | 3 | simplify-2026 |
 | [apexanalytix](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Product Management Intern (Summer 2027) | Greensboro, NC | Summer 2027 | 2026-11-11 | 3 | applyguy-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Product Manager: Internship Opportunities | United States, Washington, Redmond | Not specified | 2026-11-11 | 3 | applyguy-2027 |
 | [Rubrik Job Board](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | Summer 2027 | 2026-11-11 | 3 | applyguy-2027 |
 | [Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) | Digital Product Intern | Detroit, MI | Summer 2027 | 2026-11-10 | 4 | simplify-2026 |
 | [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Product Management Customer Management App Intern | Bethpage, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-11-10 | 4 | simplify-2026 |
@@ -68,8 +67,6 @@
 | [USAFacts](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) | AI Product Intern | Bellevue, WA | Summer 2026 | 2026-11-03 | 11 | simplify-2026 |
 | [Paccar](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Product Planning Intern | Denton, TX | Summer 2027 | 2026-11-03 | 11 | simplify-2026 |
 | [KEEN Footwear](https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005) | AI Product Management Intern | Portland, OR | Not specified | 2026-11-03 | 11 | applyguy-2027 |
-| [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) | Product Management Intern - Insurance | Alpharetta, GA | Summer 2027 | 2026-11-02 | 12 | simplify-2026 |
-| [LexisNexis Risk Solutions](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) | Product Manager Intern - Government | Alpharetta, GA | Summer 2027 | 2026-11-02 | 12 | simplify-2026 |
 | [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | Product Manager Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | 12 | simplify-2026 |
 | [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) | Supervision & Regulation Intern - Business Relationship | Atlanta, GA | Summer 2027 | 2026-11-02 | 12 | simplify-2026 |
 | [Odl](https://odl.wd5.myworkdayjobs.com/ODL/job/Zeeland-MI/Corporate-Product-Management-Intern_R004251) | Corporate Product Management Intern | Zeeland, MI | Not specified | 2026-11-02 | 12 | applyguy-2027 |
@@ -77,6 +74,7 @@
 | [Tmobile](https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735) | Summer 2027 Product Management Internship | Philadelphia, PA | Summer 2027 | 2026-11-02 | 12 | applyguy-2027 |
 | [Tmobile](https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888) | Summer 2027 Product Operations Manager Internship | Bellevue, WA | Summer 2027 | 2026-11-02 | 12 | applyguy-2027 |
 | [KnowBe4](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) | Associate Product Manager Summer Internship (Hybrid) | Clearwater, FL | Summer | 2026-11-01 | 13 | applyguy-2027 |
+| [MANN+HUMMEL](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Product Management & Market Intelligence Intern | Gastonia, NC | Spring 2027 | 2026-10-30 | 15 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701486873210390837) | Product Manager Project Intern - Global Monetization Product and Technology | San Jose, CA | Winter 2027 | 2026-10-30 | 15 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701480558070597893) | Product Manager Intern - Global Monetization Product and Technology | Seattle, WA | Winter 2027 | 2026-10-30 | 15 | simplify-2026 |
 | [The New York Times](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005) | Product Manager Intern | NYC | Summer 2027 | 2026-10-30 | 15 | simplify-2026 |
@@ -250,7 +248,6 @@
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) | Quality Engineer Intern | Spring, TX | Winter 2026 | 2026-09-02 | 73 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | Product Management Intern - Risk Management | St Paul, MN | Summer 2027 | 2026-09-02 | 73 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605) | Product Development Intern - 2027 Product Development - US Consumer Services | NYC | Summer 2027 | 2026-09-01 | 74 | simplify-2026 |
-| [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Graduate-Leadership-Program--Consumer-Deposit-and-Payment-Products_R_1508783) | Graduate Leadership Program Consumer Deposit and Payment Products Intern | Greenville, SC, Mt Laurel Township, NJ, NYC, Portland, ME, Wilmington, DE | Summer 2027 | 2026-09-01 | 74 | simplify-2026 |
 | [Clearwater Analytics](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12198) | Technical Product Management Intern | NYC | Winter 2026 | 2026-09-01 | 74 | simplify-2026 |
 | [NJM Insurance Group](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) | Insurance Product Management Analyst Intern 3 | Trenton, NJ | Summer 2027 | 2026-09-01 | 74 | simplify-2026 |
 | [US Foods](https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Product-Analyst--Digital-Commerce--Hybrid--Onsite---Remote-_R282105) | Product Analyst Intern - Digital Commerce | Rosemont, IL | Summer 2026 | 2026-09-01 | 74 | simplify-2026 |
