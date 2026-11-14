@@ -7,7 +7,7 @@
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/197821) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | Summer 2027 | 2026-11-13 | 1 | simplify-2026 |
 | [FieldPulse](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) | Product Intern | Dallas, TX | N/A | 2026-11-13 | 1 | simplify-2026 |
 | [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-10435) | Product Management Engineering Co-op | Pueblo, CO, Grand Rapids, MI | N/A | 2026-11-13 | 1 | simplify-2026 |
-| [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) | Associate Product Manager Intern | Chaska, MN | Summer 2027 | 2026-11-13 | 1 | simplify-2026 |
+| [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) | Associate Product Manager Intern | Chaska, MN | Summer 2027 | 2026-11-13 | 1 | simplify-2026, dreamwork-2027 |
 | [Addepar](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) | Summer 2027 Internship - Product Analyst (Navigator) | New York City, NY | Summer 2027 | 2026-11-13 | 1 | applyguy-2027 |
 | [Campingworld](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086) | New Product Development Product Management Intern | Lincolnshire, IL | Not specified | 2026-11-13 | 1 | applyguy-2027 |
 | [Wattswater](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | 2027 | 2026-11-13 | 1 | applyguy-2027 |
