@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Ericsson](https://go.vansh.nyc/1zB) | AI Software Engineer Intern | Plano, TX | Summer | 2026-11-14 | 0 | vanshb03-2026, vanshb03-2027 |
 | [KBR Wyle Services](https://go.vansh.nyc/1zx) | Image Processing Software Engineer Intern | Sioux Falls, SD | Summer | 2026-11-14 | 0 | vanshb03-2026, vanshb03-2027 |
 | [KBR Wyle Services](https://go.vansh.nyc/1zy) | Computer Science Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI, Lexington, MA, Kihei, HI, Beavercreek, OH, Lexington Park, MD, King of Prussia, PA, Colorado Springs, CO, Huntsville, AL, El Segundo, CA, Orlando, FL | Summer | 2026-11-14 | 0 | vanshb03-2026, vanshb03-2027 |
 | [KBR Wyle Services](https://go.vansh.nyc/1zz) | Software Engineering Intern, Defense & Intel (D&I) | Chantilly, VA, Ann Arbor, MI, Lexington, MA, Kihei, HI, Beavercreek, OH, Lexington Park, MD, King of Prussia, PA, Colorado Springs, CO, Huntsville, AL, El Segundo, CA, Orlando, FL | Summer | 2026-11-14 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -1831,7 +1832,6 @@
 | [Analog Devices](https://go.vansh.nyc/Qf) | DevOps Co-op | Boston, MA | Winter | 2026-10-26 | 19 | vanshb03-2026, vanshb03-2027 |
 | [C3integratedsolutions](https://job-boards.greenhouse.io/c3integratedsolutions/jobs/5274847007) | SOC Analyst Internship Program - LSU Students Only | United States |  | 2026-10-26 | 19 | dreamwork-2027 |
 | [Axos](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Data-Intern_JR5642) | Data Analyst Intern | Omaha, NE |  | 2026-10-26 | 19 | dreamwork-2027 |
-| [Qube Research and Technologies](https://go.vansh.nyc/1mW) | Technology Intern | Chicago, IL, New York, NY | Summer | 2026-10-26 | 19 | vanshb03-2026, vanshb03-2027 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/Highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821) | Summer 2027 Enterprise Architecture Software Engineer & Architect enGen Undergradute Intern | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | 2026-10-26 | 19 | dreamwork-2027 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/Highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Epic-Systems-Analyst---Epic-AI-enGen-Undergraduate-Internship_J289801) | Summer 2027 Epic Systems Analyst / Epic AI enGen Undergraduate Internship | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | 2026-10-26 | 19 | dreamwork-2027 |
 | [Highmark Health](https://highmarkhealth.wd1.myworkdayjobs.com/Highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Infrastructure-Compute-Operations-enGen-Undergraduate-Intern_J289816) | Summer 2027 Infrastructure Compute Operations enGen Undergraduate Intern | PA, Working at Home - Pennsylvania |  | 2026-10-26 | 19 | dreamwork-2027 |
