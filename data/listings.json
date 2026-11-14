@@ -1020,6 +1020,44 @@
     ]
   },
   {
+    "company_name": "SAS",
+    "title": "Summer 2027 - IoT Product Strategy Intern (Master's)",
+    "url": "https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Product",
+    "date_posted": 1794614400,
+    "date_updated": 1794614400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "SAS",
+    "title": "Summer 2027 - Software Developer Intern (Go/Golang Experience)",
+    "url": "https://careers-sas.icims.com/jobs/42797/summer-2027---software-developer-intern-%28go-golang-experience%29/job",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794614400,
+    "date_updated": 1794614400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Horizon3.ai",
     "title": "Research Intern - Adversarial Intelligence",
     "url": "https://jobs.ashbyhq.com/horizon3ai/818f854b-f212-4817-8227-3b9e654d39a2/application?embed=true",
@@ -14071,7 +14109,7 @@
     "category": "Software",
     "date_posted": 1794355200,
     "date_updated": 1794439441,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -20117,7 +20155,7 @@
     "category": "Hardware",
     "date_posted": 1794268800,
     "date_updated": 1794365312,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -37017,7 +37055,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793923200,
     "date_updated": 1794008287,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -37138,7 +37176,7 @@
     "category": "Software",
     "date_posted": 1793923200,
     "date_updated": 1794008162,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -62436,7 +62474,7 @@
     "category": "Product",
     "date_posted": 1793577600,
     "date_updated": 1793634510,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -87441,7 +87479,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793059200,
     "date_updated": 1793139236,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -121889,7 +121927,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792454400,
     "date_updated": 1792506477,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -132625,8 +132663,7 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "dreamwork-2027",
-      "applyguy-2027"
+      "dreamwork-2027"
     ]
   },
   {
@@ -133401,44 +133438,6 @@
     "is_visible": true,
     "_sources": [
       "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Carrier",
-    "title": "Software Engineering Intern - Summer",
-    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161",
-    "locations": [
-      "CANHQ: CCS HQ, Syracuse"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792022400,
-    "date_updated": 1792022400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Commonwealth Fusion Systems",
-    "title": "Intern - AI & Infrastructure Engineer - Spring 2027",
-    "url": "https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878",
-    "locations": [
-      "Devens, MA"
-    ],
-    "terms": [
-      "Spring 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792022400,
-    "date_updated": 1792022400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
     ]
   },
   {
@@ -134840,7 +134839,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791936000,
     "date_updated": 1792015786,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -146230,7 +146229,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791331200,
     "date_updated": 1791413126,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -147814,7 +147813,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790035200,
     "date_updated": 1791365520,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -199821,7 +199820,7 @@
     "category": "Software",
     "date_posted": 1789344000,
     "date_updated": 1789366980,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -199842,7 +199841,7 @@
     "category": "Software",
     "date_posted": 1789344000,
     "date_updated": 1789366962,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -219938,7 +219937,7 @@
     "category": "Software",
     "date_posted": 1788480000,
     "date_updated": 1788561033,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"

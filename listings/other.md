@@ -2303,7 +2303,7 @@
 | [Duolingo](https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002) | Data Scientist, Intern | New York, NY; Pittsburgh, PA |  | 2026-10-15 | 30 | dreamwork-2027 |
 | [Duolingo](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) | Data Scientist, Intern (PhD) | New York, NY; Pittsburgh, PA |  | 2026-10-15 | 30 | dreamwork-2027 |
 | [Rivian](https://careers.rivian.com/jobs/34241?lang=en-us) | Technical Intern - Vehicle Design Studio, Interiors | Irvine, California, United States |  | 2026-10-15 | 30 | dreamwork-2027 |
-| [Duolingo](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Product Manager, MBA Intern | Pittsburgh, PA |  | 2026-10-15 | 30 | dreamwork-2027, applyguy-2027 |
+| [Duolingo](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Product Manager, MBA Intern | Pittsburgh, PA |  | 2026-10-15 | 30 | dreamwork-2027 |
 | [Capital de Recherche Tower](https://go.vansh.nyc/1te) | Machine Learning Intern | Montreal, Canada | Summer | 2026-10-15 | 30 | vanshb03-2026, vanshb03-2027 |
 | [Generalmatter](https://job-boards.greenhouse.io/generalmatter/jobs/5448019008) | Summer 2027 Internship - Information Security Engineer | Los Angeles, CA |  | 2026-10-15 | 30 | dreamwork-2027 |
 | [Rivian](https://careers.rivian.com/jobs/34293?lang=en-us) | Technical Intern - CMF Designer, Vehicle Studio | Irvine, California, United States |  | 2026-10-15 | 30 | dreamwork-2027 |

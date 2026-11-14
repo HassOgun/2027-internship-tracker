@@ -4,6 +4,7 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [SAS](https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job) | Summer 2027 - IoT Product Strategy Intern (Master's) | Cary, NC | Summer 2027 | 2026-11-14 | 0 | applyguy-2027 |
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/197821) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | Summer 2027 | 2026-11-13 | 1 | simplify-2026 |
 | [FieldPulse](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) | Product Intern | Dallas, TX | N/A | 2026-11-13 | 1 | simplify-2026 |
 | [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-10435) | Product Management Engineering Co-op | Pueblo, CO, Grand Rapids, MI | N/A | 2026-11-13 | 1 | simplify-2026 |
@@ -68,7 +69,6 @@
 | [Paccar](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Product Planning Intern | Denton, TX | Summer 2027 | 2026-11-03 | 11 | simplify-2026 |
 | [KEEN Footwear](https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005) | AI Product Management Intern | Portland, OR | Not specified | 2026-11-03 | 11 | applyguy-2027 |
 | [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | Product Manager Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | 12 | simplify-2026 |
-| [The Federal Reserve System](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) | Supervision & Regulation Intern - Business Relationship | Atlanta, GA | Summer 2027 | 2026-11-02 | 12 | simplify-2026 |
 | [Odl](https://odl.wd5.myworkdayjobs.com/ODL/job/Zeeland-MI/Corporate-Product-Management-Intern_R004251) | Corporate Product Management Intern | Zeeland, MI | Not specified | 2026-11-02 | 12 | applyguy-2027 |
 | [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | Product Manager Summer Intern | Philadelphia, PA | Summer | 2026-11-02 | 12 | applyguy-2027 |
 | [Tmobile](https://tmobile.wd1.myworkdayjobs.com/external/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735) | Summer 2027 Product Management Internship | Philadelphia, PA | Summer 2027 | 2026-11-02 | 12 | applyguy-2027 |
