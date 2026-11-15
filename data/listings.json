@@ -1,6 +1,44 @@
 [
   {
     "company_name": "NCR Atleos",
+    "title": "Data Analytics Intern - Media Handling",
+    "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Hardware-Engineer-Internship_R1155210",
+    "locations": [
+      "Dundee, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794441600,
+    "date_updated": 1794750302,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "NCR Atleos",
+    "title": "AI Engineer Intern",
+    "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/AI-Engineering-Internship_R1155212-2",
+    "locations": [
+      "Dundee, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794355200,
+    "date_updated": 1794747077,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "NCR Atleos",
     "title": "Product Management Intern",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Product-Management-Internship_R1154941-1",
     "locations": [
@@ -6900,25 +6938,6 @@
     ],
     "terms": [
       "Spring"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794528000,
-    "date_updated": 1794528000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Research Intern - MSR Software-Hardware Co-design",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794528000,
@@ -21173,25 +21192,6 @@
       "Summer 2027"
     ],
     "category": "Software Engineering",
-    "date_posted": 1794355200,
-    "date_updated": 1794355200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Product Manager: Internship Opportunities",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Product",
     "date_posted": 1794355200,
     "date_updated": 1794355200,
     "active": true,
@@ -49493,44 +49493,6 @@
     ]
   },
   {
-    "company_name": "Microsoft",
-    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Nooks",
     "title": "Software Engineer, Intern",
     "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb",
@@ -50719,7 +50681,7 @@
     "category": "Software",
     "date_posted": 1793266442,
     "date_updated": 1793806766,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -57932,25 +57894,6 @@
       "Not specified"
     ],
     "category": "Product",
-    "date_posted": 1793664000,
-    "date_updated": 1793664000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
     "date_posted": 1793664000,
     "date_updated": 1793664000,
     "active": true,
@@ -92139,6 +92082,26 @@
     ]
   },
   {
+    "company_name": "Cohesity",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/Tc",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793054321,
+    "date_updated": 1793054358,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Centerstone",
     "title": "Bachelor Level Intern",
     "url": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-033321",
@@ -119843,25 +119806,6 @@
     ],
     "terms": [
       "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792540800,
-    "date_updated": 1792540800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-    "locations": [
-      "United States, Massachusetts, Cambridge"
-    ],
-    "terms": [
-      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1792540800,
@@ -178306,7 +178250,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225476,7 +225420,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489740,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225514,7 +225458,7 @@
     "category": "Software",
     "date_posted": 1786767943,
     "date_updated": 1788489738,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225533,7 +225477,7 @@
     "category": "Software",
     "date_posted": 1786767953,
     "date_updated": 1788489734,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225571,7 +225515,7 @@
     "category": "Software",
     "date_posted": 1786767953,
     "date_updated": 1788489731,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225590,7 +225534,7 @@
     "category": "Quant",
     "date_posted": 1786767935,
     "date_updated": 1788489730,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225609,7 +225553,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489730,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225666,7 +225610,7 @@
     "category": "Quant",
     "date_posted": 1786767953,
     "date_updated": 1788489727,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225723,7 +225667,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489726,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225742,7 +225686,7 @@
     "category": "Quant",
     "date_posted": 1786767955,
     "date_updated": 1788489726,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225761,7 +225705,7 @@
     "category": "Quant",
     "date_posted": 1786767952,
     "date_updated": 1788489725,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225780,7 +225724,7 @@
     "category": "Quant",
     "date_posted": 1786767946,
     "date_updated": 1788489725,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -249859,7 +249803,7 @@
     "category": "Quant",
     "date_posted": 1786767946,
     "date_updated": 1787840754,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -250002,7 +249946,7 @@
     "category": "Quant",
     "date_posted": 1786767953,
     "date_updated": 1787825784,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -267095,7 +267039,7 @@
     "category": "Quant",
     "date_posted": 1786767951,
     "date_updated": 1786806931,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -267114,7 +267058,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1786767947,
     "date_updated": 1786806930,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -267171,7 +267115,7 @@
     "category": "Quant",
     "date_posted": 1786767935,
     "date_updated": 1786806912,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -267305,7 +267249,7 @@
     "category": "Quant",
     "date_posted": 1786767954,
     "date_updated": 1786768208,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -267343,7 +267287,7 @@
     "category": "Quant",
     "date_posted": 1786767953,
     "date_updated": 1786768198,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -267381,7 +267325,7 @@
     "category": "Quant",
     "date_posted": 1786767954,
     "date_updated": 1786768197,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -395915,265 +395859,6 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
-    ]
-  },
-  {
-    "company_name": "Banco Bilbao Vizcaya Argentaria",
-    "title": "Intern - Quantitative Analysis",
-    "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Summer-Internship-London---Quantitative-Analysis_JR00099191",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quant",
-    "date_posted": 1774019661,
-    "date_updated": 1774019661,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Comcast",
-    "title": "ERP Intern: Rising Senior Technology",
-    "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/ERP-Internship--Rising-Senior-Technology_R415530",
-    "locations": [
-      "West Chester, PA",
-      "Orlando, FL",
-      "Englewood, NJ",
-      "LA",
-      "Stamford, CT",
-      "Philadelphia, PA",
-      "Berwyn, PA",
-      "Mt Laurel Township, NJ",
-      "Trevose, Feasterville-Trevose, PA",
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774018227,
-    "date_updated": 1774018227,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Cohesity",
-    "title": "Software Engineering Intern",
-    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2026_R01589-1",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774018053,
-    "date_updated": 1774018053,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "TNS",
-    "title": "Web Applications Intern",
-    "url": "https://tnsi.wd1.myworkdayjobs.com/Search/job/USA---Reston/Web-Applications-Intern_R2880",
-    "locations": [
-      "Reston, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774017526,
-    "date_updated": 1774017526,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Tencent",
-    "title": "Product Manager Intern - Game Accounts and Studio Partnership",
-    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Product-Manager-Intern--Game-Accounts-and-Studio-Partnership_R107160-1",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1774016723,
-    "date_updated": 1774016723,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "DevRev",
-    "title": "Member of Technical Staff Intern",
-    "url": "https://job-boards.greenhouse.io/devrev/jobs/5820462004",
-    "locations": [
-      "Palo Alto, CA",
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774016649,
-    "date_updated": 1774016649,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "DriveWealth",
-    "title": "AI Consulting Associate Program \u2013 Product Intern - AI CAP",
-    "url": "https://boards.greenhouse.io/drivewealth/jobs/7673409003",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1774016005,
-    "date_updated": 1774016005,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "DriveWealth",
-    "title": "AI Consulting Associate Program \u2013 Engineering Intern - AI CAP",
-    "url": "https://boards.greenhouse.io/drivewealth/jobs/7673413003",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774015995,
-    "date_updated": 1774015995,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Emory University",
-    "title": "Investment Analyst - Emory Investment Management",
-    "url": "https://staff-emory.icims.com/jobs/163156/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "Quant",
-    "date_posted": 1774015667,
-    "date_updated": 1774015667,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Lennox International",
-    "title": "Lab Technician Intern",
-    "url": "https://uscareers-lennox.icims.com/jobs/52058/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Columbia, SC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774015529,
-    "date_updated": 1774015529,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Legal & General",
-    "title": "Apprenticeship - Data Analyst",
-    "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000115860917",
-    "locations": [
-      "Brighton, UK"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774015410,
-    "date_updated": 1774015410,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Legal & General",
-    "title": "Intern - Data Analyst",
-    "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000115859853",
-    "locations": [
-      "Cardiff, UK"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774015407,
-    "date_updated": 1774015407,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Legal & General",
-    "title": "Apprenticeship - Data Analyst",
-    "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000115862022",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774015405,
-    "date_updated": 1774015405,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
     ]
   },
   {

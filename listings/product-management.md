@@ -1,4 +1,4 @@
-# Product Management (322)
+# Product Management (321)
 
 [← back to index](../README.md)
 
@@ -23,7 +23,6 @@
 | [Bask Health](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) | Product Operations Intern | Remote in USA | N/A | 2026-11-11 | 4 | simplify-2026 |
 | [FNBO](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996) | Banking Product Intern | Omaha, NE | Summer 2027 | 2026-11-11 | 4 | simplify-2026 |
 | [apexanalytix](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Product Management Intern (Summer 2027) | Greensboro, NC | Summer 2027 | 2026-11-11 | 4 | applyguy-2027 |
-| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Product Manager: Internship Opportunities | United States, Washington, Redmond | Not specified | 2026-11-11 | 4 | applyguy-2027 |
 | [Rubrik Job Board](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | Summer 2027 | 2026-11-11 | 4 | applyguy-2027 |
 | [Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) | Digital Product Intern | Detroit, MI | Summer 2027 | 2026-11-10 | 5 | simplify-2026 |
 | [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Product Management Customer Management App Intern | Bethpage, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-11-10 | 5 | simplify-2026 |

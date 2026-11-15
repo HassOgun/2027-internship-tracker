@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | ConnectPrep | Data Analyst Intern | Data / BI | Remote, United States | US remote | 2026-10-25 | [Apply](https://go.vansh.nyc/BG) |
 | 20 | Bask Health | Product Management Intern | Product | Remote in USA | US remote | 2026-11-11 | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) |
 
-*Generated 2026-11-15 12:59 UTC.*
+*Generated 2026-11-15 15:58 UTC.*

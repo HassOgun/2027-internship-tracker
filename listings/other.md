@@ -1,4 +1,4 @@
-# Other (3862)
+# Other (3863)
 
 [← back to index](../README.md)
 
@@ -1849,6 +1849,7 @@
 | [CIBC](https://go.vansh.nyc/Wy) | Data Analyst Co-op | Toronto, Canada | Winter | 2026-10-27 | 19 | vanshb03-2026, vanshb03-2027 |
 | [Hitachi](https://go.vansh.nyc/Wz) | Software Analyst Intern | Toronto, Canada | Winter | 2026-10-27 | 19 | vanshb03-2026, vanshb03-2027 |
 | [ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000157921759-experience-team-associate-technical-writing-internships-summer-2027?oga=true) | Experience Team – Associate Technical Writing Internships – Summer 2027 | San Diego, CALIFORNIA, United States |  | 2026-10-26 | 20 | dreamwork-2027 |
+| [Cohesity](https://go.vansh.nyc/Tc) | Software Engineering Intern | Santa Clara, CA | Summer | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/Th) | Robotics Intern, Trustworthy Learning under Uncertainty | Los Altos, CA | Summer | 2026-10-26 | 20 | vanshb03-2026, vanshb03-2027 |
 | [ServiceNow](https://jobs.smartrecruiters.com/ServiceNow/744000157919529-experience-team-ux-research-internships-summer-2027?oga=true) | Experience Team – UX Research Internships – Summer 2027 | San Diego, CALIFORNIA, United States |  | 2026-10-26 | 20 | dreamwork-2027 |
 | [Parallel](https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007) | Software Engineering Intern (Embedded, Backend, Fullstack) | Los Angeles, CA |  | 2026-10-26 | 20 | dreamwork-2027 |
