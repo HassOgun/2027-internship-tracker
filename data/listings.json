@@ -1,5 +1,125 @@
 [
   {
+    "company_name": "Origin Bank",
+    "title": "Salesforce Systems Development Intern",
+    "url": "https://go.vansh.nyc/1zY",
+    "locations": [
+      "Ruston, LA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794517839,
+    "date_updated": 1794777168,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Pason & IWS Career",
+    "title": "Software Developer Intern, Datahub",
+    "url": "https://go.vansh.nyc/1zT",
+    "locations": [
+      "Calgary, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794630623,
+    "date_updated": 1794776898,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Midrex Technologies",
+    "title": "IT Cyber Security Intern",
+    "url": "https://go.vansh.nyc/1zU",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794638327,
+    "date_updated": 1794776898,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Paccar",
+    "title": "Software Developer Intern",
+    "url": "https://go.vansh.nyc/1zV",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794638912,
+    "date_updated": 1794776898,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "House of Representatives",
+    "title": "HIR Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1zW",
+    "locations": [
+      "Washington, DC"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1794642487,
+    "date_updated": 1794776898,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "NetApp",
+    "title": "Data Analyst Intern",
+    "url": "https://go.vansh.nyc/1zX",
+    "locations": [
+      "Research Triangle Park, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794652276,
+    "date_updated": 1794776898,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Rodriguez Services",
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/1zS",
@@ -450,6 +570,25 @@
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Fanatics Collectibles",
+    "title": "Summer 2027 Internship - Product Management Intern",
+    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Product",
+    "date_posted": 1794700800,
+    "date_updated": 1794700800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
     ]
   },
   {
@@ -8532,25 +8671,6 @@
     ],
     "terms": [
       "Spring"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794528000,
-    "date_updated": 1794528000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Research Intern - MSR Software-Hardware Co-design",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794528000,
@@ -22991,25 +23111,6 @@
       "Summer"
     ],
     "category": "Software Engineering",
-    "date_posted": 1794355200,
-    "date_updated": 1794355200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Product Manager: Internship Opportunities",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Product",
     "date_posted": 1794355200,
     "date_updated": 1794355200,
     "active": true,
@@ -51090,44 +51191,6 @@
     ]
   },
   {
-    "company_name": "Microsoft",
-    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Nooks",
     "title": "Software Engineer, Intern",
     "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb",
@@ -59494,25 +59557,6 @@
       "Not specified"
     ],
     "category": "Product",
-    "date_posted": 1793664000,
-    "date_updated": 1793664000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
     "date_posted": 1793664000,
     "date_updated": 1793664000,
     "active": true,
@@ -121174,25 +121218,6 @@
     ],
     "terms": [
       "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792540800,
-    "date_updated": 1792540800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-    "locations": [
-      "United States, Massachusetts, Cambridge"
-    ],
-    "terms": [
-      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1792540800,
@@ -236643,7 +236668,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788220800,
     "date_updated": 1788308660,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
