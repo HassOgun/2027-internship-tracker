@@ -1,13 +1,16 @@
-# Product Management (321)
+# Product Management (325)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) | Product Management Intern | Seattle, WA | Summer 2027 | 2026-11-15 | 0 | simplify-2026 |
+| [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) | Product Intern - Physical Trading Cards | Coppell, TX | Summer 2027 | 2026-11-15 | 0 | simplify-2026 |
+| [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009) | Product Intern | NYC | Summer 2027 | 2026-11-15 | 0 | simplify-2026 |
 | [SAS](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) | IoT Product Strategy Intern | Cary, NC | Summer 2027 | 2026-11-14 | 1 | simplify-2026 |
 | [SAS](https://careers-sas.icims.com/jobs/43309/summer-2027---iot-product-strategy-intern-%28master%27s%29/job) | Summer 2027 - IoT Product Strategy Intern (Master's) | Cary, NC | Summer 2027 | 2026-11-14 | 1 | applyguy-2027 |
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/197821) | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | Summer 2027 | 2026-11-13 | 2 | simplify-2026 |
-| [FieldPulse](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) | Product Intern | Dallas, TX | N/A | 2026-11-13 | 2 | simplify-2026 |
+| [FieldPulse](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) | Product Intern | Dallas, TX | N/A | 2026-11-13 | 2 | simplify-2026, dreamwork-2027 |
 | [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-10435) | Product Management Engineering Co-op | Pueblo, CO, Grand Rapids, MI | N/A | 2026-11-13 | 2 | simplify-2026 |
 | [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) | Associate Product Manager Intern | Chaska, MN | Summer 2027 | 2026-11-13 | 2 | simplify-2026, dreamwork-2027 |
 | [Addepar](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) | Summer 2027 Internship - Product Analyst (Navigator) | New York City, NY | Summer 2027 | 2026-11-13 | 2 | applyguy-2027 |
@@ -23,6 +26,7 @@
 | [Bask Health](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) | Product Operations Intern | Remote in USA | N/A | 2026-11-11 | 4 | simplify-2026 |
 | [FNBO](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996) | Banking Product Intern | Omaha, NE | Summer 2027 | 2026-11-11 | 4 | simplify-2026 |
 | [apexanalytix](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Product Management Intern (Summer 2027) | Greensboro, NC | Summer 2027 | 2026-11-11 | 4 | applyguy-2027 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Product Manager: Internship Opportunities | United States, Washington, Redmond | Not specified | 2026-11-11 | 4 | applyguy-2027 |
 | [Rubrik Job Board](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | Summer 2027 | 2026-11-11 | 4 | applyguy-2027 |
 | [Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) | Digital Product Intern | Detroit, MI | Summer 2027 | 2026-11-10 | 5 | simplify-2026 |
 | [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Product Management Customer Management App Intern | Bethpage, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-11-10 | 5 | simplify-2026 |
