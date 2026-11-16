@@ -1,4 +1,4 @@
-# MIS Internship Top 20 — 2026-11-15
+# MIS Internship Top 20 — 2026-11-16
 
 Ranked by MIS role relevance, posting freshness, and location (Greater Houston, US remote, other Texas, then nationwide).
 
@@ -23,10 +23,10 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 13 | Susquehanna International Group | Technical Business Analyst Co-op | Business Analysis | Remote (US) | US remote | 2026-10-15 | [Apply](https://go.vansh.nyc/a6) |
 | 14 | Eightsleep | Security & IT Intern | IT / Information Systems | Remote - US | US remote | 2026-10-09 | [Apply](https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550) |
 | 15 | Elire | AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data | Technology Consulting | Remote, United States, Minneapolis, MN | US remote | 2026-09-15 | [Apply](https://go.vansh.nyc/1sV) |
-| 16 | Intermountain Healthcare | Machine Learning Operations Intern | Operations / Transformation | Remote in USA | US remote | 2026-11-12 | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318) |
-| 17 | Amplify | Data Analytics Intern | Data / BI | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51) |
-| 18 | Bask Health | Product Operations Intern | Operations / Transformation | Remote in USA | US remote | 2026-11-11 | [Apply](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) |
-| 19 | ConnectPrep | Data Analyst Intern | Data / BI | Remote, United States | US remote | 2026-10-25 | [Apply](https://go.vansh.nyc/BG) |
+| 16 | Amplify | Data Analytics Intern | Data / BI | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51) |
+| 17 | Bask Health | Product Operations Intern | Operations / Transformation | Remote in USA | US remote | 2026-11-11 | [Apply](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) |
+| 18 | ConnectPrep | Data Analyst Intern | Data / BI | Remote, United States | US remote | 2026-10-25 | [Apply](https://go.vansh.nyc/BG) |
+| 19 | Intermountain Healthcare | Machine Learning Operations Intern | Operations / Transformation | Remote in USA | US remote | 2026-11-12 | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318) |
 | 20 | Bask Health | Product Management Intern | Product | Remote in USA | US remote | 2026-11-11 | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) |
 
-*Generated 2026-11-15 21:23 UTC.*
+*Generated 2026-11-16 00:41 UTC.*
