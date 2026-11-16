@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 734 relevant active records (before recommendation deduplication).
+**20 matches selected** from 730 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Intermountain Healthcare | Machine Learning Operations Intern | Operations / Transformation | Remote in USA | US remote | 2026-11-12 | [Apply](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318) |
 | 20 | Bask Health | Product Management Intern | Product | Remote in USA | US remote | 2026-11-11 | [Apply](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) |
 
-*Generated 2026-11-16 14:02 UTC.*
+*Generated 2026-11-16 19:05 UTC.*
