@@ -1,10 +1,11 @@
-# Hardware Engineering (899)
+# Hardware Engineering (900)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Southern States, LLC](https://southernstatesllc.applytojob.com/apply/NL0wxVo8tr/Summer-2027-Electrical-Engineering-Intern-SATD1) | Electrical Engineer Intern | Hampton, GA | Summer 2027 | 2026-11-15 | 1 | simplify-2026 |
+| [Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1) | Software Engineering Co-op | Germantown, MD | N/A | 2026-11-15 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Tesla](https://www.tesla.com/careers/search/job/289951) | Electrical Engineer Intern - High Speed Hardware Design | Palo Alto, CA | Spring 2027 | 2026-11-14 | 2 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1674297360998408) | Research Scientist Intern - Materials Architecture & Device Integration | Redmond, WA | N/A | 2026-11-13 | 3 | simplify-2026 |
 | [Meta](https://www.metacareers.com/jobs/1158829233342350) | Research Scientist Intern - Diffractive Optics | Redmond, WA | N/A | 2026-11-13 | 3 | simplify-2026 |

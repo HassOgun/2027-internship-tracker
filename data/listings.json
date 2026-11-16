@@ -1,5 +1,744 @@
 [
   {
+    "company_name": "Rodan Energy Solutions Inc.",
+    "title": "Data Operations Engineer AI Co-op",
+    "url": "https://go.vansh.nyc/1ib",
+    "locations": [
+      "Mississauga, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793873217,
+    "date_updated": 1794836423,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Octaura",
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/1A6",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794825228,
+    "date_updated": 1794827145,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Octaura",
+    "title": "Data Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794825228,
+    "date_updated": 1794825371,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Instil Software Ltd",
+    "title": "Software Engineer Placement Intern",
+    "url": "https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794787200,
+    "date_updated": 1794824672,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "JP Morgan Chase",
+    "title": "Quantitative Trading & Research Fellow",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807232",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Spring 2027"
+    ],
+    "category": "Quant",
+    "date_posted": 1794823887,
+    "date_updated": 1794823962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Hudson River Trading",
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1A5",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791239757,
+    "date_updated": 1794819934,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/Qa",
+    "locations": [
+      "Calgary, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792972800,
+    "date_updated": 1794809389,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "title": "Developer Intern",
+    "url": "https://go.vansh.nyc/Qe",
+    "locations": [
+      "Calgary, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792972800,
+    "date_updated": 1794809389,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "PETRONAS Canada",
+    "title": "Student Intern, Infrastructure Automation and Innovation",
+    "url": "https://go.vansh.nyc/1lK",
+    "locations": [
+      "Calgary, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794008627,
+    "date_updated": 1794809389,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CenturyLink",
+    "title": "AI & Automation Builders Intern",
+    "url": "https://go.vansh.nyc/1sD",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792190238,
+    "date_updated": 1794809389,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CIBC",
+    "title": "Advanced Analytics and AI Co-op",
+    "url": "https://go.vansh.nyc/bH",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1792393200,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CIBC",
+    "title": "Application/Software Developer Co-op, Capital Markets Technology",
+    "url": "https://go.vansh.nyc/bM",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1792479600,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CIBC",
+    "title": "Application/Software Developer Co-op, Enterprise Technology & Business Management",
+    "url": "https://go.vansh.nyc/bN",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1792479600,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CIBC",
+    "title": "AI and Quantum Scientist Co-op",
+    "url": "https://go.vansh.nyc/dG",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1792566000,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "title": "Developer Intern",
+    "url": "https://go.vansh.nyc/Qb",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792972800,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/Qc",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792972800,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "title": "Developer Intern",
+    "url": "https://go.vansh.nyc/Qd",
+    "locations": [
+      "Montreal, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792972800,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CIBC",
+    "title": "AI Scientist Co-op",
+    "url": "https://go.vansh.nyc/T1",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793046983,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CIBC",
+    "title": "Data Analyst Co-op",
+    "url": "https://go.vansh.nyc/Wy",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793059200,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Royal Bank of Canada",
+    "title": "AI Engineer Co-op, Capital Markets, Global Equities",
+    "url": "https://go.vansh.nyc/1fV",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793768768,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Smith+Nephew",
+    "title": "Data Science Intern, AI Center of Excellence",
+    "url": "https://go.vansh.nyc/1gN",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793815574,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Smith+Nephew",
+    "title": "Robotics Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1gO",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793815574,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Smith+Nephew",
+    "title": "AI Engineer Intern, R&D",
+    "url": "https://go.vansh.nyc/1gP",
+    "locations": [
+      "Andover, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793815574,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Versant",
+    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+    "url": "https://go.vansh.nyc/1jE",
+    "locations": [
+      "North Hollywood, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793836800,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Versant",
+    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+    "url": "https://go.vansh.nyc/1jF",
+    "locations": [
+      "Carlsbad, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793836800,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Versant",
+    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
+    "url": "https://go.vansh.nyc/1jG",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793836800,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Versant3",
+    "title": "Technology, Product, Design & Engineering Intern",
+    "url": "https://go.vansh.nyc/1tz",
+    "locations": [
+      "Orlando, FL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791394285,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Versant3",
+    "title": "Technology, Product, Design & Engineering Intern",
+    "url": "https://go.vansh.nyc/1tA",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791394509,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Versant3",
+    "title": "Technology, Product, Design & Engineering Intern",
+    "url": "https://go.vansh.nyc/1tC",
+    "locations": [
+      "North Hollywood, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791825833,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "RTX",
+    "title": "Electrical Engineering Intern, Firmware",
+    "url": "https://go.vansh.nyc/1vJ",
+    "locations": [
+      "Ft Wayne, IN"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794441261,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Bank of Montreal",
+    "title": "AI Developer Co-op",
+    "url": "https://go.vansh.nyc/1y4",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1794441600,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Manulife Financial",
+    "title": "Software Engineering Co-op",
+    "url": "https://go.vansh.nyc/1yR",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1794595014,
+    "date_updated": 1794805985,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Viavi Solutions",
+    "title": "Software Engineering Co-op",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1",
+    "locations": [
+      "Germantown, MD"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Hardware",
+    "date_posted": 1794700800,
+    "date_updated": 1794797478,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "IPEX",
+    "title": "Manufacturing Excellence Co-op",
+    "url": "https://aliaxis.wd3.myworkdayjobs.com/IPEX/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-1",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "terms": [
+      "Winter 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794700800,
+    "date_updated": 1794796404,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Pfizer",
+    "title": "Integrated Insights & Strategy Undergraduate Intern",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Integrated-Insights---Strategy-Undergraduate_4967524",
+    "locations": [
+      "Tadworth, UK"
+    ],
+    "terms": [
+      "Fall 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794787200,
+    "date_updated": 1794794824,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Milliman",
+    "title": "AI Product Engineer Intern, CMH Health",
+    "url": "https://go.vansh.nyc/1A1",
+    "locations": [
+      "Chicago, IL",
+      "Brookfield, WI"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1794791244,
+    "date_updated": 1794791312,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Milliman",
+    "title": "Data Analytics Intern, IntelliScript",
+    "url": "https://go.vansh.nyc/1A2",
+    "locations": [
+      "Brookfield, WI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794791244,
+    "date_updated": 1794791312,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Philips",
     "title": "Upstream Product Management Intern",
     "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145",
@@ -3832,7 +4571,7 @@
     "category": "Quant",
     "date_posted": 1794611663,
     "date_updated": 1794611736,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -4059,7 +4798,7 @@
     "category": "Software",
     "date_posted": 1794528000,
     "date_updated": 1794611411,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -5426,26 +6165,6 @@
     ],
     "terms": [
       "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1794595014,
-    "date_updated": 1794595137,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Manulife Financial",
-    "title": "Software Engineering Co-op",
-    "url": "https://go.vansh.nyc/1yR",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Spring"
     ],
     "category": "Other",
     "date_posted": 1794595014,
@@ -9348,26 +10067,6 @@
     ]
   },
   {
-    "company_name": "Bank of Montreal",
-    "title": "AI Developer Co-op",
-    "url": "https://go.vansh.nyc/1y4",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1794441600,
-    "date_updated": 1794526582,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Muon Space",
     "title": "Security Engineering Intern",
     "url": "https://go.vansh.nyc/1xZ",
@@ -9676,7 +10375,7 @@
     "category": "Software",
     "date_posted": 1794441600,
     "date_updated": 1794525535,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -15092,26 +15791,6 @@
     ],
     "category": "Other",
     "date_posted": 1794440661,
-    "date_updated": 1794441981,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "RTX",
-    "title": "Electrical Engineering Intern, Firmware",
-    "url": "https://go.vansh.nyc/1vJ",
-    "locations": [
-      "Ft Wayne, IN"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794441261,
     "date_updated": 1794441981,
     "active": true,
     "is_visible": true,
@@ -21691,47 +22370,6 @@
     ]
   },
   {
-    "company_name": "Versant3",
-    "title": "Technology, Product, Design & Engineering Intern",
-    "url": "https://go.vansh.nyc/1tz",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791394285,
-    "date_updated": 1794375552,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Versant3",
-    "title": "Technology, Product, Design & Engineering Intern",
-    "url": "https://go.vansh.nyc/1tA",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791394509,
-    "date_updated": 1794375552,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Wing",
     "title": "Data Scientist Intern",
     "url": "https://go.vansh.nyc/1tB",
@@ -21743,26 +22381,6 @@
     ],
     "category": "Other",
     "date_posted": 1791488345,
-    "date_updated": 1794375552,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Versant3",
-    "title": "Technology, Product, Design & Engineering Intern",
-    "url": "https://go.vansh.nyc/1tC",
-    "locations": [
-      "North Hollywood, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791825833,
     "date_updated": 1794375552,
     "active": true,
     "is_visible": true,
@@ -23000,27 +23618,6 @@
     ]
   },
   {
-    "company_name": "CenturyLink",
-    "title": "AI & Automation Builders Intern",
-    "url": "https://go.vansh.nyc/1sD",
-    "locations": [
-      "Remote",
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792190238,
-    "date_updated": 1794357354,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "JMP Statistical Discovery",
     "title": "Software Development Intern, C++",
     "url": "https://go.vansh.nyc/1sw",
@@ -23570,7 +24167,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792190238,
     "date_updated": 1794354324,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -23589,7 +24186,7 @@
     "category": "Product",
     "date_posted": 1792190238,
     "date_updated": 1794354317,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -35976,7 +36573,7 @@
     "category": "Software",
     "date_posted": 1794182400,
     "date_updated": 1794237466,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -38974,26 +39571,6 @@
     ]
   },
   {
-    "company_name": "PETRONAS Canada",
-    "title": "Student Intern, Infrastructure Automation and Innovation",
-    "url": "https://go.vansh.nyc/1lK",
-    "locations": [
-      "Calgary, Canada"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794008627,
-    "date_updated": 1794008824,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Samsara",
     "title": "Software Engineer Intern",
     "url": "https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786",
@@ -40090,7 +40667,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793923200,
     "date_updated": 1794006571,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -40187,7 +40764,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793923200,
     "date_updated": 1794006538,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -44219,66 +44796,6 @@
     ]
   },
   {
-    "company_name": "Versant",
-    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
-    "url": "https://go.vansh.nyc/1jE",
-    "locations": [
-      "North Hollywood, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793836800,
-    "date_updated": 1793923529,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Versant",
-    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
-    "url": "https://go.vansh.nyc/1jF",
-    "locations": [
-      "Carlsbad, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793836800,
-    "date_updated": 1793923529,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Versant",
-    "title": "Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango",
-    "url": "https://go.vansh.nyc/1jG",
-    "locations": [
-      "Orlando, FL"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793836800,
-    "date_updated": 1793923529,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Allied Consultants",
     "title": "Power Platform Admin/Developer Intern",
     "url": "https://careers-alliedconsultants.icims.com/jobs/8815/power-platform-admin-developer-intern/job",
@@ -47638,26 +48155,6 @@
   },
   {
     "company_name": "Rodan Energy Solutions Inc.",
-    "title": "Data Operations Engineer AI Co-op",
-    "url": "https://go.vansh.nyc/1ib",
-    "locations": [
-      "Mississauga, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1793873217,
-    "date_updated": 1793873370,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Rodan Energy Solutions Inc.",
     "title": "AI Solutions Specialist Co-op",
     "url": "https://go.vansh.nyc/1ic",
     "locations": [
@@ -50019,7 +50516,7 @@
     "category": "Product",
     "date_posted": 1793845863,
     "date_updated": 1793846014,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -52080,66 +52577,6 @@
     ]
   },
   {
-    "company_name": "Smith+Nephew",
-    "title": "Data Science Intern, AI Center of Excellence",
-    "url": "https://go.vansh.nyc/1gN",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793815574,
-    "date_updated": 1793815720,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Smith+Nephew",
-    "title": "Robotics Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1gO",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793815574,
-    "date_updated": 1793815720,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Smith+Nephew",
-    "title": "AI Engineer Intern, R&D",
-    "url": "https://go.vansh.nyc/1gP",
-    "locations": [
-      "Andover, MA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793815574,
-    "date_updated": 1793815720,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Gaig",
     "title": "Business Intelligence (Power BI) Intern - Summer 2027",
     "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843",
@@ -53390,26 +53827,6 @@
     ],
     "terms": [
       "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1793768768,
-    "date_updated": 1793768900,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Royal Bank of Canada",
-    "title": "AI Engineer Co-op, Capital Markets, Global Equities",
-    "url": "https://go.vansh.nyc/1fV",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "terms": [
-      "Summer"
     ],
     "category": "Other",
     "date_posted": 1793768768,
@@ -58961,26 +59378,6 @@
     ]
   },
   {
-    "company_name": "Viavi Solutions",
-    "title": "Software Engineering Co-op",
-    "url": "https://go.vansh.nyc/1c8",
-    "locations": [
-      "Germantown, MD"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1793678766,
-    "date_updated": 1793678915,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Dow Jones",
     "title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
     "url": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55894",
@@ -59614,25 +60011,6 @@
       "Not specified"
     ],
     "category": "Product",
-    "date_posted": 1793664000,
-    "date_updated": 1793664000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Nex",
-    "title": "Summer 2027 | Software Engineer Intern (Sports & Fitness)",
-    "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
     "date_posted": 1793664000,
     "date_updated": 1793664000,
     "active": true,
@@ -80691,7 +81069,7 @@
     "category": "Product",
     "date_posted": 1790002823,
     "date_updated": 1793265734,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -82306,7 +82684,7 @@
     "category": "Quant",
     "date_posted": 1793227469,
     "date_updated": 1793227521,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -89856,26 +90234,6 @@
     ]
   },
   {
-    "company_name": "CIBC",
-    "title": "Data Analyst Co-op",
-    "url": "https://go.vansh.nyc/Wy",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1793059200,
-    "date_updated": 1793138717,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Hitachi",
     "title": "Software Analyst Intern",
     "url": "https://go.vansh.nyc/Wz",
@@ -90949,7 +91307,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793111426,
     "date_updated": 1793111603,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -91069,7 +91427,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793059200,
     "date_updated": 1793110321,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -92002,7 +92360,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793081249,
     "date_updated": 1793081402,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -94269,7 +94627,7 @@
     "category": "Software",
     "date_posted": 1792972800,
     "date_updated": 1793053522,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -94516,7 +94874,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792972800,
     "date_updated": 1793053139,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -95301,26 +95659,6 @@
     "date_posted": 1792382400,
     "date_updated": 1793047275,
     "active": false,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "CIBC",
-    "title": "AI Scientist Co-op",
-    "url": "https://go.vansh.nyc/T1",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1793046983,
-    "date_updated": 1793046997,
-    "active": true,
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
@@ -97720,106 +98058,6 @@
     ]
   },
   {
-    "company_name": "Royal Bank of Canada",
-    "title": "Data Engineer Intern",
-    "url": "https://go.vansh.nyc/Qa",
-    "locations": [
-      "Calgary, Canada"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792972800,
-    "date_updated": 1793027119,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Royal Bank of Canada",
-    "title": "Developer Intern",
-    "url": "https://go.vansh.nyc/Qb",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792972800,
-    "date_updated": 1793027119,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Royal Bank of Canada",
-    "title": "Data Engineer Intern",
-    "url": "https://go.vansh.nyc/Qc",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792972800,
-    "date_updated": 1793027119,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Royal Bank of Canada",
-    "title": "Developer Intern",
-    "url": "https://go.vansh.nyc/Qd",
-    "locations": [
-      "Montreal, Canada"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792972800,
-    "date_updated": 1793027119,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Royal Bank of Canada",
-    "title": "Developer Intern",
-    "url": "https://go.vansh.nyc/Qe",
-    "locations": [
-      "Calgary, Canada"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792972800,
-    "date_updated": 1793027119,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Acuity",
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/PT",
@@ -98278,7 +98516,7 @@
     "category": "Software",
     "date_posted": 1792972800,
     "date_updated": 1793025783,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -98316,7 +98554,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792972800,
     "date_updated": 1793025781,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -98335,7 +98573,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792972800,
     "date_updated": 1793025780,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -98970,7 +99208,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792972800,
     "date_updated": 1793023860,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -99027,7 +99265,7 @@
     "category": "Software",
     "date_posted": 1792972800,
     "date_updated": 1793023853,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -116023,7 +116261,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792627200,
     "date_updated": 1792707306,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -117959,26 +118197,6 @@
     ]
   },
   {
-    "company_name": "CIBC",
-    "title": "AI and Quantum Scientist Co-op",
-    "url": "https://go.vansh.nyc/dG",
-    "locations": [
-      "Toronto, ON"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1792566000,
-    "date_updated": 1792629569,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Amazon",
     "title": "System Development Engineer Intern/Co-op, ROBOTICS - 2027",
     "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
@@ -119276,7 +119494,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792540800,
     "date_updated": 1792620626,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -119468,7 +119686,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792540800,
     "date_updated": 1792620362,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -123272,26 +123490,6 @@
     ]
   },
   {
-    "company_name": "CIBC",
-    "title": "Advanced Analytics and AI Co-op",
-    "url": "https://go.vansh.nyc/bH",
-    "locations": [
-      "Toronto, ON"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1792393200,
-    "date_updated": 1792511186,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "JPMorganChase",
     "title": "Machine Learning Intern, NLP",
     "url": "https://go.vansh.nyc/bI",
@@ -123320,46 +123518,6 @@
     ],
     "terms": [
       "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792479600,
-    "date_updated": 1792511186,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "CIBC",
-    "title": "Application/Software Developer Co-op, Capital Markets Technology",
-    "url": "https://go.vansh.nyc/bM",
-    "locations": [
-      "Toronto, ON"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1792479600,
-    "date_updated": 1792511186,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "CIBC",
-    "title": "Application/Software Developer Co-op, Enterprise Technology & Business Management",
-    "url": "https://go.vansh.nyc/bN",
-    "locations": [
-      "Toronto, ON"
-    ],
-    "terms": [
-      "Winter"
     ],
     "category": "Other",
     "date_posted": 1792479600,
@@ -124445,7 +124603,7 @@
     "category": "Software",
     "date_posted": 1792368000,
     "date_updated": 1792458917,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -125542,7 +125700,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792368000,
     "date_updated": 1792448832,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -128201,7 +128359,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792362893,
     "date_updated": 1792362991,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -131135,7 +131293,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792190238,
     "date_updated": 1792190501,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -131686,7 +131844,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792108800,
     "date_updated": 1792190057,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -134647,7 +134805,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792055064,
     "date_updated": 1792055263,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -160951,7 +161109,7 @@
     "category": "Software",
     "date_posted": 1790921828,
     "date_updated": 1790921954,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -188619,7 +188777,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789603200,
     "date_updated": 1789625812,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -198456,7 +198614,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789344000,
     "date_updated": 1789417145,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -231030,7 +231188,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1787788800,
     "date_updated": 1788417906,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -267721,7 +267879,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1786924800,
     "date_updated": 1786975220,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -273005,7 +273163,9 @@
     "active": false,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -378357,6 +378517,25 @@
     ]
   },
   {
+    "company_name": "City of Philadelphia",
+    "title": "Data Analyst Intern",
+    "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/4bb2befc-ab56-48bb-b2f2-969c40c78ca9",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "date_posted": 1774262277,
+    "date_updated": 1775481655,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Johnson & Johnson",
     "title": "Software Testing Co-Op",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Danvers-Massachusetts-United-States-of-America/Software-Testing-Co-Op---Fall-2026_R-057551",
@@ -380088,25 +380267,6 @@
     "category": "AI/ML/Data",
     "date_posted": 1775081199,
     "date_updated": 1775210413,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "X Development",
-    "title": "PhD / Master\u2019s Residency - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project",
-    "url": "https://x.company/careers/8472640002?gh_jid=8472640002",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774055363,
-    "date_updated": 1775210406,
     "active": false,
     "is_visible": true,
     "_sources": [
@@ -395375,493 +395535,6 @@
     "category": "Software",
     "date_posted": 1774228372,
     "date_updated": 1774228372,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Blue Cross Blue Shield",
-    "title": "Associate Intern-a.1",
-    "url": "https://bcbsa.wd1.myworkdayjobs.com/careers/job/US-IL-Chicago-E-Randolph/Summer-Associate-Intern-AI_JR5804",
-    "locations": [
-      "Washington, DC",
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774091854,
-    "date_updated": 1774091854,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Applied Materials",
-    "title": "Materials Simulation Engineering Intern",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Materials-Simulation-Engineering-Intern--AZPI5-_R2612469",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774091676,
-    "date_updated": 1774091676,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "ABB",
-    "title": "R&D Lab Material Analyst Intern-Contractor",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/R-D-Lab-Material-Analyst-Intern--Summer-2026_JR00017040-1",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774089102,
-    "date_updated": 1774089102,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Nio",
-    "title": "LLM Algorithmic Optimization Engineer \u2013 Intern",
-    "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774089092,
-    "date_updated": 1774089092,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Hitachi",
-    "title": "Site Deployment Intern",
-    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Ottawa/Site-Deployment--Intern--Fall-2026--12months-_R1011993",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774085049,
-    "date_updated": 1774085049,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Hitachi",
-    "title": "Site Deployment Intern",
-    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Burnaby/Site-Deployment-Intern-Fall-2026--12months-_R1011983",
-    "locations": [
-      "Burnaby, BC, Canada"
-    ],
-    "terms": [
-      "Fall 2026",
-      "Winter 2026",
-      "Winter 2027",
-      "Spring 2027",
-      "Summer 2027"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774085040,
-    "date_updated": 1774085040,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Draper",
-    "title": "Electronics and Embedded Systems Intern",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Summer-Intern_JR002054",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774084939,
-    "date_updated": 1774084939,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Guild Education",
-    "title": "Software Engineering Intern",
-    "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7740252",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774074495,
-    "date_updated": 1774074495,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Guild Education",
-    "title": "Product Management Intern",
-    "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7732992",
-    "locations": [
-      "Denver, CO"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1774073758,
-    "date_updated": 1774073758,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Capital One",
-    "title": "Current PhD \u2013 Applied Research Intern Program",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1",
-    "locations": [
-      "Cambridge, MA",
-      "San Jose, CA",
-      "McLean, VA",
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774073464,
-    "date_updated": 1774073464,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "ByteDance",
-    "title": "Software Engineer Project Intern - Network Security",
-    "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774073406,
-    "date_updated": 1774073406,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Coherent",
-    "title": "Intern Software Developer - Document Control - Global Quality",
-    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011079",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774073343,
-    "date_updated": 1774073343,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Cadence Design Systems",
-    "title": "Data Science Intern",
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Data-Science-Intern_R53950",
-    "locations": [
-      "Michigan"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774056944,
-    "date_updated": 1774056944,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "The Walt Disney Company",
-    "title": "Software Engineering Intern - Cloud Governance",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Software-Engineering-Intern--Cloud-Governance--Summer-2026_10143615-1",
-    "locations": [
-      "Seattle, WA",
-      "Burbank, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774056920,
-    "date_updated": 1774056920,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Cloudflare",
-    "title": "IT Product Manager",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7740215",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1774056584,
-    "date_updated": 1774056584,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Robert Bosch Venture Capital",
-    "title": "Data Analytics Intern - Engineering & SAP Operations",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115968436",
-    "locations": [
-      "Vernon Hills, IL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774056332,
-    "date_updated": 1774056332,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "City of Philadelphia",
-    "title": "Data Analyst Intern",
-    "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000115905548",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774056286,
-    "date_updated": 1774056286,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Nestle",
-    "title": "Statistician",
-    "url": "https://jobdetails.nestle.com/job/St_-Louis-Statistician-(12-week-Summer-Contract)-MO-63102/1376193533/?ats=successfactors",
-    "locations": [
-      "St. Louis, MO"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774056122,
-    "date_updated": 1774056122,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Posit PBC (formerly RStudio)",
-    "title": "Posit Intern",
-    "url": "https://posit.co/job-detail/?gh_jid=7674250003",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774055702,
-    "date_updated": 1774055702,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Illumio",
-    "title": "Technical Product Management Intern",
-    "url": "https://jobs.ashbyhq.com/illumio/58e64006-2332-4988-bd9e-d47d6f8df0bf/application",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1774055630,
-    "date_updated": 1774055630,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Instawork",
-    "title": "Product Operations Intern",
-    "url": "https://job-boards.greenhouse.io/instawork/jobs/4588237006",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1774055593,
-    "date_updated": 1774055593,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Agentis Capital",
-    "title": "Capital Markets Intern",
-    "url": "https://jobs.ashbyhq.com/Agentis-Capital-Advisors/db0f00d9-7b08-43cf-b75d-3ff97e3985e1/application",
-    "locations": [
-      "Toronto, ON, Canada",
-      "Vancouver, BC, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Quant",
-    "date_posted": 1774055419,
-    "date_updated": 1774055419,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Stripe",
-    "title": "Product Manager",
-    "url": "https://stripe.com/jobs/search?gh_jid=7737124",
-    "locations": [
-      "Seattle, WA",
-      "SF",
-      "NYC"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "Product",
-    "date_posted": 1774055248,
-    "date_updated": 1774055248,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Coherent",
-    "title": "Intern \u2013 NPI lab and VCSEL R&D",
-    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011254",
-    "locations": [
-      "Celina, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774055242,
-    "date_updated": 1774055242,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Coherent",
-    "title": "Intern Automation and Machine Learning Engineer",
-    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011369",
-    "locations": [
-      "Celina, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774055210,
-    "date_updated": 1774055210,
     "active": false,
     "is_visible": true,
     "_sources": [
