@@ -1,14 +1,22 @@
-# Other (3884)
+# Other (3893)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fiserv](https://go.vansh.nyc/1AS) | Technology Intern, Cybersecurity | Berkeley Heights, NJ | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Fiserv](https://go.vansh.nyc/1AT) | Technology Intern, Cybersecurity | Columbus, OH | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Lumentum](https://go.vansh.nyc/1AP) | Data Science & Analytics Intern | San Jose, CA | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Disney](https://go.vansh.nyc/1AL) | Data Engineering Intern | New York, NY | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Clera](https://go.vansh.nyc/1AN) | Full-Stack Software Engineering Intern | New York, NY | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Leidos](https://go.vansh.nyc/1AO) | Cybersecurity Intern | Fort Belvoir, VA | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Zurich Insurance](https://go.vansh.nyc/1AD) | Data Analytics & AI Intern | Toronto, Canada | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Carnegie Mellon University](https://go.vansh.nyc/1Az) | AI Engineer Intern, Mission Innovation Lab | Pittsburgh, PA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
+| [KLA](https://go.vansh.nyc/1AJ) | Firmware Intern | Milpitas, CA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [National Interstate Insurance](https://go.vansh.nyc/1AE) | Predictive Analytics Intern | Cincinnati, OH | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Bloomberg Industry Group](https://go.vansh.nyc/1AF) | Data Analyst Intern | Arlington, VA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
-| [Minitab](https://go.vansh.nyc/1Ax) | Software Engineering Intern | State College, PA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Highmark Health](https://go.vansh.nyc/1AK) | Technical Analyst Intern, enGen Undergraduate | Pittsburgh, PA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Minitab](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | Software Engineering Intern | State College, PA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [Toyota Research Institute](https://go.vansh.nyc/1Au) | Robotics Intern, World Models, Multimodal Sensing | Cambridge, MA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [TransUnion](https://transunion.wd5.myworkdayjobs.com/transunion/job/Chicago-Illinois/Data-Analysis-Internship---Summer-2027_19042654) | Data Analysis Internship - Summer 2027 | Chicago, Illinois |  | 2026-11-16 | 1 | dreamwork-2027 |
 | [Pacific Fusion](https://go.vansh.nyc/1Ao) | HPC/DevOps Engineering Intern | San Leandro, CA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -209,6 +217,7 @@
 | [IPConfigure](https://go.vansh.nyc/1yE) | Software Development Intern, Video Surveillance Software | Norfolk, VA | Summer | 2026-11-13 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Molina](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160) | Data Analytics Internship (Remote) – Summer 2027 (Undergraduate) | United States |  | 2026-11-13 | 4 | dreamwork-2027 |
 | [Argonne National Laboratory](https://argonne.wd1.myworkdayjobs.com/edu_pub/job/lemont-il-usa/intern---business-information-systems--enterprise-software-solutions_423702) | Intern – Business Information Systems, Enterprise Software Solutions | Lemont, IL USA |  | 2026-11-13 | 4 | dreamwork-2027 |
+| [Soros Fund Management](https://go.vansh.nyc/1AR) | Trading Intern, Middle and Back Office Dev | New York, NY | Summer | 2026-11-13 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Verisk](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) | Data Science/AI Intern | 2027 Summer Internship Program | Lehi, UT, United States |  | 2026-11-13 | 4 | dreamwork-2027 |
 | [Ghost Robotics Corporation](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4311464) | Ghost Robotics – Internship Interest | Philadelphia, PA |  | 2026-11-13 | 4 | dreamwork-2027 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/External/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_334005) | Configuration Control/Data Management Co-op - Spring & Summer 2027 | Danbury, CT, US |  | 2026-11-13 | 4 | dreamwork-2027 |

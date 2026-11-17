@@ -1,5 +1,302 @@
 [
   {
+    "company_name": "Fiserv",
+    "title": "Technology Intern, Cybersecurity",
+    "url": "https://go.vansh.nyc/1AS",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794885048,
+    "date_updated": 1794885201,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Fiserv",
+    "title": "Technology Intern, Cybersecurity",
+    "url": "https://go.vansh.nyc/1AT",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794885048,
+    "date_updated": 1794885201,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Soros Fund Management",
+    "title": "Trading Intern, Middle and Back Office Dev",
+    "url": "https://go.vansh.nyc/1AR",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794581212,
+    "date_updated": 1794884732,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Soros Fund Management",
+    "title": "Trading Intern - Middle and Back Office Dev",
+    "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794581212,
+    "date_updated": 1794883722,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Research Innovations",
+    "title": "Department of War SkillBridge Operations SME Intern",
+    "url": "https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Product",
+    "date_posted": 1794883411,
+    "date_updated": 1794883549,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Punchcut",
+    "title": "Design Engineer Intern",
+    "url": "https://punchcut.bamboohr.com/careers/65/",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1794883050,
+    "date_updated": 1794883164,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Lightmatter",
+    "title": "Optical Packaging Integration Intern",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5478834008",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Hardware",
+    "date_posted": 1794871272,
+    "date_updated": 1794882626,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "HexArmor",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1794875463,
+    "date_updated": 1794882107,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Lumentum",
+    "title": "Data Science & Analytics Intern",
+    "url": "https://go.vansh.nyc/1AP",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794880753,
+    "date_updated": 1794881473,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The Opus Group",
+    "title": "Interactive Resident",
+    "url": "https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Winter 2027",
+      "Spring 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794881324,
+    "date_updated": 1794881372,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Clera",
+    "title": "Full-Stack Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1AN",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794873600,
+    "date_updated": 1794881120,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Leidos",
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1AO",
+    "locations": [
+      "Fort Belvoir, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794873600,
+    "date_updated": 1794881120,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Disney",
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1AL",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794877833,
+    "date_updated": 1794878013,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Highmark Health",
+    "title": "Technical Analyst Intern, enGen Undergraduate",
+    "url": "https://go.vansh.nyc/1AK",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794867008,
+    "date_updated": 1794877808,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "KLA",
+    "title": "Firmware Intern",
+    "url": "https://go.vansh.nyc/1AJ",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794872420,
+    "date_updated": 1794876020,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Cadence Solutions",
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/Fv",
@@ -118,6 +415,44 @@
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Forterra",
+    "title": "2027 Intern - Software",
+    "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+    "locations": [
+      "Clarksburg, MD"
+    ],
+    "terms": [
+      "2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794873600,
+    "date_updated": 1794873600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "SRI International",
+    "title": "Drexel University Co-op: Embedded Software Engineering",
+    "url": "https://careers-sri.icims.com/jobs/6542/drexel-university-co-op%3a-embedded-software-engineering/job",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "terms": [
+      "Co-op"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794873600,
+    "date_updated": 1794873600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
     ]
   },
   {
@@ -887,7 +1222,7 @@
   {
     "company_name": "Minitab",
     "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1Ax",
+    "url": "https://job-boards.greenhouse.io/minitab/jobs/8200708003",
     "locations": [
       "State College, PA"
     ],
@@ -901,7 +1236,8 @@
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
-      "vanshb03-2027"
+      "vanshb03-2027",
+      "applyguy-2027"
     ]
   },
   {
@@ -3138,6 +3474,25 @@
     ],
     "terms": [
       "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794787200,
+    "date_updated": 1794787200,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Pacific Fusion",
+    "title": "Summer 2027 HPC/DevOps Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505668009",
+    "locations": [
+      "San Leandro, CA"
+    ],
+    "terms": [
+      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1794787200,
@@ -13148,7 +13503,7 @@
     "category": "Software",
     "date_posted": 1794441600,
     "date_updated": 1794525526,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -15913,7 +16268,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793750400,
     "date_updated": 1794497221,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -38925,7 +39280,7 @@
     "category": "Software",
     "date_posted": 1794182400,
     "date_updated": 1794239202,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -53598,7 +53953,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793750400,
     "date_updated": 1793844904,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -55396,7 +55751,7 @@
     "category": "Software",
     "date_posted": 1793266442,
     "date_updated": 1793806766,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -55859,7 +56214,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793145600,
     "date_updated": 1793785532,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -62786,7 +63141,7 @@
     "category": "Software",
     "date_posted": 1793640315,
     "date_updated": 1793663335,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -78450,7 +78805,7 @@
     "category": "Software",
     "date_posted": 1788540458,
     "date_updated": 1793340936,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -78469,7 +78824,7 @@
     "category": "Software",
     "date_posted": 1788477885,
     "date_updated": 1793340934,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -84895,7 +85250,7 @@
     "category": "Software",
     "date_posted": 1790638768,
     "date_updated": 1793236324,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -117903,7 +118258,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792707643,
     "date_updated": 1792707736,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -138004,7 +138359,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792016765,
     "date_updated": 1792016831,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -148036,7 +148391,7 @@
     "category": "Software",
     "date_posted": 1791497847,
     "date_updated": 1791498532,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -154657,7 +155012,7 @@
     "category": "Software",
     "date_posted": 1791268852,
     "date_updated": 1791268943,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -181613,7 +181968,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -196687,7 +197042,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789430400,
     "date_updated": 1789510322,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -224174,7 +224529,7 @@
     "category": "Software",
     "date_posted": 1788559488,
     "date_updated": 1788559868,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -235931,7 +236286,7 @@
     "category": "Hardware",
     "date_posted": 1788238285,
     "date_updated": 1788408006,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -242356,7 +242711,7 @@
     "category": "Software",
     "date_posted": 1788220800,
     "date_updated": 1788277374,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -242472,7 +242827,7 @@
     "category": "Software",
     "date_posted": 1788220800,
     "date_updated": 1788277283,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -245272,7 +245627,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788238287,
     "date_updated": 1788238442,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -291384,7 +291739,7 @@
   {
     "company_name": "SRI International",
     "title": "Drexel University Co-op: Software Engineering/Full stack development",
-    "url": "https://careers-sri.icims.com/jobs/6432/job?mobile=true&needsRedirect=false",
+    "url": "https://careers-sri.icims.com/jobs/6541/drexel-university-co-op%3a-software-engineering-full-stack-development/job",
     "locations": [
       "Princeton, NJ"
     ],
@@ -291397,7 +291752,8 @@
     "active": false,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "applyguy-2027"
     ]
   },
   {
@@ -299198,7 +299554,7 @@
     "category": "Hardware",
     "date_posted": 1784505600,
     "date_updated": 1784557847,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -368199,7 +368555,7 @@
     "category": "Hardware",
     "date_posted": 1776290908,
     "date_updated": 1776296151,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"

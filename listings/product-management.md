@@ -1,9 +1,10 @@
-# Product Management (323)
+# Product Management (324)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Research Innovations](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) | Department of War SkillBridge Operations SME Intern | Remote in USA | N/A | 2026-11-17 | 0 | simplify-2026 |
 | [Duetti](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply) | Product Intern | NYC | Summer 2027 | 2026-11-16 | 1 | simplify-2026 |
 | [GM Financial](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) | Product Owner Intern | Arlington, TX | Summer 2027 | 2026-11-16 | 1 | simplify-2026 |
 | [Bound](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) | Product Management Intern | Ames, IA | Summer 2027 | 2026-11-16 | 1 | simplify-2026 |
