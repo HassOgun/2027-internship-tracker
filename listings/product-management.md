@@ -1,4 +1,4 @@
-# Product Management (322)
+# Product Management (320)
 
 [← back to index](../README.md)
 
@@ -23,7 +23,6 @@
 | [FieldPulse](https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f) | Product Intern | Dallas, TX | N/A | 2026-11-13 | 4 | simplify-2026, dreamwork-2027 |
 | [Trane Technologies](https://careers.tranetechnologies.com/global/en/job/JR-10435) | Product Management Engineering Co-op | Pueblo, CO, Grand Rapids, MI | N/A | 2026-11-13 | 4 | simplify-2026 |
 | [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) | Associate Product Manager Intern | Chaska, MN | Summer 2027 | 2026-11-13 | 4 | simplify-2026, dreamwork-2027 |
-| [Addepar](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) | Summer 2027 Internship - Product Analyst (Navigator) | New York City, NY | Summer 2027 | 2026-11-13 | 4 | applyguy-2027 |
 | [Campingworld](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086) | New Product Development Product Management Intern | Lincolnshire, IL | Not specified | 2026-11-13 | 4 | applyguy-2027 |
 | [Wattswater](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | 2027 | 2026-11-13 | 4 | applyguy-2027 |
 | [InsCipher](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c) | AI Product Intern | Pleasant Grove, UT | N/A | 2026-11-12 | 5 | simplify-2026 |
@@ -64,7 +63,6 @@
 | [Cummins](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441495) | Product Manager Intern | Peterborough, UK | Summer 2027 | 2026-11-06 | 11 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7696000179569854725) | POI Content Product Manager Intern | San Jose, CA | Summer 2027 | 2026-11-06 | 11 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [DwyerOmega](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) | Product Management Intern - Pressure & Force | Michigan City, IN, Sunbury, OH | Summer 2027 | 2026-11-06 | 11 | simplify-2026, applyguy-2027 |
-| [Salesforce](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) | Product Management Intern - Product Management | SF, NYC | Summer 2027 | 2026-11-06 | 11 | simplify-2026 |
 | [Equitable Bank](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) | Product Management Intern - Digital Banking | Toronto, ON, Canada | Winter 2027 | 2026-11-05 | 12 | simplify-2026 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1) | Digital Product Management Intern | Atlanta, GA | Summer 2027 | 2026-11-05 | 12 | simplify-2026 |
 | [Vizient](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R) | Product Operations Intern | Irving, TX | Summer 2027 | 2026-11-05 | 12 | simplify-2026 |
