@@ -1,5 +1,503 @@
 [
   {
+    "company_name": "APEX Analytix",
+    "title": "Product Management Intern - DevOps",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Product",
+    "date_posted": 1794957855,
+    "date_updated": 1794958041,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Attain Partners",
+    "title": "Data Analytics Intern",
+    "url": "https://job-boards.greenhouse.io/attainpartners/jobs/5485427008",
+    "locations": [
+      "McLean, VA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794938067,
+    "date_updated": 1794957875,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Raptor Maps",
+    "title": "Software Engineer Intern",
+    "url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a",
+    "locations": [
+      "Somerville, MA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794957659,
+    "date_updated": 1794957734,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Anduril",
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007",
+    "locations": [
+      "Santa Ana, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794943065,
+    "date_updated": 1794957700,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Meta",
+    "title": "Visiting Researcher Intern - AI Mentorship Program",
+    "url": "https://www.metacareers.com/jobs/1110284504699535",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "terms": [
+      "Fall 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794957482,
+    "date_updated": 1794957674,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "SAS",
+    "title": "IoT Analytics Intern",
+    "url": "https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794873600,
+    "date_updated": 1794957531,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Basis Research Institute",
+    "title": "Electronics & Sensing Engineer Intern - Contractor",
+    "url": "https://jobs.ashbyhq.com/basis-research/d3a40705-2e66-4ed0-8bf1-f5fe4bb6dfc3/application?embed=true",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Hardware",
+    "date_posted": 1794873600,
+    "date_updated": 1794957358,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Basis Research Institute",
+    "title": "Research Intern",
+    "url": "https://jobs.ashbyhq.com/basis-research/efc50ca5-c190-4ef7-ab8a-6b7310b5dd0c/application?embed=true",
+    "locations": [
+      "Cambridge, MA",
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794873600,
+    "date_updated": 1794957358,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Falcomm",
+    "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
+    "url": "https://apply.workable.com/falcomm/j/64D0E86EFE/",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Spring 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794957272,
+    "date_updated": 1794957302,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Falcomm",
+    "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
+    "url": "https://apply.workable.com/falcomm/j/41F139E6F7/",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Spring 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794957272,
+    "date_updated": 1794957302,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "BGE",
+    "title": "Business Analyst Intern - GIS",
+    "url": "https://careers.bge.com/jobs/34737?icims=1&lang=en-us",
+    "locations": [
+      "Oakbrook Terrace, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794936960,
+    "date_updated": 1794957133,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "City of Campbell River",
+    "title": "Co-op Student - OMS Project - Capital Projects",
+    "url": "https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000162139733",
+    "locations": [
+      "Campbell River, BC, Canada"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794937558,
+    "date_updated": 1794957121,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Ross Video",
+    "title": "Research Assistant Co-op - AI Focus",
+    "url": "https://jobs.jobvite.com/ross-video-careers/job/o51QAfwg?nl=1&nl=1&fr=false",
+    "locations": [
+      "Nepean, Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Winter 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794956980,
+    "date_updated": 1794957121,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Lightmatter",
+    "title": "Product & Test Engineering Intern",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5474690008",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Hardware",
+    "date_posted": 1794934897,
+    "date_updated": 1794957073,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "New York City Housing Development Corporation",
+    "title": "Strategic Operations Graduate Intern",
+    "url": "https://jobs.jobvite.com/nychdc/job/o8D0Afw5?nl=1&nl=1&fr=false",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794956912,
+    "date_updated": 1794956941,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Compunetix",
+    "title": "Software Engineer Co-op",
+    "url": "https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false",
+    "locations": [
+      "Monroeville, PA"
+    ],
+    "terms": [
+      "Spring 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794956856,
+    "date_updated": 1794956941,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Exowatt",
+    "title": "Robotics & Physical AI Intern",
+    "url": "https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply",
+    "locations": [
+      "Miami, FL"
+    ],
+    "terms": [
+      "Spring 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794956661,
+    "date_updated": 1794956908,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Starwood Capital Group",
+    "title": "Agentic Engineering Intern",
+    "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1794956647,
+    "date_updated": 1794956877,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Starwood Capital Group",
+    "title": "Data Intern",
+    "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794956646,
+    "date_updated": 1794956876,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Publicis Groupe",
+    "title": "PhD Data Visualization Intern",
+    "url": "https://careers.publicisgroupe.com/jobs/182963?icims=1&lang=en-us",
+    "locations": [
+      "Boston, MA",
+      "Chicago, IL",
+      "Westminster, CO",
+      "Irving, TX",
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794931320,
+    "date_updated": 1794956761,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Publicis Groupe",
+    "title": "PhD Data Science Intern",
+    "url": "https://careers.publicisgroupe.com/jobs/182898?icims=1&lang=en-us",
+    "locations": [
+      "Boston, MA",
+      "Chicago, IL",
+      "Westminster, CO",
+      "Irving, TX",
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794931500,
+    "date_updated": 1794956761,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Bread Financial",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1Bz",
+    "locations": [
+      "Columbus, OH",
+      "Chadds Ford, PA",
+      "Frisco, TX",
+      "Draper, UT",
+      "Wilmington, DE"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794868780,
+    "date_updated": 1794955180,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Lumentum",
+    "title": "SW Developer Support Intern, Program Management Office",
+    "url": "https://go.vansh.nyc/1BA",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794954340,
+    "date_updated": 1794955180,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "T-Mobile",
+    "title": "Software Engineering AI Intern",
+    "url": "https://go.vansh.nyc/1Bx",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794867004,
+    "date_updated": 1794953404,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Cloudflare",
+    "title": "AI & Automation Intern, Communications",
+    "url": "https://go.vansh.nyc/1By",
+    "locations": [
+      "Office, IN"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1794946204,
+    "date_updated": 1794953404,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "State Street",
     "title": "Full Stack Development Intern",
     "url": "https://go.vansh.nyc/1Bu",
@@ -101,26 +599,6 @@
     ]
   },
   {
-    "company_name": "Exowatt",
-    "title": "Robotics & Physical AI Intern",
-    "url": "https://go.vansh.nyc/1Bq",
-    "locations": [
-      "Miami, FL"
-    ],
-    "terms": [
-      "Spring"
-    ],
-    "category": "Other",
-    "date_posted": 1794873600,
-    "date_updated": 1794948070,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Axiom Space",
     "title": "Enterprise Data Analyst Intern, Power BI & Data Quality",
     "url": "https://go.vansh.nyc/103",
@@ -195,26 +673,6 @@
     "date_posted": 1788296517,
     "date_updated": 1794944683,
     "active": false,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Anduril",
-    "title": "Machine Learning Engineer Intern",
-    "url": "https://go.vansh.nyc/1Bo",
-    "locations": [
-      "Santa Ana, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794943065,
-    "date_updated": 1794944498,
-    "active": true,
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
@@ -2038,7 +2496,7 @@
     "category": "Software",
     "date_posted": 1794581212,
     "date_updated": 1794883722,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -2455,44 +2913,6 @@
     ]
   },
   {
-    "company_name": "Falcomm",
-    "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
-    "url": "https://apply.workable.com/falcomm/j/64D0E86EFE/",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794873600,
-    "date_updated": 1794873600,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Falcomm",
-    "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
-    "url": "https://apply.workable.com/falcomm/j/41F139E6F7/",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794873600,
-    "date_updated": 1794873600,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Forterra",
     "title": "2027 Intern - Software",
     "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
@@ -2520,6 +2940,25 @@
     ],
     "terms": [
       "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794873600,
+    "date_updated": 1794873600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "SRI International",
+    "title": "Drexel University Co-op: Software Engineering",
+    "url": "https://careers-sri.icims.com/jobs/6540/drexel-university-co-op%3a-software-engineering/job",
+    "locations": [
+      "Princeton, NJ"
+    ],
+    "terms": [
+      "Co-op"
     ],
     "category": "Software Engineering",
     "date_posted": 1794873600,
@@ -4832,7 +5271,7 @@
     "category": "Software",
     "date_posted": 1794844280,
     "date_updated": 1794844441,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -15383,25 +15822,6 @@
     ]
   },
   {
-    "company_name": "Microsoft",
-    "title": "Research Intern - MSR Software-Hardware Co-design",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794528000,
-    "date_updated": 1794528000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Reliable Robotics Corporation",
     "title": "Flight Software Engineer Intern (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
@@ -15906,7 +16326,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794441600,
     "date_updated": 1794526794,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -23061,7 +23481,7 @@
     "category": "Software",
     "date_posted": 1794355200,
     "date_updated": 1794439297,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -49448,7 +49868,7 @@
     "category": "Software",
     "date_posted": 1793836800,
     "date_updated": 1793921424,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -49544,7 +49964,7 @@
     "category": "Software",
     "date_posted": 1793921173,
     "date_updated": 1793921227,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -55412,25 +55832,6 @@
     ]
   },
   {
-    "company_name": "Microsoft",
-    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Nooks",
     "title": "Software Engineer, Intern",
     "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb",
@@ -56483,7 +56884,7 @@
     "category": "Software",
     "date_posted": 1793266442,
     "date_updated": 1793806766,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -56670,7 +57071,7 @@
     "category": "Hardware",
     "date_posted": 1793804867,
     "date_updated": 1793804992,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -63521,25 +63922,6 @@
       "Not specified"
     ],
     "category": "Product",
-    "date_posted": 1793664000,
-    "date_updated": 1793664000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Microsoft",
-    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-    "locations": [
-      "United States, Washington, Redmond"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
     "date_posted": 1793664000,
     "date_updated": 1793664000,
     "active": true,
@@ -74311,7 +74693,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792786140,
     "date_updated": 1793428965,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -74372,7 +74754,7 @@
     "category": "Product",
     "date_posted": 1792786140,
     "date_updated": 1793428964,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -74488,7 +74870,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792786140,
     "date_updated": 1793428963,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -81942,7 +82324,7 @@
     "category": "Software",
     "date_posted": 1793232000,
     "date_updated": 1793312461,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -85854,7 +86236,7 @@
     "category": "Software",
     "date_posted": 1791302054,
     "date_updated": 1793236324,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -93417,7 +93799,7 @@
     "category": "Hardware",
     "date_posted": 1793059200,
     "date_updated": 1793138943,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -93495,7 +93877,7 @@
     "category": "Software",
     "date_posted": 1793138653,
     "date_updated": 1793138763,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -128694,7 +129076,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792368000,
     "date_updated": 1792448364,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -130436,7 +130818,7 @@
     "category": "Software",
     "date_posted": 1792372994,
     "date_updated": 1792373052,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -131179,7 +131561,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792316241,
     "date_updated": 1792316420,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -138614,7 +138996,7 @@
     "category": "Hardware",
     "date_posted": 1791936000,
     "date_updated": 1792017037,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -164435,7 +164817,7 @@
     "category": "Hardware",
     "date_posted": 1790812800,
     "date_updated": 1790894411,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -169521,7 +169903,7 @@
     "category": "Software",
     "date_posted": 1790721596,
     "date_updated": 1790722210,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -180543,7 +180925,7 @@
     "category": "Software",
     "date_posted": 1790115652,
     "date_updated": 1790117101,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -195563,7 +195945,7 @@
     "category": "Software",
     "date_posted": 1789510908,
     "date_updated": 1789512792,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -233114,7 +233496,7 @@
     "category": "Hardware",
     "date_posted": 1788402975,
     "date_updated": 1788420954,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -235487,7 +235869,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788307200,
     "date_updated": 1788413075,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -264886,7 +265268,7 @@
     "category": "Software",
     "date_posted": 1787187862,
     "date_updated": 1787187982,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -303807,7 +304189,7 @@
     "category": "Software",
     "date_posted": 1783980581,
     "date_updated": 1783980724,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"

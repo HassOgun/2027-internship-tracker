@@ -1,13 +1,14 @@
-# Other (3833)
+# Other (3835)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Lumentum](https://go.vansh.nyc/1BA) | SW Developer Support Intern, Program Management Office | San Jose, CA | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [State Street](https://go.vansh.nyc/1Bu) | Full Stack Development Intern | Quincy, MA | Winter | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Garmin](https://go.vansh.nyc/1Bs) | Software Engineer Intern, Real Time Aviation Data | Chanhassen, MN | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Qualcomm](https://go.vansh.nyc/1Bt) | AI/Machine Learning Intern | Markham, Canada | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
-| [Anduril](https://go.vansh.nyc/1Bo) | Machine Learning Engineer Intern | Santa Ana, CA | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Cloudflare](https://go.vansh.nyc/1By) | AI & Automation Intern, Communications | Office, IN | Winter | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Falcomm](https://go.vansh.nyc/1Bn) | AI/ML Software Engineer Undergraduate Intern, AI/CAD Integration | Atlanta, GA | Spring | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [IFF](https://iff.wd5.myworkdayjobs.com/IFF_Careers/job/South-Brunswick-NJ-USA/Intern_R23225) | Intern | South Brunswick, NJ, USA |  | 2026-11-17 | 0 | dreamwork-2027 |
 | [Amgen](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) | Grad Intern – AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027) | United States - Remote |  | 2026-11-17 | 0 | dreamwork-2027 |
@@ -42,7 +43,6 @@
 | [Lumentum](https://go.vansh.nyc/1AP) | Data Science & Analytics Intern | San Jose, CA | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Disney](https://go.vansh.nyc/1AL) | Data Engineering Intern | New York, NY | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Clera](https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d) | Full-Stack Software Engineering Intern | New York |  | 2026-11-17 | 0 | dreamwork-2027 |
-| [Exowatt](https://go.vansh.nyc/1Bq) | Robotics & Physical AI Intern | Miami, FL | Spring | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Idaho National Laboratory](https://go.vansh.nyc/1B6) | Electric Vehicle Charging Data Analysis Intern | Idaho Falls, ID | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Clera](https://go.vansh.nyc/1AN) | Full-Stack Software Engineering Intern | New York, NY | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Leidos](https://go.vansh.nyc/1AO) | Cybersecurity Intern | Fort Belvoir, VA | Summer | 2026-11-17 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -60,7 +60,9 @@
 | [Ahold Delhaize](https://career2.successfactors.eu/career?career_ns=job_listing&company=ADPROD&career_job_req_id=564791) | Fall Data Engineer Co-op | Massachusetts, United States |  | 2026-11-16 | 1 | dreamwork-2027 |
 | [Idexcorp](https://idexcorp.wd5.myworkdayjobs.com/IDEX_Careers/job/Cedar-Falls-Iowa/Design-Engineering-Co-Op_R-09908) | Design Engineering Co-Op | Cedar Falls, Iowa |  | 2026-11-16 | 1 | dreamwork-2027 |
 | [Just Markets Institute](https://app.dover.com/apply/jmi/4d502eef-1e37-4069-8fbe-8d9f86b8c72b) | Strategic Design Intern | International, Boulder, CO, Chicago, IL, Washington, DC |  | 2026-11-16 | 1 | dreamwork-2027 |
+| [Bread Financial](https://go.vansh.nyc/1Bz) | Software Engineering Intern | Columbus, OH, Chadds Ford, PA, Frisco, TX, Draper, UT, Wilmington, DE | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Highmark Health](https://go.vansh.nyc/1AK) | Technical Analyst Intern, enGen Undergraduate | Pittsburgh, PA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
+| [T-Mobile](https://go.vansh.nyc/1Bx) | Software Engineering AI Intern | Atlanta, GA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Minitab](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | Software Engineering Intern | State College, PA | Summer | 2026-11-16 | 1 | vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [Minitab](https://job-boards.greenhouse.io/minitab/jobs/8200708003) | Software Engineering Intern | State College, Pennsylvania, United States |  | 2026-11-16 | 1 | dreamwork-2027 |
 | [Ralliant](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/10490) | Hardware Verification Engineer Co-Op (Spring 2027) | Solon, OH, United States |  | 2026-11-16 | 1 | dreamwork-2027 |
