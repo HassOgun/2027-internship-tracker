@@ -1,10 +1,12 @@
-# Quantitative Finance (210)
+# Quantitative Finance (211)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [All Options](https://alloptions.bamboohr.com/careers/85/) | Graduate Quantitative Trader Intern | Austin, TX | Winter 2027, Summer 2027 | 2026-11-17 | 0 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807232) | Quantitative Trading & Research Fellow | London, UK | Spring 2027 | 2026-11-16 | 1 | simplify-2026 |
+| [Syntax](https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply) | Index Analyst Intern | NYC | Summer 2027 | 2026-11-14 | 3 | simplify-2026 |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2028-Internship-_R1417) | Commodities Trading Summer Analyst Intern | Houston, TX, Stamford, CT | Summer 2028 | 2026-11-12 | 5 | simplify-2026 |
 | [StepStone Group](https://boards.greenhouse.io/embed/job_app?token=8368989) | AI Quant Summer Analyst Intern | La Jolla, San Diego, CA | Summer 2027 | 2026-11-11 | 6 | simplify-2026 |
 | [American Century Investments](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Santa-Clara-California/Quantitative-Summer-Associate_R0005746) | Quantitative Intern | Santa Clara, CA | N/A | 2026-11-11 | 6 | simplify-2026 |
@@ -31,7 +33,6 @@
 | [Amazon](https://amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027) | PhD Economics Intern - Reduced Form Causal Inference | Seattle, WA, Arlington County, Arlington, VA, NYC, Bellevue, WA | Summer 2027 | 2026-10-23 | 25 | simplify-2026 |
 | [AMA](https://albertamotorassociation.wd3.myworkdayjobs.com/ama/job/CA-AB-Edmonton-South/Architecture-Research-Intern--Predictive-Modelling---Simulations---12-months_JR102921) | Architecture Research Intern - Predictive Modelling & Simulations | Edmonton, AB, Canada | N/A | 2026-10-23 | 25 | simplify-2026 |
 | [Constellation Energy](https://jobs.constellationenergy.com/jobs/140355?icims=1&lang=en-us) | Structuring & Portfolio Management Intern | San Diego, CA | Summer 2027 | 2026-10-22 | 26 | simplify-2026 |
-| [Graviton](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) | Quantitative Researcher Intern | London, UK, Amsterdam, Netherlands, NYC, Singapore | Summer 2027 | 2026-10-19 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1) | Quantitative Intern - Portfolio Engineering and Analytics | Boston, MA | Summer 2026 | 2026-10-16 | 32 | simplify-2026 |
 | [Invesco](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803) | Quantitative Research Intern | NYC | N/A | 2026-10-16 | 32 | simplify-2026 |
 | [State of Wisconsin Investment Board](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Liquidity-Optimization-Intern_R-001346) | Liquidity Optimization Intern | Madison, WI | Summer 2027 | 2026-10-15 | 33 | simplify-2026 |
