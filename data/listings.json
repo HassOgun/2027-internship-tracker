@@ -1,5 +1,322 @@
 [
   {
+    "company_name": "Illumio",
+    "title": "Engineering Intern, Product Security",
+    "url": "https://go.vansh.nyc/cO",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1792531848,
+    "date_updated": 1795022106,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Antares",
+    "title": "Reactor Software Engineering Intern",
+    "url": "https://go.vansh.nyc/17z",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1789538706,
+    "date_updated": 1795022106,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Medpace",
+    "title": "Python Intern",
+    "url": "https://go.vansh.nyc/Q8",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1787582481,
+    "date_updated": 1795020410,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The New York Times",
+    "title": "Interactive News Engineering Intern",
+    "url": "https://go.vansh.nyc/1km",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793976576,
+    "date_updated": 1795020410,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Kensington",
+    "title": "Analytics Intern",
+    "url": "https://go.vansh.nyc/9e",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791961200,
+    "date_updated": 1795018671,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "SRC, Inc",
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://go.vansh.nyc/1rU",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794337605,
+    "date_updated": 1795018671,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CACI",
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1Cd",
+    "locations": [
+      "Remote",
+      "United States",
+      "Stafford, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794931782,
+    "date_updated": 1795018182,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "GIRO",
+    "title": "Software Developer Intern - Algorithms and Operations Research",
+    "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "terms": [
+      "Winter 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1788134400,
+    "date_updated": 1795017646,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "DriveWealth",
+    "title": "AI Consulting Associate Program People Analytics Intern",
+    "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true",
+    "locations": [
+      "Chicago, IL",
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794960000,
+    "date_updated": 1795016902,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Toyota Research Institute",
+    "title": "Robotics Intern - Prototyping and Robotics Operations",
+    "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8/apply",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795016564,
+    "date_updated": 1795016709,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "The New York Times",
+    "title": "Android Engineering Intern",
+    "url": "https://go.vansh.nyc/1l6",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793996546,
+    "date_updated": 1795016685,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "The New York Times",
+    "title": "iOS Engineering Intern",
+    "url": "https://go.vansh.nyc/1l8",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793996546,
+    "date_updated": 1795016685,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "General Dynamics Information Technology",
+    "title": "Engineering Intern",
+    "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323",
+    "locations": [
+      "Falls Church, VA",
+      "Gaithersburg, MD"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794787200,
+    "date_updated": 1795015842,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Medpace",
+    "title": "Informatics Intern",
+    "url": "https://careers.medpace.com/jobs/13079?icims=1&lang=en-us",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795001940,
+    "date_updated": 1795015122,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Trainline",
+    "title": "Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1794960000,
+    "date_updated": 1795014953,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Cerence",
+    "title": "Student Worker Intern",
+    "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0006047",
+    "locations": [
+      "Remote in UK"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1794873600,
+    "date_updated": 1795014951,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "GIRO",
     "title": "Software Development and Artificial Intelligence Intern",
     "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321",
@@ -268,7 +585,7 @@
     "category": "Software",
     "date_posted": 1794873600,
     "date_updated": 1794969738,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -3212,7 +3529,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794899634,
     "date_updated": 1794899749,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -3252,7 +3569,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794899634,
     "date_updated": 1794899744,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -15888,7 +16205,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1780498828,
     "date_updated": 1794538289,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -22736,7 +23053,7 @@
     "category": "Hardware",
     "date_posted": 1794355200,
     "date_updated": 1794449521,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -33621,26 +33938,6 @@
     ]
   },
   {
-    "company_name": "SRC, Inc",
-    "title": "Machine Learning Engineer Intern",
-    "url": "https://go.vansh.nyc/1rU",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794337605,
-    "date_updated": 1794337713,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Trimble",
     "title": "Software Engineering Intern",
     "url": "https://go.vansh.nyc/1rP",
@@ -38011,7 +38308,7 @@
   },
   {
     "company_name": "Palantir Technologies",
-    "title": "Software Engineer, Intern - Connectivity Platform and Product",
+    "title": "Software Engineer, Internship - Connectivity Platform and Product",
     "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
     "locations": [
       "Denver, CO"
@@ -46059,7 +46356,7 @@
     "category": "Software",
     "date_posted": 1793995963,
     "date_updated": 1794006536,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -46097,7 +46394,7 @@
     "category": "Software",
     "date_posted": 1793995940,
     "date_updated": 1794006534,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -46677,46 +46974,6 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
-    ]
-  },
-  {
-    "company_name": "The New York Times",
-    "title": "Android Engineering Intern",
-    "url": "https://go.vansh.nyc/1l6",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793996546,
-    "date_updated": 1793997386,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "The New York Times",
-    "title": "iOS Engineering Intern",
-    "url": "https://go.vansh.nyc/1l8",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793996546,
-    "date_updated": 1793997386,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -47998,7 +48255,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793923200,
     "date_updated": 1793978493,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -48313,26 +48570,6 @@
       "vanshb03-2026",
       "vanshb03-2027",
       "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "The New York Times",
-    "title": "Interactive News Engineering Intern",
-    "url": "https://go.vansh.nyc/1km",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793976576,
-    "date_updated": 1793977596,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -48784,7 +49021,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793400655,
     "date_updated": 1793961581,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -57895,7 +58132,7 @@
     "category": "Software",
     "date_posted": 1793266442,
     "date_updated": 1793806766,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -59308,7 +59545,7 @@
   },
   {
     "company_name": "Palantir Technologies",
-    "title": "Software Engineer, Intern - Connectivity Platform and Product",
+    "title": "Software Engineer, Internship - Connectivity Platform and Product",
     "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
     "locations": [
       "New York City, NY"
@@ -71865,26 +72102,6 @@
     ],
     "category": "Other",
     "date_posted": 1789151972,
-    "date_updated": 1793526799,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Antares",
-    "title": "Reactor Software Engineering Intern",
-    "url": "https://go.vansh.nyc/17z",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1789538706,
     "date_updated": 1793526799,
     "active": true,
     "is_visible": true,
@@ -102645,26 +102862,6 @@
     ]
   },
   {
-    "company_name": "Medpace",
-    "title": "Python Intern",
-    "url": "https://go.vansh.nyc/Q8",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "terms": [
-      "Spring"
-    ],
-    "category": "Other",
-    "date_posted": 1787582481,
-    "date_updated": 1793027048,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Aerospace Corporation",
     "title": "Semiconductor Engineering Intern",
     "url": "https://go.vansh.nyc/Q9",
@@ -116376,6 +116573,25 @@
     ]
   },
   {
+    "company_name": "Intropic",
+    "title": "Quantrepreneur Intern - Engineering",
+    "url": "https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software",
+    "date_posted": 1790932021,
+    "date_updated": 1792745406,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Lawrence Livermore National Laboratory (LLNL)",
     "title": "Explainable AI Intern - Postdoctoral Researcher",
     "url": "https://jobs.smartrecruiters.com/LLNL/3743990014567496",
@@ -126167,26 +126383,6 @@
     ]
   },
   {
-    "company_name": "Illumio",
-    "title": "Engineering Intern, Product Security",
-    "url": "https://go.vansh.nyc/cO",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1792531848,
-    "date_updated": 1792535448,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Sony",
     "title": "Research Engineer Intern, Ethical Creative and Protective AI Lab",
     "url": "https://go.vansh.nyc/cP",
@@ -131998,44 +132194,6 @@
     ]
   },
   {
-    "company_name": "Inversion",
-    "title": "Vehicle Software Engineer - Summer Internship 2027",
-    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005",
-    "locations": [
-      "Playa Vista, CA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792368000,
-    "date_updated": 1792368000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Inversion",
-    "title": "AI & Internal Tools Software Engineer - Summer Internship 2027",
-    "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745076005",
-    "locations": [
-      "Playa Vista, CA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792368000,
-    "date_updated": 1792368000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "National Information Solutions Cooperative (NISC)",
     "title": "Intern - Application Analyst (Financials Software)",
     "url": "https://job-boards.greenhouse.io/nisc/jobs/8301304",
@@ -133293,26 +133451,6 @@
     "url": "https://go.vansh.nyc/9d",
     "locations": [
       "New York, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791961200,
-    "date_updated": 1792261427,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Kensington",
-    "title": "Analytics Intern",
-    "url": "https://go.vansh.nyc/9e",
-    "locations": [
-      "Toronto, ON"
     ],
     "terms": [
       "Summer"
@@ -138396,7 +138534,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792022400,
     "date_updated": 1792074460,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -142370,7 +142508,7 @@
     "category": "Software",
     "date_posted": 1791929698,
     "date_updated": 1791930131,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -146638,7 +146776,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791504000,
     "date_updated": 1791594721,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -151373,7 +151511,7 @@
     "category": "Software",
     "date_posted": 1791412056,
     "date_updated": 1791413397,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -159655,7 +159793,7 @@
     "category": "Software",
     "date_posted": 1791158400,
     "date_updated": 1791238737,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -163852,7 +163990,7 @@
     "category": "Hardware",
     "date_posted": 1790899200,
     "date_updated": 1790979503,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -183282,7 +183420,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -226573,7 +226711,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788480000,
     "date_updated": 1788533535,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -260491,7 +260629,7 @@
     "category": "Software",
     "date_posted": 1787582481,
     "date_updated": 1787582538,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -273174,6 +273312,25 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
+    ]
+  },
+  {
+    "company_name": "Dmg Media",
+    "title": "AI Engineer Intern - Innovation Team",
+    "url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1786728035,
+    "date_updated": 1786728270,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
     ]
   },
   {
@@ -304117,7 +304274,7 @@
     "category": "Software",
     "date_posted": 1783980957,
     "date_updated": 1783982881,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -337389,7 +337546,7 @@
     "category": "Software",
     "date_posted": 1779325605,
     "date_updated": 1779325940,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -359878,6 +360035,25 @@
     "category": "Software",
     "date_posted": 1777068402,
     "date_updated": 1777068974,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Copart",
+    "title": "Technology Product Analyst Intern",
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108712",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Product",
+    "date_posted": 1777068424,
+    "date_updated": 1777068972,
     "active": false,
     "is_visible": true,
     "_sources": [
@@ -398445,44 +398621,6 @@
     "category": "Software",
     "date_posted": 1774303389,
     "date_updated": 1774303389,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Copart",
-    "title": "Technology Product Analyst Intern",
-    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1774277685,
-    "date_updated": 1774277685,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Dmg Media",
-    "title": "AI Engineer Intern - Innovation Team",
-    "url": "https://www.dmgmedia.co.uk/careers/jobs/id/7739047?gh_jid=7739047",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774276369,
-    "date_updated": 1774276369,
     "active": false,
     "is_visible": true,
     "_sources": [
