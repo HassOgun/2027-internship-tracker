@@ -1,4 +1,4 @@
-# Product Management (314)
+# Product Management (312)
 
 [← back to index](../README.md)
 
@@ -7,7 +7,6 @@
 | [Lucid](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 | 1 | simplify-2026 |
 | [Lucid](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Product Management Intern | Raleigh, NC | Summer 2027 | 2026-11-18 | 1 | simplify-2026 |
 | [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009) | Product Intern | London, UK | Summer 2027 | 2026-11-18 | 1 | simplify-2026 |
-| [Smarty](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) | Product Management Intern | Orem, UT | Winter 2027, Spring 2027, Summer 2027 | 2026-11-18 | 1 | simplify-2026 |
 | [Lucid Software](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Product Management Internship - Summer 2027 | Salt Lake City, UT | Summer 2027 | 2026-11-18 | 1 | applyguy-2027 |
 | [Lucid Software](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Product Management Internship - Summer 2027 | Raleigh, NC | Summer 2027 | 2026-11-18 | 1 | applyguy-2027 |
 | [Uber](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) | Product Management Intern | SF | Summer 2027 | 2026-11-17 | 2 | simplify-2026 |
@@ -243,7 +242,6 @@
 | [TikTok](https://lifeattiktok.com/search/7677493272788683013) | AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem | San Jose, CA | Summer 2027 | 2026-09-03 | 77 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) | Global Product Management Intern - Conferencing | Niles, IL | Summer 2027 | 2026-09-03 | 77 | simplify-2026 |
 | [Shure](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) | Global Product Management Data Intern | Niles, IL | Summer 2027 | 2026-09-03 | 77 | simplify-2026 |
-| [Atlassian](https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job) | Product Management Intern | SF | Summer 2027 | 2026-09-02 | 78 | simplify-2026 |
 | [Hewlett Packard](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1) | Quality Engineer Intern | Spring, TX | Winter 2026 | 2026-09-02 | 78 | simplify-2026 |
 | [Allied Solutions](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | Product Management Intern - Risk Management | St Paul, MN | Summer 2027 | 2026-09-02 | 78 | simplify-2026 |
 | [American Express](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605) | Product Development Intern - 2027 Product Development - US Consumer Services | NYC | Summer 2027 | 2026-09-01 | 79 | simplify-2026 |
