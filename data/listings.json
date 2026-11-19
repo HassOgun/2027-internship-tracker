@@ -1,5 +1,418 @@
 [
   {
+    "company_name": "The Aerospace Corporation",
+    "title": "Sensor Modeling and Simulation Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Undergrad-Intern_R016876",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Hardware",
+    "date_posted": 1791936000,
+    "date_updated": 1795097726,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Susquehanna International Group",
+    "title": "Technology Co-op",
+    "url": "https://go.vansh.nyc/9A",
+    "locations": [
+      "Remote (US)"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791961200,
+    "date_updated": 1795096109,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Little Caesars Enterprises",
+    "title": "Portfolio IT Intern",
+    "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Portfolio-IT_R9716",
+    "locations": [
+      "Detroit, MI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794441600,
+    "date_updated": 1795095742,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Procter & Gamble (P&G)",
+    "title": "IT Security Intern",
+    "url": "https://go.vansh.nyc/OT",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1790765211,
+    "date_updated": 1795090656,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Analog Devices",
+    "title": "Information Technology Intern",
+    "url": "https://go.vansh.nyc/Q2",
+    "locations": [
+      "Wilmington, MA",
+      "Camas, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1789539533,
+    "date_updated": 1795090656,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Schneider Electric",
+    "title": "Offer Management Intern",
+    "url": "https://se.jibeapply.com/jobs/141204?icims=1&lang=en-us",
+    "locations": [
+      "Boston, MA",
+      "Foxborough, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Product",
+    "date_posted": 1794934020,
+    "date_updated": 1795084204,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Crystal Dynamics",
+    "title": "Game Design Intern",
+    "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Spring 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1793040388,
+    "date_updated": 1795084024,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Corteva",
+    "title": "R&D Intern, Computer & Data Science",
+    "url": "https://go.vansh.nyc/1yB",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1794578797,
+    "date_updated": 1795076366,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Eridu AI",
+    "title": "ASIC Architecture Intern",
+    "url": "https://ats.rippling.com/eridu-ai/jobs/681e2e82-20b9-4145-b235-38196a64097f",
+    "locations": [
+      "Saratoga, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Hardware",
+    "date_posted": 1795074936,
+    "date_updated": 1795075038,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Bose",
+    "title": "Software Engineer Co-op",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "terms": [
+      "Spring 2027"
+    ],
+    "category": "Hardware",
+    "date_posted": 1794960000,
+    "date_updated": 1795075023,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Carnegie Mellon University",
+    "title": "AI Engineer Intern - Mission Innovation Lab",
+    "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794787200,
+    "date_updated": 1795074697,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "MakerMaker",
+    "title": "Research Intern",
+    "url": "https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795046400,
+    "date_updated": 1795074485,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Idaho National Laboratory",
+    "title": "Cybersecurity Vulnerability Assessment Intern",
+    "url": "https://go.vansh.nyc/1xM",
+    "locations": [
+      "Idaho Falls, ID"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794441600,
+    "date_updated": 1795072632,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Idaho National Laboratory",
+    "title": "Cybersecurity Operations Intern",
+    "url": "https://go.vansh.nyc/1Am",
+    "locations": [
+      "Idaho Falls, ID"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794787200,
+    "date_updated": 1795072632,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Lockheed Martin",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1CG",
+    "locations": [
+      "Owego, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795061517,
+    "date_updated": 1795061697,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Bread Financial",
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1CF",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795059890,
+    "date_updated": 1795061450,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Workstream",
+    "title": "Full Stack Engineer Intern",
+    "url": "https://go.vansh.nyc/1CE",
+    "locations": [
+      "Vancouver, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795053901,
+    "date_updated": 1795057534,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Meta",
+    "title": "Research Scientist Intern - Physics-Grounded Multimodal Robot Learning",
+    "url": "https://www.metacareers.com/jobs/994911809842621",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795055981,
+    "date_updated": 1795056141,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Toyota Research Institute",
+    "title": "Robotics Intern - Generalist Robot Learning",
+    "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply",
+    "locations": [
+      "Los Altos, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795055263,
+    "date_updated": 1795055406,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Altera",
+    "title": "FPGA Development Tools Intern",
+    "url": "https://go.vansh.nyc/10V",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793385719,
+    "date_updated": 1795054867,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Workstream",
+    "title": "Full Stack Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1795053901,
+    "date_updated": 1795054690,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Micron Technology",
     "title": "Product Yield Software Engineer Intern",
     "url": "https://go.vansh.nyc/VP",
@@ -722,6 +1135,25 @@
     ]
   },
   {
+    "company_name": "Mytra",
+    "title": "Software Engineer Intern",
+    "url": "https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292",
+    "locations": [
+      "Brisbane, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1795043849,
+    "date_updated": 1795043929,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Kira Learning",
     "title": "Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true",
@@ -1052,26 +1484,6 @@
     "date_posted": 1792792214,
     "date_updated": 1795038457,
     "active": false,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Bose",
-    "title": "Software Engineer Co-op",
-    "url": "https://go.vansh.nyc/1Cq",
-    "locations": [
-      "Framingham, MA"
-    ],
-    "terms": [
-      "Spring"
-    ],
-    "category": "Other",
-    "date_posted": 1795034568,
-    "date_updated": 1795038048,
-    "active": true,
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
@@ -1750,7 +2162,7 @@
     "category": "Software",
     "date_posted": 1794960000,
     "date_updated": 1795016902,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -1829,7 +2241,7 @@
     "category": "Software",
     "date_posted": 1794787200,
     "date_updated": 1795015842,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -2533,6 +2945,25 @@
     ]
   },
   {
+    "company_name": "Boseallaboutme",
+    "title": "Software Engineer Co-op",
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
+    "locations": [
+      "MA, Framingham"
+    ],
+    "terms": [
+      "Co-op"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794960000,
+    "date_updated": 1794960000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Cirrus Logic",
     "title": "2027 Internship - Software Engineer (AI/ML)",
     "url": "https://jobs.eu.lever.co/cirrus/c5c67b95-e487-470b-97db-4c84e78e7f61",
@@ -2636,6 +3067,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794960000,
+    "date_updated": 1794960000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Samsung Semiconductor",
+    "title": "Intern, SSD Firmware Engineer",
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794960000,
@@ -2754,7 +3204,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794959432,
     "date_updated": 1794959504,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -9243,26 +9693,6 @@
     ]
   },
   {
-    "company_name": "Idaho National Laboratory",
-    "title": "Cybersecurity Operations Intern",
-    "url": "https://go.vansh.nyc/1Am",
-    "locations": [
-      "Idaho Falls, ID"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794787200,
-    "date_updated": 1794856100,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "M3 USA",
     "title": "Quality Engineering Intern, SDET",
     "url": "https://go.vansh.nyc/1An",
@@ -12821,7 +13251,7 @@
     "category": "Software",
     "date_posted": 1794528000,
     "date_updated": 1794699542,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -18365,26 +18795,6 @@
     ]
   },
   {
-    "company_name": "Corteva",
-    "title": "R&D Intern, Computer & Data Science",
-    "url": "https://go.vansh.nyc/1yB",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1794578797,
-    "date_updated": 1794578947,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "WTW",
     "title": "Early Careers: Data Analyst Internship",
     "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277",
@@ -20210,7 +20620,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794441600,
     "date_updated": 1794536822,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -21010,7 +21420,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794441600,
     "date_updated": 1794526933,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -21503,7 +21913,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794441600,
     "date_updated": 1794525564,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -21619,7 +22029,7 @@
     "category": "Hardware",
     "date_posted": 1794441600,
     "date_updated": 1794525523,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -22053,26 +22463,6 @@
     "url": "https://go.vansh.nyc/1xL",
     "locations": [
       "Detroit, MI"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794441600,
-    "date_updated": 1794525009,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Idaho National Laboratory",
-    "title": "Cybersecurity Vulnerability Assessment Intern",
-    "url": "https://go.vansh.nyc/1xM",
-    "locations": [
-      "Idaho Falls, ID"
     ],
     "terms": [
       "Summer"
@@ -24511,7 +24901,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794493080,
     "date_updated": 1794496360,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -25002,7 +25392,7 @@
     "category": "Software",
     "date_posted": 1794441600,
     "date_updated": 1794484305,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -50398,7 +50788,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793977618,
     "date_updated": 1793977745,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -54893,7 +55283,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793836800,
     "date_updated": 1793891529,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -56893,7 +57283,7 @@
     "category": "Hardware",
     "date_posted": 1793864885,
     "date_updated": 1793866304,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -60156,7 +60546,7 @@
     "category": "Software",
     "date_posted": 1793266442,
     "date_updated": 1793806766,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -64626,7 +65016,7 @@
     "category": "Product",
     "date_posted": 1793720864,
     "date_updated": 1793720927,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -65220,7 +65610,7 @@
     "category": "Software",
     "date_posted": 1793692077,
     "date_updated": 1793692134,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -68869,7 +69259,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793660698,
     "date_updated": 1793661001,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -68888,7 +69278,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793660698,
     "date_updated": 1793660998,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -68947,7 +69337,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793660697,
     "date_updated": 1793660955,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -81440,26 +81830,6 @@
     "date_posted": 1792627200,
     "date_updated": 1793385822,
     "active": false,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Altera",
-    "title": "FPGA Development Tools Intern",
-    "url": "https://go.vansh.nyc/10V",
-    "locations": [
-      "Toronto, Canada"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793385719,
-    "date_updated": 1793385742,
-    "active": true,
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
@@ -104461,27 +104831,6 @@
     ]
   },
   {
-    "company_name": "Analog Devices",
-    "title": "Information Technology Intern",
-    "url": "https://go.vansh.nyc/Q2",
-    "locations": [
-      "Wilmington, MA",
-      "Camas, WA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1789539533,
-    "date_updated": 1793027048,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "EHC",
     "title": "Data Management Intern",
     "url": "https://go.vansh.nyc/Q3",
@@ -104722,26 +105071,6 @@
     ],
     "category": "Other",
     "date_posted": 1788134400,
-    "date_updated": 1793025930,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Procter & Gamble (P&G)",
-    "title": "IT Security Intern",
-    "url": "https://go.vansh.nyc/OT",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1790765211,
     "date_updated": 1793025930,
     "active": true,
     "is_visible": true,
@@ -118032,6 +118361,25 @@
     ]
   },
   {
+    "company_name": "TikTok",
+    "title": "Product Manager Project Intern - GMPT Sales and Operations Management Platform",
+    "url": "https://lifeattiktok.com/search/7620569902743406901",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Product",
+    "date_posted": 1792631843,
+    "date_updated": 1792748705,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Marmon Holdings",
     "title": "Data Engineering Intern/Co-op",
     "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453",
@@ -130863,7 +131211,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792449291,
     "date_updated": 1792449433,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -134864,26 +135212,6 @@
     ]
   },
   {
-    "company_name": "Susquehanna International Group",
-    "title": "Technology Co-op",
-    "url": "https://go.vansh.nyc/9A",
-    "locations": [
-      "Remote (US)"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791961200,
-    "date_updated": 1792261427,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Ardian",
     "title": "Data Scientist Intern",
     "url": "https://go.vansh.nyc/9B",
@@ -136593,7 +136921,7 @@
     "category": "Quant",
     "date_posted": 1792108800,
     "date_updated": 1792190359,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -139409,7 +139737,7 @@
     "category": "Product",
     "date_posted": 1792101724,
     "date_updated": 1792101914,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -145257,7 +145585,7 @@
     "category": "Software",
     "date_posted": 1791763200,
     "date_updated": 1791871896,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -153596,7 +153924,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791410712,
     "date_updated": 1791411496,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -158742,7 +159070,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791158400,
     "date_updated": 1791268024,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -164749,7 +165077,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790899200,
     "date_updated": 1790980196,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -168878,7 +169206,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789510813,
     "date_updated": 1790847725,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -172509,7 +172837,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790640000,
     "date_updated": 1790721321,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -176280,7 +176608,7 @@
     "category": "Software",
     "date_posted": 1790374048,
     "date_updated": 1790374145,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -179634,7 +179962,7 @@
     "category": "Hardware",
     "date_posted": 1790121600,
     "date_updated": 1790212681,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -183928,7 +184256,7 @@
     "category": "Hardware",
     "date_posted": 1790086789,
     "date_updated": 1790087036,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -184406,7 +184734,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -184852,7 +185180,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789948800,
     "date_updated": 1790039521,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -188266,7 +188594,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789689600,
     "date_updated": 1789814233,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -188597,7 +188925,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789771037,
     "date_updated": 1789771492,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -199960,7 +200288,7 @@
     "category": "Hardware",
     "date_posted": 1789430400,
     "date_updated": 1789482070,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -233027,7 +233355,7 @@
     "category": "Hardware",
     "date_posted": 1782562336,
     "date_updated": 1788456622,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -237405,7 +237733,7 @@
     "category": "Hardware",
     "date_posted": 1787964321,
     "date_updated": 1788413227,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -246517,7 +246845,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788253875,
     "date_updated": 1788254022,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -262653,7 +262981,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1787356800,
     "date_updated": 1787393882,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -290128,7 +290456,7 @@
     "category": "Software",
     "date_posted": 1782561628,
     "date_updated": 1785598516,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -293158,7 +293486,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1785287725,
     "date_updated": 1785287881,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -378159,6 +378487,25 @@
     ]
   },
   {
+    "company_name": "Cotiviti",
+    "title": "Intern \u2013 Agentic AI Research",
+    "url": "https://careers-cotiviti.icims.com/jobs/18817/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1775743827,
+    "date_updated": 1775745376,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Stellant Systems",
     "title": "Engineering Intern",
     "url": "https://careers-stellantsystems.icims.com/jobs/2037/job?mobile=true&needsRedirect=false",
@@ -397984,139 +398331,6 @@
     "category": "Software",
     "date_posted": 1774363536,
     "date_updated": 1774363536,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "TikTok",
-    "title": "Data Analyst Project Intern - Data Science",
-    "url": "https://lifeattiktok.com/search/7620775575152462085",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774362530,
-    "date_updated": 1774362530,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Roku",
-    "title": "Security Researcher Intern - Trust Engineering",
-    "url": "https://www.weareroku.com/jobs/7745675?gh_jid=7745675",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774362015,
-    "date_updated": 1774362015,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Cotiviti",
-    "title": "Intern \u2013 Agentic AI Research",
-    "url": "https://careers-cotiviti.icims.com/jobs/18706/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774361329,
-    "date_updated": 1774361329,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Applied Materials",
-    "title": "Computer Science and Algorithms Intern",
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2026-Summer-Computer-Science-and-Algorithms-Intern--Bachelors---Austin--TX-_R2615685",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774346651,
-    "date_updated": 1774346651,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "American Rare Earths",
-    "title": "AI Engineer Intern",
-    "url": "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774342002,
-    "date_updated": 1774342002,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "TikTok",
-    "title": "Product Manager Project Intern",
-    "url": "https://lifeattiktok.com/search/7620569902743406901",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Product",
-    "date_posted": 1774341892,
-    "date_updated": 1774341892,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "IBM",
-    "title": "Application Developer Intern - Oracle Middleware",
-    "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=89833",
-    "locations": [
-      "Baton Rouge, LA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774341770,
-    "date_updated": 1774341770,
     "active": false,
     "is_visible": true,
     "_sources": [
