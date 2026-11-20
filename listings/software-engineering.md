@@ -1,4 +1,4 @@
-# Software Engineering (1671)
+# Software Engineering (1665)
 
 [← back to index](../README.md)
 
@@ -667,7 +667,6 @@
 | [Waymo](https://careers.withwaymo.com/jobs?gh_jid=8287385) | 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency | Mountain View, CA | Summer 2027 | 2026-10-23 | 28 | applyguy-2027 |
 | [Wegmans](https://wegmans.wd1.myworkdayjobs.com/wegmans/job/Crofton/Assistant-Front-End-Manager-Trainee_R0300905) | Assistant Front End Manager Trainee | Crofton, MD | Not specified | 2026-10-23 | 28 | applyguy-2027 |
 | [Palantir](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb/apply) | Forward Deployed Software Engineer Intern - Warp Speed | NYC | N/A | 2026-10-22 | 29 | simplify-2026 |
-| [Westinghouse Electric Company](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors) | Software Engineering Intern | Warrendale, PA | Summer 2027 | 2026-10-22 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [OpenSesame](https://boards.greenhouse.io/opensesame/jobs/8313424) | AI Product Builder Intern | Austin, TX | N/A | 2026-10-22 | 29 | simplify-2026 |
 | [Skydio](https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd) | Frontend Software Engineer Intern | San Mateo, CA | Summer 2027 | 2026-10-22 | 29 | simplify-2026, vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [Twitch](https://job-boards.greenhouse.io/twitch/jobs/8886748002) | Undergrad Software Engineering Intern | SF | Summer 2028 | 2026-10-22 | 29 | simplify-2026 |
@@ -722,7 +721,6 @@
 | [Constellation Energy](https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us) | IT Development Intern | San Diego, CA | Summer 2027 | 2026-10-21 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [SDSU Research Foundation](https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false) | Computer Science Intern | San Diego, CA | N/A | 2026-10-21 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Uber](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) | Software Engineer Intern | Seattle, WA, SF, Sunnyvale, CA | N/A | 2026-10-21 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [IDEMIA North America](https://uscareers-idemia.icims.com/jobs/8707/full-stack-software-engineering-internship/job) | Full Stack Software Engineering Internship | Reston, VA | Not specified | 2026-10-21 | 30 | applyguy-2027 |
 | [Sierraspace](https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456) | Summer 2027 Flight Software Engineer Intern | Louisville, CO | Summer 2027 | 2026-10-21 | 30 | applyguy-2027 |
 | [DriveWealth](https://boards.greenhouse.io/drivewealth/jobs/8038087003) | AI Consulting Associate Program Product Owner Intern | Chicago, IL, NYC | Summer 2027 | 2026-10-20 | 31 | simplify-2026 |
 | [DriveWealth](https://boards.greenhouse.io/drivewealth/jobs/8039350003) | AI Consulting Associate Program – AI Engineer Intern | Chicago, IL, NYC | Summer 2027 | 2026-10-20 | 31 | simplify-2026 |
@@ -906,7 +904,6 @@
 | [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) | AI Engineering ERP Intern | Cary, NC | Summer 2027 | 2026-10-06 | 45 | simplify-2026 |
 | [ABB](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) | AI Engineering Intern - Business Systems | Cary, NC | Summer 2027 | 2026-10-06 | 45 | simplify-2026 |
 | [AeroVironment](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993) | Hypersonic RF Software Engineer Intern | Germantown, MD | Summer 2026 | 2026-10-06 | 45 | simplify-2026 |
-| [Procter & Gamble](https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/IT-Technical-Specialist-Industrial-Placement-2027_R000160302) | IT Technical Specialist Intern | Newcastle upon Tyne, UK | Summer 2027 | 2026-10-06 | 45 | simplify-2026 |
 | [IDEMIA](https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&needsRedirect=false) | Software Engineer Intern | Reston, VA | Summer 2027 | 2026-10-05 | 46 | simplify-2026 |
 | [Dayton Freight Lines](https://careers-daytonfreight.icims.com/jobs/18278/job?mobile=true&needsRedirect=false) | Business Intelligence Intern | Dayton, OH | N/A | 2026-10-05 | 46 | simplify-2026 |
 | [General Dynamics Mission Systems](https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false) | Software Engineer Intern - CWL | Manassas, VA | Summer 2027 | 2026-10-05 | 46 | simplify-2026 |
@@ -918,7 +915,6 @@
 | [Expedia Group](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306) | Mobile Engineer Intern | Seattle, WA, Austin, TX, San Jose, CA | Summer 2027 | 2026-10-05 | 46 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865) | Software Engineer Apprentice | Templecombe, UK | Fall 2027 | 2026-10-05 | 46 | simplify-2026 |
 | [Thales](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863) | Software Engineering Apprentice | Cheadle, UK | Summer 2027 | 2026-10-05 | 46 | simplify-2026 |
-| [DocuSign](https://careers.docusign.com/jobs/30464?icims=1) | Software Engineer Intern - Self-Service Directory Diagnostics | Seattle, WA | N/A | 2026-10-04 | 47 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54388?icims=1) | R&D Software Engineering Intern | Atlanta, GA | Winter 2026 | 2026-10-03 | 48 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Databricks](https://boards.greenhouse.io/embed/job_app?token=8847738002) | Software Engineer Intern | London, UK | Summer 2027 | 2026-10-02 | 49 | simplify-2026 |
 | [Arc](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008) | Software Engineer Intern | Torrance, CA | Summer 2027 | 2026-10-02 | 49 | simplify-2026, vanshb03-2026, vanshb03-2027 |
@@ -1055,7 +1051,6 @@
 | [IQT](https://careers-iqt.icims.com/jobs/1457/job?mobile=true&needsRedirect=false) | Engineering Intern - Rapid Prototyping Group | McLean, VA | Spring 2026 | 2026-09-21 | 60 | simplify-2026 |
 | [Multimatic](https://multimatic.wd10.myworkdayjobs.com/MMEC/job/East-Gwillimbury-Ontario/Application-Engineering-Co-op_JR103259) | Application Engineering Co-op | East Gwillimbury, ON, Canada | N/A | 2026-09-21 | 60 | simplify-2026 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546) | Software Engineer Intern - Digital Product: Software Engineering | Austin, TX, Milford, MI, Mountain View, CA, Warren, MI | Summer 2027 | 2026-09-21 | 60 | simplify-2026 |
-| [CAE](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658) | Software Developer Intern - Content Creation Tools | Montreal, QC, Canada | N/A | 2026-09-21 | 60 | simplify-2026 |
 | [Symbotic](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963) | Software Engineer | Wilmington, MA | N/A | 2026-09-21 | 60 | simplify-2026 |
 | [G-Research](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Software-Engineering-Intern_R3746) | Software Engineer Intern | London, UK | Summer 2027 | 2026-09-21 | 60 | simplify-2026 |
 | [NERv Technology Inc. D.B.A. FluidAI Medical](https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52) | Data and AI Engineering Associate | Kitchener, ON, Canada | N/A | 2026-09-18 | 63 | simplify-2026 |
@@ -1076,7 +1071,6 @@
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/54888/job?mobile=true&needsRedirect=false) | Full-Stack Software Engineering Intern | Richardson, TX | Winter 2026 | 2026-09-17 | 64 | simplify-2026 |
 | [Newell Brands](https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors) | Sales AI & Analytics Developer Intern | Huntersville, NC | Summer 2027 | 2026-09-17 | 64 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Honeywell](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088) | Software Engineer Co-op | Pittsford, NY | Spring 2027, Summer 2027 | 2026-09-17 | 64 | simplify-2026 |
-| [GM financial](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831) | Software Engineer Intern | Arlington, TX | Summer 2026 | 2026-09-17 | 64 | simplify-2026 |
 | [Bitmovin](https://bitmovin.com/careers/8660599002?gh_jid=8660599002) | Technical Graduate Intern | Denver, CO | N/A | 2026-09-17 | 64 | simplify-2026 |
 | [Keysight Technologies](https://jobs.keysight.com/jobs/54329?icims=1) | Software Engineer Intern | Santa Rosa, CA | Winter 2026 | 2026-09-17 | 64 | simplify-2026 |
 | [ACI Worldwide](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943) | Technology Intern | Norcross, GA | Summer 2027 | 2026-09-17 | 64 | simplify-2026 |
@@ -1260,7 +1254,6 @@
 | [Powertown](https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b/application?embed=true) | Forward Deployed Engineer Intern | Boston, MA | N/A | 2026-09-05 | 76 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Powertown](https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b/application?embed=true) | Machine Learning Engineer Intern | Boston, MA | N/A | 2026-09-05 | 76 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [ENFOS](https://apply.workable.com/enfos-inc/j/CA15908E0A/apply) | Software Engineer Intern - Summer 2027 | Durham, NC | Summer 2027 | 2026-09-04 | 77 | simplify-2026 |
-| [Zipline](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) | Aircraft Software Integration Intern | South SF | Summer 2027 | 2026-09-04 | 77 | simplify-2026 |
 | [Scale AI](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | Software Engineer Intern - Summer 2027 | SF | Summer 2027 | 2026-09-04 | 77 | simplify-2026 |
 | [General Dynamics UK](https://jobs.smartrecruiters.com/GDMSI/744000147583700) | Software Engineering Co-op - 4 months - 8 months | Cole Harbour, NS, Canada | Winter 2027 | 2026-09-04 | 77 | simplify-2026 |
 | [Garmin](https://careers.garmin.com/jobs/20080?icims=1) | Software Engineer Intern - Aviation Web Development | Middlebury, CT | Winter 2026 | 2026-09-04 | 77 | simplify-2026 |
@@ -1307,6 +1300,7 @@
 | [Genuine Parts Company](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238) | Web Developer Intern | Birmingham, AL | Summer 2026 | 2026-09-02 | 79 | simplify-2026 |
 | [Lennox International](https://uscareers-lennox.icims.com/jobs/54691/job?mobile=true&needsRedirect=false) | Mobile Applications Intern | Richardson, TX | Winter 2026 | 2026-09-01 | 80 | simplify-2026 |
 | [Kinder Morgan](https://careers.kindermorgan.com/jobs/6032?icims=1) | Information Technology Intern - Application Development | Houston, TX | Summer 2027 | 2026-09-01 | 80 | simplify-2026 |
+| [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4709040006) | Backend Developer Intern | NYC | Summer 2027 | 2026-09-01 | 80 | simplify-2026 |
 | [Hermeus](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply) | Software Engineer Intern - Modeling & Simulation - Multiple Teams | LA | Spring 2027, Summer 2027 | 2026-09-01 | 80 | simplify-2026 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59564?icims=1) | Software Developer Intern - Tactical System Prototyping and Deployment | Laurel, MD | Summer 2027 | 2026-09-01 | 80 | simplify-2026 |
 | [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/59832?icims=1) | Engineer/Analyst/Scientist Intern - C2 Resilience Sciences | Laurel, MD | Summer 2027 | 2026-09-01 | 80 | simplify-2026 |
