@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 675 relevant active records (before recommendation deduplication).
+**20 matches selected** from 674 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Bloomberg | Data Analyst Intern | Data / BI | Arlington, VA - 1801 S Bell (INDG) | Other Texas | 2026-11-17 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Data-Analyst-Intern_145487) |
 | 20 | Bloomberg Industry Group | Data Analyst Intern | Data / BI | Arlington, VA - 1801 S Bell (INDG) | Other Texas | 2026-11-17 | [Apply](https://bloomberg.wd1.myworkdayjobs.com/bloombergindustrygroup_external_career_site/job/arlington-va---1801-s-bell-indg/data-analyst-intern_145487) |
 
-*Generated 2026-11-20 14:25 UTC.*
+*Generated 2026-11-20 17:25 UTC.*
