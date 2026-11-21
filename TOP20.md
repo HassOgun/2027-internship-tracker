@@ -4,7 +4,7 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 688 relevant active records (before recommendation deduplication).
+**20 matches selected** from 685 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Mckesson | Business Analyst Intern, Product Performance – Summer 2027 | Business Analysis | Irving, TX, USA - 6555 North State Highway 161 (P001) | Other Texas | 2026-11-18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/irving-tx-usa---6555-north-state-highway-161-p001/business-analyst-intern--product-performance---summer-2027_jr0153111-1) |
 | 20 | Myhrabc | Intern,Technical Business Analyst / Product Owner | Business Analysis | Carrollton, TX | Other Texas | 2026-09-26 | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Intern-Technical-Business-Analyst---Product-Owner_R2613660) |
 
-*Generated 2026-11-21 01:57 UTC.*
+*Generated 2026-11-21 13:44 UTC.*
