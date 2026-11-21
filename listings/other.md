@@ -1,9 +1,10 @@
-# Other (3878)
+# Other (3880)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Fabri](https://go.vansh.nyc/1Gk) | DevOps, IT & Cybersecurity Intern | Billerica, MA | Summer | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Convverge](https://go.vansh.nyc/1Ga) | Junior Developer Co-op | Calgary, Canada | Winter | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/1Gd) | Technical Marketing Engineering Intern, Digital Biology and Scientific Computing | Santa Clara, CA | Summer | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1) | Summer 2027 Intern - Product Management | California - San Francisco |  | 2026-11-21 | 0 | dreamwork-2027 |
@@ -25,6 +26,7 @@
 | [Cigna](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | Analytics Leadership Development Program (ALDP) Summer Internship | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg |  | 2026-11-21 | 0 | dreamwork-2027 |
 | [Daikin Comfort](https://go.vansh.nyc/1FH) | Programmer Analyst Intern | Waller, TX | Summer | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Southwest Power Pool](https://go.vansh.nyc/1FI) | Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management | Little Rock, AR | Summer | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Advance Auto Parts](https://go.vansh.nyc/1Gi) | Data Science Intern | Raleigh, NC | Summer | 2026-11-21 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Mawer Investment Management](https://go.vansh.nyc/1FQ) | AI Engineer Student Intern | Calgary, Canada | Winter | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Mawer Investment Management](https://go.vansh.nyc/1FR) | AI Orchestrator Student Intern | Calgary, Canada | Winter | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Jobs Onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) | Spring 2027 - AI & Data Analytics Intern | Scottsdale, AZ, United States |  | 2026-11-20 | 1 | dreamwork-2027 |
@@ -170,6 +172,7 @@
 | [LLNL](https://jobs.smartrecruiters.com/LLNL/3743990016985486-computing-undergraduate-student-intern-devops-internship-program-summer-2027?oga=true) | Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 | Livermore, CA, United States |  | 2026-11-20 | 1 | dreamwork-2027 |
 | [Altera](https://go.vansh.nyc/1Et) | FPGA Software Engineer Intern | Toronto, Canada | Summer | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [CACI](https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437) | AWS Cloud Engineering Intern - Summer 2027 | Sarasota, FL, US |  | 2026-11-20 | 1 | dreamwork-2027 |
+| [Worthington Enterprises](https://go.vansh.nyc/1Gj) | AI Intern | Columbus, OH | Summer | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Idaho National Laboratory](https://go.vansh.nyc/1G6) | Spatial Computing Intern | Idaho Falls, ID | Summer | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Piper Sandler](https://go.vansh.nyc/1G3) | Equities Trading Technology Intern | Greenwich, CT | Summer | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Intuitive](https://go.vansh.nyc/1Fo) | Data Engineering Intern | Sunnyvale, CA | Summer | 2026-11-20 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -2758,7 +2761,6 @@
 | [Uscareeropenings Alliancelaundry](https://uscareeropenings-alliancelaundry.icims.com/jobs/13348/embedded-firmware-co-op/job) | Embedded Firmware Co-op | Ripon, WI, US |  | 2026-10-06 | 46 | dreamwork-2027 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820) | 2027 Summer Intern- ADAS Software Engineer, ADPT | 2 Locations |  | 2026-10-06 | 46 | dreamwork-2027 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Industrial-Design_JR-202621626) | Summer 2027 Intern - Industrial Design | Warren, Michigan, United States of America |  | 2026-10-06 | 46 | dreamwork-2027 |
-| [Moment Energy](https://go.vansh.nyc/F8) | Software Engineering Co-op | Surrey, Canada | Winter | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
 | [Tevora](https://go.vansh.nyc/Va) | Cybersecurity Intern, Threat | Irvine, CA, Fairfax, VA | Winter | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
 | [Tevora](https://go.vansh.nyc/V9) | Cybersecurity Intern, Solutions | Irvine, CA, Fairfax, VA | Winter | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |
 | [Tevora](https://go.vansh.nyc/H9) | Cybersecurity Intern, Systems and Organizations Controls (SOC) | Irvine, CA, Fairfax, VA | Winter | 2026-10-06 | 46 | vanshb03-2026, vanshb03-2027 |

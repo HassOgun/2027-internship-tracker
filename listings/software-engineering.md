@@ -1,4 +1,4 @@
-# Software Engineering (1669)
+# Software Engineering (1665)
 
 [← back to index](../README.md)
 
@@ -116,7 +116,6 @@
 | [Sedaro](https://sedarotech.bamboohr.com/careers/95/) | Compiler Intern - Simulator | Arlington County, Arlington, VA | N/A | 2026-11-17 | 4 | simplify-2026 |
 | [Sedaro](https://sedarotech.bamboohr.com/careers/97/) | Software Engineer Intern | Arlington County, Arlington, VA | N/A | 2026-11-17 | 4 | simplify-2026 |
 | [Critical Environment Technologies](https://cetci.bamboohr.com/careers/92/) | Computer Science Co-op | Delta, BC, Canada | N/A | 2026-11-17 | 4 | simplify-2026 |
-| [Angel Host](https://angelhost.bamboohr.com/careers/123/) | AI Product Engineer Intern Co-op | Montreal, QC, Canada | Winter 2026, Winter 2027 | 2026-11-17 | 4 | simplify-2026 |
 | [ECM Tek](https://ecmtek.bamboohr.com/careers/51/) | Developer Intern - Python Development | Nashville, TN | N/A | 2026-11-17 | 4 | simplify-2026 |
 | [Birdseye Security Solutions](https://birdseyeaccount.bamboohr.com/careers/286/) | Software Developer Intern | Mississauga, ON, Canada | N/A | 2026-11-17 | 4 | simplify-2026 |
 | [IPConfigure](https://ipconfigure.bamboohr.com/careers/71/) | Software Development for Video Surveillance Software Intern | Norfolk, VA | N/A | 2026-11-17 | 4 | simplify-2026 |
@@ -727,10 +726,7 @@
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371) | Linux Engineer Intern | Kanata, Ottawa, ON, Canada | N/A | 2026-10-22 | 30 | simplify-2026 |
 | [Aptiv](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370) | Linux Intern | Kanata, Ottawa, ON, Canada | N/A | 2026-10-22 | 30 | simplify-2026 |
 | [TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239) | Technology Intern | London, UK | Summer 2027 | 2026-10-22 | 30 | simplify-2026 |
-| [Palantir Technologies](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) | Forward Deployed Software Engineer, Internship - Warp Speed | New York City, NY | Not specified | 2026-10-22 | 30 | applyguy-2027 |
 | [The Hartford](https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648-1) | Tech & Data Program Summer 2027 – Data Engineer Intern (Charlotte) | Charlotte, NC | Summer 2027 | 2026-10-22 | 30 | applyguy-2027 |
-| [Ursa Major](https://ursamajor.com/careers/?gh_jid=4746827005) | 2027 Summer Software Development Intern | Berthoud, CO | Summer 2027 | 2026-10-22 | 30 | applyguy-2027 |
-| [Ursa Major](https://ursamajor.com/careers/?gh_jid=4746825005) | 2027 Summer Embedded Flight Software Intern | Longmont, CO | Summer 2027 | 2026-10-22 | 30 | applyguy-2027 |
 | [John Deere](https://johndeere.eightfold.ai/careers/job/137483990019) | Software Engineer Student Intern - Product Engineering | Cary, NC | N/A | 2026-10-21 | 31 | simplify-2026 |
 | [Verisk](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997) | Software Engineer Intern | Manchester, UK | Summer 2027 | 2026-10-21 | 31 | simplify-2026 |
 | [Aon](https://jobs.aon.com/jobs/110099?icims=1) | IT / AI Engineer Intern | Chicago, IL | Summer 2027 | 2026-10-21 | 31 | simplify-2026 |

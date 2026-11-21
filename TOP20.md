@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Teamworks | Product Management MBA Intern | Product | Remote in USA | US remote | 2026-10-30 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06) |
 | 20 | Mckesson | Business Analyst Intern, Product Performance – Summer 2027 | Business Analysis | Irving, TX, USA - 6555 North State Highway 161 (P001) | Other Texas | 2026-11-18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/irving-tx-usa---6555-north-state-highway-161-p001/business-analyst-intern--product-performance---summer-2027_jr0153111-1) |
 
-*Generated 2026-11-21 19:58 UTC.*
+*Generated 2026-11-21 21:57 UTC.*

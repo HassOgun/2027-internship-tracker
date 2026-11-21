@@ -1,5 +1,85 @@
 [
   {
+    "company_name": "Moment Energy",
+    "title": "Software Engineering Co-op",
+    "url": "https://go.vansh.nyc/F8",
+    "locations": [
+      "Surrey, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791248928,
+    "date_updated": 1795296017,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Worthington Enterprises",
+    "title": "AI Intern",
+    "url": "https://go.vansh.nyc/1Gj",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795132800,
+    "date_updated": 1795295744,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Fabri",
+    "title": "DevOps, IT & Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1Gk",
+    "locations": [
+      "Billerica, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795295451,
+    "date_updated": 1795295744,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Advance Auto Parts",
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/1Gi",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795219200,
+    "date_updated": 1795295126,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "First PREMIER Bank",
     "title": "Information Security Intern",
     "url": "https://go.vansh.nyc/1Gg",
@@ -21512,7 +21592,7 @@
     "category": "Software",
     "date_posted": 1794900400,
     "date_updated": 1794900447,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -117257,26 +117337,6 @@
     ]
   },
   {
-    "company_name": "Moment Energy",
-    "title": "Software Engineering Co-op",
-    "url": "https://go.vansh.nyc/F8",
-    "locations": [
-      "Surrey, Canada"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791248928,
-    "date_updated": 1793015500,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Mayo Clinic",
     "title": "AI/ML Intern, Radiation Oncology",
     "url": "https://go.vansh.nyc/Fa",
@@ -133384,68 +133444,11 @@
     ]
   },
   {
-    "company_name": "Palantir Technologies",
-    "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
-    "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
-    "locations": [
-      "New York City, NY"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792627200,
-    "date_updated": 1792627200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "The Hartford",
     "title": "Tech & Data Program Summer 2027 \u2013 Data Engineer Intern (Charlotte)",
     "url": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648-1",
     "locations": [
       "Charlotte, NC"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792627200,
-    "date_updated": 1792627200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Ursa Major",
-    "title": "2027 Summer Software Development Intern",
-    "url": "https://ursamajor.com/careers/?gh_jid=4746827005",
-    "locations": [
-      "Berthoud, CO"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792627200,
-    "date_updated": 1792627200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Ursa Major",
-    "title": "2027 Summer Embedded Flight Software Intern",
-    "url": "https://ursamajor.com/careers/?gh_jid=4746825005",
-    "locations": [
-      "Longmont, CO"
     ],
     "terms": [
       "Summer 2027"
@@ -222853,7 +222856,7 @@
     "category": "Hardware",
     "date_posted": 1788912000,
     "date_updated": 1788994192,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
