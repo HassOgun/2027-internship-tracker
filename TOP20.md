@@ -1,17 +1,17 @@
-# MIS Internship Top 20 — 2026-11-21
+# MIS Internship Top 20 — 2026-11-22
 
 Ranked by MIS role relevance, posting freshness, and location (Greater Houston, US remote, other Texas, then nationwide).
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 692 relevant active records (before recommendation deduplication).
+**20 matches selected** from 691 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| 1 | Group 1 Automotive | IT Intern | IT / Information Systems | Houston, TX | Houston area | 2026-11-07 | [Apply](https://go.vansh.nyc/1ms) |
-| 2 | Constellation Energy | Powerfolio Data Analyst Intern | Data / BI | Houston, TX | Houston area | 2026-11-20 | [Apply](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us) |
-| 3 | Texas A&M University 12th Man Foundation | Business Intelligence Intern (35276) | Data / BI | 756 Houston Street College Station, Texas, 77843 United States | Houston area | 2026-11-19 | [Apply](https://paycomonline.net/v4/ats/web.php/portal/36f789f3a540b36b502891bf80e0cea7/jobs/182402) |
-| 4 | Vibrantz Color Solutions | Intern - Business Intelligence | Data / BI | Houston, TX | Houston area | 2026-11-20 | [Apply](https://vibrantz.wd503.myworkdayjobs.com/vibrantzcareers/job/houston-tx/intern---business-intelligence_req269127) |
+| 1 | Constellation Energy | Powerfolio Data Analyst Intern | Data / BI | Houston, TX | Houston area | 2026-11-20 | [Apply](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us) |
+| 2 | Texas A&M University 12th Man Foundation | Business Intelligence Intern (35276) | Data / BI | 756 Houston Street College Station, Texas, 77843 United States | Houston area | 2026-11-19 | [Apply](https://paycomonline.net/v4/ats/web.php/portal/36f789f3a540b36b502891bf80e0cea7/jobs/182402) |
+| 3 | Vibrantz Color Solutions | Intern - Business Intelligence | Data / BI | Houston, TX | Houston area | 2026-11-20 | [Apply](https://vibrantz.wd503.myworkdayjobs.com/vibrantzcareers/job/houston-tx/intern---business-intelligence_req269127) |
+| 4 | Group 1 Automotive | IT Intern | IT / Information Systems | Houston, TX | Houston area | 2026-11-07 | [Apply](https://go.vansh.nyc/1ms) |
 | 5 | Kinder Morgan | Information Technology Intern - Application Development | IT / Information Systems | Houston, TX | Houston area | 2026-09-01 | [Apply](https://careers.kindermorgan.com/jobs/6032?icims=1) |
 | 6 | Kinder Morgan | Information Technology Intern, Application Development | IT / Information Systems | Houston, TX | Houston area | 2026-09-01 | [Apply](https://go.vansh.nyc/LX) |
 | 7 | AspenTech | Product Owner Intern - Product Management | Product | Houston, TX, Bedford, MA | Houston area | 2026-09-16 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) |
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Teamworks | Product Management MBA Intern | Product | Remote in USA | US remote | 2026-10-30 | [Apply](https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06) |
 | 20 | Mckesson | Business Analyst Intern, Product Performance – Summer 2027 | Business Analysis | Irving, TX, USA - 6555 North State Highway 161 (P001) | Other Texas | 2026-11-18 | [Apply](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/irving-tx-usa---6555-north-state-highway-161-p001/business-analyst-intern--product-performance---summer-2027_jr0153111-1) |
 
-*Generated 2026-11-21 21:57 UTC.*
+*Generated 2026-11-22 00:54 UTC.*
