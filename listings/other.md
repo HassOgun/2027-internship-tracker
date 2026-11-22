@@ -1,4 +1,4 @@
-# Other (3879)
+# Other (3881)
 
 [← back to index](../README.md)
 
@@ -26,6 +26,8 @@
 | [Cigna](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/Analytics-Leadership-Development-Program--ALDP--Summer-Internship_26010711) | Analytics Leadership Development Program (ALDP) Summer Internship | CT, Bloomfield, 900 Cottage Grove Rd Wilde Bldg |  | 2026-11-21 | 1 | dreamwork-2027 |
 | [Daikin Comfort](https://go.vansh.nyc/1FH) | Programmer Analyst Intern | Waller, TX | Summer | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Southwest Power Pool](https://go.vansh.nyc/1FI) | Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management | Little Rock, AR | Summer | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
+| [WGU](https://go.vansh.nyc/1Gm) | Technical Intern | Salt Lake City, UT | Summer | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Lumentum](https://go.vansh.nyc/1Gn) | AI Engineer Co-op | Ottawa, Canada | Winter | 2026-11-21 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Mawer Investment Management](https://go.vansh.nyc/1FQ) | AI Engineer Student Intern | Calgary, Canada | Winter | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Mawer Investment Management](https://go.vansh.nyc/1FR) | AI Orchestrator Student Intern | Calgary, Canada | Winter | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Jobs Onsemi](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010) | Spring 2027 - AI & Data Analytics Intern | Scottsdale, AZ, United States |  | 2026-11-20 | 2 | dreamwork-2027 |
