@@ -1,4 +1,4 @@
-# Other (3881)
+# Other (3878)
 
 [← back to index](../README.md)
 
@@ -149,7 +149,6 @@
 | [TMX Group](https://go.vansh.nyc/1FF) | DevOps Analyst Intern | Montreal, Canada | Winter | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Kudu Dynamics](https://go.vansh.nyc/1Eu) | Software Developer Intern | Fort Belvoir, VA | Summer | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [Nelnet](https://go.vansh.nyc/1Ev) | Data Analytics Intern | Lincoln, NE | Summer | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |
-| [Constellation Brands](https://go.vansh.nyc/1DX) | Data Science Intern | Rochester, NY | Summer | 2026-11-20 | 2 | vanshb03-2026, vanshb03-2027 |
 | [The Home Depot](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/product---engineering-co-op_req199630) | Product & Engineering Co-Op | STORE SUPPORT CENTER, ATLANTA - 9090 |  | 2026-11-20 | 2 | dreamwork-2027 |
 | [Johnson, Mirmiran & Thompson](https://jobs.silkroad.com/jmt/jmtcareers/jobs/16138) | Site Design Intern | 40 Wight Ave., Hunt Valley, MD |  | 2026-11-20 | 2 | dreamwork-2027 |
 | [German American Bank](https://jobs.lever.co/germanamerican/7f0fd853-ea4f-44f8-a885-bdd208858bbf) | Information Security Intern | Whitehall, OH |  | 2026-11-20 | 2 | dreamwork-2027 |
@@ -398,7 +397,6 @@
 | [Vibrantz Color Solutions](https://vibrantz.wd503.myworkdayjobs.com/vibrantzcareers/job/houston-tx/applied-ai---automation-intern_req269123) | Applied AI & Automation Intern | Houston, TX |  | 2026-11-18 | 4 | dreamwork-2027 |
 | [Strategic Mission Critical](https://boards.greenhouse.io/strategicmissioncritical/jobs/4510510009) | Virtual Design & Construction (VDC) Internship | Dallas, TX |  | 2026-11-18 | 4 | dreamwork-2027 |
 | [Lockheed Martin](https://lockheedmartin.eightfold.ai/careers/job/996477702525) | Electrical Engineering Circuit Card Assembly (CCA) Design Intern | Orlando, FL |  | 2026-11-18 | 4 | dreamwork-2027 |
-| [Viavi Solutions](https://go.vansh.nyc/1Ci) | Robotics Intern | Bothell, WA | Summer | 2026-11-18 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Scotiabank](https://go.vansh.nyc/1Ch) | Global Analytic Financial Engineering (GAFE) Co-op, Global Banking and Markets | Toronto, Canada | Summer | 2026-11-18 | 4 | vanshb03-2026, vanshb03-2027 |
 | [Zillow](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) | Data Science Intern | Seattle-WA-2nd Ave |  | 2026-11-18 | 4 | dreamwork-2027 |
 | [Zillow](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630) | Software Development Engineer - Intern | Seattle-WA-2nd Ave |  | 2026-11-18 | 4 | dreamwork-2027 |
@@ -676,7 +674,6 @@
 | [Kimley-Horn](https://jobs-kimley-horn.icims.com/jobs/27696/job?in_iframe=1) | Landscape Architecture Intern | Gainesville, Florida, United States |  | 2026-11-16 | 6 | dreamwork-2027 |
 | [Sharkninjaoperatingllc](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721309006) | Summer 2027: HW UX/UI Design Intern (May through August) | Needham, MA, United States |  | 2026-11-16 | 6 | dreamwork-2027 |
 | [The Haskell Company](https://careers-haskell.icims.com/jobs/7445/job?in_iframe=1) | Summer 2027 Architecture Intern | Jacksonville HQ Office |  | 2026-11-16 | 6 | dreamwork-2027 |
-| [Constellation Brands](https://go.vansh.nyc/1Bp) | Data and AI Enablement Intern | Rochester, NY, Chicago, IL | Summer | 2026-11-16 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Shopify](https://go.vansh.nyc/1Ac) | Software Engineer Intern | Montreal, Canada, Toronto, Canada, Ottawa, Canada | Summer | 2026-11-16 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Shopify](https://go.vansh.nyc/1Ad) | Data Intern | Montreal, Canada, Toronto, Canada, New York, NY, Ottawa, Canada | Summer | 2026-11-16 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Shopify](https://go.vansh.nyc/1Ae) | Applied Machine Learning Engineer Intern | Montreal, Canada, Toronto, Canada, Ottawa, Canada | Summer | 2026-11-16 | 6 | vanshb03-2026, vanshb03-2027 |

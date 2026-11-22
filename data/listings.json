@@ -1,5 +1,185 @@
 [
   {
+    "company_name": "Allegion",
+    "title": "Product Data Intern - Product Data",
+    "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448",
+    "locations": [
+      "Indianapolis, IN",
+      "Colorado Springs, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1792368000,
+    "date_updated": 1795363233,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Allegion",
+    "title": "Software Engineer Intern - Software Engineering",
+    "url": "https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795",
+    "locations": [
+      "Golden, CO"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1790294400,
+    "date_updated": 1795363227,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Viavi Solutions",
+    "title": "Robotics Intern",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bothell-WA-USA/COOP---EFI-FIT-Intern_260005313-1",
+    "locations": [
+      "Bothell, WA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794960000,
+    "date_updated": 1795361941,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Fiskars Group",
+    "title": "Product Management Intern",
+    "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520",
+    "locations": [
+      "Middleton, WI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Product",
+    "date_posted": 1795046400,
+    "date_updated": 1795361238,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Constellation Brands",
+    "title": "Data and AI Enablement Intern",
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-and-AI-Enablement_R-41721",
+    "locations": [
+      "Rochester, NY",
+      "Chicago, IL"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794787200,
+    "date_updated": 1795360900,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Constellation Brands",
+    "title": "Data Science Intern",
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Data-Science_R-41527",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1794787200,
+    "date_updated": 1795360891,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Neogen",
+    "title": "Embedded Systems Engineer Intern",
+    "url": "https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Oakdale/Software-or-Firmware-Engineer-Intern_REQ-11064",
+    "locations": [
+      "Oakdale, MN"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Hardware",
+    "date_posted": 1795360645,
+    "date_updated": 1795360696,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Western Governors University",
+    "title": "Technical Intern",
+    "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "Software",
+    "date_posted": 1795132800,
+    "date_updated": 1795360358,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "First Bank & Trust",
+    "title": "Data Analyst Intern",
+    "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100864",
+    "locations": [
+      "Brookings, SD",
+      "Sioux Falls, SD"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795132800,
+    "date_updated": 1795359962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Johns Manville",
     "title": "Business Analytics & Strategy Intern",
     "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Business-Analytics---Strategy-Intern_R26_2002",
@@ -71,7 +251,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1795188377,
     "date_updated": 1795333336,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -8519,26 +8699,6 @@
     ]
   },
   {
-    "company_name": "Constellation Brands",
-    "title": "Data Science Intern",
-    "url": "https://go.vansh.nyc/1DX",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795147849,
-    "date_updated": 1795148073,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "The Home Depot",
     "title": "Product & Engineering Co-Op",
     "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/product---engineering-co-op_req199630",
@@ -16017,26 +16177,6 @@
     ]
   },
   {
-    "company_name": "Viavi Solutions",
-    "title": "Robotics Intern",
-    "url": "https://go.vansh.nyc/1Ci",
-    "locations": [
-      "Bothell, WA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795026406,
-    "date_updated": 1795027246,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Vibrantz Color Solutions",
     "title": "Applied AI & Automation Intern",
     "url": "https://vibrantz.wd503.myworkdayjobs.com/vibrantzcareers/job/houston-tx/applied-ai---automation-intern_req269123",
@@ -19455,27 +19595,6 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
-    ]
-  },
-  {
-    "company_name": "Constellation Brands",
-    "title": "Data and AI Enablement Intern",
-    "url": "https://go.vansh.nyc/1Bp",
-    "locations": [
-      "Rochester, NY",
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794843817,
-    "date_updated": 1794948070,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -71317,6 +71436,25 @@
     ]
   },
   {
+    "company_name": "Roku",
+    "title": "Software Engineer Intern",
+    "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1793793490,
+    "date_updated": 1793804828,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Plusgrade",
     "title": "Applied AI Test Engineer Intern",
     "url": "https://go.vansh.nyc/1gu",
@@ -98159,7 +98297,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792108800,
     "date_updated": 1793262100,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -192475,7 +192613,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -370796,6 +370934,25 @@
     ]
   },
   {
+    "company_name": "Leidos",
+    "title": "Data Science / Decision Science Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Data-Science---Decision-Science-Intern_R-00181464",
+    "locations": [
+      "Reston, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1776895853,
+    "date_updated": 1776897412,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Royal Bank of Canada",
     "title": "Data Analyst Developer Intern - Grm",
     "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--Data-Analyst-Developer-Intern--8-Months-_R-0000169171",
@@ -400499,120 +400656,6 @@
     "category": "Hardware",
     "date_posted": 1774648973,
     "date_updated": 1774648973,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Allegheny County",
-    "title": "Data Analytics Intern - Data Analytics",
-    "url": "https://alleghenycounty.bamboohr.com/careers/605/",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774620560,
-    "date_updated": 1774627457,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "United Parcel Service (UPS)",
-    "title": "Co-op Web Development",
-    "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/Co-Op-Web-Development_R26009532",
-    "locations": [
-      "Parsippany-Troy Hills, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774620545,
-    "date_updated": 1774627014,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Leidos",
-    "title": "Data Science / Decision Science Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Data-Science---Decision-Science-Intern_R-00179438-1",
-    "locations": [
-      "Reston, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774620520,
-    "date_updated": 1774625792,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Roku",
-    "title": "Software Engineer Intern",
-    "url": "https://www.weareroku.com/jobs/7626224?gh_jid=7626224",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774621235,
-    "date_updated": 1774621235,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Socure",
-    "title": "Data Science Intern",
-    "url": "https://jobs.ashbyhq.com/socure/a6b602d8-9091-4f19-8f09-dfd60b9ac340/application",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774620571,
-    "date_updated": 1774620571,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Elekta",
-    "title": "Software Engineering Intern",
-    "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Software-Engineering-Intern_R2026-0496",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774620532,
-    "date_updated": 1774620532,
     "active": false,
     "is_visible": true,
     "_sources": [
