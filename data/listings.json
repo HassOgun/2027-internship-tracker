@@ -24183,7 +24183,7 @@
     "category": "Software",
     "date_posted": 1794875463,
     "date_updated": 1794882107,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -30827,7 +30827,7 @@
     "category": "Software",
     "date_posted": 1794613564,
     "date_updated": 1794613721,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -77994,7 +77994,7 @@
     "category": "Quant",
     "date_posted": 1793669537,
     "date_updated": 1793674263,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -146230,7 +146230,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792108800,
     "date_updated": 1792189804,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -147931,7 +147931,7 @@
     "category": "Software",
     "date_posted": 1792102307,
     "date_updated": 1792102369,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
