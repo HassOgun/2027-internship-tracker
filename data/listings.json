@@ -1,5 +1,673 @@
 [
   {
+    "company_name": "Electric Power Engineers",
+    "title": "Product Management Intern",
+    "url": "https://careers-epeconsulting.icims.com/jobs/2449/product-management-intern/job",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795464841,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027",
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Kudu Dynamics",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1Hh",
+    "locations": [
+      "Arlington, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795464600,
+    "date_updated": 1795464841,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Snowflake",
+    "title": "Software Engineer Intern, Core Infrastructure & Security",
+    "url": "https://go.vansh.nyc/1Dq",
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795046400,
+    "date_updated": 1795463174,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Snowflake",
+    "title": "Software Engineer Intern, AI/ML",
+    "url": "https://go.vansh.nyc/1Dr",
+    "locations": [
+      "Menlo Park, CA",
+      "Bellevue, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795046400,
+    "date_updated": 1795463174,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Strava",
+    "title": "Software Engineering Intern, Server, User Lifecycle",
+    "url": "https://go.vansh.nyc/1H9",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794594102,
+    "date_updated": 1795462962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Strava",
+    "title": "Software Engineering Intern, Server, Security",
+    "url": "https://go.vansh.nyc/1Ha",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794597955,
+    "date_updated": 1795462962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Strava",
+    "title": "Software Engineering Intern, Server, Comms",
+    "url": "https://go.vansh.nyc/1Hb",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794598223,
+    "date_updated": 1795462962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Strava",
+    "title": "Software Engineering Intern, Server, Next Sports",
+    "url": "https://go.vansh.nyc/1Hc",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794608868,
+    "date_updated": 1795462962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Strava",
+    "title": "Software Engineering Intern, AI/ML Data Products",
+    "url": "https://go.vansh.nyc/1Hd",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794613280,
+    "date_updated": 1795462962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Strava",
+    "title": "Software Engineering Intern, Android, Subscriptions",
+    "url": "https://go.vansh.nyc/1He",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794613927,
+    "date_updated": 1795462962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Canadian Tire Corporation, Limited",
+    "title": "Software Development Intern",
+    "url": "https://go.vansh.nyc/1Hf",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1795462761,
+    "date_updated": 1795462962,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Shield",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1H8",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795460697,
+    "date_updated": 1795462737,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Hendler Family Brewing Co.",
+    "title": "Software Engineering and IT Co-op",
+    "url": "https://go.vansh.nyc/12v",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1793396392,
+    "date_updated": 1795461327,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Don't Panic Labs",
+    "title": "Software Engineering Intern 2",
+    "url": "https://go.vansh.nyc/1H7",
+    "locations": [
+      "Lincoln, NE"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795461157,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Oscar Health",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1H6",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795458608,
+    "date_updated": 1795460948,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Ergotron",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/g3",
+    "locations": [
+      "Eagan, MN"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791244800,
+    "date_updated": 1795459711,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Garmin",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1CN",
+    "locations": [
+      "Manhattan, KS"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795099234,
+    "date_updated": 1795457754,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Aon",
+    "title": "IT / Cybersecurity Engineer Intern",
+    "url": "https://go.vansh.nyc/1H4",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795457138,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "ManTech",
+    "title": "CNO Developer Intern",
+    "url": "https://go.vansh.nyc/1H5",
+    "locations": [
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795457138,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Itron",
+    "title": "Data Science Intern, Distributed Intelligence",
+    "url": "https://go.vansh.nyc/JJ",
+    "locations": [
+      "Liberty Lake, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1790553600,
+    "date_updated": 1795456021,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Garmin",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1GY",
+    "locations": [
+      "Montgomery, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795455335,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Garmin",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1GZ",
+    "locations": [
+      "Louisville, CO"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795455335,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Garmin",
+    "title": "Software Engineer Intern, Aviation Web Development",
+    "url": "https://go.vansh.nyc/1H0",
+    "locations": [
+      "Middlebury, CT"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795455335,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Garmin",
+    "title": "Software Engineer Intern, Automotive OEM",
+    "url": "https://go.vansh.nyc/1H2",
+    "locations": [
+      "Novi, MI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795455335,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "W.R. Berkley",
+    "title": "Enterprise Architecture Co-op",
+    "url": "https://go.vansh.nyc/ax",
+    "locations": [
+      "Urbandale, IA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1792134000,
+    "date_updated": 1795454210,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Origin Bank",
+    "title": "Salesforce Systems Development Intern",
+    "url": "https://go.vansh.nyc/1zY",
+    "locations": [
+      "Ruston, LA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794517839,
+    "date_updated": 1795454210,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "National Interstate Insurance",
+    "title": "Predictive Analytics Intern",
+    "url": "https://go.vansh.nyc/1AE",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794872217,
+    "date_updated": 1795454210,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Micron Technology",
+    "title": "Advanced Modeling and AI Solutions Intern",
+    "url": "https://go.vansh.nyc/1GW",
+    "locations": [
+      "Boise, ID"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795453157,
+    "date_updated": 1795453757,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Shield",
+    "title": "Embedded Firmware Intern",
+    "url": "https://go.vansh.nyc/1bJ",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793660996,
+    "date_updated": 1795452394,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Bread Financial",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1Bz",
+    "locations": [
+      "Columbus, OH",
+      "Chadds Ford, PA",
+      "Frisco, TX",
+      "Draper, UT",
+      "Wilmington, DE"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794868780,
+    "date_updated": 1795452394,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Cisco",
+    "title": "AI Researcher II Intern",
+    "url": "https://go.vansh.nyc/1Eb",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795158950,
+    "date_updated": 1795452394,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Zebra Technologies",
+    "title": "WWAN Cellular Engineer Intern",
+    "url": "https://go.vansh.nyc/1GV",
+    "locations": [
+      "Holtsville, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795449939,
+    "date_updated": 1795451979,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nintendo",
+    "title": "IT Platform Engineer Intern",
+    "url": "https://go.vansh.nyc/1GU",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795392000,
+    "date_updated": 1795451750,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Shive-Hattery",
     "title": "Software Developer Intern",
     "url": "https://go.vansh.nyc/1vU",
@@ -821,7 +1489,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1795132800,
     "date_updated": 1795400209,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -973,11 +1641,49 @@
     ]
   },
   {
+    "company_name": "apexanalytix",
+    "title": "Software Engineering Intern, Platform Tooling",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19",
+    "locations": [
+      "Greensboro, NC"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795392000,
+    "date_updated": 1795392000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Benchling",
     "title": "Software Engineer, Intern (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
     "locations": [
       "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795392000,
+    "date_updated": 1795392000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Don't Panic Labs",
+    "title": "Software Engineering Intern 2 (Summer 2027)",
+    "url": "https://dontpaniclabs.bamboohr.com/careers/38",
+    "locations": [
+      "Lincoln, NE"
     ],
     "terms": [
       "Summer 2027"
@@ -6355,7 +7061,7 @@
     "category": "Hardware",
     "date_posted": 1795195425,
     "date_updated": 1795216972,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -10036,26 +10742,6 @@
     ]
   },
   {
-    "company_name": "Cisco",
-    "title": "AI Researcher II Intern",
-    "url": "https://go.vansh.nyc/1Eb",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795158950,
-    "date_updated": 1795162310,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "CAS",
     "title": "Business Data Analytics Intern, AI/ML Focus",
     "url": "https://go.vansh.nyc/1E5",
@@ -13609,48 +14295,6 @@
     ]
   },
   {
-    "company_name": "Snowflake",
-    "title": "Software Engineer Intern, Core Infrastructure & Security",
-    "url": "https://go.vansh.nyc/1Dq",
-    "locations": [
-      "Menlo Park, CA",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795046400,
-    "date_updated": 1795128551,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Snowflake",
-    "title": "Software Engineer Intern, AI/ML",
-    "url": "https://go.vansh.nyc/1Dr",
-    "locations": [
-      "Menlo Park, CA",
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795046400,
-    "date_updated": 1795128551,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "HeartFlow",
     "title": "Platform Engineering Intern",
     "url": "https://go.vansh.nyc/1Ds",
@@ -15178,26 +15822,6 @@
     "date_posted": 1791417600,
     "date_updated": 1795099590,
     "active": false,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Garmin",
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1CN",
-    "locations": [
-      "Manhattan, KS"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795099234,
-    "date_updated": 1795099403,
-    "active": true,
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
@@ -21709,30 +22333,6 @@
     ]
   },
   {
-    "company_name": "Bread Financial",
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1Bz",
-    "locations": [
-      "Columbus, OH",
-      "Chadds Ford, PA",
-      "Frisco, TX",
-      "Draper, UT",
-      "Wilmington, DE"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794868780,
-    "date_updated": 1794955180,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Lumentum",
     "title": "SW Developer Support Intern, Program Management Office",
     "url": "https://go.vansh.nyc/1BA",
@@ -25558,26 +26158,6 @@
     ]
   },
   {
-    "company_name": "National Interstate Insurance",
-    "title": "Predictive Analytics Intern",
-    "url": "https://go.vansh.nyc/1AE",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794872217,
-    "date_updated": 1794874257,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Bloomberg Industry Group",
     "title": "Data Analyst Intern",
     "url": "https://go.vansh.nyc/1AF",
@@ -25669,6 +26249,25 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
+    ]
+  },
+  {
+    "company_name": "Amazon",
+    "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+    "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+    "locations": [
+      "US, CA, Sunnyvale"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794873600,
+    "date_updated": 1794873600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
     ]
   },
   {
@@ -26161,7 +26760,7 @@
     "category": "Software",
     "date_posted": 1794872477,
     "date_updated": 1794872555,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -29707,26 +30306,6 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
-    ]
-  },
-  {
-    "company_name": "Origin Bank",
-    "title": "Salesforce Systems Development Intern",
-    "url": "https://go.vansh.nyc/1zY",
-    "locations": [
-      "Ruston, LA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794517839,
-    "date_updated": 1794777168,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -62945,7 +63524,7 @@
     "category": "Hardware",
     "date_posted": 1793923200,
     "date_updated": 1793978153,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -68842,7 +69421,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791849600,
     "date_updated": 1793867193,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -70814,7 +71393,7 @@
     "category": "Hardware",
     "date_posted": 1793750400,
     "date_updated": 1793845082,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -79002,26 +79581,6 @@
     ]
   },
   {
-    "company_name": "Shield",
-    "title": "Embedded Firmware Intern",
-    "url": "https://go.vansh.nyc/1bJ",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793660996,
-    "date_updated": 1793671761,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Micron Technology",
     "title": "System Engineer Intern, HBM",
     "url": "https://go.vansh.nyc/1bI",
@@ -84271,7 +84830,7 @@
     "category": "Software",
     "date_posted": 1793632046,
     "date_updated": 1793632195,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -88930,26 +89489,6 @@
     ],
     "category": "Other",
     "date_posted": 1793389475,
-    "date_updated": 1793477197,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Hendler Family Brewing Co.",
-    "title": "Software Engineering and IT Co-op",
-    "url": "https://go.vansh.nyc/12v",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Spring"
-    ],
-    "category": "Other",
-    "date_posted": 1793396392,
     "date_updated": 1793477197,
     "active": true,
     "is_visible": true,
@@ -104421,7 +104960,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793145600,
     "date_updated": 1793193571,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -112706,7 +113245,7 @@
     "category": "Product",
     "date_posted": 1792972800,
     "date_updated": 1793053520,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -118295,26 +118834,6 @@
     ]
   },
   {
-    "company_name": "Itron",
-    "title": "Data Science Intern, Distributed Intelligence",
-    "url": "https://go.vansh.nyc/JJ",
-    "locations": [
-      "Liberty Lake, WA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1790553600,
-    "date_updated": 1793021626,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Axos",
     "title": "Data Analyst Intern",
     "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Data-Intern_JR5642",
@@ -120822,7 +121341,7 @@
     "category": "Hardware",
     "date_posted": 1792972800,
     "date_updated": 1792995887,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -127881,7 +128400,7 @@
     "category": "Hardware",
     "date_posted": 1790553600,
     "date_updated": 1792764762,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -129758,26 +130277,6 @@
     ],
     "category": "Other",
     "date_posted": 1790899200,
-    "date_updated": 1792731778,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Ergotron",
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/g3",
-    "locations": [
-      "Eagan, MN"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791244800,
     "date_updated": 1792731778,
     "active": true,
     "is_visible": true,
@@ -135366,7 +135865,7 @@
     "category": "Software",
     "date_posted": 1792621294,
     "date_updated": 1792621503,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -140613,7 +141112,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792368000,
     "date_updated": 1792449734,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -145041,26 +145540,6 @@
     "url": "https://go.vansh.nyc/au",
     "locations": [
       "Shakopee, MN"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1792134000,
-    "date_updated": 1792261427,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "W.R. Berkley",
-    "title": "Enterprise Architecture Co-op",
-    "url": "https://go.vansh.nyc/ax",
-    "locations": [
-      "Urbandale, IA"
     ],
     "terms": [
       "Winter"
@@ -150392,7 +150871,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792017239,
     "date_updated": 1792017410,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -151965,7 +152444,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791986734,
     "date_updated": 1791986921,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -164916,7 +165395,7 @@
     "category": "Software",
     "date_posted": 1791325677,
     "date_updated": 1791327402,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -180435,7 +180914,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790778269,
     "date_updated": 1790778608,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -182105,7 +182584,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790720140,
     "date_updated": 1790720282,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -189291,7 +189770,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1790121600,
     "date_updated": 1790203909,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -200357,7 +200836,7 @@
     "category": "Quant",
     "date_posted": 1789603200,
     "date_updated": 1789685343,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -203383,7 +203862,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789597915,
     "date_updated": 1789599497,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -204439,7 +204918,7 @@
     "category": "Hardware",
     "date_posted": 1789596608,
     "date_updated": 1789597754,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -217470,7 +217949,9 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "simplify-2026"
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -217843,7 +218324,7 @@
     "category": "Hardware",
     "date_posted": 1789164353,
     "date_updated": 1789165251,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -228217,7 +228698,7 @@
     "category": "Hardware",
     "date_posted": 1788906717,
     "date_updated": 1788907933,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -234294,7 +234775,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788561966,
     "date_updated": 1788562114,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -321834,7 +322315,7 @@
     "category": "Software",
     "date_posted": 1782857114,
     "date_updated": 1782857465,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"

@@ -1,4 +1,4 @@
-# Product Management (319)
+# Product Management (318)
 
 [← back to index](../README.md)
 
@@ -139,7 +139,6 @@
 | [Visa](https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | Summer 2027 | 2026-10-27 | 27 | applyguy-2027 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275719007) | Product Management Intern | LA | N/A | 2026-10-26 | 28 | simplify-2026 |
 | [Hive Financial Systems](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) | Product & Program Management Intern | Atlanta, GA | Summer 2027 | 2026-10-26 | 28 | simplify-2026 |
-| [Zebra Technologies](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | Product Management Intern | Lincolnshire, IL | Summer 2027 | 2026-10-26 | 28 | simplify-2026 |
 | [Directv](https://directv.wd1.myworkdayjobs.com/Careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333) | Customer Operations Product Management Intern (MBA Student Opportunity) | El Segundo, CA | Not specified | 2026-10-26 | 28 | applyguy-2027 |
 | [Xcelenergy](https://xcelenergy.wd1.myworkdayjobs.com/external/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811) | Residential Energy Product Strategy Intern - MN | Minneapolis, MN | Not specified | 2026-10-26 | 28 | applyguy-2027 |
 | [zebra](https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | 2027 Summer Internship (US) - Product Management | Lincolnshire, IL | Summer 2027 | 2026-10-26 | 28 | applyguy-2027 |
