@@ -4,12 +4,13 @@
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
-| [Illumio](https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true) | Product Manager Intern | Sunnyvale, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [Illumio](https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3) | Product Manager Intern | Sunnyvale, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [Illumio](https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true) | Product Management Intern - Solution Economics | Sunnyvale, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026 |
-| [Illumio](https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true) | Technical Product Management Intern | Sunnyvale, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027 |
+| [Illumio](https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af) | Technical Product Management Intern | Sunnyvale, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [Electric Power Engineers](https://careers-epeconsulting.icims.com/jobs/2449/product-management-intern/job) | Product Management Intern | Austin, TX | Summer 2026 | 2026-11-23 | 1 | simplify-2026, vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [First Resonance](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true) | Product Management Intern | El Segundo, CA | Summer 2027 | 2026-11-23 | 1 | simplify-2026 |
 | [First Resonance](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741) | Product Management Intern (Summer 2027) | Los Angeles, CA | Summer 2027 | 2026-11-23 | 1 | applyguy-2027 |
+| [Illumio](https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101) | Product Management Intern, Solution Economics | Sunnyvale, CA | Not specified | 2026-11-23 | 1 | applyguy-2027 |
 | [First Merchants Bank](https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029) | Treasury Management Product Intern | Columbus, OH | Summer 2027 | 2026-11-20 | 4 | simplify-2026 |
 | [VanEck](https://vaneck.rec.pro.ukg.net/VAN1502VEAC/JobBoard/9158c56d-61c9-447f-98b1-4ba0b04ca31d/OpportunityDetail?opportunityId=185d986f-8f9f-40ac-bf05-a26e3aa02f9e) | ETF Product Intern | NYC | Summer 2026 | 2026-11-20 | 4 | simplify-2026 |
 | [Method](https://job-boards.greenhouse.io/method/jobs/8207585003) | Product Management Intern | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | Summer 2027 | 2026-11-20 | 4 | simplify-2026 |
@@ -32,7 +33,6 @@
 | [APEX Analytix](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164) | Product Management Intern - DevOps | Greensboro, NC | Summer 2027 | 2026-11-17 | 7 | simplify-2026 |
 | [Schneider Electric](https://se.jibeapply.com/jobs/141204?icims=1&lang=en-us) | Offer Management Intern | Boston, MA, Foxborough, MA | Summer 2026 | 2026-11-17 | 7 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808799) | Payments Intern | London, UK | Spring 2027 | 2026-11-17 | 7 | simplify-2026 |
-| [Research Innovations](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) | Department of War SkillBridge Operations SME Intern | Remote in USA | N/A | 2026-11-17 | 7 | simplify-2026 |
 | [Duetti](https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply) | Product Intern | NYC | Summer 2027 | 2026-11-16 | 8 | simplify-2026 |
 | [GM Financial](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) | Product Owner Intern | Arlington, TX | Summer 2027 | 2026-11-16 | 8 | simplify-2026 |
 | [Bound](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) | Product Management Intern | Ames, IA | Summer 2027 | 2026-11-16 | 8 | simplify-2026 |

@@ -1,9 +1,10 @@
-# Other (3815)
+# Other (3816)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [RTX](https://go.vansh.nyc/1HO) | Software Engineering Intern | Indianapolis, IN | Summer | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Boston Scientific](https://go.vansh.nyc/1HM) | Software Test Engineer Co-op | Waltham, MA | Winter | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Illumio](https://go.vansh.nyc/1HI) | Engineering Intern, Architecture Platform | Sunnyvale, CA | Summer | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
 | [SharkNinja](https://go.vansh.nyc/1HJ) | Firmware Engineering Intern, Advanced Development | Needham, MA | Summer | 2026-11-24 | 0 | vanshb03-2026, vanshb03-2027 |
@@ -1816,7 +1817,7 @@
 | [TikTok](https://go.vansh.nyc/11y) | Product Manager Intern, Global Monetization Product and Technology | Seattle, WA | Winter | 2026-10-30 | 25 | vanshb03-2026, vanshb03-2027 |
 | [Divergent](https://job-boards.greenhouse.io/divergent/jobs/5393519008) | Summer 2027 Business Intelligence Intern | Torrance, California, United States |  | 2026-10-30 | 25 | dreamwork-2027 |
 | [Qualcomm](https://go.vansh.nyc/11v) | Camera Systems Intern | Vancouver, Canada | Summer | 2026-10-30 | 25 | vanshb03-2026, vanshb03-2027 |
-| [Zoox](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) | Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, CA |  | 2026-10-30 | 25 | dreamwork-2027, applyguy-2027 |
+| [Zoox](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) | Software Engineer Intern, Autonomy Software [Summer 2027] | Foster City, CA |  | 2026-10-30 | 25 | dreamwork-2027 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) | Summer 2027 Intern - Software Engineer (Security/Government) | California - San Francisco |  | 2026-10-30 | 25 | dreamwork-2027 |
 | [Salesforce](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Summer-Internship--Emerging-Talent_JR366248) | AI Labs Summer Internship, Emerging Talent | California - San Francisco |  | 2026-10-30 | 25 | dreamwork-2027 |
 | [MDA](https://go.vansh.nyc/126) | FPGA Designer Intern | Montreal, Canada | Winter | 2026-10-30 | 25 | vanshb03-2026, vanshb03-2027 |

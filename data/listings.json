@@ -1,5 +1,25 @@
 [
   {
+    "company_name": "RTX",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1HO",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795493383,
+    "date_updated": 1795493652,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Illumio",
     "title": "Security Platforms Engineer Intern - Security Platforms",
     "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true",
@@ -21,7 +41,7 @@
   {
     "company_name": "Illumio",
     "title": "Product Manager Intern",
-    "url": "https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true",
+    "url": "https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -36,7 +56,8 @@
     "_sources": [
       "simplify-2026",
       "vanshb03-2026",
-      "vanshb03-2027"
+      "vanshb03-2027",
+      "applyguy-2027"
     ]
   },
   {
@@ -61,7 +82,7 @@
   {
     "company_name": "Illumio",
     "title": "Technical Product Management Intern",
-    "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true",
+    "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af",
     "locations": [
       "Sunnyvale, CA"
     ],
@@ -76,7 +97,8 @@
     "_sources": [
       "simplify-2026",
       "vanshb03-2026",
-      "vanshb03-2027"
+      "vanshb03-2027",
+      "applyguy-2027"
     ]
   },
   {
@@ -3674,6 +3696,25 @@
     ]
   },
   {
+    "company_name": "Contoro Inc.",
+    "title": "Robotics Software Engineer Intern, Autonomy [Automation]",
+    "url": "https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795392000,
+    "date_updated": 1795392000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Don't Panic Labs",
     "title": "Software Engineering Intern 2 (Summer 2027)",
     "url": "https://dontpaniclabs.bamboohr.com/careers/38",
@@ -3741,6 +3782,25 @@
       "Summer 2027"
     ],
     "category": "Software Engineering",
+    "date_posted": 1795392000,
+    "date_updated": 1795392000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Illumio",
+    "title": "Product Management Intern, Solution Economics",
+    "url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Product",
     "date_posted": 1795392000,
     "date_updated": 1795392000,
     "active": true,
@@ -14578,7 +14638,7 @@
     "category": "Hardware",
     "date_posted": 1795135259,
     "date_updated": 1795140452,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -27838,7 +27898,7 @@
     "category": "Product",
     "date_posted": 1794883411,
     "date_updated": 1794883549,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -34655,7 +34715,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794528000,
     "date_updated": 1794612127,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -93943,8 +94003,7 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "dreamwork-2027",
-      "applyguy-2027"
+      "dreamwork-2027"
     ]
   },
   {
@@ -96983,6 +97042,25 @@
     "company_name": "Zoox",
     "title": "Software Engineer Intern, Software Systems [Summer 2027]",
     "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
+    "locations": [
+      "Foster City, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793318400,
+    "date_updated": 1793318400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Zoox",
+    "title": "PhD Software Engineer Intern, Autonomy Software [Summer 2027]",
+    "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
     "locations": [
       "Foster City, CA"
     ],
@@ -127912,7 +127990,7 @@
     "category": "Software",
     "date_posted": 1792713600,
     "date_updated": 1792775932,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -168720,7 +168798,7 @@
     "category": "Hardware",
     "date_posted": 1791267449,
     "date_updated": 1791268049,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -214347,7 +214425,7 @@
     "category": "Software",
     "date_posted": 1789344000,
     "date_updated": 1789410648,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
