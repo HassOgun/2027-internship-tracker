@@ -1,4 +1,4 @@
-# Product Management (327)
+# Product Management (328)
 
 [← back to index](../README.md)
 
@@ -28,6 +28,7 @@
 | [Aaaie](https://aaaie.wd1.myworkdayjobs.com/csaacareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004) | Product Strategy & Development Intern | Home Teleworkers, AZ | Not specified | 2026-11-20 | 4 | applyguy-2027 |
 | [iCapital](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002) | Product Management - Summer 2027 Intern | New York City, NY | Summer 2027 | 2026-11-20 | 4 | applyguy-2027 |
 | [Sec](https://sec.wd3.myworkdayjobs.com/samsung_careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022) | Product Management Tools and Automation Intern | 6555 Excellence Way, TX | Not specified | 2026-11-20 | 4 | applyguy-2027 |
+| [Statestreet](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Management-Team---Business-Analyst---Summer-Internship-2027_R-801339) | State Street Product Management Team - Business Analyst - Summer Internship 2027 | Boston, MA | Summer 2027 | 2026-11-20 | 4 | applyguy-2027 |
 | [Megger](https://megger.wd3.myworkdayjobs.com/meggercareers/job/Dallas-United-States/Product-Manager-Intern_JR100870) | Product Manager Intern | Dallas, TX | N/A | 2026-11-19 | 5 | simplify-2026, applyguy-2027 |
 | [Fiskars Group](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520) | Product Management Intern | Middleton, WI | Summer 2026 | 2026-11-19 | 5 | simplify-2026 |
 | [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639) | Product Management MBA Intern, GenAI Data Strategy - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-11-19 | 5 | applyguy-2027 |
