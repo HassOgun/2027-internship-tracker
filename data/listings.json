@@ -1,6 +1,492 @@
 [
   {
     "company_name": "Illumio",
+    "title": "Security Platforms Engineer Intern - Security Platforms",
+    "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1795392000,
+    "date_updated": 1795488144,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Illumio",
+    "title": "Product Manager Intern",
+    "url": "https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Product",
+    "date_posted": 1795392000,
+    "date_updated": 1795488129,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Illumio",
+    "title": "Product Management Intern - Solution Economics",
+    "url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Product",
+    "date_posted": 1795392000,
+    "date_updated": 1795488129,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Illumio",
+    "title": "Technical Product Management Intern",
+    "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Product",
+    "date_posted": 1795392000,
+    "date_updated": 1795488129,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Illumio",
+    "title": "Engineering Intern - Architecture Platform",
+    "url": "https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1795478400,
+    "date_updated": 1795488129,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Workday",
+    "title": "Cybersecurity Engineer Intern",
+    "url": "https://go.vansh.nyc/gd",
+    "locations": [
+      "Pleasanton, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1791504000,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Tevora",
+    "title": "Cybersecurity Intern, Systems and Organizations Controls (SOC)",
+    "url": "https://go.vansh.nyc/H9",
+    "locations": [
+      "Irvine, CA",
+      "Fairfax, VA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791246322,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Tevora",
+    "title": "Cybersecurity Intern, Enterprise Risk Management",
+    "url": "https://go.vansh.nyc/V4",
+    "locations": [
+      "Irvine, CA",
+      "Fairfax, VA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791245993,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Tevora",
+    "title": "Cybersecurity Intern, Federal",
+    "url": "https://go.vansh.nyc/V5",
+    "locations": [
+      "Fairfax, VA",
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791246073,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Tevora",
+    "title": "Cybersecurity Intern, Healthcare",
+    "url": "https://go.vansh.nyc/V6",
+    "locations": [
+      "Irvine, CA",
+      "Fairfax, VA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791246119,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Tevora",
+    "title": "Cybersecurity Intern, ISO",
+    "url": "https://go.vansh.nyc/V7",
+    "locations": [
+      "Irvine, CA",
+      "Fairfax, VA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791246227,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Tevora",
+    "title": "Cybersecurity Intern, Payments",
+    "url": "https://go.vansh.nyc/V8",
+    "locations": [
+      "Fairfax, VA",
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791246270,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Tevora",
+    "title": "Cybersecurity Intern, Solutions",
+    "url": "https://go.vansh.nyc/V9",
+    "locations": [
+      "Irvine, CA",
+      "Fairfax, VA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791246361,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Tevora",
+    "title": "Cybersecurity Intern, Threat",
+    "url": "https://go.vansh.nyc/Va",
+    "locations": [
+      "Irvine, CA",
+      "Fairfax, VA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791246395,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Lucid Motors",
+    "title": "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
+    "url": "https://go.vansh.nyc/1DT",
+    "locations": [
+      "Newark, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795135259,
+    "date_updated": 1795486742,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Rockwell Automation",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1HN",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795453777,
+    "date_updated": 1795486358,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "SharkNinja",
+    "title": "Firmware Engineer Intern - Advanced Development",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006",
+    "locations": [
+      "Needham, MA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Hardware",
+    "date_posted": 1795478570,
+    "date_updated": 1795486171,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Boston Scientific",
+    "title": "Software Test Engineer Co-op",
+    "url": "https://go.vansh.nyc/1HM",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1795482557,
+    "date_updated": 1795486157,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "First PREMIER Bank",
+    "title": "Collections Analytics Intern",
+    "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565",
+    "locations": [
+      "Sioux Falls, SD"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795392000,
+    "date_updated": 1795485844,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Leidos",
+    "title": "Cybersecurity Engineer Co-op",
+    "url": "https://go.vansh.nyc/XZ",
+    "locations": [
+      "Bethesda, MD"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793218683,
+    "date_updated": 1795481164,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027",
+      "dreamwork-2027"
+    ]
+  },
+  {
+    "company_name": "SharkNinja",
+    "title": "Software Development Test Engineering Co-op",
+    "url": "https://go.vansh.nyc/1HH",
+    "locations": [
+      "Needham, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795479331,
+    "date_updated": 1795480771,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Illumio",
+    "title": "Engineering Intern, Architecture Platform",
+    "url": "https://go.vansh.nyc/1HI",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795479571,
+    "date_updated": 1795480771,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "SharkNinja",
+    "title": "Firmware Engineering Intern, Advanced Development",
+    "url": "https://go.vansh.nyc/1HJ",
+    "locations": [
+      "Needham, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795479391,
+    "date_updated": 1795480771,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Illumio",
+    "title": "AI-Based Scale & Performance Test Automation Intern",
+    "url": "https://go.vansh.nyc/1HK",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795479271,
+    "date_updated": 1795480771,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Illumio",
     "title": "Engineering Intern, Security Platforms",
     "url": "https://go.vansh.nyc/1HB",
     "locations": [
@@ -11,46 +497,6 @@
     ],
     "category": "Other",
     "date_posted": 1795477888,
-    "date_updated": 1795478968,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Illumio",
-    "title": "Product Manager Intern",
-    "url": "https://go.vansh.nyc/1HC",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795478308,
-    "date_updated": 1795478968,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Illumio",
-    "title": "Technical Product Management Intern",
-    "url": "https://go.vansh.nyc/1HD",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795478068,
     "date_updated": 1795478968,
     "active": true,
     "is_visible": true,
@@ -3236,6 +3682,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795392000,
+    "date_updated": 1795392000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Exowatt",
+    "title": "Software & AI Spring Intern (Austin, TX)",
+    "url": "https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Spring"
     ],
     "category": "Software Engineering",
     "date_posted": 1795392000,
@@ -13679,26 +14144,6 @@
     ]
   },
   {
-    "company_name": "Lucid Motors",
-    "title": "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
-    "url": "https://go.vansh.nyc/1DT",
-    "locations": [
-      "Newark, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795135259,
-    "date_updated": 1795143950,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Blizzard Entertainment",
     "title": "Blizzard 2027 Summer Internships - Card Design",
     "url": "https://xboxgaming.wd1.myworkdayjobs.com/blizzard_external_careers/job/irvine---blizzard---blizzard-way/blizzard-2027-summer-internships---card-design_r028379",
@@ -18831,7 +19276,7 @@
     "category": "Software",
     "date_posted": 1795053901,
     "date_updated": 1795054690,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -23107,6 +23552,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Research Intern - AI Software Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794960000,
+    "date_updated": 1794960000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Raptor Maps",
     "title": "Summer 2027 Software Engineering Intern",
     "url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a",
@@ -24839,8 +25303,7 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "dreamwork-2027",
-      "applyguy-2027"
+      "dreamwork-2027"
     ]
   },
   {
@@ -27914,6 +28377,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794873600,
+    "date_updated": 1794873600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Firmware Security",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794873600,
@@ -38070,6 +38552,25 @@
     ],
     "terms": [
       "Spring"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794528000,
+    "date_updated": 1794528000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - MSR Software-Hardware Co-design",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794528000,
@@ -72906,6 +73407,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Nooks",
     "title": "Software Engineer, Intern",
     "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb",
@@ -80484,6 +81004,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Northrop Grumman",
     "title": "2027 Flight Software Engineer Intern - Redondo Beach CA",
     "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
@@ -81470,7 +82009,7 @@
     "category": "Hardware",
     "date_posted": 1793662055,
     "date_updated": 1793662228,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -94923,7 +95462,7 @@
     "category": "Product",
     "date_posted": 1793369971,
     "date_updated": 1793371730,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -103777,27 +104316,6 @@
     ]
   },
   {
-    "company_name": "Leidos",
-    "title": "Cybersecurity Engineer Co-op",
-    "url": "https://go.vansh.nyc/XZ",
-    "locations": [
-      "Bethesda, MD"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1793218683,
-    "date_updated": 1793219763,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027",
-      "dreamwork-2027"
-    ]
-  },
-  {
     "company_name": "Salesforce",
     "title": "Solution Engineer Intern",
     "url": "https://go.vansh.nyc/9R",
@@ -110955,153 +111473,6 @@
     ],
     "category": "Other",
     "date_posted": 1790812800,
-    "date_updated": 1793095565,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Tevora",
-    "title": "Cybersecurity Intern, Enterprise Risk Management",
-    "url": "https://go.vansh.nyc/V4",
-    "locations": [
-      "Irvine, CA",
-      "Fairfax, VA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791245993,
-    "date_updated": 1793095565,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Tevora",
-    "title": "Cybersecurity Intern, Federal",
-    "url": "https://go.vansh.nyc/V5",
-    "locations": [
-      "Fairfax, VA",
-      "Irvine, CA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791246073,
-    "date_updated": 1793095565,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Tevora",
-    "title": "Cybersecurity Intern, Healthcare",
-    "url": "https://go.vansh.nyc/V6",
-    "locations": [
-      "Irvine, CA",
-      "Fairfax, VA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791246119,
-    "date_updated": 1793095565,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Tevora",
-    "title": "Cybersecurity Intern, ISO",
-    "url": "https://go.vansh.nyc/V7",
-    "locations": [
-      "Irvine, CA",
-      "Fairfax, VA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791246227,
-    "date_updated": 1793095565,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Tevora",
-    "title": "Cybersecurity Intern, Payments",
-    "url": "https://go.vansh.nyc/V8",
-    "locations": [
-      "Fairfax, VA",
-      "Irvine, CA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791246270,
-    "date_updated": 1793095565,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Tevora",
-    "title": "Cybersecurity Intern, Solutions",
-    "url": "https://go.vansh.nyc/V9",
-    "locations": [
-      "Irvine, CA",
-      "Fairfax, VA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791246361,
-    "date_updated": 1793095565,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Tevora",
-    "title": "Cybersecurity Intern, Threat",
-    "url": "https://go.vansh.nyc/Va",
-    "locations": [
-      "Irvine, CA",
-      "Fairfax, VA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791246395,
     "date_updated": 1793095565,
     "active": true,
     "is_visible": true,
@@ -119553,27 +119924,6 @@
     ]
   },
   {
-    "company_name": "Tevora",
-    "title": "Cybersecurity Intern, Systems and Organizations Controls (SOC)",
-    "url": "https://go.vansh.nyc/H9",
-    "locations": [
-      "Irvine, CA",
-      "Fairfax, VA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791246322,
-    "date_updated": 1793016276,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Tenstorrent",
     "title": "AI Software Intern, Cloud, Infrastructure & Data Centre Deployment",
     "url": "https://go.vansh.nyc/Ha",
@@ -126139,7 +126489,7 @@
     "category": "Software",
     "date_posted": 1792795194,
     "date_updated": 1792795330,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -127960,7 +128310,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1791842836,
     "date_updated": 1792770354,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -130805,26 +131155,6 @@
     "url": "https://go.vansh.nyc/gb",
     "locations": [
       "Chicago, IL"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1791504000,
-    "date_updated": 1792731778,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Workday",
-    "title": "Cybersecurity Engineer Intern",
-    "url": "https://go.vansh.nyc/gd",
-    "locations": [
-      "Pleasanton, CA"
     ],
     "terms": [
       "Summer"
@@ -147077,7 +147407,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792108800,
     "date_updated": 1792190447,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -150498,7 +150828,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792055064,
     "date_updated": 1792055263,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -160383,7 +160713,7 @@
     "category": "Software",
     "date_posted": 1791504000,
     "date_updated": 1791537197,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -168369,7 +168699,7 @@
     "category": "Hardware",
     "date_posted": 1791267453,
     "date_updated": 1791268049,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -194363,7 +194693,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -256310,7 +256640,7 @@
     "category": "Software",
     "date_posted": 1788240090,
     "date_updated": 1788240920,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -292069,7 +292399,7 @@
     "category": "Software",
     "date_posted": 1785968911,
     "date_updated": 1785970132,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -338621,7 +338951,7 @@
     "category": "Hardware",
     "date_posted": 1780362744,
     "date_updated": 1780362922,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"

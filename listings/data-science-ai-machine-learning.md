@@ -18,6 +18,7 @@
 | [Playfly Sports](https://www.playfly.com/careers?gh_jid=4486378009) | Research & Insights Intern | NYC | Summer 2027 | 2026-11-23 | 1 | simplify-2026 |
 | [Red Bull](https://jobs.smartrecruiters.com/RedBull/744000163139699) | Data Science Intern | Morristown, NJ | Spring 2027 | 2026-11-23 | 1 | simplify-2026 |
 | [Red Bull](https://jobs.smartrecruiters.com/RedBull/744000163139439) | RBII Team Analysis Intern | Morristown, NJ | Spring 2027 | 2026-11-23 | 1 | simplify-2026 |
+| [First PREMIER Bank](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565) | Collections Analytics Intern | Sioux Falls, SD | N/A | 2026-11-23 | 1 | simplify-2026 |
 | [First PREMIER Bank](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Financial-Modeling---Analysis-Internship_R-517-1) | Financial Modeling & Analysis Intern | Sioux Falls, SD | N/A | 2026-11-23 | 1 | simplify-2026 |
 | [Lifeway](https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false) | Summer Internship - Business Intelligence | Remote in USA | Summer 2027 | 2026-11-23 | 1 | simplify-2026 |
 | [Contoro](https://jobs.ashbyhq.com/contoro/6a1f0c10-3e5f-4899-ad86-38036a9cd434/application?embed=true) | Robotics Software Engineer Intern - Autonomy - Automation | Austin, TX | N/A | 2026-11-23 | 1 | simplify-2026 |
@@ -805,7 +806,6 @@
 | [WGU](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Intern---Technical-Writing_JR-026370) | Data Governance Intern | Salt Lake City, UT | N/A | 2026-10-16 | 39 | simplify-2026 |
 | [Prologis](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Atlanta-Georgia/Customer-Experience-Data-Intern_R6856) | Customer Experience Data Intern | Atlanta, GA | Summer 2026 | 2026-10-16 | 39 | simplify-2026 |
 | [GlobalFoundries](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) | Research Account Management & Field Application Engineering Support Intern | Essex Junction, VT | Summer 2027 | 2026-10-16 | 39 | simplify-2026 |
-| [University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) | Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science | Austin, TX | Fall 2026 | 2026-10-16 | 39 | simplify-2026 |
 | [Pennsylvania State University](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000082444-1) | R&D Engineer Intern | University Park, State College, PA | Summer 2027 | 2026-10-16 | 39 | simplify-2026 |
 | [Alliaxis](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-Op-Student--Winter-2027---Etudiant-Coop-excellence-manufacturire--Hiver-2027_R-58664-2) | Manufacturing Excellence Co-op Student | Oakville, ON, Canada | Winter 2027 | 2026-10-16 | 39 | simplify-2026 |
 | [Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Client-Data-and-Engineering-Group-Summer-Internship-Programme-2027-London_JR-0000135782) | Client Data and Engineering Group Internship | London, UK | Summer 2027 | 2026-10-16 | 39 | simplify-2026 |
@@ -818,6 +818,7 @@
 | [Duolingo](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) | Data Scientist Intern | Pittsburgh, PA, NYC | N/A | 2026-10-15 | 40 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Capital de Recherche Tower](https://www.tower-research.ca/postes-vacants/?gh_jid=8286965) | Machine Learning Intern | Montreal, QC, Canada | N/A | 2026-10-15 | 40 | simplify-2026 |
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615) | AI Research Associate Intern | London, UK | N/A | 2026-10-15 | 40 | simplify-2026 |
+| [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557027387) | Researcher Intern - Coreai | Redmond, WA, Mountain View, CA | Summer 2027 | 2026-10-15 | 40 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7696664743112788277) | Research Engineer Intern - Video and Edge - Multimedia Lab | San Diego, CA | N/A | 2026-10-15 | 40 | simplify-2026 |
 | [Susquehanna International Group](https://careers-sig.icims.com/jobs/11675/job?mobile=true&needsRedirect=false) | Business Analytics AI Co-op | Bala Cynwyd, PA | N/A | 2026-10-15 | 40 | simplify-2026 |
 | [Engramme](https://jobs.ashbyhq.com/engramme/36691537-e0fd-4aa9-9fcd-2618b433fac1/application?embed=true) | Machine Learning Engineer Co-op Intern | SF | N/A | 2026-10-15 | 40 | simplify-2026 |
@@ -890,7 +891,6 @@
 | [Scout Clean Energy](https://apply.workable.com/scout-clean-energy/j/56C8F2E503/apply) | Geospatial Intern | Boulder, CO | Summer 2027 | 2026-10-12 | 43 | simplify-2026 |
 | [Koch Industries](https://koch.avature.net/en_US/careers/JobDetail/195465) | Digital Technology & Data Intern | Auburn Hills, MI | Summer 2027 | 2026-10-12 | 43 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Meta](https://www.metacareers.com/jobs/2586686598441521) | Research Scientist Intern - Robotics | Redmond, WA | N/A | 2026-10-12 | 43 | simplify-2026 |
-| [Lawrence Livermore National Laboratory (LLNL)](https://jobs.smartrecruiters.com/LLNL/3743990016351716) | Computational Modeling Intern | Livermore, CA | N/A | 2026-10-12 | 43 | simplify-2026 |
 | [Google](https://www.google.com/about/careers/applications/jobs/results/81809776362562246) | People Analytics Intern | SF, Chicago, IL, NYC, Mountain View, CA, Atlanta, GA | Summer 2027 | 2026-10-12 | 43 | simplify-2026 |
 | [Bosch Home Comfort](https://jobs.smartrecruiters.com/BoschGroup/744000154911489) | Robotics Research Intern | Sunnyvale, CA | N/A | 2026-10-12 | 43 | simplify-2026 |
 | [Bridge Neurotech](https://jobs.ashbyhq.com/bridgeneurotech/50041fa1-417b-4269-8675-8c8746ed93bf/application?embed=true) | Machine Learning Software Engineer Intern | Redwood City, CA | N/A | 2026-10-12 | 43 | simplify-2026 |
