@@ -1,18 +1,18 @@
-# MIS Internship Top 20 — 2026-11-24
+# MIS Internship Top 20 — 2026-11-25
 
 Ranked by MIS role relevance, posting freshness, and location (Greater Houston, US remote, other Texas, then nationwide).
 
 > Verify application status, graduation-date eligibility, internship term, and remote-work restrictions on the employer site. Unknown posting dates receive no freshness bonus.
 
-**20 matches selected** from 684 relevant active records (before recommendation deduplication).
+**20 matches selected** from 687 relevant active records (before recommendation deduplication).
 
 | # | Company | Role | Category | Location | Location status | Posted | Apply |
 |---|---|---|---|---|---|---|---|
-| 1 | Constellation Energy Generation. | 2027 PowerFolio Data Analyst Intern - Houston Office | Data / BI | ; Houston, Texas | Houston area | 2026-11-21 | [Apply](https://careers-constellationenergy.icims.com/jobs/143909/job?in_iframe=1) |
-| 2 | Group 1 Automotive | IT Intern | IT / Information Systems | Houston, TX | Houston area | 2026-11-07 | [Apply](https://go.vansh.nyc/1ms) |
-| 3 | Kinder Morgan | Information Technology Intern - Application Development | IT / Information Systems | Houston, TX | Houston area | 2026-09-01 | [Apply](https://careers.kindermorgan.com/jobs/6032?icims=1) |
-| 4 | Kinder Morgan | Information Technology Intern, Application Development | IT / Information Systems | Houston, TX | Houston area | 2026-09-01 | [Apply](https://go.vansh.nyc/LX) |
-| 5 | Constellation Energy | Powerfolio Data Analyst Intern | Data / BI | Houston, TX | Houston area | 2026-11-20 | [Apply](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us) |
+| 1 | Group 1 Automotive | IT Intern | IT / Information Systems | Houston, TX | Houston area | 2026-11-07 | [Apply](https://go.vansh.nyc/1ms) |
+| 2 | Kinder Morgan | Information Technology Intern - Application Development | IT / Information Systems | Houston, TX | Houston area | 2026-09-01 | [Apply](https://careers.kindermorgan.com/jobs/6032?icims=1) |
+| 3 | Kinder Morgan | Information Technology Intern, Application Development | IT / Information Systems | Houston, TX | Houston area | 2026-09-01 | [Apply](https://go.vansh.nyc/LX) |
+| 4 | Constellation Energy | Powerfolio Data Analyst Intern | Data / BI | Houston, TX | Houston area | 2026-11-20 | [Apply](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us) |
+| 5 | Constellation Energy Generation. | 2027 PowerFolio Data Analyst Intern - Houston Office | Data / BI | ; Houston, Texas | Houston area | 2026-11-21 | [Apply](https://careers-constellationenergy.icims.com/jobs/143909/job?in_iframe=1) |
 | 6 | Texas A&M University 12th Man Foundation | Business Intelligence Intern (35276) | Data / BI | 756 Houston Street College Station, Texas, 77843 United States | Houston area | 2026-11-19 | [Apply](https://paycomonline.net/v4/ats/web.php/portal/36f789f3a540b36b502891bf80e0cea7/jobs/182402) |
 | 7 | Vibrantz Color Solutions | Intern - Business Intelligence | Data / BI | Houston, TX | Houston area | 2026-11-20 | [Apply](https://vibrantz.wd503.myworkdayjobs.com/vibrantzcareers/job/houston-tx/intern---business-intelligence_req269127) |
 | 8 | AspenTech | Product Owner Intern - Product Management | Product | Houston, TX, Bedford, MA | Houston area | 2026-09-16 | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) |
@@ -29,4 +29,4 @@ Ranked by MIS role relevance, posting freshness, and location (Greater Houston, 
 | 19 | Amplify | Product Management Intern | Product | Remote in USA | US remote | 2026-10-19 | [Apply](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e) |
 | 20 | OneEthos | Product Management Intern | Product | Remote in USA | US remote | 2026-10-21 | [Apply](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) |
 
-*Generated 2026-11-24 22:56 UTC.*
+*Generated 2026-11-25 01:11 UTC.*
