@@ -1,10 +1,12 @@
-# Product Management (328)
+# Product Management (329)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
 | [Nikkiso](https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false) | Product Management Intern | Huntington Beach, CA | N/A | 2026-11-25 | 0 | simplify-2026 |
+| [Inscipher Careers](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c) | AI Product Intern | Pleasant Grove, UT | Not specified | 2026-11-25 | 0 | applyguy-2027 |
+| [Nikkiso Clean Energy &amp; Industrial Gases](https://careers-nikkiso.icims.com/jobs/4528/product-management-intern/job) | Product Management Intern | Huntington Beach, CA | Not specified | 2026-11-25 | 0 | applyguy-2027 |
 | [Intuitive Surgical](https://jobs.smartrecruiters.com/Intuitive/744000163546809) | Product Management MBA Intern | Sunnyvale, CA | Summer 2027 | 2026-11-24 | 1 | simplify-2026 |
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Product Management Intern - Managed Service Provider | Palo Alto, CA | Winter 2027 | 2026-11-24 | 1 | simplify-2026 |
 | [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009) | Product Management Intern - Card Tech | NYC | Summer 2027 | 2026-11-24 | 1 | simplify-2026 |
@@ -146,13 +148,12 @@
 | [Tmobile](https://tmobile.wd1.myworkdayjobs.com/external/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) | Summer 2027 Associate Technical Product Manager Internship | Frisco, TX | Summer 2027 | 2026-10-28 | 28 | applyguy-2027 |
 | [TikTok](https://lifeattiktok.com/search/7701069870360627509) | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA | Summer 2027 | 2026-10-27 | 29 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701072604556642613) | Brand Search Ads Intern | NYC | N/A | 2026-10-27 | 29 | simplify-2026 |
-| [Dover](https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326) | Product Management Intern | Keosauqua, IA | N/A | 2026-10-27 | 29 | simplify-2026 |
+| [Dover](https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326) | Product Management Intern | Keosauqua, IA | N/A | 2026-10-27 | 29 | simplify-2026, applyguy-2027 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | NAND Storage Strategic Roadmap Planning Intern | Boise, ID | N/A | 2026-10-27 | 29 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | CMBU Product Management Intern | San Jose, CA | N/A | 2026-10-27 | 29 | simplify-2026 |
 | [Visa](https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | Summer 2027 | 2026-10-27 | 29 | applyguy-2027 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275719007) | Product Management Intern | LA | N/A | 2026-10-26 | 30 | simplify-2026 |
 | [Hive Financial Systems](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) | Product & Program Management Intern | Atlanta, GA | Summer 2027 | 2026-10-26 | 30 | simplify-2026 |
-| [Abb](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) | Product Management Intern Drive Products - Summer 2027 | New Berlin, WI | Summer 2027 | 2026-10-26 | 30 | applyguy-2027 |
 | [Amazon](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Technical Product Manager Intern | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | 2026-10-23 | 33 | simplify-2026 |
 | [Amazon](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | Product Manager Intern - ALA | Seattle, WA | Summer 2027 | 2026-10-23 | 33 | simplify-2026 |
 | [Nike](https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-Merchandising-Graduate-Internship_R-96257) | Merchandising Graduate Intern | Boston, MA | N/A | 2026-10-23 | 33 | simplify-2026 |
