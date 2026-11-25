@@ -1,5 +1,332 @@
 [
   {
+    "company_name": "Clera",
+    "title": "Full-Stack Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1AN",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1794873600,
+    "date_updated": 1795632481,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Celestica",
+    "title": "Engineering Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1Jm",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795631947,
+    "date_updated": 1795632241,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Celestica",
+    "title": "Engineering AI Development Intern",
+    "url": "https://go.vansh.nyc/1Jn",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795631947,
+    "date_updated": 1795632241,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "CACI",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/MU",
+    "locations": [
+      "Remote",
+      "United States",
+      "Sterling, VA",
+      "Denver, CO"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1789344000,
+    "date_updated": 1795630721,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Nasdaq",
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1Jl",
+    "locations": [
+      "Denver, CO"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795543807,
+    "date_updated": 1795630207,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "SambaNova",
+    "title": "AI Performance Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jj",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795564800,
+    "date_updated": 1795629927,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "SambaNova",
+    "title": "Compiler Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jk",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795564800,
+    "date_updated": 1795629927,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Staples",
+    "title": "Software Engineer Intern, SDS e-Commerce Team",
+    "url": "https://go.vansh.nyc/1fw",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1793664000,
+    "date_updated": 1795628946,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Allied Consultants",
+    "title": "AI/ML Engineer Intern",
+    "url": "https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795119035,
+    "date_updated": 1795628946,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027",
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Aerospace Corporation",
+    "title": "Machine Learning Engineer Undergrad Intern",
+    "url": "https://go.vansh.nyc/1Jh",
+    "locations": [
+      "El Segundo, CA",
+      "Chantilly, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795493383,
+    "date_updated": 1795628738,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Apex Technology, Inc.",
+    "title": "Software Engineering Intern, Operating Systems",
+    "url": "https://go.vansh.nyc/1Jf",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795625107,
+    "date_updated": 1795626547,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Apex Technology, Inc.",
+    "title": "Flight Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1Jg",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795624747,
+    "date_updated": 1795626547,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Saputo",
+    "title": "Data Engineer Intern, Enterprise Analytics",
+    "url": "https://go.vansh.nyc/1Jd",
+    "locations": [
+      "Mississauga, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795622995,
+    "date_updated": 1795625026,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "RTX",
+    "title": "Software Security Intern",
+    "url": "https://go.vansh.nyc/1CS",
+    "locations": [
+      "Cedar Rapids, IA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795046400,
+    "date_updated": 1795623761,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Analog Devices",
+    "title": "Embedded Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jb",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795493383,
+    "date_updated": 1795623358,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Genworth",
+    "title": "Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1Jc",
+    "locations": [
+      "Richmond, VA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795493383,
+    "date_updated": 1795623358,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Trimble",
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/1pD",
@@ -1083,6 +1410,44 @@
     ]
   },
   {
+    "company_name": "Apex Technology, Inc.",
+    "title": "Software Engineering, Operating Systems Internship (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795564800,
+    "date_updated": 1795564800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Apex Technology, Inc.",
+    "title": "Flight Software Engineering Internship (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795564800,
+    "date_updated": 1795564800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Bandwidth",
     "title": "Software Engineer Intern - Summer 2027",
     "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414430",
@@ -1140,11 +1505,11 @@
     ]
   },
   {
-    "company_name": "Lunaroutpost",
-    "title": "Software Management Intern - Summer 2027",
-    "url": "https://lunaroutpost.bamboohr.com/careers/420",
+    "company_name": "Lightmatter",
+    "title": "Firmware Intern \u2013 Summer 2027",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008",
     "locations": [
-      "Golden, CO"
+      "Boston, MA"
     ],
     "terms": [
       "Summer 2027"
@@ -4773,7 +5138,7 @@
     "category": "Software",
     "date_posted": 1795392000,
     "date_updated": 1795477861,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -8074,6 +8439,25 @@
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Aero",
+    "title": "2027 Machine Learning Engineer Undergrad Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795392000,
+    "date_updated": 1795392000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
     ]
   },
   {
@@ -21816,27 +22200,6 @@
     ]
   },
   {
-    "company_name": "Allied Consultants",
-    "title": "AI/ML Engineer Intern",
-    "url": "https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795119035,
-    "date_updated": 1795119187,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027",
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "DocuSign",
     "title": "Product Data Science Intern",
     "url": "https://go.vansh.nyc/1D2",
@@ -22348,26 +22711,6 @@
     "is_visible": true,
     "_sources": [
       "dreamwork-2027"
-    ]
-  },
-  {
-    "company_name": "RTX",
-    "title": "Software Security Intern",
-    "url": "https://go.vansh.nyc/1CS",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795046400,
-    "date_updated": 1795104346,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
     ]
   },
   {
@@ -26240,7 +26583,7 @@
   {
     "company_name": "JCI",
     "title": "Software Engineering Co-Op",
-    "url": "https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408-2",
+    "url": "https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408",
     "locations": [
       "Burlington-Massachusetts-United States of America"
     ],
@@ -28678,6 +29021,25 @@
       "Summer 2027"
     ],
     "category": "Product",
+    "date_posted": 1794960000,
+    "date_updated": 1794960000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - AI Software Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
     "date_posted": 1794960000,
     "date_updated": 1794960000,
     "active": true,
@@ -32039,26 +32401,6 @@
     ]
   },
   {
-    "company_name": "Clera",
-    "title": "Full-Stack Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1AN",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1794873600,
-    "date_updated": 1794881120,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Leidos",
     "title": "Cybersecurity Intern",
     "url": "https://go.vansh.nyc/1AO",
@@ -32369,6 +32711,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794873600,
+    "date_updated": 1794873600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Firmware Security",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794873600,
@@ -34547,7 +34908,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794831502,
     "date_updated": 1794844134,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -42606,6 +42967,25 @@
     ],
     "terms": [
       "Spring"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794528000,
+    "date_updated": 1794528000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - MSR Software-Hardware Co-design",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794528000,
@@ -76582,8 +76962,46 @@
   },
   {
     "company_name": "Apex Technology, Inc.",
+    "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Apex Technology, Inc.",
     "title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
     "url": "https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Apex Technology, Inc.",
+    "title": "Ground Software Engineering Internship (Spring or Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c",
     "locations": [
       "Los Angeles, CA"
     ],
@@ -76738,6 +77156,25 @@
     "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
     "locations": [
       "Grand Rapids, MI"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+    "locations": [
+      "United States, Washington, Redmond"
     ],
     "terms": [
       "Not specified"
@@ -79631,26 +80068,6 @@
     ]
   },
   {
-    "company_name": "Staples",
-    "title": "Software Engineer Intern, SDS e-Commerce Team",
-    "url": "https://go.vansh.nyc/1fw",
-    "locations": [
-      "Framingham, MA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1793664000,
-    "date_updated": 1793748911,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Engramme",
     "title": "Back-End Software Engineer Co-op",
     "url": "https://go.vansh.nyc/1fx",
@@ -80635,7 +81052,7 @@
     "category": "Software",
     "date_posted": 1793747252,
     "date_updated": 1793747342,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -84250,6 +84667,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Northrop Grumman",
     "title": "2027 Flight Software Engineer Intern - Redondo Beach CA",
     "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
@@ -84334,6 +84770,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Trimble",
+    "title": "Hardware/Software Testing Intern",
+    "url": "https://trimble.wd1.myworkdayjobs.com/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
+    "locations": [
+      "Westminster, CO"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1793664000,
@@ -105184,7 +105639,7 @@
     "category": "Hardware",
     "date_posted": 1792005868,
     "date_updated": 1793236121,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -112864,7 +113319,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793138661,
     "date_updated": 1793138949,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -121553,29 +122008,6 @@
     ]
   },
   {
-    "company_name": "CACI",
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/MU",
-    "locations": [
-      "Remote",
-      "United States",
-      "Sterling, VA",
-      "Denver, CO"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1789344000,
-    "date_updated": 1793023513,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "STR",
     "title": "Data Analyst Intern",
     "url": "https://go.vansh.nyc/fo",
@@ -125151,25 +125583,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1792972800,
-    "date_updated": 1792972800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Together AI",
-    "title": "Technical Writer Intern, Developer Experience (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5271149007",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [
-      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1792972800,
@@ -196986,7 +197399,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"

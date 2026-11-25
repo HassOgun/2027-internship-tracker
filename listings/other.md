@@ -1,12 +1,19 @@
-# Other (3769)
+# Other (3775)
 
 [← back to index](../README.md)
 
 | Company | Role | Location | Terms | Date Posted | Days Old | Sources |
 |---|---|---|---|---|---|---|
+| [Celestica](https://go.vansh.nyc/1Jm) | Engineering Data Analytics Intern | Toronto, Canada | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Celestica](https://go.vansh.nyc/1Jn) | Engineering AI Development Intern | Toronto, Canada | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Apex Technology, Inc.](https://go.vansh.nyc/1Jf) | Software Engineering Intern, Operating Systems | Los Angeles, CA | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Apex Technology, Inc.](https://go.vansh.nyc/1Jg) | Flight Software Engineering Intern | Los Angeles, CA | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
+| [Saputo](https://go.vansh.nyc/1Jd) | Data Engineer Intern, Enterprise Analytics | Mississauga, Canada | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/1J0) | Software Engineering Intern, Simulation Technology | Santa Clara, CA | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Hewlett Packard Enterprise](https://go.vansh.nyc/1IP) | Cloud Security Engagement Intern | Spring, TX | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
 | [Samsung Semiconductor](https://go.vansh.nyc/1IH) | LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation | San Jose, CA | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
+| [SambaNova](https://go.vansh.nyc/1Jj) | AI Performance Engineer Intern | Austin, TX, San Jose, CA | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
+| [SambaNova](https://go.vansh.nyc/1Jk) | Compiler Engineer Intern | Austin, TX, San Jose, CA | Summer | 2026-11-25 | 0 | vanshb03-2026, vanshb03-2027 |
 | [SambaNova](https://go.vansh.nyc/1IR) | Runtime Engineer Intern | Austin, TX | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Super](https://go.vansh.nyc/1IL) | Data Engineering Intern | Toronto, Canada | Winter | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697) | 2027 Summer Intern – Software Verification Engineer, AV/AI Platform | Warren, Michigan, United States of America |  | 2026-11-24 | 1 | dreamwork-2027 |
@@ -19,6 +26,7 @@
 | [Kiewit](https://go.vansh.nyc/1Il) | Cloud Security Intern, Technology Group | Omaha, NE | Spring | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [NVIDIA](https://go.vansh.nyc/1Im) | Developer Technology Intern, AI | Santa Clara, CA | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [PCL Construction](https://go.vansh.nyc/1In) | Cybersecurity Intern | Edmonton, Canada | Winter | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Nasdaq](https://go.vansh.nyc/1Jl) | Data Engineering Intern | Denver, CO | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Centene](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-and-Analytics-Summer-2027-Intern--Undergraduate-_1660515) | Data and Analytics Summer 2027 Intern (Undergraduate) | Remote-MO |  | 2026-11-24 | 1 | dreamwork-2027 |
 | [General Motors](https://go.vansh.nyc/1Ir) | Software Verification Engineer Intern, AV/AI Platform | Warren, MI | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [QuEra Computing](https://go.vansh.nyc/1If) | Site Reliability Engineer Co-op | Boston, MA | Spring | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -33,6 +41,9 @@
 | [Fanatics Collectibles](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009) | Summer 2027 Internship - Product Management Intern, Card Tech | New York, NY, United States |  | 2026-11-24 | 1 | dreamwork-2027 |
 | [Aerospace Corporation](https://go.vansh.nyc/1J8) | Embedded Software Engineering Undergrad Intern | El Segundo, CA | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Entegris](https://go.vansh.nyc/1I2) | Cyber Threat Analyst Co-op | Chaska, MN | Spring | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Aerospace Corporation](https://go.vansh.nyc/1Jh) | Machine Learning Engineer Undergrad Intern | El Segundo, CA, Chantilly, VA | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Analog Devices](https://go.vansh.nyc/1Jb) | Embedded Software Engineer Intern | Austin, TX | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
+| [Genworth](https://go.vansh.nyc/1Jc) | Data Analytics Intern | Richmond, VA | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Trimble](https://go.vansh.nyc/1I5) | AI Software Developer Engineer in Test Intern | Lake Oswego, OR | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [Federal Home Loan Bank of Indianapolis](https://go.vansh.nyc/1I0) | Data Platform Engineer Intern | Indianapolis, IN | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
 | [ZOLL Medical Corporation](https://go.vansh.nyc/1I1) | Software Automation Intern | Chelmsford, MA | Summer | 2026-11-24 | 1 | vanshb03-2026, vanshb03-2027 |
@@ -445,7 +456,6 @@
 | [TransUnion](https://transunion.wd5.myworkdayjobs.com/transunion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450) | Data Science & Analytics Internship - Summer 2027 | Chicago, Illinois |  | 2026-11-19 | 6 | dreamwork-2027 |
 | [PTC](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015) | Full-Stack Engineering Intern, Cloud Data Management (CAD) | Boston, MA | Summer | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [Alberta Investment Management Corporation](https://go.vansh.nyc/1Da) | Test Automation Intern | Edmonton, Canada | Winter | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027 |
-| [Allied Consultants](https://careers-alliedconsultants.icims.com/jobs/9084/ai-ml-engineer-intern/job) | AI/ML Engineer Intern | Austin, TX | Summer | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027, applyguy-2027 |
 | [DocuSign](https://go.vansh.nyc/1D2) | Product Data Science Intern | San Francisco, CA | Summer | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Cadence Design Systems](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1) | Software Engineering Intern - Circuit Simulation infrastructure | SAN JOSE |  | 2026-11-19 | 6 | dreamwork-2027 |
 | [CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---sunnyvale-ca/product-engineering-intern---falcon-guardian_r30622) | Product Engineering Intern - Falcon Guardian | USA - Sunnyvale, CA |  | 2026-11-19 | 6 | dreamwork-2027 |
@@ -559,7 +569,6 @@
 | [Carnival Corporation](https://go.vansh.nyc/1CV) | BI Report Developer Intern, Crew Operations | Seattle, WA | Summer | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Ralliant](https://go.vansh.nyc/1CW) | Software Engineering Intern | Beaverton, OR | Summer | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Scout Space](https://go.vansh.nyc/1CU) | Embedded Firmware Engineering Intern | Reston, VA, Remote, United States | Summer | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027 |
-| [RTX](https://go.vansh.nyc/1CS) | Software Security Intern | Cedar Rapids, IA | Summer | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Pebl](https://go.vansh.nyc/1CP) | DevSecOps Intern | Palo Alto, CA | Summer | 2026-11-19 | 6 | vanshb03-2026, vanshb03-2027 |
 | [Ahold Delhaize](https://career2.successfactors.eu/career?career_ns=job_listing&company=ADPROD&career_job_req_id=564790) | Fall Data Analytics Strategy Co-op | Massachusetts, United States |  | 2026-11-18 | 7 | dreamwork-2027 |
 | [Interns](https://boards.greenhouse.io/iex-interns/jobs/8171383) | Network & Data Center Engineer Co-op – Spring 2027 | New York |  | 2026-11-18 | 7 | dreamwork-2027 |
@@ -592,7 +601,7 @@
 | [Icfexternal](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1) | 2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA) | Reston, VA |  | 2026-11-18 | 7 | dreamwork-2027 |
 | [Ferrovial](https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/murfreesboro/webber---field-engineer-intern-ii---infrastructure-management_jr19990) | Webber - Field Engineer Intern II - Infrastructure Management | USA - Webber - Infra - Murfreesboro (TN0101) |  | 2026-11-18 | 7 | dreamwork-2027 |
 | [JCI](https://jci.wd5.myworkdayjobs.com/jci/job/York-Pennsylvania-United-States-of-America/Air-Handling-Application---Project-Engineering-Intern_WD30285140) | Air Handling Product Management & Engineering Intern | York-Pennsylvania-United States of America |  | 2026-11-18 | 7 | dreamwork-2027, applyguy-2027 |
-| [JCI](https://jci.wd5.myworkdayjobs.com/jci_confidential/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408-2) | Software Engineering Co-Op | Burlington-Massachusetts-United States of America |  | 2026-11-18 | 7 | dreamwork-2027, applyguy-2027 |
+| [JCI](https://jci.wd5.myworkdayjobs.com/jci/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408) | Software Engineering Co-Op | Burlington-Massachusetts-United States of America |  | 2026-11-18 | 7 | dreamwork-2027, applyguy-2027 |
 | [State Street](https://statestreet.wd1.myworkdayjobs.com/global/job/boston-massachusetts/software-engineering-intern---full-time-internship--jan---june-2027-_r-801272) | Software Engineering Intern - Full-time Internship (Jan - June 2027) | Boston, Massachusetts |  | 2026-11-18 | 7 | dreamwork-2027 |
 | [DTJ Design](https://ats.rippling.com/dtj-design-inc/jobs/8628943b-098c-4a4a-8712-17d530d01abb) | Landscape Architecture Internship 2027 | Denver, CO |  | 2026-11-18 | 7 | dreamwork-2027 |
 | [Bristol Myers Squibb](https://go.vansh.nyc/1Ck) | Undergrad Data Science Intern | Remote, United States | Summer | 2026-11-18 | 7 | vanshb03-2026, vanshb03-2027 |
@@ -744,7 +753,6 @@
 | [Labcorp](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Intern---People-Analytics_2640527) | Intern - People Analytics | Durham NC |  | 2026-11-17 | 8 | dreamwork-2027 |
 | [Clera](https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d) | Full-Stack Software Engineering Intern | New York |  | 2026-11-17 | 8 | dreamwork-2027 |
 | [Idaho National Laboratory](https://go.vansh.nyc/1B6) | Electric Vehicle Charging Data Analysis Intern | Idaho Falls, ID | Summer | 2026-11-17 | 8 | vanshb03-2026, vanshb03-2027 |
-| [Clera](https://go.vansh.nyc/1AN) | Full-Stack Software Engineering Intern | New York, NY | Summer | 2026-11-17 | 8 | vanshb03-2026, vanshb03-2027 |
 | [Leidos](https://go.vansh.nyc/1AO) | Cybersecurity Intern | Fort Belvoir, VA | Summer | 2026-11-17 | 8 | vanshb03-2026, vanshb03-2027 |
 | [Amazon](https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) | Software Development Engineer Intern - Artificial General Intelligence (Summer 2027) | US, CA, Sunnyvale |  | 2026-11-17 | 8 | dreamwork-2027, applyguy-2027 |
 | [SAP](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=457749) | SAP iXp Intern - Full-Stack AI Developer | Palo Alto, USA |  | 2026-11-17 | 8 | dreamwork-2027 |
@@ -1530,7 +1538,6 @@
 | [NVIDIA](https://go.vansh.nyc/1bE) | Math Libraries Intern, cuEST | Santa Clara, CA | Summer | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [General Dynamics Mission Systems](https://go.vansh.nyc/1hW) | Electrical Engineering Intern, FPGA | Middletown, RI | Summer | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [Arlo Technologies](https://go.vansh.nyc/1fB) | Firmware Developer Co-op | Richmond, Canada | Winter | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
-| [Staples](https://go.vansh.nyc/1fw) | Software Engineer Intern, SDS e-Commerce Team | Framingham, MA | Summer | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [Engramme](https://go.vansh.nyc/1fx) | Back-End Software Engineer Co-op | San Francisco, CA | Winter | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [Engramme](https://go.vansh.nyc/1fy) | Full-Stack Software Engineer Co-op | San Francisco, CA | Winter | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
 | [Engramme](https://go.vansh.nyc/1fz) | Machine Learning Engineer Co-op | San Francisco, CA | Winter | 2026-11-03 | 22 | vanshb03-2026, vanshb03-2027 |
@@ -3142,7 +3149,6 @@
 | [Google](https://go.vansh.nyc/18X) | Student Researcher Intern | Mountain View, CA, Ann Arbor, MI, Atlanta, GA, Austin, TX, Boulder, CO, Cambridge, MA, Chicago, IL, Houston, TX, Irvine, CA, Kirkland, WA, Los Angeles, CA, Madison, WI, New York, NY, Palo Alto, CA, Princeton, NJ, Pittsburgh, PA, Raleigh, NC, Durham, NC, Goleta, CA, San Bruno, CA, Seattle, WA, San Francisco, CA, San Jose, CA, Sunnyvale, CA, Washington, DC | Winter | 2026-09-14 | 72 | vanshb03-2026, vanshb03-2027 |
 | [Google](https://go.vansh.nyc/18W) | Student Researcher Intern | Montreal, Canada | Winter | 2026-09-14 | 72 | vanshb03-2026, vanshb03-2027 |
 | [Novelis](https://careers-novelis.icims.com/jobs/53185/automation-engineering-intern/job) | Automation Engineering Intern | Bay Minette, AL, US |  | 2026-09-14 | 72 | dreamwork-2027 |
-| [CACI](https://go.vansh.nyc/MU) | Software Engineer Intern | Remote, United States, Sterling, VA, Denver, CO | Summer | 2026-09-14 | 72 | vanshb03-2026, vanshb03-2027 |
 | [AfterQuery](https://go.vansh.nyc/1lt) | AI/ML Research Intern | San Francisco, CA | Summer | 2026-09-12 | 74 | vanshb03-2026, vanshb03-2027 |
 | [Vanguard](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762) | College to Corporate IT Internship - Risk & Security - Analyst (PA) | Malvern, PA |  | 2026-09-12 | 74 | dreamwork-2027 |
 | [Vanguard](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764) | College to Corporate IT Internship - Risk & Security - Analyst (NC) | Charlotte, NC |  | 2026-09-12 | 74 | dreamwork-2027 |
