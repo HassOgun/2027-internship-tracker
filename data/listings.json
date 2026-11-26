@@ -1,5 +1,285 @@
 [
   {
+    "company_name": "AMD",
+    "title": "Hardware Engineering Intern",
+    "url": "https://careers.amd.com/jobs/102333?icims=1&lang=en-us",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Hardware",
+    "date_posted": 1795701900,
+    "date_updated": 1795706119,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "NinjaHoldings",
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/1Kf",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795124583,
+    "date_updated": 1795706100,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "NinjaHoldings",
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1Kg",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795124633,
+    "date_updated": 1795706100,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "DEPT",
+    "title": "AI Engineer Trainee - AI Engineer Traineeship",
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8414501",
+    "locations": [
+      "Netherlands",
+      "United Kingdom"
+    ],
+    "terms": [
+      "Winter 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795698881,
+    "date_updated": 1795705634,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Aerospace Corporation",
+    "title": "Embedded Software Engineering Undergrad Intern",
+    "url": "https://go.vansh.nyc/1J8",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795527907,
+    "date_updated": 1795700998,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Lockheed Martin",
+    "title": "FPGA Engineer Intern, Security Focus",
+    "url": "https://go.vansh.nyc/1Ke",
+    "locations": [
+      "Owego, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795630154,
+    "date_updated": 1795698554,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "ABB",
+    "title": "Software Intern",
+    "url": "https://go.vansh.nyc/1Kd",
+    "locations": [
+      "Dorval, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1795642800,
+    "date_updated": 1795691696,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Verisk",
+    "title": "Integration Analyst Intern",
+    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1795690985,
+    "date_updated": 1795691185,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "Intel",
+    "title": "Design Verification Intern",
+    "url": "https://go.vansh.nyc/1Ie",
+    "locations": [
+      "Fort Collins, CO",
+      "Hillsboro, OR",
+      "Santa Clara, CA",
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795536191,
+    "date_updated": 1795681216,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Cisco",
+    "title": "AI Cybersecurity Engineer I Intern",
+    "url": "https://go.vansh.nyc/1G5",
+    "locations": [
+      "Research Triangle Park, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795147854,
+    "date_updated": 1795677524,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Elevance Health",
+    "title": "Undergraduate Clinical Analytics Intern",
+    "url": "https://go.vansh.nyc/1K7",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795558162,
+    "date_updated": 1795666579,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Signet Jewelers",
+    "title": "Software Engineering Intern, Digital Commerce",
+    "url": "https://go.vansh.nyc/1K8",
+    "locations": [
+      "Irving, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795564800,
+    "date_updated": 1795666579,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Danaher Corporation",
+    "title": "IT Data Analyst Intern",
+    "url": "https://go.vansh.nyc/1K9",
+    "locations": [
+      "Brea, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "category": "Other",
+    "date_posted": 1795644576,
+    "date_updated": 1795666579,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Blizzard Entertainment",
+    "title": "Tech Art Intern",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Software",
+    "date_posted": 1795478400,
+    "date_updated": 1795663815,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
     "company_name": "Ingredion",
     "title": "AI & Data Scientist Intern",
     "url": "https://go.vansh.nyc/1dn",
@@ -581,7 +861,7 @@
   {
     "company_name": "CodeRabbit",
     "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9",
+    "url": "https://go.vansh.nyc/1JE",
     "locations": [
       "San Francisco, CA"
     ],
@@ -595,8 +875,7 @@
     "is_visible": true,
     "_sources": [
       "vanshb03-2026",
-      "vanshb03-2027",
-      "applyguy-2027"
+      "vanshb03-2027"
     ]
   },
   {
@@ -2345,26 +2624,6 @@
     ]
   },
   {
-    "company_name": "Aerospace Corporation",
-    "title": "Embedded Software Engineering Undergrad Intern",
-    "url": "https://go.vansh.nyc/1J8",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795527907,
-    "date_updated": 1795614408,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Artefact",
     "title": "AI Builder Intern",
     "url": "https://go.vansh.nyc/1J4",
@@ -3285,6 +3544,44 @@
     ]
   },
   {
+    "company_name": "CodeRabbit",
+    "title": "Software Engineer - Intern",
+    "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795564800,
+    "date_updated": 1795564800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Digital Control Inc.",
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.workable.com/view/joECwE3UKLuR3bn7TRoLa5/software-engineering-intern-in-kent-at-digital-control-inc.",
+    "locations": [
+      "Kent, WA"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1795564800,
+    "date_updated": 1795564800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Fireflyspace",
     "title": "Internship - Software Engineering - Spring 2027",
     "url": "https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188",
@@ -3504,6 +3801,25 @@
       "Not specified"
     ],
     "category": "Software Engineering",
+    "date_posted": 1795564800,
+    "date_updated": 1795564800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "QuEra Computing, Inc.",
+    "title": "Internship \u2013 Technical Product Management",
+    "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Product",
     "date_posted": 1795564800,
     "date_updated": 1795564800,
     "active": true,
@@ -5042,29 +5358,6 @@
     ]
   },
   {
-    "company_name": "Intel",
-    "title": "Design Verification Intern",
-    "url": "https://go.vansh.nyc/1Ie",
-    "locations": [
-      "Fort Collins, CO",
-      "Hillsboro, OR",
-      "Santa Clara, CA",
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795536191,
-    "date_updated": 1795538351,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Queracomputinginc",
     "title": "Site Reliability Engineer Co-op",
     "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008",
@@ -5253,7 +5546,7 @@
     "category": "Hardware",
     "date_posted": 1795534080,
     "date_updated": 1795534958,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -9180,7 +9473,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1795476248,
     "date_updated": 1795476445,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -12421,7 +12714,7 @@
   {
     "company_name": "Cadence",
     "title": "Software Engineering Intern - Circuit Simulation",
-    "url": "https://cadence.wd1.myworkdayjobs.com/external_careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251-1",
+    "url": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251",
     "locations": [
       "Austin, TX"
     ],
@@ -12560,25 +12853,6 @@
     ],
     "terms": [
       "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1795392000,
-    "date_updated": 1795392000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Northrop Grumman",
-    "title": "2027 Software Test Engineering Intern - Roy UT",
-    "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728",
-    "locations": [
-      "Roy, UT"
-    ],
-    "terms": [
-      "2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1795392000,
@@ -15503,26 +15777,6 @@
     ]
   },
   {
-    "company_name": "Cisco",
-    "title": "AI Cybersecurity Engineer I Intern",
-    "url": "https://go.vansh.nyc/1G5",
-    "locations": [
-      "Research Triangle Park, NC"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "category": "Other",
-    "date_posted": 1795147854,
-    "date_updated": 1795234254,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "GM",
     "title": "2027 Summer Intern - Cybersecurity Education & Awareness Program Intern",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---cybersecurity-education---awareness-program-intern_jr-202624606",
@@ -16614,7 +16868,7 @@
     "category": "Software",
     "date_posted": 1795219070,
     "date_updated": 1795219252,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -20812,7 +21066,7 @@
     "category": "Hardware",
     "date_posted": 1795185660,
     "date_updated": 1795187405,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -20902,7 +21156,8 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "dreamwork-2027"
+      "dreamwork-2027",
+      "applyguy-2027"
     ]
   },
   {
@@ -24473,7 +24728,7 @@
     "category": "Software",
     "date_posted": 1795132588,
     "date_updated": 1795132665,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -28790,25 +29045,6 @@
     ]
   },
   {
-    "company_name": "Kla",
-    "title": "Software Application Engineer Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Application-Engineer-Intern_2643260-1",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1795046400,
-    "date_updated": 1795046400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Leidos",
     "title": "Software Developer Intern",
     "url": "https://leidos.wd5.myworkdayjobs.com/external/job/Fort-Belvoir-VA/Software-Developer-Intern_R-00197399-1",
@@ -28969,63 +29205,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1795046400,
-    "date_updated": 1795046400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Tmobile",
-    "title": "Summer 2027 AI Engineering Internship - Site Reliability & Automation",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1795046400,
-    "date_updated": 1795046400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Tmobile",
-    "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ381366",
-    "locations": [
-      "Overland Park, KS"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1795046400,
-    "date_updated": 1795046400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Tmobile",
-    "title": "Summer 2027 Software Engineering AI Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1795046400,
@@ -31879,25 +32058,6 @@
     ]
   },
   {
-    "company_name": "apexanalytix",
-    "title": "Product Management (DevOps) Intern - Summer 2027",
-    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
-    "locations": [
-      "Greensboro, NC"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794960000,
-    "date_updated": 1794960000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Boseallaboutme",
     "title": "Software Engineer Co-op",
     "url": "https://boseallaboutme.wd503.myworkdayjobs.com/bose_careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
@@ -31946,6 +32106,25 @@
       "Not specified"
     ],
     "category": "Product",
+    "date_posted": 1794960000,
+    "date_updated": 1794960000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "CWILL",
+    "title": "AI Agent R&D Trainee - Full-Stack Engineer - Bilingual Mandarin",
+    "url": "https://jobs.workable.com/view/d6XArGo3RK5F5RDNeLe84b/hybrid-ai-agent-r%26d-trainee---full-stack-engineer---bilingual-mandarin-in-cary-at-cwill",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
     "date_posted": 1794960000,
     "date_updated": 1794960000,
     "active": true,
@@ -32610,7 +32789,7 @@
   {
     "company_name": "Falcomm",
     "title": "AI/ML Software Engineer Undergraduate Intern - AI/CAD Integration",
-    "url": "https://apply.workable.com/falcomm/j/64D0E86EFE/",
+    "url": "https://jobs.workable.com/view/wmaLJcw7iwc1vthupiZon2/ai%2Fml-software-engineer-undergraduate-intern---ai%2Fcad-integration-in-atlanta-at-falcomm",
     "locations": [
       "Atlanta, GA"
     ],
@@ -32630,7 +32809,7 @@
   {
     "company_name": "Falcomm",
     "title": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
-    "url": "https://apply.workable.com/falcomm/j/41F139E6F7/",
+    "url": "https://jobs.workable.com/view/wXwbJJ34TGN8cM1b8pfZji/ai%2Fml-software-engineer-graduate-intern---ai%2Fcad-integration-in-atlanta-at-falcomm",
     "locations": [
       "Atlanta, GA"
     ],
@@ -35417,14 +35596,14 @@
     ]
   },
   {
-    "company_name": "Forterra",
-    "title": "2027 Intern - Software",
-    "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+    "company_name": "apexanalytix",
+    "title": "Product Management (DevOps) Intern - Summer 2027",
+    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
     "locations": [
-      "Clarksburg, MD"
+      "Greensboro, NC"
     ],
     "terms": [
-      "2027"
+      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1794873600,
@@ -35444,25 +35623,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794873600,
-    "date_updated": 1794873600,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Manulife",
-    "title": "Spring Co-op 2027 - Software Engineering, Security & Operations",
-    "url": "https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121-1",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Spring"
     ],
     "category": "Software Engineering",
     "date_posted": 1794873600,
@@ -39187,6 +39347,25 @@
     ],
     "terms": [
       "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794787200,
+    "date_updated": 1794787200,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Forterra",
+    "title": "2027 Intern - Software",
+    "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+    "locations": [
+      "Clarksburg, MD"
+    ],
+    "terms": [
+      "2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1794787200,
@@ -44437,7 +44616,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1793577600,
     "date_updated": 1794553928,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -45700,25 +45879,6 @@
     ]
   },
   {
-    "company_name": "Dtna",
-    "title": "IT Developer Analyst Intern",
-    "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681",
-    "locations": [
-      "Mount Holly, NC"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794528000,
-    "date_updated": 1794528000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Electric Power Engineers",
     "title": "Software Power Systems Engineering Intern",
     "url": "https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job",
@@ -45746,25 +45906,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794528000,
-    "date_updated": 1794528000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Manulife",
-    "title": "Spring Co-op 2027 - Software Engineering Intern",
-    "url": "https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Spring"
     ],
     "category": "Software Engineering",
     "date_posted": 1794528000,
@@ -46622,7 +46763,7 @@
   {
     "company_name": "Leidos",
     "title": "Junior Software Engineer / Data Scientist Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
     "locations": [
       "Tucson, AZ"
     ],
@@ -46636,8 +46777,7 @@
     "is_visible": true,
     "_sources": [
       "simplify-2026",
-      "dreamwork-2027",
-      "applyguy-2027"
+      "dreamwork-2027"
     ]
   },
   {
@@ -55857,25 +55997,6 @@
     ],
     "terms": [
       "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794355200,
-    "date_updated": 1794355200,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Mksinst",
-    "title": "2027 Summer Software Engineer Co-op",
-    "url": "https://mksinst.wd1.myworkdayjobs.com/mkscareersuniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610",
-    "locations": [
-      "Andover, MA"
-    ],
-    "terms": [
-      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1794355200,
@@ -66862,6 +66983,25 @@
     ]
   },
   {
+    "company_name": "CWILL",
+    "title": "Order Tracking R&D Trainee - Backend Engineer (Go / PHP) - Bilingual Mandarin",
+    "url": "https://jobs.workable.com/view/m9r2yWXqpK59VC5oD7P3rj/hybrid-order-tracking-r%26d-trainee---backend-engineer-(go-%2F-php)---bilingual-mandarin-in-cary-at-cwill",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794182400,
+    "date_updated": 1794182400,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Ecmtek",
     "title": "Intern Developer - Python Development",
     "url": "https://ecmtek.bamboohr.com/careers/51",
@@ -66965,25 +67105,6 @@
     ],
     "terms": [
       "Spring"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1794182400,
-    "date_updated": 1794182400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Wexinc",
-    "title": "Software Engineer Intern",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Engineer-Intern_R22542",
-    "locations": [
-      "Remote, U.S."
-    ],
-    "terms": [
-      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794182400,
@@ -79298,101 +79419,6 @@
     ]
   },
   {
-    "company_name": "Ilitch",
-    "title": "Intern, Developer IT",
-    "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677",
-    "locations": [
-      "Detroit, MI"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Invesco",
-    "title": "Early Career Intern - Digital Product Management",
-    "url": "https://invesco.wd1.myworkdayjobs.com/ivzearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Product",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Jmfamily",
-    "title": "Software Analyst Intern",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Jmfamily",
-    "title": "Software Engineer Intern",
-    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199",
-    "locations": [
-      "Deerfield Beach, FL"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Lnw",
-    "title": "Intern Software Engineering",
-    "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885",
-    "locations": [
-      "Reno, NV"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793836800,
-    "date_updated": 1793836800,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Lumbermen's",
     "title": "Software Developer Internship",
     "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
@@ -80558,6 +80584,27 @@
     ]
   },
   {
+    "company_name": "Paccar",
+    "title": "Data Engineer Intern",
+    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Engineer-TX-76205-7864/1454360033/?ats=successfactors",
+    "locations": [
+      "Denton, TX"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1793805304,
+    "date_updated": 1793805536,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "Ericsson",
     "title": "Technology and AI Intern",
     "url": "https://go.vansh.nyc/1gz",
@@ -81525,25 +81572,6 @@
     "url": "https://www.keenfootwear.com/careers-list.html?4750548005&gh_jid=4750548005",
     "locations": [
       "Portland, OR"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793750400,
-    "date_updated": 1793750400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Leidos",
-    "title": "Software Engineering & AI Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/external/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
-    "locations": [
-      "6314 RemoteTeleworker"
     ],
     "terms": [
       "Not specified"
@@ -101800,25 +101828,6 @@
   },
   {
     "company_name": "NVIDIA",
-    "title": "AI Systems Software Engineering Intern \u2013 Summer 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793318400,
-    "date_updated": 1793318400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "NVIDIA",
     "title": "Compiler Software Engineering Intern - Summer 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
     "locations": [
@@ -107165,7 +107174,7 @@
     "category": "Hardware",
     "date_posted": 1792006568,
     "date_updated": 1793236121,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -107186,7 +107195,7 @@
     "category": "Hardware",
     "date_posted": 1792005868,
     "date_updated": 1793236121,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -107305,44 +107314,6 @@
     ]
   },
   {
-    "company_name": "Gaig",
-    "title": "DevOps Developer Intern - Summer 2027",
-    "url": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826",
-    "locations": [
-      "Cincinnati, OH (USA)"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793232000,
-    "date_updated": 1793232000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
-    "company_name": "Gaig",
-    "title": "Content Publishing Developer Intern - Summer 2027",
-    "url": "https://gaig.wd1.myworkdayjobs.com/gaig_external/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813",
-    "locations": [
-      "Cincinnati, OH (USA)"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793232000,
-    "date_updated": 1793232000,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Generalmotors",
     "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
@@ -107421,7 +107392,7 @@
   {
     "company_name": "Syntiant",
     "title": "Internship - DevOps Machine Learning Infrastructure Engineer",
-    "url": "https://apply.workable.com/syntiant/j/468B53B345/",
+    "url": "https://jobs.workable.com/view/tZBq47XATeUXZdR8Rffrdy/internship---devops-machine-learning-infrastructure-engineer-in-irvine-at-syntiant",
     "locations": [
       "Irvine, CA"
     ],
@@ -112860,25 +112831,6 @@
     ]
   },
   {
-    "company_name": "Dtna",
-    "title": "Software Release Management Intern",
-    "url": "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/Portland-OR-US/Software-Release-Management-Intern_DT-20432",
-    "locations": [
-      "Portland, OR"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1793145600,
-    "date_updated": 1793145600,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Garda Capital Partners",
     "title": "Software Engineer Intern (C#)",
     "url": "https://job-boards.greenhouse.io/gardacp/jobs/6238021004",
@@ -112925,6 +112877,25 @@
     ],
     "terms": [
       "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793145600,
+    "date_updated": 1793145600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Infleqtion",
+    "title": "Summer 2027 Internship - Quantum Software (QSW)",
+    "url": "https://jobs.workable.com/view/dYzgxY7wmFJihiibcmCfAB/summer-2027-internship---quantum-software-(qsw)-in-chicago-at-infleqtion",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2027"
     ],
     "category": "Software Engineering",
     "date_posted": 1793145600,
@@ -130464,7 +130435,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1792793758,
     "date_updated": 1792793935,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -133983,6 +133954,25 @@
     ],
     "category": "AI/ML/Data",
     "date_posted": 1784596484,
+    "date_updated": 1792749252,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "TikTok",
+    "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
+    "url": "https://lifeattiktok.com/search/7525650208522193159",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "AI/ML/Data",
+    "date_posted": 1781503916,
     "date_updated": 1792749252,
     "active": true,
     "is_visible": true,
@@ -148225,7 +148215,7 @@
     "category": "Hardware",
     "date_posted": 1792316246,
     "date_updated": 1792316421,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -191903,7 +191893,7 @@
     "category": "Software",
     "date_posted": 1790208000,
     "date_updated": 1790288370,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -197958,7 +197948,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -215006,7 +214996,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789424266,
     "date_updated": 1789424626,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -220039,7 +220029,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789170797,
     "date_updated": 1789171116,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -314360,7 +314350,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1784585370,
     "date_updated": 1784586872,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -374129,7 +374119,7 @@
   {
     "company_name": "Leidos",
     "title": "Software Developer Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
     "locations": [
       "Annapolis Junction, MD"
     ],
@@ -374144,8 +374134,7 @@
     "_sources": [
       "simplify-2026",
       "vanshb03-2026",
-      "vanshb03-2027",
-      "applyguy-2027"
+      "vanshb03-2027"
     ]
   },
   {
@@ -381574,25 +381563,6 @@
     ]
   },
   {
-    "company_name": "Bio-Rad Laboratories",
-    "title": "Test Engineering Intern (Software)",
-    "url": "https://careers-biorad.icims.com/jobs/38316/test-engineering-intern-%28software%29/job",
-    "locations": [
-      "Hercules, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1774936000,
-    "date_updated": 1776440234,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "company_name": "AllTrails",
     "title": "Android Engineer Intern, Core",
     "url": "https://jobs.lever.co/alltrails/431d989a-3c29-4a15-a869-fc0a2e3f6043",
@@ -386044,25 +386014,6 @@
     ]
   },
   {
-    "company_name": "Climate Corps",
-    "title": "Energy Efficiency Associate",
-    "url": "https://job-boards.greenhouse.io/cc/jobs/5170312008",
-    "locations": [
-      "Carson, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774965925,
-    "date_updated": 1776177913,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "company_name": "Superbet",
     "title": "Super Erasmus Traineeship",
     "url": "https://job-boards.eu.greenhouse.io/superbet/jobs/4807395101",
@@ -389008,44 +388959,6 @@
     ]
   },
   {
-    "company_name": "Revolution",
-    "title": "Full Stack Developer Intern",
-    "url": "https://careers-revolutioncompany.icims.com/jobs/2869/full-stack-developer-intern/job",
-    "locations": [
-      "Dallas. TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1774935842,
-    "date_updated": 1775834862,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Revolution",
-    "title": "AI Engineer Intern",
-    "url": "https://careers-revolutioncompany.icims.com/jobs/2868/ai-engineer-intern/job",
-    "locations": [
-      "Terre Haute, IN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "date_posted": 1774936363,
-    "date_updated": 1775834862,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "company_name": "AllTrails",
     "title": "iOS Engineer Graduate Intern, Growth",
     "url": "https://jobs.lever.co/alltrails/83007ddb-703c-4dc6-a80a-09c379efdf7c",
@@ -390580,6 +390493,27 @@
     "is_visible": true,
     "_sources": [
       "simplify-2026"
+    ]
+  },
+  {
+    "company_name": "General Dynamics Mission Systems",
+    "title": "Software Engineer Intern",
+    "url": "https://careers-gdms.icims.com/jobs/71947/job?mobile=true&needsRedirect=false",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "category": "Software",
+    "date_posted": 1775772168,
+    "date_updated": 1775774891,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "simplify-2026",
+      "vanshb03-2026",
+      "vanshb03-2027"
     ]
   },
   {
@@ -395693,82 +395627,6 @@
     ]
   },
   {
-    "company_name": "Creatify",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/embedding-vc/eaf10b14-03ef-412c-b0f0-78900f0a213c",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1774936113,
-    "date_updated": 1775481655,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Palomar Products",
-    "title": "Software Engineering Intern - Onsite",
-    "url": "https://palomarproducts.applytojob.com/apply/NO42sUcZ9h/Software-Engineering-Intern-Onsite",
-    "locations": [
-      "Rancho Santa Margarita, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1774936203,
-    "date_updated": 1775481655,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Terabase",
-    "title": "Robotics & Autonomy Engineering Intern",
-    "url": "https://apply.workable.com/terabase-energy/j/5CDBB58919/",
-    "locations": [
-      "Davis, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "date_posted": 1774936488,
-    "date_updated": 1775481655,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "TALON",
-    "title": "AI/ML Engineering Intern",
-    "url": "https://careers-gotyto.icims.com/jobs/1794/ai-ml-engineering-intern/job",
-    "locations": [
-      "Reston, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Data Science, AI & Machine Learning",
-    "date_posted": 1774936575,
-    "date_updated": 1775481655,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "company_name": "Omnis",
     "title": "Software Engineering Internship/Co-Op",
     "url": "https://ats.rippling.com/omnis-corporation/jobs/e389ff2d-5be5-4571-8cc1-f361a139b753",
@@ -400870,25 +400728,6 @@
     ]
   },
   {
-    "company_name": "Jackson",
-    "title": "Strategic Support Associate - Service Desk",
-    "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/PART-TIME-Strategic-Support-Associate--Service-Desk_REQ-03708-1",
-    "locations": [
-      "East Lansing, MI"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "category": "Software",
-    "date_posted": 1774966153,
-    "date_updated": 1775038558,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "company_name": "Octopus Energy",
     "title": "Octopus in Colour Intern - Backend Engineer",
     "url": "https://jobs.lever.co/octoenergy/763336cc-befe-4df8-882d-f3fff44a9e87/apply",
@@ -402075,106 +401914,6 @@
     ]
   },
   {
-    "company_name": "General Dynamics Mission Systems",
-    "title": "Software Engineer Intern",
-    "url": "https://careers-gdms.icims.com/jobs/71739/job?mobile=true&needsRedirect=false",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774966156,
-    "date_updated": 1775002916,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "The Aerospace Corporation",
-    "title": "Data and Analytics Intern",
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-and-Analytics-Intern_R014897",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774965940,
-    "date_updated": 1775002913,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "LexisNexis Risk Solutions",
-    "title": "Data Engineering Intern",
-    "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Data-Engineering-intern--Sprinternship-_R110421",
-    "locations": [
-      "Boca Raton, FL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774966123,
-    "date_updated": 1775002878,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Paccar",
-    "title": "Data Engineer Intern",
-    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Data-Engineer-TX-76205-7864/1293392801/?ats=successfactors",
-    "locations": [
-      "Denton, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774966075,
-    "date_updated": 1775002826,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026",
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Eversource Energy",
-    "title": "AMI Data Strategist Intern",
-    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/XMLNAME-2026-AMI-Data-Strategist-Intern_R-030184",
-    "locations": [
-      "Hartford, CT",
-      "Norwood, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774965660,
-    "date_updated": 1775002713,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
     "company_name": "Fortinet",
     "title": "Product Management Intern",
     "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22504",
@@ -402434,120 +402173,6 @@
     "category": "Software",
     "date_posted": 1774994668,
     "date_updated": 1775001602,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Red Bull Advanced Technologies",
-    "title": "Model Maker Apprentice",
-    "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Model-Maker-Apprentice_R0007393",
-    "locations": [
-      "Milton Keynes, UK"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774966113,
-    "date_updated": 1774987381,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Leonardo",
-    "title": "Manufacturing Technician Apprentice",
-    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Manufacturing-Technician-Apprentice_R0028335",
-    "locations": [
-      "Essex, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774966175,
-    "date_updated": 1774987381,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Qorvo",
-    "title": "Applications Engineering Intern",
-    "url": "https://careers.qorvo.com/job/Richardson-Applications-Engineering-Intern-TX-75081/1322646000/?ats=successfactors",
-    "locations": [
-      "Richardson, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Hardware",
-    "date_posted": 1774966157,
-    "date_updated": 1774981081,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "TikTok",
-    "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
-    "url": "https://lifeattiktok.com/search/7525650208522193159",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774966433,
-    "date_updated": 1774981081,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "TikTok",
-    "title": "Software Engineer Intern - AI Model Optimization",
-    "url": "https://lifeattiktok.com/search/7540823148805032210",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "Software",
-    "date_posted": 1774966426,
-    "date_updated": 1774981081,
-    "active": false,
-    "is_visible": true,
-    "_sources": [
-      "simplify-2026"
-    ]
-  },
-  {
-    "company_name": "Pindrop",
-    "title": "Research Scientist Intern - Multiple Teams",
-    "url": "https://www.pindrop.com/careers/job-title/?gh_jid=7767791",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "category": "AI/ML/Data",
-    "date_posted": 1774937737,
-    "date_updated": 1774939861,
     "active": false,
     "is_visible": true,
     "_sources": [
