@@ -1,4 +1,4 @@
-# Product Management (329)
+# Product Management (328)
 
 [← back to index](../README.md)
 
@@ -125,7 +125,6 @@
 | [Constellation Brands](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Marketing-Technology---Digital-Product_R-41658) | Marketing Technology & Digital Product Intern | Rochester, NY, Chicago, IL | N/A | 2026-11-04 | 22 | simplify-2026 |
 | [Kabam](https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9/apply) | Operations Product Manager Co-op | Vancouver, BC, Canada | Winter 2027 | 2026-11-03 | 23 | simplify-2026 |
 | [USAFacts](https://job-boards.greenhouse.io/usafacts/jobs/4478239009) | AI Product Intern | Bellevue, WA | Summer 2026 | 2026-11-03 | 23 | simplify-2026 |
-| [KEEN Footwear](https://www.keenfootwear.com/careers-list.html?4750047005&gh_jid=4750047005) | AI Product Management Intern | Portland, OR | Not specified | 2026-11-03 | 23 | applyguy-2027 |
 | [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | Product Manager Intern | Philadelphia, PA | Summer 2027 | 2026-11-02 | 24 | simplify-2026 |
 | [Odl](https://odl.wd5.myworkdayjobs.com/ODL/job/Zeeland-MI/Corporate-Product-Management-Intern_R004251) | Corporate Product Management Intern | Zeeland, MI | Not specified | 2026-11-02 | 24 | applyguy-2027 |
 | [ParetoHealth](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006) | Product Manager Summer Intern | Philadelphia, PA | Summer | 2026-11-02 | 24 | applyguy-2027 |

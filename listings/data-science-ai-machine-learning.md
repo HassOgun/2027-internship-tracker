@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1750)
+# Data Science, AI & Machine Learning (1749)
 
 [← back to index](../README.md)
 
@@ -31,10 +31,9 @@
 | [Kimley-Horn](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) | Data Science Intern | Mesa, AZ | Summer 2027 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [WSP](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99829) | Geographic Information Systems Science Intern | Denver, CO | Summer 2027 | 2026-11-24 | 2 | simplify-2026 |
 | [City of Campbell River](https://jobs.smartrecruiters.com/CityOfCampbellRiver/744000163555848) | OMS Project Co-op - Capital Projects | Campbell River, BC, Canada | Winter 2027 | 2026-11-24 | 2 | simplify-2026 |
-| [Johns Hopkins Applied Physics Laboratory](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) | Artificial Intelligence and Complex Systems Intern | Laurel, MD | Summer 2027 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [PatientPoint](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) | Data Engineer Intern | Cincinnati, OH | Summer 2026 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Sparksoft](https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5308152007) | Business / Data Analyst Intern | Maryland | N/A | 2026-11-24 | 2 | simplify-2026 |
-| [Medpace](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) | Clinical Intelligence Intern | Cincinnati, OH | Summer 2027 | 2026-11-24 | 2 | simplify-2026 |
+| [Medpace](https://careers.medpace.com/jobs/13558?icims=1&lang=en-us) | Clinical Intelligence Intern | Cincinnati, OH | Summer 2027 | 2026-11-24 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Eulerity](https://job-boards.greenhouse.io/eulerity/jobs/4731948006) | Finance Data Analyst Intern - Finance | NYC | N/A | 2026-11-24 | 2 | simplify-2026 |
 | [KPMG](https://careers.kpmg.ca/jobs/38148?icims=1&lang=en-us) | Junior Risk Analyst Intern | Toronto, ON, Canada, Victoria, BC, Canada, Saskatoon, SK, Canada, Calgary, AB, Canada, Vaughan, ON, Canada, Hamilton, ON, Canada, Edmonton, AB, Canada, St. John's, NL, Canada, Regina, SK, Canada, London, ON, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Prince George, BC, Canada, Fredericton, NB, Canada | N/A | 2026-11-24 | 2 | simplify-2026 |
 | [Synopsys](https://synopsys.avature.net/careers/JobDetail/19801) | Materials Data Intern | Cambridge, UK | Summer 2026 | 2026-11-24 | 2 | simplify-2026 |
@@ -484,9 +483,9 @@
 | [Samsung](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003) | AI Application Engineer Intern | San Jose, CA | N/A | 2026-11-02 | 24 | simplify-2026 |
 | [Divergent Technologies](https://job-boards.greenhouse.io/divergent/jobs/5393537008) | Production Business Intelligence Intern | Torrance, CA | Summer 2027 | 2026-11-02 | 24 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Flagship Pioneering](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8782467002) | Machine Learning Intern | Cambridge, MA | N/A | 2026-11-02 | 24 | simplify-2026 |
-| [KEEN Footwear](https://www.keenfootwear.com/careers-list.html?4748305005&gh_jid=4748305005) | Analytics Engineer Intern | Portland, OR | Summer 2026 | 2026-11-02 | 24 | simplify-2026 |
+| [KEEN Footwear](https://www.keenfootwear.com/careers-list.html?4748305005&gh_jid=4748305005) | Analytics Engineer Intern | Portland, OR | Summer 2026 | 2026-11-02 | 24 | simplify-2026, dreamwork-2027 |
 | [Toshiba Global Commerce Solutions](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007) | AI Data Science & Business Analytics Intern | Durham, NC | Spring 2027 | 2026-11-02 | 24 | simplify-2026 |
-| [KEEN Footwear](https://www.keenfootwear.com/careers-list.html?4748595005&gh_jid=4748595005) | Merchandising & Product Data Analytics Intern | Portland, OR | Summer 2026 | 2026-11-02 | 24 | simplify-2026 |
+| [KEEN Footwear](https://www.keenfootwear.com/careers-list.html?4748595005&gh_jid=4748595005) | Merchandising & Product Data Analytics Intern | Portland, OR | Summer 2026 | 2026-11-02 | 24 | simplify-2026, dreamwork-2027 |
 | [Cambridge Consultants](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995820101) | AI Engineer Intern | United Kingdom | Summer 2027 | 2026-11-02 | 24 | simplify-2026 |
 | [Trilogy Health Services](https://jobs.trilogyhs.com/jobs/213634?icims=1&lang=en-us) | Value Based Care Finance Intern | Louisville, KY | Summer 2027 | 2026-11-02 | 24 | simplify-2026 |
 | [AXA](https://careers.axa.com/jobs/25497?icims=1) | Operations Metrics and Reporting Intern | Scottsdale, AZ | Summer 2027 | 2026-11-02 | 24 | simplify-2026 |
@@ -603,7 +602,7 @@
 | [JP Morgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) | Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl | NYC | Summer 2027 | 2026-10-27 | 30 | simplify-2026 |
 | [Commonwealth Fusion Systems](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply) | Plasma Physics Intern | Devens, MA | Summer 2027 | 2026-10-27 | 30 | simplify-2026 |
 | [Lumerate](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Data Associate Intern | Canada, Remote in Canada | Winter 2027 | 2026-10-27 | 30 | simplify-2026 |
-| [SageSure](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) | Data Science Product Analyst Intern | Fairfield, CA | N/A | 2026-10-27 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027, applyguy-2027 |
+| [SageSure](https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719503006) | Data Science Product Analyst Intern | Fairfield, CA | N/A | 2026-10-27 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Samsung Research America](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | Health AI Scholar Intern - Digital Health Algorithms Team | Mountain View, CA | Winter 2027 | 2026-10-27 | 30 | simplify-2026 |
 | [Hive Financial Systems](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) | Analytics Intern | Atlanta, GA | Summer 2027 | 2026-10-27 | 30 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Atoms](https://job-boards.greenhouse.io/cssmerge/jobs/8919606002) | AI Research Intern | SF, Mountain View, CA | N/A | 2026-10-27 | 30 | simplify-2026 |
