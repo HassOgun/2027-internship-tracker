@@ -14,6 +14,7 @@
 | [Nikkiso](https://careers-nikkiso.icims.com/jobs/4528/job?mobile=true&needsRedirect=false) | Product Management Intern | Huntington Beach, CA | N/A | 2026-11-25 | 1 | simplify-2026 |
 | [Inscipher Careers](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c) | AI Product Intern | Pleasant Grove, UT | Not specified | 2026-11-25 | 1 | applyguy-2027 |
 | [Nikkiso Clean Energy &amp; Industrial Gases](https://careers-nikkiso.icims.com/jobs/4528/product-management-intern/job) | Product Management Intern | Huntington Beach, CA | Not specified | 2026-11-25 | 1 | applyguy-2027 |
+| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639) | Product Management MBA Intern, GenAI Data Strategy - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-11-25 | 1 | applyguy-2027 |
 | [QuEra Computing, Inc.](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) | Internship – Technical Product Management | Boston, MA | Not specified | 2026-11-25 | 1 | applyguy-2027 |
 | [Intuitive Surgical](https://jobs.smartrecruiters.com/Intuitive/744000163546809) | Product Management MBA Intern | Sunnyvale, CA | Summer 2027 | 2026-11-24 | 2 | simplify-2026 |
 | [Rubrik](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Product Management Intern - Managed Service Provider | Palo Alto, CA | Winter 2027 | 2026-11-24 | 2 | simplify-2026 |
@@ -44,7 +45,6 @@
 | [Statestreet](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Management-Team---Business-Analyst---Summer-Internship-2027_R-801339) | State Street Product Management Team - Business Analyst - Summer Internship 2027 | Boston, MA | Summer 2027 | 2026-11-20 | 6 | applyguy-2027 |
 | [Megger](https://megger.wd3.myworkdayjobs.com/meggercareers/job/Dallas-United-States/Product-Manager-Intern_JR100870) | Product Manager Intern | Dallas, TX | N/A | 2026-11-19 | 7 | simplify-2026, applyguy-2027 |
 | [Fiskars Group](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520) | Product Management Intern | Middleton, WI | Summer 2026 | 2026-11-19 | 7 | simplify-2026 |
-| [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639) | Product Management MBA Intern, GenAI Data Strategy - Summer 2027 | Santa Clara, CA | Summer 2027 | 2026-11-19 | 7 | applyguy-2027 |
 | [Lucid](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 | 8 | simplify-2026 |
 | [Lucid](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Product Management Intern | Raleigh, NC | Summer 2027 | 2026-11-18 | 8 | simplify-2026 |
 | [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009) | Product Intern | London, UK | Summer 2027 | 2026-11-18 | 8 | simplify-2026 |

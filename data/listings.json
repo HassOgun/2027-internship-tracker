@@ -1,5 +1,45 @@
 [
   {
+    "company_name": "Trimble",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/h6",
+    "locations": [
+      "Richmond Hill, Canada"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1792738800,
+    "date_updated": 1795717038,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Atoms",
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/93",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1791961200,
+    "date_updated": 1795711693,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "AMD",
     "title": "Hardware Engineering Intern",
     "url": "https://careers.amd.com/jobs/102333?icims=1&lang=en-us",
@@ -3773,6 +3813,25 @@
   },
   {
     "company_name": "NVIDIA",
+    "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "category": "Product",
+    "date_posted": 1795564800,
+    "date_updated": 1795564800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "NVIDIA",
     "title": "Developer Technology Intern, AI - Summer 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
     "locations": [
@@ -4051,7 +4110,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1795552080,
     "date_updated": 1795563568,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -22277,7 +22336,8 @@
     "active": true,
     "is_visible": true,
     "_sources": [
-      "dreamwork-2027"
+      "dreamwork-2027",
+      "applyguy-2027"
     ]
   },
   {
@@ -29140,25 +29200,6 @@
     ]
   },
   {
-    "company_name": "NVIDIA",
-    "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "category": "Product",
-    "date_posted": 1795046400,
-    "date_updated": 1795046400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Pivotal",
     "title": "Internship, GNC Engineering (Summer 2027)",
     "url": "https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d",
@@ -32201,6 +32242,25 @@
       "Summer 2027"
     ],
     "category": "Product",
+    "date_posted": 1794960000,
+    "date_updated": 1794960000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - AI Software Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
     "date_posted": 1794960000,
     "date_updated": 1794960000,
     "active": true,
@@ -35642,6 +35702,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794873600,
+    "date_updated": 1794873600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Firmware Security",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794873600,
@@ -45917,6 +45996,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Research Intern - MSR Software-Hardware Co-design",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794528000,
+    "date_updated": 1794528000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Reliable Robotics Corporation",
     "title": "Flight Software Engineer Intern (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
@@ -50958,6 +51056,25 @@
     "_sources": [
       "vanshb03-2026",
       "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Ancestry",
+    "title": "Software Engineer \u2013 Observability, Co-op",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
+    "locations": [
+      "Draper, UT"
+    ],
+    "terms": [
+      "Co-op"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794441600,
+    "date_updated": 1794441600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
     ]
   },
   {
@@ -79438,6 +79555,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Nooks",
     "title": "Software Engineer, Intern",
     "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb",
@@ -86473,6 +86609,25 @@
       "Not specified"
     ],
     "category": "Product",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
     "date_posted": 1793664000,
     "date_updated": 1793664000,
     "active": true,
@@ -107174,7 +107329,7 @@
     "category": "Hardware",
     "date_posted": 1792006568,
     "date_updated": 1793236121,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026",
@@ -128478,46 +128633,6 @@
     "category": "Other",
     "date_posted": 1792713600,
     "date_updated": 1792903493,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Atoms",
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/93",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1791961200,
-    "date_updated": 1792898314,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Trimble",
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/h6",
-    "locations": [
-      "Richmond Hill, Canada"
-    ],
-    "terms": [
-      "Spring"
-    ],
-    "category": "Other",
-    "date_posted": 1792738800,
-    "date_updated": 1792898314,
     "active": true,
     "is_visible": true,
     "_sources": [
@@ -197948,7 +198063,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -211409,7 +211524,7 @@
     "category": "Quant",
     "date_posted": 1789510633,
     "date_updated": 1789512234,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -322519,7 +322634,7 @@
     "category": "Quant",
     "date_posted": 1783318267,
     "date_updated": 1783318659,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -322560,7 +322675,7 @@
     "category": "Software",
     "date_posted": 1783318197,
     "date_updated": 1783318523,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -325206,7 +325321,7 @@
     "category": "Quant",
     "date_posted": 1782886118,
     "date_updated": 1782886247,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -325265,7 +325380,7 @@
     "category": "Quant",
     "date_posted": 1782886123,
     "date_updated": 1782886212,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
