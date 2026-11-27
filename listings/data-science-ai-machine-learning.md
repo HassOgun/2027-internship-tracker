@@ -1,4 +1,4 @@
-# Data Science, AI & Machine Learning (1745)
+# Data Science, AI & Machine Learning (1744)
 
 [← back to index](../README.md)
 
@@ -11,7 +11,7 @@
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557097217) | Research Intern - Machine Learning for Biology and Healthcare | Redmond, WA | N/A | 2026-11-26 | 1 | simplify-2026 |
 | [Total Quality Logistics](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) | Data Science & Analytics Intern | Cincinnati, OH | Summer 2027 | 2026-11-25 | 2 | simplify-2026, vanshb03-2026, vanshb03-2027 |
 | [Jack Henry](https://jackhenry.avature.net/careers/JobDetail/17682) | Enterprise Pricing & Data Analytics Intern | Allen, TX, Birmingham, AL, Monett, MO, Lenexa, KS, Springfield, MO, Overland Park, KS | Summer 2027 | 2026-11-25 | 2 | simplify-2026 |
-| [Tombras](https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9) | Data Science Intern | Knoxville, TN | Spring 2027 | 2026-11-25 | 2 | simplify-2026 |
+| [Tombras](https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9) | Data Science Intern | Knoxville, TN | Spring 2027 | 2026-11-25 | 2 | simplify-2026, dreamwork-2027 |
 | [Mayo Clinic](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396473) | Research Fellow - Radiology - Bagci lab | Jacksonville, FL | N/A | 2026-11-25 | 2 | simplify-2026 |
 | [Tesla](https://www.tesla.com/careers/search/job/291227) | Robotics Audio DSP Engineer Intern | Palo Alto, CA | Summer 2027 | 2026-11-25 | 2 | simplify-2026 |
 | [Texas Instruments](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) | Web Marketing Intern - Digital Experience Analytics | Dallas, TX | N/A | 2026-11-25 | 2 | simplify-2026 |
@@ -165,7 +165,6 @@
 | [TransUnion](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450) | Data Science and Analytics Intern | Chicago, IL | Summer 2027 | 2026-11-19 | 8 | simplify-2026 |
 | [Compassion International](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840) | Summer Intern - Data and Software Engineering | Colorado Springs, CO | Summer 2027 | 2026-11-19 | 8 | simplify-2026 |
 | [Piper Sandler](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805) | Data Engineering Intern | Minneapolis, MN | Summer 2027 | 2026-11-19 | 8 | simplify-2026, vanshb03-2026, vanshb03-2027 |
-| [HERE Technologies](https://careers-here.icims.com/jobs/85084/job?mobile=true&needsRedirect=false) | Applied AI Research Intern | Chicago, IL | N/A | 2026-11-19 | 8 | simplify-2026 |
 | [Georgian Partners Growth](https://jobs.ashbyhq.com/georgian/62da47ff-0424-4e28-bffa-cff0de8ca228/application?embed=true) | Physical AI and Robotics Intern | Toronto, ON, Canada | Summer 2027 | 2026-11-19 | 8 | simplify-2026 |
 | [MakerMaker](https://jobs.ashbyhq.com/makermaker.ai/735488d9-37de-4e54-bc13-a4705e200583/application?embed=true) | Research Intern | SF | N/A | 2026-11-19 | 8 | simplify-2026 |
 | [Microsoft](https://apply.careers.microsoft.com/careers/job/1970393557075474) | Research Intern - Model Foundations for Knowledge & Reasoning | Canada, Vancouver, BC, Canada | N/A | 2026-11-18 | 9 | simplify-2026 |
