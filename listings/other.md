@@ -1,4 +1,4 @@
-# Other (3890)
+# Other (3887)
 
 [← back to index](../README.md)
 
@@ -1799,7 +1799,6 @@
 | [Ericsson](https://career2.successfactors.eu/careers?company=Ericsson&career_ns=job_listing&career_job_req_id=790346) | Technology and AI Intern | Texas, United States |  | 2026-11-02 | 25 | dreamwork-2027 |
 | [Siemens Digital Industries Software](https://go.vansh.nyc/18U) | Strategic Student Program Digital Enterprise Software Applications Intern | Charlotte, MI | Summer | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
 | [Siemens Digital Industries Software](https://go.vansh.nyc/18V) | Strategic Student Program Digital Enterprise Software Applications Intern | Chicago, IL | Summer | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
-| [TikTok](https://go.vansh.nyc/190) | Software Engineer Project Intern, Platform Efficiency | San Jose, CA | Winter | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17N) | Machine Learning Engineer Intern, Brand Ads | San Jose, CA | Summer | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17Q) | Machine Learning Engineer Intern, Ads Signal & Measurement | San Jose, CA | Summer | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
 | [TikTok](https://go.vansh.nyc/17R) | Data Science Intern, TikTok Integrity and Safety | San Jose, CA | Summer | 2026-11-01 | 26 | vanshb03-2026, vanshb03-2027 |
@@ -3210,7 +3209,6 @@
 | [LLNL](https://jobs.smartrecruiters.com/LLNL/3743990015289136-data-science-institute-undergraduate-student-intern-summer-2027?oga=true) | Data Science Institute Undergraduate Student Intern - Summer 2027 | Livermore, CA, United States |  | 2026-09-16 | 72 | dreamwork-2027 |
 | [Aspentech](https://aspentech.wd5.myworkdayjobs.com/AspenTech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459) | Data Science Intern - Summer 2027 - Bedford, MA | Bedford, Massachusetts |  | 2026-09-15 | 73 | dreamwork-2027 |
 | [Cheiron](https://jobs.ashbyhq.com/Cheiron/e193c411-f175-480e-a341-72e7131e009a) | Technical Product Management Intern (Los Altos) | Los Altos |  | 2026-09-15 | 73 | dreamwork-2027 |
-| [Insulet Corporation](https://go.vansh.nyc/Ne) | Embedded Software Test Engineering Co-op | Acton, MA | Spring | 2026-09-15 | 73 | vanshb03-2026, vanshb03-2027 |
 | [Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966) | Co-op, Embedded Software Engineering: January-June 2027 (Onsite) | Acton, Massachusetts |  | 2026-09-15 | 73 | dreamwork-2027 |
 | [Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986) | Co-op, Embedded Software Test Engineering: January-June 2027 (Onsite) | Acton, Massachusetts |  | 2026-09-15 | 73 | dreamwork-2027 |
 | [Qualcomm](https://go.vansh.nyc/Iw) | Sensors Subsystem Engineering Intern, Multiple Teams | Markham, Canada | Summer | 2026-09-15 | 73 | vanshb03-2026, vanshb03-2027 |
@@ -3318,7 +3316,6 @@
 | [Booz Allen Hamilton](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085) | University – Summer 27, Enterprise Cybersecurity Vulnerability Intern | McLean, VA |  | 2026-09-10 | 78 | dreamwork-2027 |
 | [Booz Allen Hamilton](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083) | University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern | McLean, VA |  | 2026-09-10 | 78 | dreamwork-2027 |
 | [Booz Allen Hamilton](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077) | University – Summer 27, Enterprise Cybersecurity IT Policy Intern | McLean, VA |  | 2026-09-10 | 78 | dreamwork-2027 |
-| [Insulet Corporation](https://go.vansh.nyc/MC) | Embedded Software Engineering Co-op | Acton, MA | Winter | 2026-09-10 | 78 | vanshb03-2026, vanshb03-2027 |
 | [Amazon](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) | Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027 | US, MA, North Reading |  | 2026-09-10 | 78 | dreamwork-2027 |
 | [SAP](https://career5.successfactors.eu/careers?company=SAP&career_ns=job_listing&career_job_req_id=456831) | SAP iXp Intern - Personalization, Digital Platforms & AI [Newtown Square, PA] | Newtown Square, USA |  | 2026-09-10 | 78 | dreamwork-2027 |
 | [Rocket Lab](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) | Flight Software Intern Summer 2027 | Littleton, CO |  | 2026-09-09 | 79 | dreamwork-2027 |

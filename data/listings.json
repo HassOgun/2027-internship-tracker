@@ -1,5 +1,65 @@
 [
   {
+    "company_name": "Insulet Corporation",
+    "title": "Embedded Software Test Engineering Co-op",
+    "url": "https://go.vansh.nyc/Ne",
+    "locations": [
+      "Acton, MA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "category": "Other",
+    "date_posted": 1789511848,
+    "date_updated": 1795801889,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "TikTok",
+    "title": "Software Engineer Project Intern, Platform Efficiency",
+    "url": "https://go.vansh.nyc/190",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1793525855,
+    "date_updated": 1795801889,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
+    "company_name": "Insulet Corporation",
+    "title": "Embedded Software Engineering Co-op",
+    "url": "https://go.vansh.nyc/MC",
+    "locations": [
+      "Acton, MA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "category": "Other",
+    "date_posted": 1788998400,
+    "date_updated": 1795800117,
+    "active": false,
+    "is_visible": true,
+    "_sources": [
+      "vanshb03-2026",
+      "vanshb03-2027"
+    ]
+  },
+  {
     "company_name": "ManTech",
     "title": "Developer Intern, C++",
     "url": "https://go.vansh.nyc/1JD",
@@ -8487,15 +8547,15 @@
   },
   {
     "company_name": "NVIDIA",
-    "title": "Software Engineering Intern, Simulation Technology - Summer 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+    "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
     "locations": [
       "Santa Clara, CA"
     ],
     "terms": [
       "Summer 2027"
     ],
-    "category": "Software Engineering",
+    "category": "Product",
     "date_posted": 1795564800,
     "date_updated": 1795564800,
     "active": true,
@@ -8506,15 +8566,15 @@
   },
   {
     "company_name": "NVIDIA",
-    "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
+    "title": "Software Engineering Intern, Simulation Technology - Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
     "locations": [
       "Santa Clara, CA"
     ],
     "terms": [
       "Summer 2027"
     ],
-    "category": "Product",
+    "category": "Software Engineering",
     "date_posted": 1795564800,
     "date_updated": 1795564800,
     "active": true,
@@ -8639,10 +8699,10 @@
   },
   {
     "company_name": "Tmobile",
-    "title": "Summer 2027 Software Engineer Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357",
+    "title": "Summer 2027 Software Engineering Internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382091",
     "locations": [
-      "Overland Park, KS"
+      "Bellevue, WA"
     ],
     "terms": [
       "Summer 2027"
@@ -8658,10 +8718,10 @@
   },
   {
     "company_name": "Tmobile",
-    "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382091",
+    "title": "Summer 2027 Software Engineer Internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357",
     "locations": [
-      "Bellevue, WA"
+      "Overland Park, KS"
     ],
     "terms": [
       "Summer 2027"
@@ -14046,7 +14106,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1795476248,
     "date_updated": 1795476445,
-    "active": false,
+    "active": true,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -14403,7 +14463,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1795475585,
     "date_updated": 1795475701,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -32483,25 +32543,6 @@
     ]
   },
   {
-    "company_name": "Here Group Ltd",
-    "title": "Software Engineer Intern",
-    "url": "https://careers-here.icims.com/jobs/83731/software-engineer-intern/job",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Not specified"
-    ],
-    "category": "Software Engineering",
-    "date_posted": 1795046400,
-    "date_updated": 1795046400,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "applyguy-2027"
-    ]
-  },
-  {
     "company_name": "Highmarkhealth",
     "title": "Summer 2027 Data Engineer & Analyst enGen Undergraduate Intern",
     "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722",
@@ -35569,6 +35610,25 @@
       "Summer 2027"
     ],
     "category": "Product",
+    "date_posted": 1794960000,
+    "date_updated": 1794960000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - AI Software Systems",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
     "date_posted": 1794960000,
     "date_updated": 1794960000,
     "active": true,
@@ -38854,6 +38914,25 @@
     ],
     "terms": [
       "Summer 2027"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794873600,
+    "date_updated": 1794873600,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Firmware Security",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
     ],
     "category": "Software Engineering",
     "date_posted": 1794873600,
@@ -48970,6 +49049,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Research Intern - MSR Software-Hardware Co-design",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1794528000,
+    "date_updated": 1794528000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Reliable Robotics Corporation",
     "title": "Flight Software Engineer Intern (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
@@ -49768,7 +49866,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1794441600,
     "date_updated": 1794525879,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -82351,6 +82449,25 @@
     ]
   },
   {
+    "company_name": "Microsoft",
+    "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+    "locations": [
+      "United States, Washington, Redmond"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793836800,
+    "date_updated": 1793836800,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
     "company_name": "Nooks",
     "title": "Software Engineer, Intern",
     "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb",
@@ -83638,7 +83755,7 @@
     "category": "Software",
     "date_posted": 1793793490,
     "date_updated": 1793804828,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -83736,7 +83853,7 @@
     "category": "Software",
     "date_posted": 1793787013,
     "date_updated": 1793789849,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -89272,6 +89389,25 @@
     "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1",
     "locations": [
       "San Francisco, CA"
+    ],
+    "terms": [
+      "Not specified"
+    ],
+    "category": "Software Engineering",
+    "date_posted": 1793664000,
+    "date_updated": 1793664000,
+    "active": true,
+    "is_visible": true,
+    "_sources": [
+      "applyguy-2027"
+    ]
+  },
+  {
+    "company_name": "Microsoft",
+    "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+    "locations": [
+      "United States, Washington, Redmond"
     ],
     "terms": [
       "Not specified"
@@ -95502,26 +95638,6 @@
     ],
     "category": "Other",
     "date_posted": 1793519707,
-    "date_updated": 1793554900,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "TikTok",
-    "title": "Software Engineer Project Intern, Platform Efficiency",
-    "url": "https://go.vansh.nyc/190",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1793525855,
     "date_updated": 1793554900,
     "active": true,
     "is_visible": true,
@@ -124527,26 +124643,6 @@
     ]
   },
   {
-    "company_name": "Insulet Corporation",
-    "title": "Embedded Software Test Engineering Co-op",
-    "url": "https://go.vansh.nyc/Ne",
-    "locations": [
-      "Acton, MA"
-    ],
-    "terms": [
-      "Spring"
-    ],
-    "category": "Other",
-    "date_posted": 1789511848,
-    "date_updated": 1793024036,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
     "company_name": "Tencent",
     "title": "Game UI Intern - AI Focus",
     "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Game-UI---Tools-Intern--AI-Focus-_R108251",
@@ -125022,26 +125118,6 @@
     ],
     "category": "Other",
     "date_posted": 1788963392,
-    "date_updated": 1793023513,
-    "active": true,
-    "is_visible": true,
-    "_sources": [
-      "vanshb03-2026",
-      "vanshb03-2027"
-    ]
-  },
-  {
-    "company_name": "Insulet Corporation",
-    "title": "Embedded Software Engineering Co-op",
-    "url": "https://go.vansh.nyc/MC",
-    "locations": [
-      "Acton, MA"
-    ],
-    "terms": [
-      "Winter"
-    ],
-    "category": "Other",
-    "date_posted": 1788998400,
     "date_updated": 1793023513,
     "active": true,
     "is_visible": true,
@@ -200378,7 +200454,7 @@
     "category": "Software",
     "date_posted": 1790029561,
     "date_updated": 1790040061,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -225648,7 +225724,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1789136385,
     "date_updated": 1789136608,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
@@ -265611,7 +265687,7 @@
     "category": "AI/ML/Data",
     "date_posted": 1788203198,
     "date_updated": 1788209101,
-    "active": true,
+    "active": false,
     "is_visible": true,
     "_sources": [
       "simplify-2026"
