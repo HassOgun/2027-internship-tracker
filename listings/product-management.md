@@ -1,4 +1,4 @@
-# Product Management (328)
+# Product Management (333)
 
 [← back to index](../README.md)
 
@@ -77,6 +77,7 @@
 | [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) | Associate Product Manager Intern | Chaska, MN | Summer 2027 | 2026-11-13 | 14 | simplify-2026, dreamwork-2027, applyguy-2027 |
 | [Addepar](https://job-boards.greenhouse.io/addepar1/jobs/8910306002) | Product Analyst (Navigator) Intern - Summer 2027 | New York City, NY | Summer 2027 | 2026-11-13 | 14 | applyguy-2027 |
 | [Campingworld](https://campingworld.wd5.myworkdayjobs.com/jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086) | New Product Development Product Management Intern | Lincolnshire, IL | Not specified | 2026-11-13 | 14 | applyguy-2027 |
+| [tarte cosmetics](https://apply.workable.com/j/EE4FD02D52) | Spring 2027 Product Development Internship | New York City, NY | Spring 2027 | 2026-11-13 | 14 | applyguy-2027 |
 | [Wattswater](https://wattswater.wd5.myworkdayjobs.com/external/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702-1) | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | 2027 | 2026-11-13 | 14 | applyguy-2027 |
 | [InsCipher](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c) | AI Product Intern | Pleasant Grove, UT | N/A | 2026-11-12 | 15 | simplify-2026 |
 | [Entegris](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) | Product Management Intern | Colorado Springs, CO | Summer 2027 | 2026-11-12 | 15 | simplify-2026 |
@@ -87,6 +88,10 @@
 | [Bask Health](https://apply.workable.com/bask-health-1/j/90535FE8AA/apply) | Patient Experience Product Intern | Remote in USA | N/A | 2026-11-11 | 16 | simplify-2026 |
 | [Bask Health](https://apply.workable.com/bask-health-1/j/69C7B282BF/apply) | Product Operations Intern | Remote in USA | N/A | 2026-11-11 | 16 | simplify-2026 |
 | [apexanalytix](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Product Management (Discovery) Intern - Summer 2027 | Greensboro, NC | Summer 2027 | 2026-11-11 | 16 | applyguy-2027 |
+| [Bask Health](https://apply.workable.com/j/69C7B282BF) | Product Operations Intern | Remote, U.S. | Not specified | 2026-11-11 | 16 | applyguy-2027 |
+| [Bask Health](https://apply.workable.com/j/90535FE8AA) | Patient Experience Product Intern | Remote, U.S. | Not specified | 2026-11-11 | 16 | applyguy-2027 |
+| [Bask Health](https://apply.workable.com/j/AAE5145A49) | Product Management Intern | Remote, U.S. | Not specified | 2026-11-11 | 16 | applyguy-2027 |
+| [Bask Health](https://apply.workable.com/j/641A955226) | Apprentice Product Manager | Remote, U.S. | Apprenticeship | 2026-11-11 | 16 | applyguy-2027 |
 | [Rubrik Job Board](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | Summer 2027 | 2026-11-11 | 16 | applyguy-2027 |
 | [Blue Cross Blue Shield of Michigan](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) | Digital Product Intern | Detroit, MI | Summer 2027 | 2026-11-10 | 17 | simplify-2026 |
 | [Altice USA](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Product Management Customer Management App Intern | Bethpage, NY | Winter 2027, Spring 2027, Summer 2027 | 2026-11-10 | 17 | simplify-2026 |
