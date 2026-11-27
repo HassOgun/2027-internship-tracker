@@ -1,4 +1,4 @@
-# Product Management (333)
+# Product Management (332)
 
 [← back to index](../README.md)
 
@@ -48,7 +48,6 @@
 | [Lucid](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Product Management Intern | Salt Lake City, UT | Summer 2027 | 2026-11-18 | 9 | simplify-2026 |
 | [Lucid](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Product Management Intern | Raleigh, NC | Summer 2027 | 2026-11-18 | 9 | simplify-2026 |
 | [Fanatics](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4510585009) | Product Intern | London, UK | Summer 2027 | 2026-11-18 | 9 | simplify-2026 |
-| [Crowdstrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/MBA-Product-Manager-Intern_R30957) | MBA Product Manager Intern | Multiple U.S. locations | Not specified | 2026-11-18 | 9 | applyguy-2027 |
 | [Lucid Software](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Product Management Internship - Summer 2027 | Salt Lake City, UT | Summer 2027 | 2026-11-18 | 9 | applyguy-2027 |
 | [Lucid Software](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Product Management Internship - Summer 2027 | Raleigh, NC | Summer 2027 | 2026-11-18 | 9 | applyguy-2027 |
 | [Uber](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983) | Product Management Intern | SF | Summer 2027 | 2026-11-17 | 10 | simplify-2026 |
@@ -153,7 +152,7 @@
 | [Tapestry](https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545) | E-Commerce Intern - E-Commerce | NYC | Summer 2027 | 2026-10-28 | 30 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701069870360627509) | Global Product Solutions and Operations Intern - Global Monetization Product and Technology | San Jose, CA | Summer 2027 | 2026-10-27 | 31 | simplify-2026 |
 | [TikTok](https://lifeattiktok.com/search/7701072604556642613) | Brand Search Ads Intern | NYC | N/A | 2026-10-27 | 31 | simplify-2026 |
-| [Dover](https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326) | Product Management Intern | Keosauqua, IA | N/A | 2026-10-27 | 31 | simplify-2026, applyguy-2027 |
+| [Dover](https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326) | Product Management Intern | Keosauqua, IA | N/A | 2026-10-27 | 31 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | NAND Storage Strategic Roadmap Planning Intern | Boise, ID | N/A | 2026-10-27 | 31 | simplify-2026 |
 | [Micron Technology](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | CMBU Product Management Intern | San Jose, CA | N/A | 2026-10-27 | 31 | simplify-2026 |
 | [Parallel Systems](https://boards.greenhouse.io/parallel/jobs/5275719007) | Product Management Intern | LA | N/A | 2026-10-26 | 32 | simplify-2026 |
